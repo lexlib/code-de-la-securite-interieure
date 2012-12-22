@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -2763,7 +2763,7 @@ de la prévention des atteintes à l'indépendance de la Nation, à l'intégrit�
 républicaine de ses institutions, aux moyens de sa défense et de sa diplomatie, à la sauvegarde de sa population en France et
 à l'étranger et aux éléments essentiels de son potentiel scientifique. 
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2012.
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -2789,17 +2789,17 @@ _Cité par_:
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978
-  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L611-6 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-6
 
 _Anciens textes_:
 
   - Loi n°2006-64 du 23 janvier 2006 - art. 32 (V)
   - Loi n°2006-64 du 23 janvier 2006 - art. 9 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2012-1432 du 21 décembre 2012 - art. 1
 
 _Codifié par_:
 
