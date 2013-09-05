@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2013-06-22
+Version Consolidée au 2013-09-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -86,224 +86,226 @@ Version Consolidée au 2013-06-22
         - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L287-1 à L287-2)](#83)
         - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L288-1 à L288-2)](#84)
     - [LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES (art. L311-1 à L347-2)](#85)
-      - [TITRE Ier : ARMES ET MUNITIONS (art. L311-1 à L317-11)](#86)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#87)
-        - [Chapitre II : Acquisition et détention (art. L312-1 à L312-15)](#88)
+      - [TITRE Ier : ARMES ET MUNITIONS (art. L311-1 à L317-12)](#86)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-4)](#87)
+        - [Chapitre II : Acquisition et détention (art. L312-1 à L312-17)](#88)
           - [Section 1 : Dispositions générales (art. L312-1 à L312-6)](#89)
-          - [Section 3 : Fichiers (art. L312-16 à L312-15)](#90)
-            - [Sous-section 1 : Remise d'une arme à l'autorité administrative (art. L312-7 à L312-10)](#91)
-            - [Sous-section 2 : Dessaisissement (art. L312-11 à L312-15)](#92)
-        - [Chapitre III : Commerce de détail (art. L313-1 à L313-5)](#93)
-        - [Chapitre IV : Conservation, perte et transfert de propriété (art. L314-1 à L314-4)](#94)
-        - [Chapitre V : Port et transport (art. L315-1 à L315-2)](#95)
-        - [Chapitre VII : Dispositions pénales (art. L317-1 à L317-11)](#96)
-      - [TITRE II : JEUX DE HASARD, CASINOS, LOTERIES (art. L320-1 à L324-10)](#97)
-        - [Chapitre Ier : Casinos (art. L321-1 à L321-7)](#98)
-        - [Chapitre II : Loteries (art. L322-1 à L322-6)](#99)
-        - [Chapitre III : Dispositions communes (art. L323-1 à L323-2)](#100)
-        - [Chapitre IV : Dispositions pénales (art. L324-1 à L324-10)](#101)
-          - [Section 1 : Jeux de hasard et casinos (art. L324-1 à L324-5)](#102)
-          - [Section 2 : Loteries (art. L324-6 à L324-10)](#103)
-      - [TITRE III : FERMETURE ADMINISTRATIVE  DE CERTAINS ÉTABLISSEMENTS (art. L331-1 à L334-2)](#104)
-        - [Chapitre Ier : Débits de boissons et restaurants (art. L331-1)](#105)
-        - [Chapitre II : Etablissements de vente à emporter de boissons  alcoolisées ou d'aliments préparés sur place (art. L332-1)](#106)
-        - [Chapitre III : Etablissements diffusant de la musique (art. L333-1)](#107)
-        - [Chapitre IV : Dispositions pénales (art. L334-1 à L334-2)](#108)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L341-1 à L347-2)](#109)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin (art. L341-1)](#110)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L342-1)](#111)
-        - [Chapitre III : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L343-1 à L343-2)](#112)
-        - [Chapitre IV : Dispositions applicables en Polynésie francaise (art. L344-1 à L344-4)](#113)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. L345-1 à L345-4)](#114)
-        - [Chapitre VI : Dispositions applicables à Wallis-et-Futuna (art. L346-1 à L346-2)](#115)
-        - [Chapitre VII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L347-1 à L347-2)](#116)
-    - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE (art. L411-1 à L448-1)](#117)
-      - [TITRE Ier : POLICE NATIONALE (art. L411-1 à L413-4)](#118)
-        - [Chapitre Ier : Missions et personnels de la police nationale (art. L411-1 à L411-17)](#119)
-          - [Section 1 : Dispositions générales (art. L411-1 à L411-3)](#120)
-          - [Section 2 : Fonctionnaires actifs (art. L411-4)](#121)
-          - [Section 3 : Adjoints de sécurité (art. L411-5 à L411-6)](#122)
-          - [Section 4 : Réserve civile (art. L411-7 à L411-17)](#123)
-        - [Chapitre II : Déontologie de la police nationale (art. L412-1)](#124)
-        - [Chapitre III : Etablissements publics de la police nationale (art. L413-1 à L413-4)](#125)
-          - [Section unique : Institut national de police scientifique (art. L413-1 à L413-4)](#126)
-      - [TITRE II : GENDARMERIE NATIONALE (art. L421-1 à L421-4)](#127)
-        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. L421-1 à L421-4)](#128)
-          - [Section 1 : Missions (art. L421-1 à L421-3)](#129)
-          - [Section 2 : Militaires de la gendarmerie nationale (art. L421-4)](#130)
-      - [TITRE III : DISPOSITIONS COMMUNES (art. L433-1 à L433-7)](#131)
-        - [Chapitre III : Service volontaire citoyen de la police  et de la gendarmerie nationales (art. L433-1 à L433-7)](#132)
-      - [TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER (art. L442-1 à L448-1)](#133)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L442-1)](#134)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. L445-1)](#135)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L446-1)](#136)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L447-1)](#137)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L448-1)](#138)
-    - [LIVRE V : POLICES MUNICIPALES (art. L511-1 à L546-7)](#139)
-      - [TITRE Ier : AGENTS DE POLICE MUNICIPALE (art. L511-1 à L515-1)](#140)
-        - [Chapitre Ier : Missions, recrutement et modalités d'exercice (art. L511-1 à L511-6)](#141)
-          - [Section 1 : Missions (art. L511-1)](#142)
-          - [Section 2 : Nomination et agrément (art. L511-2 à L511-3)](#143)
-          - [Section 3 : Carte professionnelle, tenue et équipements (art. L511-4)](#144)
-          - [Section 4 : Port d'armes (art. L511-5)](#145)
-          - [Section 5 : Formation continue (art. L511-6)](#146)
-        - [Chapitre II : Organisation des services (art. L512-1 à L512-7)](#147)
-          - [Section 1 : Mise en commun des agents de police municipale (art. L512-1 à L512-3)](#148)
-          - [Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat (art. L512-4 à L512-7)](#149)
-        - [Chapitre III : Contrôle par le ministre de l'intérieur (art. L513-1)](#150)
-        - [Chapitre IV : Commission consultative des polices municipales (art. L514-1)](#151)
-        - [Chapitre V : Déontologie des agents de police municipale (art. L515-1)](#152)
-      - [TITRE II : GARDES CHAMPÊTRES (art. L521-1 à L523-2)](#153)
-        - [Chapitre Ier : Missions (art. L521-1)](#154)
-        - [Chapitre II : Nomination, agrément et modalités d'exercice (art. L522-1 à L522-4)](#155)
-        - [Chapitre III : Dispositions applicables dans les départements  de la Moselle, du Bas-Rhin et du Haut-Rhin (art. L523-1 à L523-2)](#156)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES  APPLICABLES À PARIS (art. L531-1 à L532-1)](#157)
-        - [Chapitre Ier : Agents de la ville de Paris chargés d'un service de police (art. L531-1)](#158)
-        - [Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police (art. L532-1)](#159)
-      - [TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER (art. L542-1 à L546-7)](#160)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L542-1 à L542-2)](#161)
-        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L543-1)](#162)
-        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L544-1)](#163)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. L545-1 à L545-2)](#164)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L546-1 à L546-7)](#165)
-    - [LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. L611-1 à L647-1)](#166)
-      - [TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS ET DE PROTECTION PHYSIQUE DES PERSONNES (art. L611-1 à L617-16)](#167)
-        - [Chapitre Ier : Dispositions générales (art. L611-1)](#168)
-        - [Chapitre II : Conditions d'exercice (art. L612-1 à L612-25)](#169)
-          - [Section 1 : Dispositions générales (art. L612-1 à L612-5)](#170)
-          - [Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L612-6 à L612-8)](#171)
-          - [Section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales (art. L612-9 à L612-19)](#172)
-          - [Section 4 : Autorisation d'exercice des employés (art. L612-20 à L612-23)](#173)
-            - [Sous-section 1 : Délivrance de la carte professionnelle (art. L612-20 à L612-21)](#174)
-            - [Sous-section 2 : Autorisation d'accès à la formation professionnelle (art. L612-22)](#175)
-            - [Sous-section 3 : Autorisation provisoire d'exercice (art. L612-23)](#176)
-          - [Section 5 : Dispositions communes (art. L612-24 à L612-25)](#177)
-        - [Chapitre III : Modalités d'exercice (art. L613-1 à L613-13)](#178)
-          - [Section 1 : Activités de surveillance et de gardiennage (art. L613-1 à L613-7)](#179)
-            - [Sous-section 1 : Missions (art. L613-1 à L613-3)](#180)
-            - [Sous-section 2 : Tenue (art. L613-4)](#181)
-            - [Sous-section 3 : Port d'arme (art. L613-5)](#182)
-            - [Sous-section 4 : Activités de surveillance à distance  des biens meubles ou immeubles (art. L613-6)](#183)
-            - [Sous-section 5 : Activité d'agent cynophile (art. L613-7)](#184)
-          - [Section 2 : Activités de transport de fonds (art. L613-8 à L613-11)](#185)
-            - [Sous-section 1 : Tenue et port d'arme (art. L613-8 à L613-9)](#186)
-            - [Sous-section 2 : Sécurisation des locaux des personnes faisant appel  aux entreprises de transport de fonds et de leurs accès (art. L613-10 à L613-11)](#187)
-          - [Section 3 : Activités de protection physique des personnes (art. L613-12)](#188)
-          - [Section 4 : Activités de vidéoprotection (art. L613-13)](#189)
-        - [Chapitre IV : Services de sécurité des bailleurs d'immeuble (art. L614-1 à L614-5)](#190)
-          - [Section 1 : Missions (art. L614-1)](#191)
-          - [Section 2 : Recrutement (art. L614-2)](#192)
-          - [Section 3 : Tenue et carte professionnelle (art. L614-3)](#193)
-          - [Section 4 : Port d'armes (art. L614-4 à L614-5)](#194)
-        - [Chapitre V : Services internes de sécurité  des entreprises de transport (art. L615-1)](#195)
-        - [Chapitre VI : Contrôle administratif (art. L616-1)](#196)
-        - [Chapitre VII : Dispositions pénales (art. L617-1 à L617-16)](#197)
-          - [Section 1 : Conditions d'exercice (art. L617-1 à L617-10)](#198)
-            - [Sous-section 1 : Dispositions générales (art. L617-1 à L617-2)](#199)
-            - [Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L617-3)](#200)
-            - [Sous-section 3 : Autorisation d'exercice délivrée aux exploitants  et aux personnes morales (art. L617-4 à L617-6)](#201)
-            - [Sous-section 4 : Carte professionnelle des employés (art. L617-7 à L617-8)](#202)
-            - [Sous-section 5 : Services internes de sécurité (art. L617-9 à L617-10)](#203)
-          - [Section 2 : Modalités d'exercice (art. L617-11 à L617-12)](#204)
-            - [Sous-section 1 : Activités de surveillance et de gardiennage (art. L617-11)](#205)
-            - [Sous-section 2 : Activités de transport de fonds (art. L617-12)](#206)
-          - [Section 3 : Services internes de sécurité (art. L617-13)](#207)
-          - [Section 4 : Contrôle administratif (art. L617-14)](#208)
-          - [Section 5 : Dispositions communes (art. L617-15 à L617-16)](#209)
-      - [TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES (art. L621-1 à L624-14)](#210)
-        - [Chapitre Ier : Dispositions générales (art. L621-1)](#211)
-        - [Chapitre II : Conditions d'exercice (art. L622-1 à L622-24)](#212)
-          - [Section 1 : Dispositions générales (art. L622-1 à L622-5)](#213)
-          - [Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L622-6 à L622-8)](#214)
-          - [Section 3 : Autorisation d'exercice délivrée aux exploitants individuels  et aux personnes morales (art. L622-9 à L622-18)](#215)
-          - [Section 4 : Autorisation d'exercice des employés (art. L622-19 à L622-22)](#216)
-            - [Sous-section 1 : Délivrance de la carte professionnelle (art. L622-19 à L622-20)](#217)
-            - [Sous-section 2 : Autorisation d'accès à la formation professionnelle (art. L622-21)](#218)
-            - [Sous-section 3 : Autorisation provisoire d'exercice (art. L622-22)](#219)
-          - [Section 5 : Dispositions communes (art. L622-23 à L622-24)](#220)
-        - [Chapitre III : Contrôle administratif (art. L623-1)](#221)
-        - [Chapitre IV : Dispositions pénales (art. L624-1 à L624-14)](#222)
-          - [Section 1 : Conditions d'exercice (art. L624-1 à L624-11)](#223)
-            - [Sous-section 1 : Dispositions générales (art. L624-1 à L624-3)](#224)
-            - [Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L624-4)](#225)
-            - [Sous-section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales (art. L624-5 à L624-7)](#226)
-            - [Sous-section 4 : Autorisation d'exercice des employés (art. L624-8 à L624-10)](#227)
-            - [Sous-section 5 : Dispositions communes (art. L624-11)](#228)
-          - [Section 2 : Contrôle administratif (art. L624-12)](#229)
-          - [Section 3 : Dispositions communes (art. L624-13 à L624-14)](#230)
-      - [TITRE III : CONSEIL NATIONAL DES ACTIVITÉS  PRIVÉES DE SÉCURITÉ (art. L631-1 à L635-1)](#231)
-        - [Chapitre Ier : Dispositions générales (art. L631-1)](#232)
-        - [Chapitre II : Missions et fonctionnement du Conseil national  des activités privées de sécurité (art. L632-1 à L632-4)](#233)
-          - [Section 1 : Missions (art. L632-1)](#234)
-          - [Section 2 : Fonctionnement (art. L632-2 à L632-4)](#235)
-        - [Chapitre III : Commissions régionales ou interrégionales  d'agrément et de contrôle (art. L633-1 à L633-3)](#236)
-        - [Chapitre IV : Contrôles (art. L634-1 à L634-4)](#237)
-          - [Section 1 : Exercice du contrôle (art. L634-1 à L634-3)](#238)
-          - [Section 2 : Sanctions disciplinaires (art. L634-4)](#239)
-        - [Chapitre V : Dispositions finales (art. L635-1)](#240)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L642-1 à L647-1)](#241)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L642-1)](#242)
-        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L643-1)](#243)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. L644-1)](#244)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. L645-1)](#245)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L646-1)](#246)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L647-1)](#247)
-    - [LIVRE VII : SÉCURITÉ CIVILE (art. L711-1 à L768-2)](#248)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L711-1)](#249)
-        - [Chapitre unique : Missions de la sécurité civile (art. L711-1)](#250)
-      - [TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE (art. L721-1 à L725-9)](#251)
-        - [Chapitre Ier : Dispositions générales (art. L721-1 à L721-2)](#252)
-        - [Chapitre II : Services d'incendie et de secours (art. L722-1)](#253)
-        - [Chapitre III : Sapeurs-pompiers (art. L723-1 à L723-20)](#254)
-          - [Section 1 : Missions (art. L723-1)](#255)
-          - [Section 2 : Sapeurs-pompiers professionnels (art. L723-2)](#256)
-          - [Section 3 : Sapeurs-pompiers volontaires (art. L723-3 à L723-20)](#257)
-        - [Chapitre IV : Réserves communales de sécurité civile (art. L724-1 à L724-14)](#258)
-          - [Section 1 : Missions des réserves communales (art. L724-1)](#259)
-          - [Section 2 : Institution des réserves communales (art. L724-2)](#260)
-          - [Section 3 : Réservistes communaux (art. L724-3 à L724-14)](#261)
-            - [Sous-section 1 : Engagement à servir dans la réserve (art. L724-4 à L724-5)](#262)
-            - [Sous-section 2 : Réserve communale de sécurité civile et emploi (art. L724-6 à L724-11)](#263)
-            - [Sous-section 3 : Protection sociale et réparation des dommages (art. L724-12 à L724-14)](#264)
-        - [Chapitre V : Associations de sécurité civile (art. L725-1 à L725-9)](#265)
-          - [Section 1 : Agrément des associations (art. L725-1)](#266)
-          - [Section 2 : Relations avec la réserve de sécurité civile (art. L725-2)](#267)
-          - [Section 3 : Participation des associations agréées  aux opérations de secours (art. L725-3 à L725-9)](#268)
-            - [Sous-section 1 : Dispositions générales (art. L725-3 à L725-6)](#269)
-            - [Sous-section 2 : Participation des membres des associations salariés  aux opérations de secours (art. L725-7 à L725-9)](#270)
-      - [TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION (art. L731-1 à L733-3)](#271)
-        - [Chapitre Ier : Prévention des risques (art. L731-1 à L731-3)](#272)
-          - [Section 1 : Information sur les risques majeurs (art. L731-1)](#273)
-          - [Section 2 : Schéma départemental d'analyse  et de couverture des risques (art. L731-2)](#274)
-          - [Section 3 : Plan communal de sauvegarde (art. L731-3)](#275)
-        - [Chapitre II : Obligations en matière de sécurité civile (art. L732-1 à L732-7)](#276)
-          - [Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population (art. L732-1 à L732-2)](#277)
-          - [Section 2 : Capacité suffisante de communication  radioélectrique des services de secours (art. L732-3 à L732-4)](#278)
-          - [Section 3 : Interopérabilité des réseaux (art. L732-5)](#279)
-          - [Section 4 : Alimentation en énergie des établissements de santé (art. L732-6)](#280)
-          - [Section 5 : Code d'alerte national (art. L732-7)](#281)
-        - [Chapitre III : Déminage (art. L733-1 à L733-3)](#282)
-      - [TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES (art. L741-1 à L742-15)](#283)
-        - [Chapitre Ier : Planification opérationnelle (art. L741-1 à L741-6)](#284)
-          - [Section 1 : Plans Orsec (art. L741-1 à L741-5)](#285)
-          - [Section 2 : Plans particuliers d'intervention (art. L741-6)](#286)
-        - [Chapitre II : Opérations de secours (art. L742-1 à L742-15)](#287)
-          - [Section 1 : Direction des opérations de secours (art. L742-1 à L742-7)](#288)
-          - [Section 2 : Secours aux personnes en détresse (art. L742-8 à L742-10)](#289)
-          - [Section 3 : Prise en charge des dépenses de secours (art. L742-11)](#290)
-          - [Section 4 : Réquisitions (art. L742-12 à L742-15)](#291)
-      - [TITRE V : ÉVALUATION ET CONTRÔLE (art. L751-1 à L752-1)](#292)
-        - [Chapitre Ier : Missions d'évaluation et de contrôle (art. L751-1 à L751-2)](#293)
-        - [Chapitre II : Dispositions pénales (art. L752-1)](#294)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L761-1 à L768-2)](#295)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. L761-1)](#296)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L762-1 à L762-3)](#297)
-        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L763-1)](#298)
-        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L764-1 à L764-2)](#299)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. L765-1 à L765-3)](#300)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L766-1 à L766-4)](#301)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L767-1 à L767-2)](#302)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L768-1 à L768-2)](#303)
+          - [Section 2 : Collectionneurs (art. L312-6-1 à L312-6-5)](#90)
+          - [Section 3 : Injonctions préfectorales (art. L312-7 à L312-15)](#91)
+            - [Sous-section 1 : Remise d'une arme à l'autorité administrative (art. L312-7 à L312-10)](#92)
+            - [Sous-section 2 : Dessaisissement (art. L312-11 à L312-15)](#93)
+          - [Section 4 : Fichiers (art. L312-16 à L312-17)](#94)
+        - [Chapitre III : Commerce de détail (art. L313-1 à L313-5)](#95)
+        - [Chapitre IV : Conservation, perte et transfert de propriété (art. L314-1 à L314-4)](#96)
+        - [Chapitre V : Port et transport (art. L315-1 à L315-2)](#97)
+        - [Chapitre VII : Dispositions pénales (art. L317-1 à L317-12)](#98)
+      - [TITRE II : JEUX DE HASARD, CASINOS, LOTERIES (art. L320-1 à L324-10)](#99)
+        - [Chapitre Ier : Casinos (art. L321-1 à L321-7)](#100)
+        - [Chapitre II : Loteries (art. L322-1 à L322-6)](#101)
+        - [Chapitre III : Dispositions communes (art. L323-1 à L323-2)](#102)
+        - [Chapitre IV : Dispositions pénales (art. L324-1 à L324-10)](#103)
+          - [Section 1 : Jeux de hasard et casinos (art. L324-1 à L324-5)](#104)
+          - [Section 2 : Loteries (art. L324-6 à L324-10)](#105)
+      - [TITRE III : FERMETURE ADMINISTRATIVE  DE CERTAINS ÉTABLISSEMENTS (art. L331-1 à L334-2)](#106)
+        - [Chapitre Ier : Débits de boissons et restaurants (art. L331-1)](#107)
+        - [Chapitre II : Etablissements de vente à emporter de boissons  alcoolisées ou d'aliments préparés sur place (art. L332-1)](#108)
+        - [Chapitre III : Etablissements diffusant de la musique (art. L333-1)](#109)
+        - [Chapitre IV : Dispositions pénales (art. L334-1 à L334-2)](#110)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L341-1 à L347-2)](#111)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin (art. L341-1)](#112)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L342-1)](#113)
+        - [Chapitre III : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L343-1 à L343-2)](#114)
+        - [Chapitre IV : Dispositions applicables en Polynésie francaise (art. L344-1 à L344-4)](#115)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. L345-1 à L345-4)](#116)
+        - [Chapitre VI : Dispositions applicables à Wallis-et-Futuna (art. L346-1 à L346-2)](#117)
+        - [Chapitre VII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L347-1 à L347-2)](#118)
+    - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE (art. L411-1 à L448-1)](#119)
+      - [TITRE Ier : POLICE NATIONALE (art. L411-1 à L413-4)](#120)
+        - [Chapitre Ier : Missions et personnels de la police nationale (art. L411-1 à L411-17)](#121)
+          - [Section 1 : Dispositions générales (art. L411-1 à L411-3)](#122)
+          - [Section 2 : Fonctionnaires actifs (art. L411-4)](#123)
+          - [Section 3 : Adjoints de sécurité (art. L411-5 à L411-6)](#124)
+          - [Section 4 : Réserve civile (art. L411-7 à L411-17)](#125)
+        - [Chapitre II : Déontologie de la police nationale (art. L412-1)](#126)
+        - [Chapitre III : Etablissements publics de la police nationale (art. L413-1 à L413-4)](#127)
+          - [Section unique : Institut national de police scientifique (art. L413-1 à L413-4)](#128)
+      - [TITRE II : GENDARMERIE NATIONALE (art. L421-1 à L421-4)](#129)
+        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. L421-1 à L421-4)](#130)
+          - [Section 1 : Missions (art. L421-1 à L421-3)](#131)
+          - [Section 2 : Militaires de la gendarmerie nationale (art. L421-4)](#132)
+      - [TITRE III : DISPOSITIONS COMMUNES (art. L433-1 à L433-7)](#133)
+        - [Chapitre III : Service volontaire citoyen de la police  et de la gendarmerie nationales (art. L433-1 à L433-7)](#134)
+      - [TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER (art. L442-1 à L448-1)](#135)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L442-1)](#136)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. L445-1)](#137)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L446-1)](#138)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L447-1)](#139)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L448-1)](#140)
+    - [LIVRE V : POLICES MUNICIPALES (art. L511-1 à L546-7)](#141)
+      - [TITRE Ier : AGENTS DE POLICE MUNICIPALE (art. L511-1 à L515-1)](#142)
+        - [Chapitre Ier : Missions, recrutement et modalités d'exercice (art. L511-1 à L511-6)](#143)
+          - [Section 1 : Missions (art. L511-1)](#144)
+          - [Section 2 : Nomination et agrément (art. L511-2 à L511-3)](#145)
+          - [Section 3 : Carte professionnelle, tenue et équipements (art. L511-4)](#146)
+          - [Section 4 : Port d'armes (art. L511-5)](#147)
+          - [Section 5 : Formation continue (art. L511-6)](#148)
+        - [Chapitre II : Organisation des services (art. L512-1 à L512-7)](#149)
+          - [Section 1 : Mise en commun des agents de police municipale (art. L512-1 à L512-3)](#150)
+          - [Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat (art. L512-4 à L512-7)](#151)
+        - [Chapitre III : Contrôle par le ministre de l'intérieur (art. L513-1)](#152)
+        - [Chapitre IV : Commission consultative des polices municipales (art. L514-1)](#153)
+        - [Chapitre V : Déontologie des agents de police municipale (art. L515-1)](#154)
+      - [TITRE II : GARDES CHAMPÊTRES (art. L521-1 à L523-2)](#155)
+        - [Chapitre Ier : Missions (art. L521-1)](#156)
+        - [Chapitre II : Nomination, agrément et modalités d'exercice (art. L522-1 à L522-4)](#157)
+        - [Chapitre III : Dispositions applicables dans les départements  de la Moselle, du Bas-Rhin et du Haut-Rhin (art. L523-1 à L523-2)](#158)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES  APPLICABLES À PARIS (art. L531-1 à L532-1)](#159)
+        - [Chapitre Ier : Agents de la ville de Paris chargés d'un service de police (art. L531-1)](#160)
+        - [Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police (art. L532-1)](#161)
+      - [TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER (art. L542-1 à L546-7)](#162)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L542-1 à L542-2)](#163)
+        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L543-1)](#164)
+        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L544-1)](#165)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. L545-1 à L545-2)](#166)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L546-1 à L546-7)](#167)
+    - [LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. L611-1 à L647-1)](#168)
+      - [TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS ET DE PROTECTION PHYSIQUE DES PERSONNES (art. L611-1 à L617-16)](#169)
+        - [Chapitre Ier : Dispositions générales (art. L611-1)](#170)
+        - [Chapitre II : Conditions d'exercice (art. L612-1 à L612-25)](#171)
+          - [Section 1 : Dispositions générales (art. L612-1 à L612-5)](#172)
+          - [Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L612-6 à L612-8)](#173)
+          - [Section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales (art. L612-9 à L612-19)](#174)
+          - [Section 4 : Autorisation d'exercice des employés (art. L612-20 à L612-23)](#175)
+            - [Sous-section 1 : Délivrance de la carte professionnelle (art. L612-20 à L612-21)](#176)
+            - [Sous-section 2 : Autorisation d'accès à la formation professionnelle (art. L612-22)](#177)
+            - [Sous-section 3 : Autorisation provisoire d'exercice (art. L612-23)](#178)
+          - [Section 5 : Dispositions communes (art. L612-24 à L612-25)](#179)
+        - [Chapitre III : Modalités d'exercice (art. L613-1 à L613-13)](#180)
+          - [Section 1 : Activités de surveillance et de gardiennage (art. L613-1 à L613-7)](#181)
+            - [Sous-section 1 : Missions (art. L613-1 à L613-3)](#182)
+            - [Sous-section 2 : Tenue (art. L613-4)](#183)
+            - [Sous-section 3 : Port d'arme (art. L613-5)](#184)
+            - [Sous-section 4 : Activités de surveillance à distance  des biens meubles ou immeubles (art. L613-6)](#185)
+            - [Sous-section 5 : Activité d'agent cynophile (art. L613-7)](#186)
+          - [Section 2 : Activités de transport de fonds (art. L613-8 à L613-11)](#187)
+            - [Sous-section 1 : Tenue et port d'arme (art. L613-8 à L613-9)](#188)
+            - [Sous-section 2 : Sécurisation des locaux des personnes faisant appel  aux entreprises de transport de fonds et de leurs accès (art. L613-10 à L613-11)](#189)
+          - [Section 3 : Activités de protection physique des personnes (art. L613-12)](#190)
+          - [Section 4 : Activités de vidéoprotection (art. L613-13)](#191)
+        - [Chapitre IV : Services de sécurité des bailleurs d'immeuble (art. L614-1 à L614-5)](#192)
+          - [Section 1 : Missions (art. L614-1)](#193)
+          - [Section 2 : Recrutement (art. L614-2)](#194)
+          - [Section 3 : Tenue et carte professionnelle (art. L614-3)](#195)
+          - [Section 4 : Port d'armes (art. L614-4 à L614-5)](#196)
+        - [Chapitre V : Services internes de sécurité  des entreprises de transport (art. L615-1)](#197)
+        - [Chapitre VI : Contrôle administratif (art. L616-1)](#198)
+        - [Chapitre VII : Dispositions pénales (art. L617-1 à L617-16)](#199)
+          - [Section 1 : Conditions d'exercice (art. L617-1 à L617-10)](#200)
+            - [Sous-section 1 : Dispositions générales (art. L617-1 à L617-2)](#201)
+            - [Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L617-3)](#202)
+            - [Sous-section 3 : Autorisation d'exercice délivrée aux exploitants  et aux personnes morales (art. L617-4 à L617-6)](#203)
+            - [Sous-section 4 : Carte professionnelle des employés (art. L617-7 à L617-8)](#204)
+            - [Sous-section 5 : Services internes de sécurité (art. L617-9 à L617-10)](#205)
+          - [Section 2 : Modalités d'exercice (art. L617-11 à L617-12)](#206)
+            - [Sous-section 1 : Activités de surveillance et de gardiennage (art. L617-11)](#207)
+            - [Sous-section 2 : Activités de transport de fonds (art. L617-12)](#208)
+          - [Section 3 : Services internes de sécurité (art. L617-13)](#209)
+          - [Section 4 : Contrôle administratif (art. L617-14)](#210)
+          - [Section 5 : Dispositions communes (art. L617-15 à L617-16)](#211)
+      - [TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES (art. L621-1 à L624-14)](#212)
+        - [Chapitre Ier : Dispositions générales (art. L621-1)](#213)
+        - [Chapitre II : Conditions d'exercice (art. L622-1 à L622-24)](#214)
+          - [Section 1 : Dispositions générales (art. L622-1 à L622-5)](#215)
+          - [Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L622-6 à L622-8)](#216)
+          - [Section 3 : Autorisation d'exercice délivrée aux exploitants individuels  et aux personnes morales (art. L622-9 à L622-18)](#217)
+          - [Section 4 : Autorisation d'exercice des employés (art. L622-19 à L622-22)](#218)
+            - [Sous-section 1 : Délivrance de la carte professionnelle (art. L622-19 à L622-20)](#219)
+            - [Sous-section 2 : Autorisation d'accès à la formation professionnelle (art. L622-21)](#220)
+            - [Sous-section 3 : Autorisation provisoire d'exercice (art. L622-22)](#221)
+          - [Section 5 : Dispositions communes (art. L622-23 à L622-24)](#222)
+        - [Chapitre III : Contrôle administratif (art. L623-1)](#223)
+        - [Chapitre IV : Dispositions pénales (art. L624-1 à L624-14)](#224)
+          - [Section 1 : Conditions d'exercice (art. L624-1 à L624-11)](#225)
+            - [Sous-section 1 : Dispositions générales (art. L624-1 à L624-3)](#226)
+            - [Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales (art. L624-4)](#227)
+            - [Sous-section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales (art. L624-5 à L624-7)](#228)
+            - [Sous-section 4 : Autorisation d'exercice des employés (art. L624-8 à L624-10)](#229)
+            - [Sous-section 5 : Dispositions communes (art. L624-11)](#230)
+          - [Section 2 : Contrôle administratif (art. L624-12)](#231)
+          - [Section 3 : Dispositions communes (art. L624-13 à L624-14)](#232)
+      - [TITRE III : CONSEIL NATIONAL DES ACTIVITÉS  PRIVÉES DE SÉCURITÉ (art. L631-1 à L635-1)](#233)
+        - [Chapitre Ier : Dispositions générales (art. L631-1)](#234)
+        - [Chapitre II : Missions et fonctionnement du Conseil national  des activités privées de sécurité (art. L632-1 à L632-4)](#235)
+          - [Section 1 : Missions (art. L632-1)](#236)
+          - [Section 2 : Fonctionnement (art. L632-2 à L632-4)](#237)
+        - [Chapitre III : Commissions régionales ou interrégionales  d'agrément et de contrôle (art. L633-1 à L633-3)](#238)
+        - [Chapitre IV : Contrôles (art. L634-1 à L634-4)](#239)
+          - [Section 1 : Exercice du contrôle (art. L634-1 à L634-3)](#240)
+          - [Section 2 : Sanctions disciplinaires (art. L634-4)](#241)
+        - [Chapitre V : Dispositions finales (art. L635-1)](#242)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L642-1 à L647-1)](#243)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L642-1)](#244)
+        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L643-1)](#245)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. L644-1)](#246)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. L645-1)](#247)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L646-1)](#248)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L647-1)](#249)
+    - [LIVRE VII : SÉCURITÉ CIVILE (art. L711-1 à L768-2)](#250)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L711-1)](#251)
+        - [Chapitre unique : Missions de la sécurité civile (art. L711-1)](#252)
+      - [TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE (art. L721-1 à L725-9)](#253)
+        - [Chapitre Ier : Dispositions générales (art. L721-1 à L721-2)](#254)
+        - [Chapitre II : Services d'incendie et de secours (art. L722-1)](#255)
+        - [Chapitre III : Sapeurs-pompiers (art. L723-1 à L723-20)](#256)
+          - [Section 1 : Missions (art. L723-1)](#257)
+          - [Section 2 : Sapeurs-pompiers professionnels (art. L723-2)](#258)
+          - [Section 3 : Sapeurs-pompiers volontaires (art. L723-3 à L723-20)](#259)
+        - [Chapitre IV : Réserves communales de sécurité civile (art. L724-1 à L724-14)](#260)
+          - [Section 1 : Missions des réserves communales (art. L724-1)](#261)
+          - [Section 2 : Institution des réserves communales (art. L724-2)](#262)
+          - [Section 3 : Réservistes communaux (art. L724-3 à L724-14)](#263)
+            - [Sous-section 1 : Engagement à servir dans la réserve (art. L724-4 à L724-5)](#264)
+            - [Sous-section 2 : Réserve communale de sécurité civile et emploi (art. L724-6 à L724-11)](#265)
+            - [Sous-section 3 : Protection sociale et réparation des dommages (art. L724-12 à L724-14)](#266)
+        - [Chapitre V : Associations de sécurité civile (art. L725-1 à L725-9)](#267)
+          - [Section 1 : Agrément des associations (art. L725-1)](#268)
+          - [Section 2 : Relations avec la réserve de sécurité civile (art. L725-2)](#269)
+          - [Section 3 : Participation des associations agréées  aux opérations de secours (art. L725-3 à L725-9)](#270)
+            - [Sous-section 1 : Dispositions générales (art. L725-3 à L725-6)](#271)
+            - [Sous-section 2 : Participation des membres des associations salariés  aux opérations de secours (art. L725-7 à L725-9)](#272)
+      - [TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION (art. L731-1 à L733-3)](#273)
+        - [Chapitre Ier : Prévention des risques (art. L731-1 à L731-3)](#274)
+          - [Section 1 : Information sur les risques majeurs (art. L731-1)](#275)
+          - [Section 2 : Schéma départemental d'analyse  et de couverture des risques (art. L731-2)](#276)
+          - [Section 3 : Plan communal de sauvegarde (art. L731-3)](#277)
+        - [Chapitre II : Obligations en matière de sécurité civile (art. L732-1 à L732-7)](#278)
+          - [Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population (art. L732-1 à L732-2)](#279)
+          - [Section 2 : Capacité suffisante de communication  radioélectrique des services de secours (art. L732-3 à L732-4)](#280)
+          - [Section 3 : Interopérabilité des réseaux (art. L732-5)](#281)
+          - [Section 4 : Alimentation en énergie des établissements de santé (art. L732-6)](#282)
+          - [Section 5 : Code d'alerte national (art. L732-7)](#283)
+        - [Chapitre III : Déminage (art. L733-1 à L733-3)](#284)
+      - [TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES (art. L741-1 à L742-15)](#285)
+        - [Chapitre Ier : Planification opérationnelle (art. L741-1 à L741-6)](#286)
+          - [Section 1 : Plans Orsec (art. L741-1 à L741-5)](#287)
+          - [Section 2 : Plans particuliers d'intervention (art. L741-6)](#288)
+        - [Chapitre II : Opérations de secours (art. L742-1 à L742-15)](#289)
+          - [Section 1 : Direction des opérations de secours (art. L742-1 à L742-7)](#290)
+          - [Section 2 : Secours aux personnes en détresse (art. L742-8 à L742-10)](#291)
+          - [Section 3 : Prise en charge des dépenses de secours (art. L742-11)](#292)
+          - [Section 4 : Réquisitions (art. L742-12 à L742-15)](#293)
+      - [TITRE V : ÉVALUATION ET CONTRÔLE (art. L751-1 à L752-1)](#294)
+        - [Chapitre Ier : Missions d'évaluation et de contrôle (art. L751-1 à L751-2)](#295)
+        - [Chapitre II : Dispositions pénales (art. L752-1)](#296)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L761-1 à L768-2)](#297)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. L761-1)](#298)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L762-1 à L762-3)](#299)
+        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L763-1)](#300)
+        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L764-1 à L764-2)](#301)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. L765-1 à L765-3)](#302)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L766-1 à L766-4)](#303)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L767-1 à L767-2)](#304)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L768-1 à L768-2)](#305)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE<a id=2></a>
@@ -5948,30 +5950,42 @@ _Créé par_:
 
 ###### Article L311-2
 
-Conformément aux dispositions de l'article L. 2331-1 du code de la défense, les matériels de guerre, armes et munitions sont
-classés dans les catégories suivantes :
+Conformément aux dispositions de l'article L. 2331-1 du code de la défense, les matériels de guerre, armes, munitions et
+éléments désignés par le présent titre sont classés dans les catégories suivantes : 
 
-I. ― Matériels de guerre :
+1° Catégorie A : matériels de guerre et armes interdits à l'acquisition et à la détention, sous réserve des dispositions des
+articles L. 312-1 à L. 312-4-3 du présent code. 
 
-1re catégorie : armes à feu et leurs munitions conçues pour ou destinées à la guerre terrestre, navale ou aérienne.
+Cette catégorie comprend :
 
-2e catégorie : matériels destinés à porter ou à utiliser au combat les armes à feu.
+- A1 : les armes et éléments d'armes interdits à l'acquisition et à la détention ;
 
-3e catégorie : matériels de protection contre les gaz de combat.
+- A2 : les armes relevant des matériels de guerre, les matériels destinés à porter ou à utiliser au combat les armes à feu,
+les matériels de protection contre les gaz de combat ; 
 
-II. ― Armes et munitions non considérées comme matériels de guerre :
+2° Catégorie B : armes soumises à autorisation pour l'acquisition et la détention ; 
 
-4e catégorie : armes à feu dites de défense et leurs munitions.
+3° Catégorie C : armes soumises à déclaration pour l'acquisition et la détention ; 
 
-5e catégorie : armes de chasse et leurs munitions.
+4° Catégorie D : armes soumises à enregistrement et armes et matériels dont l'acquisition et la détention sont libres. 
 
-6e catégorie : armes blanches.
+Un décret en Conseil d'Etat détermine les matériels, armes, munitions, éléments essentiels, accessoires et opérations
+industrielles compris dans chacune de ces catégories ainsi que les conditions de leur acquisition et de leur détention. Il
+fixe les modalités de délivrance des autorisations ainsi que celles d'établissement des déclarations ou des enregistrements. 
 
-7e catégorie : armes de tir, de foire ou de salon et leurs munitions.
+En vue de préserver la sécurité et l'ordre publics, le classement prévu aux 1° à 4° est fondé sur la dangerosité des
+matériels et des armes. Pour les armes à feu, la dangerosité s'apprécie en particulier en fonction des modalités de
+répétition du tir ainsi que du nombre de coups tirés sans qu'il soit nécessaire de procéder à un réapprovisionnement de
+l'arme. 
 
-8e catégorie : armes et munitions historiques et de collection.
+Par dérogation à l'alinéa précédent, les armes utilisant des munitions de certains calibres fixés par décret en Conseil
+d'Etat sont classées par la seule référence à ce calibre.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 _Cité par_:
 
@@ -5988,17 +6002,69 @@ _Cité par_:
   - Code pénal - art. 222-57 (V)
   - Code pénal - art. 222-59 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cite_:
 
   - Code de la défense. - art. L2331-1
+  - Code de la sécurité intérieure - art. L312-1
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+###### Article L311-3
+
+Les armes et matériels historiques et de collection ainsi que leurs reproductions sont : 
+
+1° Sauf lorsqu'elles présentent une dangerosité avérée, les armes dont le modèle est antérieur au 1er janvier 1900 ; 
+
+2° Les armes dont le modèle est postérieur au 1er janvier 1900 et qui  sont énumérées par un arrêté conjoint des ministres de
+l'intérieur et de  la défense compte tenu de leur intérêt culturel, historique ou  scientifique ; 
+
+3° Les armes rendues inaptes au  tir de toutes munitions, quels qu'en soient le modèle et l'année de  fabrication, par
+l'application de procédés techniques et selon des  modalités qui sont définis par arrêté conjoint des ministres de
+l'intérieur et de la défense, ainsi que des ministres chargés de  l'industrie et des douanes. 
+
+Les chargeurs de ces  armes doivent être rendus inaptes au tir dans les conditions fixées par  l'arrêté prévu au premier
+alinéa du présent 3° ; 
+
+4° Les reproductions d'armes historiques et de collection dont le modèle  est antérieur à la date prévue au 1°, sous réserve
+qu'elles ne tirent  pas de munitions à étui métallique ; 
+
+5° Les  matériels relevant de la catégorie A dont le modèle est antérieur au 1er  janvier 1946 et dont la neutralisation est
+effectivement garantie par  l'application de procédés techniques et selon les modalités définis par  arrêté de l'autorité
+ministérielle compétente ; 
+
+6° Les matériels de guerre relevant de la catégorie A dont le modèle est  postérieur au 1er janvier 1946, dont la
+neutralisation est garantie  dans les conditions prévues au 5° et qui sont énumérés dans un arrêté du  ministre de la défense
+compte tenu de leur intérêt culturel, historique  ou scientifique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cité par_:
+
+  - Code de la défense. - art. L2331-1-1 (VD)
+  - Code de la sécurité intérieure - art. L311-4 (VD)
+
+
+###### Article L311-4
+
+Les armes et matériels historiques et de collection ainsi que leurs reproductions mentionnés à l'article L. 311-3 sont
+classés en catégorie D.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L311-3
 
 
 #### Chapitre II : Acquisition et détention<a id=88></a>
@@ -6007,38 +6073,20 @@ _Codifié par_:
 
 ###### Article L312-1
 
-L'acquisition et la détention des matériels de guerre, des armes et des munitions par les personnes qui ne fabriquent ni ne
-font commerce des armes sont soumises aux dispositions suivantes :
-
-1° L'acquisition et la détention des matériels de guerre des 2e et 3e catégories sont interdites, sauf pour les besoins de la
-défense nationale. Un décret en Conseil d'Etat définit les conditions dans lesquelles l'Etat, pour les besoins autres que
-ceux de la défense nationale, les collectivités territoriales et les organismes d'intérêt général ou à vocation culturelle,
-historique ou scientifique peuvent être autorisés à acquérir et à détenir des matériels de ces catégories. Il fixe également
-les conditions dans lesquelles certains matériels de 2e catégorie peuvent être acquis et détenus à fin de collection par des
-personnes physiques, sous réserve des engagements internationaux en vigueur et des exigences de l'ordre et de la sécurité
-publics ;
-
-2° L'acquisition et la détention des matériels, des armes et des munitions des 1re et 4e catégories sont interdites, sauf
-autorisation délivrée dans les conditions définies par décret en Conseil d'Etat ;
-
-3° L'acquisition des armes et des munitions des 5e et 7e catégories est subordonnée à la présentation au vendeur d'un permis
-de chasser revêtu de la validation de l'année en cours ou de l'année précédente, ou d'une licence de tir en cours de validité
-délivrée par une fédération sportive ayant reçu délégation du ministre chargé des sports au titre de l'article L. 131-14 du
-code du sport. En outre, la détention des armes des 5e et 7e catégories fait l'objet d'une déclaration par l'armurier ou par
-leur détenteur dans les conditions définies par décret en Conseil d'Etat. Ce décret peut prévoir que certaines armes des 5e
-et 7e catégories sont dispensées de la présentation des documents ou de la déclaration mentionnés ci-dessus en raison de
-leurs caractéristiques techniques ou de leur destination ;
-
-4° L'acquisition et la détention des armes et des munitions des 6e et 8e catégories sont libres ;
-
-5° L'acquisition et la détention des armes et des munitions de toute catégorie sont interdites pour les mineurs sous réserve
-des exceptions définies par décret en Conseil d'Etat.
+Nul ne peut acquérir et détenir légalement des matériels ou des armes de toute catégorie s'il n'est pas âgé de dix-huit ans
+révolus, sous réserve des exceptions définies par décret en Conseil d'Etat pour la chasse et les activités encadrées par la
+fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du sport, délégation du ministre chargé des sports
+pour la pratique du tir.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -6065,22 +6113,27 @@ _Cite_:
 
   - Code du sport. - art. L131-14
 
+
+###### Article L312-2
+
+L'acquisition et la détention des matériels de guerre, armes et éléments d'armes relevant de la catégorie A sont interdites,
+sauf pour les besoins de la défense nationale et de la sécurité publique. Un décret en Conseil d'Etat définit les conditions
+dans lesquelles l'Etat, pour les besoins autres que ceux de la défense nationale et de la sécurité publique, les
+collectivités territoriales et les organismes d'intérêt général ou à vocation culturelle, historique ou scientifique peuvent
+être autorisés à acquérir et à détenir des matériels de guerre, armes et éléments d'armes de catégorie A. Il fixe également
+les conditions dans lesquelles certains matériels de guerre peuvent être acquis et détenus à fin de collection,
+professionnelle ou sportive par des personnes, sous réserve des engagements internationaux en vigueur et des exigences de
+l'ordre et de la sécurité publics.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-###### Article L312-2
-
-Quiconque devient propriétaire par voie successorale ou testamentaire d'une arme ou de munitions de la 1re ou de la 4e
-catégorie, sans être autorisé à les détenir, doit s'en défaire dans un délai de trois mois à compter de la mise en
-possession, dans les conditions prévues à l'article L. 314-2.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -6093,28 +6146,142 @@ _Anciens textes_:
 
   - Code de la défense. - art. L2336-1 II (VT)
 
-_Cite_:
 
-  - Code de la sécurité intérieure - art. L314-2 (VD)
+###### Article L312-3
+
+Nul ne peut acquérir et détenir légalement des matériels ou des armes des catégories B et C s'il ne remplit pas les
+conditions suivantes : 
+
+1° Disposer d'un bulletin n° 2 de son casier judiciaire ne comportant pas de mention de condamnation pour l'une des
+infractions suivantes :
+
+- meurtre, assassinat ou empoisonnement prévus aux articles 221-1 et suivants du code pénal ;
+
+- tortures et actes de barbarie prévus aux articles 222-1 et suivants du code pénal ;
+
+- violences volontaires prévues aux articles 222-7 et suivants du code pénal ;
+
+- menaces d'atteinte aux personnes prévues aux articles 222-17 et suivants du code pénal ;
+
+- viol et agressions sexuelles prévus aux articles 222-22 et suivants du code pénal ;
+
+- exhibition sexuelle prévue à l'article 222-32 du code pénal ;
+
+- harcèlement sexuel prévu à l'article 222-33 du code pénal ;
+
+- harcèlement moral prévu aux articles 222-33-2 et 222-33-2-1 du code pénal ;
+
+- enregistrement et diffusion d'images de violence prévus à l'article 222-33-3 du code pénal ;
+
+- trafic de stupéfiants prévu aux articles 222-34 et suivants du code pénal ;
+
+- enlèvement et séquestration prévus aux articles 224-1 et suivants du code pénal ;
+
+- détournement d'aéronef, de navire ou de tout autre moyen de transport prévu aux articles 224-6 et suivants du code pénal ;
+
+- traite des êtres humains prévue aux articles 225-4-1 et suivants du code pénal ;
+
+- proxénétisme et infractions qui en résultent prévus aux articles 225-5 et suivants du code pénal ;
+
+- recours à la prostitution des mineurs ou de personnes particulièrement vulnérables prévu aux articles 225-12-1 et suivants
+du code pénal ;
+
+- exploitation de la mendicité prévue aux articles 225-12-5 et suivants du code pénal ;
+
+- vols prévus aux articles 311-1 et suivants du code pénal ;
+
+- extorsions prévues aux articles 312-1 et suivants du code pénal ;
+
+- recel de vol ou d'extorsion prévu aux articles 321-1 et suivants du code pénal ;
+
+- destructions, dégradations et détériorations dangereuses pour les personnes prévues aux articles 322-5 et suivants du code
+pénal ;
+
+- menaces de destruction, de dégradation ou de détérioration et fausses alertes prévues aux articles 322-12 et 322-14 du code
+pénal ;
+
+- blanchiment prévu aux articles 324-1 et suivants du code pénal ;
+
+- participation à un attroupement en étant porteur d'une arme ou provocation directe à un attroupement armé prévues aux
+articles 431-5 et 431-6 du code pénal ;
+
+- participation à une manifestation ou à une réunion publique en étant porteur d'une arme prévue à l'article 431-10 du code
+pénal ;
+
+- intrusion dans un établissement d'enseignement scolaire par une personne porteuse d'une arme prévue aux articles 431-24 et
+431-25 du code pénal ;
+
+- introduction d'armes dans un établissement scolaire prévue à l'article 431-28 du code pénal ;
+
+- rébellion armée et rébellion armée en réunion prévues à l'article 433-8 du code pénal ;
+
+- destructions, dégradations et détériorations ne présentant pas de danger pour les personnes prévues aux articles 322-1 et
+suivants du code pénal commises en état de récidive légale ;
+
+- fabrication ou commerce des matériels de guerre ou d'armes ou de munitions de défense sans autorisation prévus et réprimés
+par les articles L. 2339-2, L. 2339-3 et L. 2339-4 du code de la défense ainsi que par les articles L. 317-1-1, L. 317-2 et
+L. 317-3-1 du présent code ;
+
+- acquisition, cession ou détention, sans autorisation, d'une ou plusieurs armes ou matériels des catégories A, B, C ou
+d'armes de catégorie D mentionnées à l'article L. 312-4-2 ou de leurs munitions prévues et réprimées par les articles L.
+317-4, L. 317-5, L. 317-6 et L. 317-7 ;
+
+- port, transport et expéditions d'armes des catégories A, B, C ou d'armes de la catégorie D soumises à enregistrement sans
+motif légitime prévus et réprimés par les articles L. 317-8 et L. 317-9 ;
+
+- importation sans autorisation des matériels des catégories A, B, C ou d'armes de la catégorie D énumérées par un décret en
+Conseil d'Etat prévue et réprimée par les articles L. 2339-10 et L. 2339-11 du code de la défense ;
+
+- fabrication, vente, exportation, sans autorisation, d'un engin ou produit explosif ou incendiaire, port ou transport
+d'artifices non détonants prévus et réprimés par les articles L. 2353-4 à L. 2353-13 du code de la défense ; 
+
+2° Ne pas se signaler par un comportement laissant objectivement craindre une utilisation de l'arme ou du matériel dangereuse
+pour soi-même ou pour autrui.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-###### Article L312-3
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
-Sont interdites, sauf dans les cas prévus par voie réglementaire :
+_Cite_:
 
-1° L'acquisition ou la détention de plusieurs armes de la 1re ou de la 4e catégorie par un seul individu ;
-
-2° L'acquisition ou la détention de plus de 50 cartouches par arme de la 1re ou de la 4e catégorie régulièrement détenue.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Code pénal - art. 221-1 (V)
+  - Code pénal - art. 222-1 (V)
+  - Code pénal - art. 222-32
+  - Code pénal - art. 222-33
+  - Code pénal - art. 222-33-2
+  - Code pénal - art. 222-33-3
+  - Code pénal - art. 222-34 (V)
+  - Code pénal - art. 222-7 (V)
+  - Code pénal - art. 224-1 (V)
+  - Code pénal - art. 224-6 (V)
+  - Code pénal - art. 225-12-1 (V)
+  - Code pénal - art. 225-12-5 (V)
+  - Code pénal - art. 225-4-1 (V)
+  - Code pénal - art. 225-5 (V)
+  - Code pénal - art. 311-1 (V)
+  - Code pénal - art. 312-1 (V)
+  - Code pénal - art. 321-1 (V)
+  - Code pénal - art. 322-12
+  - Code pénal - art. 322-5 (V)
+  - Code pénal - art. 431-10
+  - Code pénal - art. 431-24
+  - Code pénal - art. 431-28
+  - Code pénal - art. 431-5
+  - Code pénal - art. 433-8
+  - Code de la défense. - art. L2339-10
+  - Code de la défense. - art. L2339-2
+  - Code de la défense. - art. L2353-4 (V)
+  - Code de la sécurité intérieure - art. L317-1-1 (V)
+  - Code de la sécurité intérieure - art. L317-2 (V)
+  - Code de la sécurité intérieure - art. L317-3-1 (V)
+  - Code de la sécurité intérieure - art. L317-4 (V)
+  - Code de la sécurité intérieure - art. L317-8 (V)
 
 _Anciens textes_:
 
@@ -6133,26 +6300,42 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-67 (VD)
   - Code de la sécurité intérieure - art. R312-7 (VD)
 
+
+###### Article L312-4
+
+L'acquisition et la détention des armes, éléments d'armes et de munitions de catégorie B sont soumises à autorisation dans
+des conditions définies par un décret en Conseil d'Etat qui prévoit notamment la présentation de la copie d'une licence de
+tir en cours de validité délivrée par une fédération sportive ayant reçu délégation du ministre chargé des sports au titre de
+l'article L. 131-14 du code du sport. 
+
+Nul ne peut acquérir et détenir légalement des matériels ou des armes, éléments d'armes et munitions classés en catégorie B
+s'il ne peut produire un certificat médical datant de moins d'un mois, attestant de manière circonstanciée d'un état de santé
+physique et psychique compatible avec l'acquisition et la détention d'une arme et établi dans les conditions fixées à
+l'article L. 312-6 du présent code. 
+
+Quiconque devient propriétaire par voie successorale ou testamentaire d'une arme de catégorie B, sans être autorisé à la
+détenir, doit s'en défaire dans un délai de trois mois à compter de la mise en possession, dans les conditions prévues à
+l'article L. 314-2.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-###### Article L312-4
-
-L'acquisition et la détention d'armes ou de munitions de la 1re ou de la 4e catégorie par les fabricants ou les vendeurs
-régulièrement autorisés ne sont pas soumises, dans la mesure où ces opérations se rapportent à l'exercice de leur commerce ou
-de leur industrie, aux dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Anciens textes_:
 
   - Code de la défense. - art. L2336-1 IV (VT)
+
+_Cite_:
+
+  - Code du sport. - art. L131-14
+  - Code de la sécurité intérieure - art. L312-6
+  - Code de la sécurité intérieure - art. L314-2
 
 _Cité par_:
 
@@ -6161,28 +6344,113 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L345-2 (VD)
   - Code de la sécurité intérieure - art. R312-85 (V)
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+###### Article L312-4-1
 
+L'acquisition des armes de catégorie C nécessite l'établissement d'une déclaration par l'armurier ou par leur détenteur dans
+des conditions définies par décret en Conseil d'Etat. Pour les personnes physiques, leur acquisition est subordonnée à la
+production d'un certificat médical datant de moins d'un mois, attestant de manière circonstanciée d'un état de santé physique
+et psychique compatible avec l'acquisition et la détention d'une arme et établi dans les conditions fixées à l'article L.
+312-6 ou, dans des conditions prévues par décret en Conseil d'Etat, à la présentation d'une copie : 
 
-###### Article L312-5
+1° D'un permis de chasser revêtu de la validation de l'année en cours ou de l'année précédente ; 
 
-Seules les personnes satisfaisant aux prescriptions de l'article L. 2332-1 du code de la défense peuvent se porter acquéreurs
-dans les ventes publiques des matériels de guerre, armes et munitions et de leurs éléments des 1re, 2e, 3e et 4e catégories
-ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat.
+2° D'une licence de tir en cours de validité délivrée par une fédération sportive ayant reçu délégation du ministre chargé
+des sports au titre de l'article L. 131-14 du code du sport ; 
 
-La vente de ces mêmes matériels par les brocanteurs est interdite.
+3° Ou d'une carte de collectionneur d'armes délivrée en application de la section 2 du présent chapitre.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. L131-14
+  - Code de la sécurité intérieure - art. L312-6
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L313-5 (V)
+  - Code de la sécurité intérieure - art. L314-2-1 (V)
+  - Code de la sécurité intérieure - art. L317-3-2 (VD)
+  - Code de la sécurité intérieure - art. L317-4-1 (V)
+  - Code de la sécurité intérieure - art. R312-85 (V)
+  - Code de la sécurité intérieure - art. R313-23 (VD)
+  - Code de la sécurité intérieure - art. R316-5 (VD)
+
+
+###### Article L312-4-2
+
+L'acquisition et la détention des armes de catégorie D sont libres. 
+
+Un décret en Conseil d'Etat peut toutefois soumettre l'acquisition de certaines d'entre elles à des obligations particulières
+de nature à garantir leur traçabilité, compte tenu de leurs caractéristiques techniques, de leur valeur patrimoniale ou de
+leur utilisation dans le cadre de la pratique d'une activité sportive ou de loisirs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2018-133 du 26 février 2018 - art. 17
+
+_Cité par_:
+
+  - Code de la défense. - art. L2339-4 (V)
+  - Code de la défense. - art. L2339-4-1 (V)
+  - Code de la sécurité intérieure - art. L317-3-1 (VD)
+  - Code de la sécurité intérieure - art. L317-4-1 (V)
+
+
+###### Article L312-4-3
+
+Sont interdites : 
+
+1° L'acquisition ou la détention de plusieurs armes de la catégorie B par un seul individu, sauf dans les cas prévus par
+décret en Conseil d'Etat ; 
+
+2° L'acquisition ou la détention de plus de cinquante cartouches par arme de la catégorie B, sauf dans les cas prévus par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+
+###### Article L312-5
+
+Dans les ventes publiques, seules peuvent se porter acquéreurs des matériels de guerre, armes et munitions et de leurs
+éléments des catégories A et B ainsi que des armes de catégorie D figurant sur une liste établie par un décret en Conseil
+d'Etat les personnes physiques ou morales qui peuvent régulièrement acquérir et détenir des matériels et armes de ces
+différentes catégories en application des sections 1 et 2 du présent chapitre, de l'article L. 313-3 du présent code et de
+l'article L. 2332-1 du code de la défense. 
+
+La vente de ces mêmes matériels par les brocanteurs est interdite. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cite_:
 
   - Code de la défense. - art. L2332-1
+  - Code de la sécurité intérieure - art. L313-3
 
 _Anciens textes_:
 
@@ -6192,21 +6460,17 @@ _Cité par_:
 
   - Code de la sécurité intérieure - art. L317-2 (V)
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L312-6
 
 Toute personne physique sollicitant la délivrance ou le renouvellement d'une autorisation d'acquisition ou de détention de
-matériels, d'armes ou de munitions des 1re et 4e catégories ou faisant une déclaration de détention d'armes des 5e et 7e
-catégories doit produire un certificat médical attestant que son état de santé physique et psychique n'est pas incompatible
-avec la détention de ces matériels, armes ou munitions.
+matériels, d'armes ou de munitions des catégories A et B ou faisant une déclaration de détention d'armes de catégorie C doit
+produire un certificat médical attestant que son état de santé physique et psychique n'est pas incompatible avec la détention
+de ces matériels, armes ou munitions. 
 
 Dans le cas où la personne mentionnée au précédent alinéa suit ou a suivi un traitement dans un service ou un secteur de
 psychiatrie d'un établissement de santé, l'autorité administrative lui demande de produire également un certificat médical
-délivré par un médecin psychiatre.
+délivré par un médecin psychiatre. 
 
 Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des médecins, définit les modalités d'application
 du présent article. Il prévoit notamment les conditions que doivent remplir la délivrance, le renouvellement ou la validation
@@ -6216,6 +6480,10 @@ premier alinéa. Il prévoit également les conditions dans lesquelles le repré
 vérifier si la personne mentionnée au premier alinéa est ou a été dans le cas mentionné au deuxième alinéa.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 _Cité par_:
 
@@ -6236,20 +6504,384 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-8 (VD)
   - Code de la sécurité intérieure - art. R312-85 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Anciens textes_:
 
   - Code de la défense. - art. L2336-3 (Ab)
 
+
+##### Section 2 : Collectionneurs<a id=90></a>
+
+###### Article L312-6-1
+
+Peuvent obtenir une carte de collectionneur d'armes délivrée par l'autorité compétente de l'Etat les personnes physiques
+qui : 
+
+1° Exposent dans des musées ouverts au public ou contribuent, par la réalisation de collections, à la conservation, à la
+connaissance ou à l'étude des armes ; 
+
+2° Remplissent les conditions prévues à l'article L. 312-1 et aux 1° et 2° de l'article L. 312-3 ; 
+
+3° Produisent un certificat médical dans les conditions prévues à l'article L. 312-6 ; 
+
+4° Justifient avoir été sensibilisées aux règles de sécurité dans le domaine des armes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-1
+  - Code de la sécurité intérieure - art. L312-3
+  - Code de la sécurité intérieure - art. L312-6
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L312-6-3 (V)
+  - Code de la sécurité intérieure - art. L312-6-4 (V)
+  - Code de la sécurité intérieure - art. L312-6-5 (VD)
+  - Code de la sécurité intérieure - art. L317-9-1 (V)
+  - Code de la sécurité intérieure - art. R312-85 (V)
+
+
+###### Article L312-6-2
+
+Peuvent obtenir une carte de collectionneur d'armes délivrée par l'autorité compétente de l'Etat les personnes morales : 
+
+1° Qui exposent dans des musées ouverts au public ou dont l'objet est de contribuer, par la réalisation de collections, à la
+conservation, à la connaissance ou à l'étude des armes ; 
+
+2° Dont les représentants remplissent les conditions prévues à l'article L. 312-1 et aux 1° et 2° de l'article L. 312-3 ; 
+
+3° Dont les représentants produisent un certificat médical dans les conditions prévues à l'article L. 312-6 ; 
+
+4° Dont les représentants justifient avoir été sensibilisés aux règles de sécurité dans le domaine des armes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-1
+  - Code de la sécurité intérieure - art. L312-3
+  - Code de la sécurité intérieure - art. L312-6
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. R312-85 (V)
+
+
+###### Article L312-6-3
+
+La carte de collectionneur d'armes mentionnée aux articles L. 312-6-1 et L. 312-6-2 permet d'acquérir et de détenir des armes
+de la catégorie C.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-6-1
+
+
+###### Article L312-6-4
+
+Un décret en Conseil d'Etat fixe la durée de la validité de la carte mentionnée aux articles L. 312-6-1 et L. 312-6-2 ainsi
+que les conditions de son renouvellement. Il détermine également les modalités d'application du 4° des mêmes articles L.
+312-6-1 et L. 312-6-2 et les conditions de déclaration des armes. Il précise les collections qui, en raison de leur taille et
+de la nature des armes qu'elles comportent, doivent faire l'objet de mesures tendant à prévenir leur vol.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-6-1
+
+
+###### Article L312-6-5
+
+Dans un délai de six mois à compter du 6 septembre 2013, les personnes physiques et morales détenant des armes relevant de la
+catégorie C qui déposent une demande de carte de collectionneur d'armes et remplissent les conditions fixées aux articles L.
+312-6-1 et L. 312-6-2 sont réputées avoir acquis et détenir ces armes dans des conditions régulières.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-6-1
+
+
+##### Section 3 : Injonctions préfectorales<a id=91></a>
+
+##### Sous-section 1 : Remise d'une arme à l'autorité administrative<a id=92></a>
+
+###### Article L312-7
+
+Si le comportement ou l'état de santé d'une personne détentrice d'armes et de munitions présente un danger grave pour elle-
+même ou pour autrui, le représentant de l'Etat dans le département peut lui ordonner, sans formalité préalable ni procédure
+contradictoire, de les remettre à l'autorité administrative, quelle que soit leur catégorie.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 27 février 2004 - art. 4 (VD)
+  - Arrêté du 5 septembre 2014 - art. 4 (V)
+  - Arrêté du 14 août 2017 - art. 4 (V)
+  - Code de la sécurité intérieure - art. L312-10 (V)
+  - Code de la sécurité intérieure - art. L312-17 (VD)
+  - Code de la sécurité intérieure - art. L312-8 (V)
+  - Code de la sécurité intérieure - art. R312-67 (VD)
+  - Code de la sécurité intérieure - art. R312-78 (V)
+  - Code de la sécurité intérieure - art. R313-19 (VD)
+  - Code de la sécurité intérieure - art. R313-7 (VD)
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2336-4 I (Ab)
+
+
+###### Article L312-8
+
+L'arme et les munitions faisant l'objet de la décision prévue à l'article L. 312-7 doivent être remises immédiatement par le
+détenteur, ou, le cas échéant, par un membre de sa famille ou par une personne susceptible d'agir dans son intérêt, aux
+services de police ou de gendarmerie. Le commissaire de police ou le commandant de la brigade de gendarmerie peut procéder,
+sur autorisation du juge des libertés et de la détention, à la saisie de l'arme et des munitions entre 6 heures et 21 heures
+au domicile du détenteur.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-##### Section 3 : Fichiers<a id=90></a>
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2336-4 II (Ab)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-7
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L317-6 (VD)
+  - Code de la sécurité intérieure - art. R312-68 (VD)
+
+
+###### Article L312-9
+
+La conservation de l'arme et des munitions remises ou saisies est confiée pendant une durée maximale d'un an aux services de
+la police nationale ou de la gendarmerie nationale territorialement compétents.
+
+Durant cette période, le représentant de l'Etat dans le département décide, après que la personne intéressée a été mise à
+même de présenter ses observations, soit la restitution de l'arme et des munitions, soit la saisie définitive de celles-ci.
+
+Les armes et les munitions définitivement saisies en application du précédent alinéa sont vendues aux enchères publiques. Le
+produit net de la vente bénéficie aux intéressés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2336-4 III (Ab)
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L312-10 (VD)
+  - Code de la sécurité intérieure - art. R312-69 (VD)
+  - Code de la sécurité intérieure - art. R312-71 (VD)
+
+
+###### Article L312-10
+
+Il est interdit aux personnes dont l'arme et les munitions ont été saisies en application de l'article L. 312-7 ou de
+l'article L. 312-9 d'acquérir ou de détenir des armes et des munitions, quelle que soit leur catégorie. 
+
+Le représentant de l'Etat dans le département peut cependant décider de limiter cette interdiction à certaines catégories ou
+à certains types d'armes. 
+
+Cette interdiction cesse de produire effet si le représentant de l'Etat dans le département décide la restitution de l'arme
+et des munitions dans le délai mentionné au premier alinéa de l'article L. 312-9. Après la saisie définitive, elle peut être
+levée par le représentant de l'Etat dans le département en considération du comportement du demandeur ou de son état de santé
+depuis la décision de saisie.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2336-4 IV (Ab)
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L312-16 (V)
+  - Code de la sécurité intérieure - art. L317-5 (V)
+  - Code de la sécurité intérieure - art. L613-7-2 (V)
+  - Code de la sécurité intérieure - art. R312-7 (VD)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-7 (VD)
+  - Code de la sécurité intérieure - art. L312-9 (VD)
+
+
+##### Sous-section 2 : Dessaisissement<a id=93></a>
+
+###### Article L312-11
+
+Sans préjudice des dispositions de la sous-section 1, le représentant de l'Etat dans le département peut, pour des raisons
+d'ordre public ou de sécurité des personnes, ordonner à tout détenteur d'une arme des catégories B, C et D de s'en dessaisir.
+
+Le dessaisissement consiste soit à vendre l'arme à une personne qui fabrique ou fait commerce des armes, mentionnée à
+l'article L. 2332-1 du code de la défense, ou à un tiers remplissant les conditions légales d'acquisition et de détention,
+soit à la neutraliser, soit à la remettre à l'Etat. Un décret en Conseil d'Etat détermine les modalités du dessaisissement.
+
+Sauf urgence, la procédure est contradictoire. Le représentant de l'Etat dans le département fixe le délai au terme duquel le
+détenteur doit s'être dessaisi de son arme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Cité par_:
+
+  - Arrêté du 27 février 2004 - art. 4 (VD)
+  - Arrêté du 5 septembre 2014 - art. 4 (V)
+  - Arrêté du 14 août 2017 - art. 4 (V)
+  - Code de la sécurité intérieure - art. R312-67 (VD)
+  - Code de la sécurité intérieure - art. R312-74 (VD)
+  - Code de la sécurité intérieure - art. R312-78 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. L2332-1
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2336-5 al. 1 à 3 (Ab)
+
+
+###### Article L312-12
+
+Lorsque l'intéressé ne s'est pas dessaisi de l'arme dans le délai fixé par le représentant de l'Etat dans le département,
+celui-ci lui ordonne de la remettre, ainsi que ses munitions, aux services de police ou de gendarmerie.
+
+Le commissaire de police ou le commandant de la brigade de gendarmerie peut demander au juge des libertés et de la détention
+l'autorisation de procéder à la saisie de l'arme et des munitions, entre 6 heures et 21 heures, au domicile du détenteur. La
+demande d'autorisation comporte toutes les informations en leur possession de nature à justifier cette saisie afin de
+permettre au juge des libertés et de la détention de vérifier que cette demande est fondée.
+
+La saisie de l'arme désignée à l'alinéa précédent s'effectue sous l'autorité et le contrôle du juge des libertés et de la
+détention qui l'a autorisée ou d'un juge par lui désigné. Ce magistrat peut se rendre sur les lieux. A tout moment, il peut
+suspendre ou interrompre la saisie au domicile.
+
+Celle-ci est effectuée en présence de l'occupant des lieux ou de son représentant ; en cas d'impossibilité, le commissaire de
+police ou le commandant de la brigade de gendarmerie requiert deux témoins choisis en dehors des personnes relevant de son
+autorité. Le procès-verbal de saisie est dressé sur-le-champ, il relate les modalités et le déroulement de l'intervention et
+comporte, s'il y a lieu, un inventaire des armes saisies. Il est signé par le commissaire de police ou par le commandant de
+la brigade de gendarmerie ainsi que par les personnes présentes ; en cas de refus, mention en est faite au procès-verbal. Il
+est transmis dans les meilleurs délais au juge des libertés et de la détention.
+
+La remise ou la saisie des armes et des munitions ne donne lieu à aucune indemnisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cité par_:
+
+  - Décret n°2013-700 du 30 juillet 2013 - art. 187-1 (Ab)
+  - Code de la sécurité intérieure - art. L317-6 (VD)
+  - Code de la sécurité intérieure - art. R312-76 (VD)
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2336-5, al. 4 à 7  (Ab)
+
+
+###### Article L312-13
+
+Il est interdit aux personnes ayant fait l'objet de la procédure prévue à la présente sous-section d'acquérir ou de détenir
+des armes des catégories B, C et D.
+
+Le représentant de l'Etat dans le département peut cependant décider de limiter cette interdiction à certaines catégories ou
+à certains types d'armes.
+
+Cette interdiction est levée par le représentant de l'Etat dans le département s'il apparaît que l'acquisition ou la
+détention d'armes par la personne concernée n'est plus de nature à porter atteinte à l'ordre public ou à la sécurité des
+personnes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2336-5, al. 8 à 10 (Ab)
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L317-5 (VD)
+  - Code de la sécurité intérieure - art. L613-7-2 (V)
+  - Code de la sécurité intérieure - art. R312-7 (VD)
+
+
+###### Article L312-14
+
+A Paris, les pouvoirs conférés au représentant de l'Etat dans le département par les dispositions de la présente section sont
+exercés par le préfet de police.
+
+
+
+###### Article L312-15
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+
+
+##### Section 4 : Fichiers<a id=94></a>
 
 ###### Article L312-16
 
@@ -6266,10 +6898,6 @@ conservation ainsi que les autorités et les personnes qui y ont accès, sont d�
 après avis de la Commission nationale de l'informatique et des libertés.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
 
 _Cité par_:
 
@@ -6295,10 +6923,6 @@ _Anciens textes_:
 
   - Code de la défense. - art. L2336-6 (VT)
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L312-17
 
@@ -6314,10 +6938,6 @@ l'autorité administrative prévus aux articles L. 312-7 et L. 312-12.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
 _Cite_:
 
   - Code de procédure pénale - art. 230-6
@@ -6328,311 +6948,8 @@ _Anciens textes_:
 
   - Code de la défense. - art. L2337-2 (VT)
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-##### Sous-section 1 : Remise d'une arme à l'autorité administrative<a id=91></a>
-
-###### Article L312-7
-
-Si le comportement ou l'état de santé d'une personne détentrice d'armes et de munitions présente un danger grave pour elle-
-même ou pour autrui, le représentant de l'Etat dans le département peut lui ordonner, sans formalité préalable ni procédure
-contradictoire, de les remettre à l'autorité administrative, quelle que soit leur catégorie.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 27 février 2004 - art. 4 (VD)
-  - Arrêté du 5 septembre 2014 - art. 4 (V)
-  - Arrêté du 14 août 2017 - art. 4 (V)
-  - Code de la sécurité intérieure - art. L312-10 (V)
-  - Code de la sécurité intérieure - art. L312-17 (VD)
-  - Code de la sécurité intérieure - art. L312-8 (V)
-  - Code de la sécurité intérieure - art. R312-67 (VD)
-  - Code de la sécurité intérieure - art. R312-78 (V)
-  - Code de la sécurité intérieure - art. R313-19 (VD)
-  - Code de la sécurité intérieure - art. R313-7 (VD)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-4 I (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L312-8
-
-L'arme et les munitions faisant l'objet de la décision prévue à l'article L. 312-7 doivent être remises immédiatement par le
-détenteur, ou, le cas échéant, par un membre de sa famille ou par une personne susceptible d'agir dans son intérêt, aux
-services de police ou de gendarmerie. Le commissaire de police ou le commandant de la brigade de gendarmerie peut procéder,
-sur autorisation du juge des libertés et de la détention, à la saisie de l'arme et des munitions entre 6 heures et 22 heures
-au domicile du détenteur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-4 II (Ab)
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L312-7 (VD)
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L317-6 (VD)
-  - Code de la sécurité intérieure - art. R312-68 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L312-9
-
-La conservation de l'arme et des munitions remises ou saisies est confiée pendant une durée maximale d'un an aux services de
-la police nationale ou de la gendarmerie nationale territorialement compétents.
-
-Durant cette période, le représentant de l'Etat dans le département décide, après que la personne intéressée a été mise à
-même de présenter ses observations, soit la restitution de l'arme et des munitions, soit la saisie définitive de celles-ci.
-
-Les armes et les munitions définitivement saisies en application du précédent alinéa sont vendues aux enchères publiques. Le
-produit net de la vente bénéficie aux intéressés.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-4 III (Ab)
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L312-10 (VD)
-  - Code de la sécurité intérieure - art. R312-69 (VD)
-  - Code de la sécurité intérieure - art. R312-71 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L312-10
-
-Il est interdit aux personnes dont l'arme et les munitions ont été saisies en application de l'article L. 312-7 ou de
-l'article L. 312-9 d'acquérir ou de détenir des armes et des munitions, quelle que soit leur catégorie. 
-
-Le représentant de l'Etat dans le département peut cependant décider de limiter cette interdiction à certaines catégories ou
-à certains types d'armes. 
-
-Cette interdiction cesse de produire effet si le représentant de l'Etat dans le département décide la restitution de l'arme
-et des munitions dans le délai mentionné au premier alinéa de l'article L. 312-9. Après la saisie définitive, elle peut être
-levée par le représentant de l'Etat dans le département en considération du comportement du demandeur ou de son état de santé
-depuis la décision de saisie.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-4 IV (Ab)
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L312-16 (V)
-  - Code de la sécurité intérieure - art. L317-5 (V)
-  - Code de la sécurité intérieure - art. L613-7-2 (V)
-  - Code de la sécurité intérieure - art. R312-7 (VD)
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L312-7 (VD)
-  - Code de la sécurité intérieure - art. L312-9 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-##### Sous-section 2 : Dessaisissement<a id=92></a>
-
-###### Article L312-11
-
-Sans préjudice des dispositions de la sous-section 1, le représentant de l'Etat dans le département peut, pour des raisons
-d'ordre public ou de sécurité des personnes, ordonner à tout détenteur d'une arme soumise au régime de l'autorisation ou de
-la déclaration de s'en dessaisir.
-
-Le dessaisissement consiste soit à vendre l'arme à une personne qui fabrique ou fait commerce des armes, mentionnée à
-l'article L. 2332-1 du code de la défense, ou à un tiers remplissant les conditions légales d'acquisition et de détention,
-soit à la neutraliser, soit à la remettre à l'Etat. Un décret en Conseil d'Etat détermine les modalités du dessaisissement.
-
-Sauf urgence, la procédure est contradictoire. Le représentant de l'Etat dans le département fixe le délai au terme duquel le
-détenteur doit s'être dessaisi de son arme.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 27 février 2004 - art. 4 (VD)
-  - Arrêté du 5 septembre 2014 - art. 4 (V)
-  - Arrêté du 14 août 2017 - art. 4 (V)
-  - Code de la sécurité intérieure - art. R312-67 (VD)
-  - Code de la sécurité intérieure - art. R312-74 (VD)
-  - Code de la sécurité intérieure - art. R312-78 (V)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Cite_:
-
-  - Code de la défense. - art. L2332-1
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-5 al. 1 à 3 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L312-12
-
-Lorsque l'intéressé ne s'est pas dessaisi de l'arme dans le délai fixé par le représentant de l'Etat dans le département,
-celui-ci lui ordonne de la remettre, ainsi que ses munitions, aux services de police ou de gendarmerie.
-
-Le commissaire de police ou le commandant de la brigade de gendarmerie peut demander au juge des libertés et de la détention
-l'autorisation de procéder à la saisie de l'arme et des munitions, entre 6 heures et 22 heures, au domicile du détenteur. La
-demande d'autorisation comporte toutes les informations en leur possession de nature à justifier cette saisie afin de
-permettre au juge des libertés et de la détention de vérifier que cette demande est fondée.
-
-La saisie de l'arme désignée à l'alinéa précédent s'effectue sous l'autorité et le contrôle du juge des libertés et de la
-détention qui l'a autorisée ou d'un juge par lui désigné. Ce magistrat peut se rendre sur les lieux. A tout moment, il peut
-suspendre ou interrompre la saisie au domicile.
-
-Celle-ci est effectuée en présence de l'occupant des lieux ou de son représentant ; en cas d'impossibilité, le commissaire de
-police ou le commandant de la brigade de gendarmerie requiert deux témoins choisis en dehors des personnes relevant de son
-autorité. Le procès-verbal de saisie est dressé sur-le-champ, il relate les modalités et le déroulement de l'intervention et
-comporte, s'il y a lieu, un inventaire des armes saisies. Il est signé par le commissaire de police ou par le commandant de
-la brigade de gendarmerie ainsi que par les personnes présentes ; en cas de refus, mention en est faite au procès-verbal. Il
-est transmis dans les meilleurs délais au juge des libertés et de la détention.
-
-La remise ou la saisie des armes et des munitions ne donne lieu à aucune indemnisation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Cité par_:
-
-  - Décret n°2013-700 du 30 juillet 2013 - art. 187-1 (Ab)
-  - Code de la sécurité intérieure - art. L317-6 (VD)
-  - Code de la sécurité intérieure - art. R312-76 (VD)
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-5, al. 4 à 7  (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L312-13
-
-Il est interdit aux personnes ayant fait l'objet de la procédure prévue à la présente sous-section d'acquérir ou de détenir
-des armes soumises au régime de l'autorisation ou de la déclaration.
-
-Le représentant de l'Etat dans le département peut cependant décider de limiter cette interdiction à certaines catégories ou
-à certains types d'armes.
-
-Cette interdiction est levée par le représentant de l'Etat dans le département s'il apparaît que l'acquisition ou la
-détention d'armes par la personne concernée n'est plus de nature à porter atteinte à l'ordre public ou à la sécurité des
-personnes.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-5, al. 8 à 10 (Ab)
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L317-5 (VD)
-  - Code de la sécurité intérieure - art. L613-7-2 (V)
-  - Code de la sécurité intérieure - art. R312-7 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L312-14
-
-A Paris, les pouvoirs conférés au représentant de l'Etat dans le département par les dispositions de la présente section sont
-exercés par le préfet de police.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-5, al. 11 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L312-15
-
-Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2336-4 V (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-#### Chapitre III : Commerce de détail<a id=93></a>
+#### Chapitre III : Commerce de détail<a id=95></a>
 
 ###### Article L313-1
 
@@ -6703,10 +7020,9 @@ _Codifié par_:
 
 ###### Article L313-3
 
-L'ouverture de tout local destiné au commerce de détail des armes et munitions, ou de leurs éléments, des 5e et 7e catégories
-ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat est soumise à autorisation. Celle-ci est délivrée
-par le représentant de l'Etat dans le département où est situé ce local, ou, à Paris, par le préfet de police, après avis du
-maire.
+L'ouverture de tout local destiné au commerce de détail des armes et munitions, ou de leurs éléments essentiels, des
+catégories C ou D énumérés  par décret en Conseil d'Etat est soumise à autorisation. Celle-ci est délivrée par le
+représentant de l'Etat dans le département où est situé ce local, ou, à Paris, par le préfet de police, après avis du maire.
 
 Cette autorisation est refusée si la protection de ce local contre le risque de vol ou d'intrusion est insuffisante. Elle
 peut, en outre, être refusée s'il apparaît que l'exploitation de ce local présente, notamment du fait de sa localisation, un
@@ -6722,6 +7038,10 @@ une protection suffisante de cet établissement contre le risque de vol ou d'int
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 _Cité par_:
 
@@ -6746,24 +7066,20 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R313-23 (VD)
   - Code de la sécurité intérieure - art. R313-8 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Anciens textes_:
 
   - Code de la défense. - art. L2332-1 III, IV et V (M)
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 
 ###### Article L313-4
 
-Le commerce de détail des matériels de guerre, armes, munitions ou de leurs éléments des 1re, 2e, 3e, 4e, 5e ou 7e catégories
-ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat ne peut se faire que dans les locaux mentionnés
-aux premier et troisième alinéas de l'article L. 313-3. 
+Le commerce de détail des matériels de guerre, armes, munitions ou de leurs éléments essentiels des catégories A, B, C ainsi
+que des armes de catégorie D énumérées par décret en Conseil d'Etat ne peut se faire que dans les locaux mentionnés aux
+premier et troisième alinéas de l'article L. 313-3. 
 
 Les dispositions du premier alinéa ne sont pas applicables aux ventes organisées en application du code du domaine de l'Etat
 et aux ventes aux enchères publiques. 
@@ -6775,15 +7091,19 @@ participer aux manifestations commerciales et aux salons professionnels déclar�
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cite_:
 
   - Code de commerce - art. L762-1
   - Code de la défense. - art. L2332-1
-  - Code de la sécurité intérieure - art. L313-2 (VD)
+  - Code de la sécurité intérieure - art. L313-2
 
 _Cité par_:
 
@@ -6793,82 +7113,82 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L345-2 (M)
   - Code de la sécurité intérieure - art. R313-23 (VD)
 
+
+###### Article L313-5
+
+Les matériels, armes ou leurs éléments essentiels des catégories A, B, C ainsi que des armes de catégorie D énumérées par
+décret en Conseil d'Etat, qui, par dérogation aux dispositions du premier alinéa de l'article L. 313-4, sont acquis par
+correspondance, à distance ou directement entre particuliers ne peuvent être livrés que dans les locaux mentionnés aux
+premier et troisième alinéas de l'article L. 313-3. Un décret en Conseil d'Etat énumère les armes de catégories B, C et D et
+leurs éléments essentiels ainsi que les munitions de toute catégorie qui, par dérogation au premier alinéa de l'article L.
+313-4, peuvent être directement livrés à l'acquéreur dans le cadre d'une vente par correspondance ou à distance. 
+
+Ce même décret fixe les conditions dans lesquelles sont réalisées ces expéditions.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-###### Article L313-5
-
-Les matériels, armes ou leurs éléments des 1re, 2e, 3e, 4e, 7e catégories, ainsi que les armes de 6e catégorie énumérées par
-décret en Conseil d'Etat, qui, par dérogation aux dispositions du premier alinéa de l'article L. 313-4, sont acquis par
-correspondance, à distance ou directement entre particuliers ne peuvent être livrés que dans les locaux mentionnés aux
-premier et troisième alinéas de l'article L. 313-3. Les armes de 5e catégorie ou leurs éléments acquis, par dérogation aux
-dispositions du premier alinéa de l'article L. 313-4, directement entre particuliers ne peuvent être livrés que dans ces
-mêmes locaux. Les armes de 5e catégorie ou leurs éléments, ainsi que les munitions de toutes catégories, ou leurs éléments,
-acquis par dérogation aux dispositions du premier alinéa de l'article L. 313-4, par correspondance ou à distance, peuvent
-être directement livrés à l'acquéreur.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L313-3 (VD)
-  - Code de la sécurité intérieure - art. L313-4 (VD)
+  - Code de la sécurité intérieure - art. L313-3
+  - Code de la sécurité intérieure - art. L313-4
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R313-23 (VD)
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-#### Chapitre IV : Conservation, perte et transfert de propriété<a id=94></a>
+#### Chapitre IV : Conservation, perte et transfert de propriété<a id=96></a>
 
 ###### Article L314-1
 
-La conservation par toute personne des armes, des munitions et de leurs éléments des 1re et 4e catégories est assurée selon
-des modalités qui en garantissent la sécurité et évitent leur usage par un tiers.
+La conservation par toute personne des armes, des munitions et de leurs éléments essentiels des catégories A et B est assurée
+selon des modalités qui en garantissent la sécurité et évitent leur usage par un tiers.
 
-Les armes, les munitions et leurs éléments des 5e et 7e catégories sont conservés hors d'état de fonctionner immédiatement.
+Les armes, les munitions et leurs éléments essentiels des catégories C et D figurant sur une liste fixée par un décret en
+Conseil d'Etat  sont conservés hors d'état de fonctionner immédiatement.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Anciens textes_:
 
   - Code de la défense. - art. L2337-1 (VT)
 
+
+###### Article L314-2
+
+Une arme de catégorie B ne peut être cédée par un particulier à un autre que dans le cas où le cessionnaire est autorisé à la
+détenir dans les conditions fixées aux articles L. 312-1 à L. 312-4-3. 
+
+Dans tous les cas, les transferts d'armes ou de munitions de la catégorie B sont opérés suivant des formes définies par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-###### Article L314-2
-
-Les armes et les munitions de la 1re ou de la 4e catégorie ne peuvent être transférées d'un particulier à un autre que dans
-les cas où celui à qui l'arme est transférée est autorisé à la détenir dans les conditions indiquées aux articles L. 312-1 à
-L. 312-4. 
-
-Dans tous les cas, les transferts d'armes ou de munitions de la 1re catégorie ou de la 4e catégorie sont constatés suivant
-des formes définies par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Anciens textes_:
 
@@ -6876,7 +7196,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L312-1 (VD)
+  - Code de la sécurité intérieure - art. L312-1
 
 _Cité par_:
 
@@ -6885,23 +7205,45 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L317-4 (Ab)
   - Code pénal - art. 222-52 (V)
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+###### Article L314-2-1
 
-
-###### Article L314-3
-
-Les cessions, à quelque titre que ce soit, d'armes ou de munitions de la 1re ou de la 4e catégorie non destinées au commerce
-ne peuvent être faites qu'aux personnes munies d'une autorisation.
-
-Les modalités de délivrance des autorisations d'achat et les indications à y porter sont définies par voie réglementaire.
+Toute cession entre particuliers d'une arme de catégorie C ou de catégorie D soumises à enregistrement donne lieu à
+l'établissement et au dépôt d'une déclaration dans les conditions définies à l'article L. 312-4-1 ou, le cas échéant, à un
+enregistrement, dans un délai d'un mois, auprès du représentant de l'Etat dans le département du lieu de son domicile ou, à
+Paris, du préfet de police.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-4-1
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L317-4-1 (V)
+
+
+###### Article L314-3
+
+Les cessions, à quelque titre que ce soit, d'armes ou de munitions des catégories A et B  non destinées au commerce ne
+peuvent être faites qu'aux personnes munies d'une autorisation.
+
+Les modalités de délivrance des autorisations d'achat et les indications à y porter sont définies par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Anciens textes_:
 
@@ -6912,10 +7254,6 @@ _Cité par_:
   - Code de la défense. - art. L2339-16 (VD)
   - Code de la défense. - art. L2339-4 (VD)
   - Code de la sécurité intérieure - art. L317-3-1 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L314-4
@@ -6945,12 +7283,13 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Port et transport<a id=95></a>
+#### Chapitre V : Port et transport<a id=97></a>
 
 ###### Article L315-1
 
-Le port des armes des 1re, 4e et 6e catégories ou d'éléments constitutifs des armes des 1re et 4e catégories ou de munitions
-correspondantes est interdit ainsi que leur transport sans motif légitime.
+Le port des armes catégories A, B, ainsi que des armes de la catégorie D figurant sur une liste fixée par un décret en
+Conseil d'Etat  ou d'éléments essentiels des armes des catégories A et B ou de munitions correspondantes est interdit ainsi
+que leur transport sans motif légitime.
 
 Les fonctionnaires et agents des administrations publiques exposés par leurs fonctions à des risques d'agression, ainsi que
 les personnels auxquels est confiée une mission de gardiennage et qui ont été préalablement agréés à cet effet par le
@@ -6959,9 +7298,13 @@ l'exercice de leurs fonctions, dans les conditions définies par décret en Cons
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -6972,10 +7315,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de la défense. - art. L2338-1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L315-2
@@ -6998,21 +7337,74 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VII : Dispositions pénales<a id=96></a>
+#### Chapitre VII : Dispositions pénales<a id=98></a>
 
 ###### Article L317-1
 
 Toute infraction aux prescriptions du présent titre peut être constatée par les agents des contributions indirectes et des
-douanes et par les autorités de police judiciaire qui en dressent procès-verbal.
+douanes et par les autorités de police judiciaire qui en dressent procès-verbal. 
 
-Ces infractions peuvent également être constatées par les agents relevant du contrôle général des armées qui possèdent, à cet
-effet, les attributions d'officier de police judiciaire et dont les procès-verbaux sont adressés au ministre de la défense.
+Les agents du ministère de la défense habilités dans des conditions fixées par décret en Conseil d'Etat peuvent également
+constater les infractions aux dispositions du présent titre ainsi qu'aux dispositions réglementaires prises pour leur
+application. 
+
+Les titulaires des autorisations et des licences définies au présent titre sont tenus de laisser pénétrer, dans toutes les
+parties de leurs locaux, les agents habilités de l'Etat. 
+
+Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents. 
+
+Ils sont également tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
+habilités. Ces investigations peuvent comporter, outre l'examen des lieux, des matériels et du système d'information, les
+recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles. 
+
+Les agents habilités de l'Etat qui ont connaissance à titre quelconque des renseignements recueillis au sujet des entreprises
+en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code
+pénal. 
+
+Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au
+présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
+de leurs missions respectives. 
+
+Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans
+le département ou, à Paris, au préfet de police. 
+
+En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
+procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
+ministre de la défense. 
+
+Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux
+dispositions du chapitre III du présent titre relatives aux matériels de guerre et aux matériels assimilés mentionnés à
+l'article L. 311-2 du présent code et commise par une personne morale mentionnée au I de l'article L. 2332-1 du code de la
+défense ou par une personne morale fabricant de matériels assimilés est mise en mouvement par le procureur de la République
+territorialement compétent. 
+
+Il apprécie la suite à donner aux faits portés à sa connaissance, notamment par la dénonciation du ministre de la défense ou
+de l'autorité habilitée par lui. 
+
+A défaut de cette dénonciation, le procureur de la République informe le ministre de la défense ou l'autorité habilitée par
+lui. 
+
+Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
+par tout moyen. 
+
+L'autorité mentionnée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 226-13
+  - Code de procédure pénale - art. 36
+  - Code de la défense. - art. L2332-1
+  - Code de la sécurité intérieure - art. L311-2
 
 _Anciens textes_:
 
@@ -7023,16 +7415,66 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L317-2 (VD)
   - Code pénal - art. 222-67 (V)
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+###### Article L317-1-1
+
+Est puni de sept ans d'emprisonnement et de 100 000 € d'amende quiconque, sans respecter les obligations résultant des
+premier et deuxième alinéas de l'article L. 313-3, se livre à la fabrication ou au commerce de matériels, armes, munitions et
+de leurs éléments essentiels, ou exerce son activité en qualité d'intermédiaire ou d'agent de publicité à l'occasion de la
+fabrication ou du commerce de matériels, armes, munitions et de leurs éléments essentiels. 
+
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande
+organisée. 
+
+La confiscation du matériel fabriqué ou du matériel à vendre, ainsi que sa vente aux enchères publiques, est ordonnée par le
+même jugement. 
+
+L'autorité administrative peut prescrire ou faire effectuer la mise hors d'usage, aux frais de l'auteur de l'infraction, du
+matériel avant sa mise aux enchères publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cité par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 24
+  - Code de la sécurité intérieure - art. L312-3 (VD)
+  - Code de la sécurité intérieure - art. L317-1-2 (VD)
+  - Code de procédure pénale - art. 706-55 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L313-3
+
+
+###### Article L317-1-2
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article L. 317-1-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code de la sécurité intérieure - art. L317-1-1
 
 
 ###### Article L317-2
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende : 
+Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende : 
 
-1° Le fait de contrevenir aux dispositions des articles L. 312-5 et L. 313-3 ; 
+1° Le fait de contrevenir aux dispositions des articles L. 312-5 et L. 317-1 ; 
 
 2° Le fait de vendre ou d'acheter des matériels de guerre, des armes, des munitions ou leurs éléments en méconnaissance des
 dispositions des articles L. 313-4 et L. 313-5 ; 
@@ -7042,9 +7484,13 @@ mineur, hors les cas où cette vente est autorisée dans les conditions fixées 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -7056,64 +7502,148 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L312-5 (VD)
-  - Code de la sécurité intérieure - art. L313-3 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L312-5
+  - Code de la sécurité intérieure - art. L313-4
+  - Code de la sécurité intérieure - art. L317-1
 
 
-###### Article L317-3
+###### Article L317-2-1
 
-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
-infractions définies à l'article L. 317-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
-code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
+Les peines sont portées à dix ans d'emprisonnement et 500 000 € d'amende si les infractions prévues à l'article L. 317-2 sont
+commises en bande organisée.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cite_:
 
-  - Code pénal - art. 121-2
-  - Code pénal - art. 131-38
-  - Code de la sécurité intérieure - art. L317-2 (VD)
+  - Code de la sécurité intérieure - art. L317-2
+
+
+###### Article L317-3
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 317-2 et L. 317-2-1 encourent, outre l'amende suivant les modalités prévues par
+l'article 131-38 du code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code de la sécurité intérieure - art. L317-2
+
+
+###### Article L317-3-1
+
+Est punie de trois ans d'emprisonnement et de 45 000 € d'amende la cession, à quelque titre que ce soit, par un fabricant ou
+commerçant, détenteur de l'une des autorisations mentionnées à l'article L. 313-3, d'une ou plusieurs armes ou munitions des
+catégories A, B, C ainsi que d'une ou plusieurs armes ou munitions de catégorie D mentionnées au second alinéa de l'article
+L. 312-4-2, en violation des articles L. 312-1 à L. 312-4-3 ou de l'article L. 314-3. 
+
+Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-1
+  - Code de la sécurité intérieure - art. L312-4-2
+  - Code de la sécurité intérieure - art. L313-3
+  - Code de la sécurité intérieure - art. L314-3
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L312-3 (M)
+
+
+###### Article L317-3-2
+
+Est punie de six mois d'emprisonnement et de 7 500 € d'amende toute personne titulaire de l'une des autorisations de
+fabrication ou de commerce d'armes et de munitions mentionnées à l'article L. 313-3 qui : 
+
+1° Ne tient pas à jour le registre spécial dans lequel sont enregistrés, dans des conditions fixées par décret en Conseil
+d'Etat, les matériels mis en fabrication, en réparation, en transformation, achetés, vendus, loués ou détruits ; 
+
+2° Dans le cas d'opérations d'intermédiation, ne tient pas à jour le registre spécial dans lequel sont enregistrés, dans des
+conditions fixées par le même décret en Conseil d'Etat, le nom des entreprises mises en relation ou des autres participants à
+l'opération d'intermédiation ainsi que le contenu de ces opérations ; 
+
+3° En cas de cessation d'activité, ne dépose pas auprès de l'autorité administrative compétente les registres spéciaux
+mentionnés aux 1° et 2° ou n'en assure pas la conservation pendant un délai et dans des conditions fixés par le même décret
+en Conseil d'Etat ; 
+
+4° Cède à un autre commerçant ou fabricant autorisé un matériel, une arme, un élément essentiel ou des munitions des
+catégories A, B ou C ou une arme, un élément essentiel ou des munitions de catégorie D mentionnés au second alinéa de
+l'article L. 312-4-1, sans accomplir les formalités déterminées par le même décret en Conseil d'Etat ; 
+
+5° Vend par correspondance des matériels, armes, munitions et leurs éléments essentiels sans avoir reçu et conservé les
+documents nécessaires à leur inscription sur le registre spécial mentionné au 1° du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-4-1
+  - Code de la sécurité intérieure - art. L313-3
+
 
 ###### Article L317-4
 
-Sont punies de trois ans d'emprisonnement et de 3 750 euros d'amende l'acquisition, la cession ou la détention, sans
-l'autorisation prévue au I de l'article L. 2332-1 du code de la défense, d'une ou plusieurs armes de la 1re ou de la 4e
-catégorie ou leurs munitions en violation des dispositions des articles L. 312-1, L. 312-2, L. 312-3, L. 314-2 ou L. 314-3. 
+Sont punies de trois ans d'emprisonnement et de 45 000 € d'amende l'acquisition, la cession ou la détention, sans
+l'autorisation prévue à l'article L. 313-3, d'une ou de plusieurs armes des catégories A ou B, de munitions ou de leurs
+éléments essentiels en violation des articles L. 312-1 à L. 312-4-3, L. 314-2 ou L. 314-3. 
 
 La peine d'emprisonnement est portée à cinq ans et l'interdiction de séjour peut être prononcée suivant les modalités prévues
 par l'article 131-31 du code pénal, si le coupable a été antérieurement condamné à l'emprisonnement ou à une peine plus grave
 pour crime ou délit. 
 
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande
 organisée. 
 
 Le tribunal ordonne, en outre, la confiscation des armes ou des munitions.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 _Cite_:
 
   - Code pénal - art. 131-31
-  - Code de la défense. - art. L2332-1
-  - Code de la sécurité intérieure - art. L312-1 (VD)
-  - Code de la sécurité intérieure - art. L314-2 (VD)
+  - Code de la sécurité intérieure - art. L312-1
+  - Code de la sécurité intérieure - art. L313-3
+  - Code de la sécurité intérieure - art. L314-2
 
 _Cité par_:
 
@@ -7123,56 +7653,23 @@ _Cité par_:
   - Code de procédure pénale - art. 706-73 (M)
   - Code pénal - art. 421-1 (M)
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+###### Article L317-4-1
 
+Sont punies de deux ans d'emprisonnement et de 30 000 € d'amende l'acquisition, la cession ou la détention d'une ou de
+plusieurs armes de la catégorie C en l'absence de la déclaration prévue à l'article L. 312-4-1 ou à l'article L. 314-2-1. 
 
-###### Article L317-5
+Sont punies d'un an d'emprisonnement et de 15 000 € d'amende l'acquisition, la cession ou la détention d'une ou de plusieurs
+armes de catégorie D en violation des obligations particulières mentionnées au second alinéa de l'article L. 312-4-2.
 
-Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait d'acquérir ou de détenir des armes et des
-munitions en violation d'une interdiction prévue à l'article L. 312-10 ou à l'article L. 312-13.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2339-6 (VT)
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L312-10 (VD)
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L312-3 (VD)
-  - Code de la sécurité intérieure - art. L317-10-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L317-6
-
-Est puni de trois mois d'emprisonnement et de 3 750 euros d'amende le fait de mettre obstacle à la saisie prévue par les
-articles L. 312-8 et L. 312-12. 
-
-La tentative du délit prévu à l'alinéa précédent est punie des mêmes peines.
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende lorsque l'infraction est commise en bande
+organisée.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2339-7 (VT)
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -7181,35 +7678,99 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L312-8 (VD)
+  - Code de la sécurité intérieure - art. L312-4-1
+  - Code de la sécurité intérieure - art. L312-4-2 (V)
+  - Code de la sécurité intérieure - art. L314-2-1
+
+
+###### Article L317-5
+
+Est puni de trois ans d'emprisonnement et de 45 000 € d'amende le fait d'acquérir ou de détenir des armes et des munitions en
+violation d'une interdiction prévue à l'article L. 312-10 ou à l'article L. 312-13.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2339-6 (VT)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-10
+  - Code de la sécurité intérieure - art. L312-13
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L312-3 (VD)
+  - Code de la sécurité intérieure - art. L317-10-1 (VD)
+
+
+###### Article L317-6
+
+Est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait de mettre obstacle à la saisie prévue par les articles
+L. 312-8 et L. 312-12. 
+
+La tentative du délit prévu à l'alinéa précédent est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Anciens textes_:
+
+  - Code de la défense. - art. L2339-7 (VT)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-12
+  - Code de la sécurité intérieure - art. L312-8
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L312-3 (V)
+  - Code de la sécurité intérieure - art. L317-10-1 (VD)
+
 
 ###### Article L317-7
 
-La détention d'un dépôt d'armes ou de munitions des 1re, 4e ou 6e catégories est punie de cinq ans d'emprisonnement et de 3
-750 euros d'amende.
+La détention d'un dépôt d'armes ou de munitions des catégories A, B, ainsi que des armes de la catégorie D figurant sur une
+liste fixée par un décret en Conseil d'Etat, est punie de cinq ans d'emprisonnement et de 3 750 € d'amende. 
 
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
-organisée.
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 € d'amende lorsque l'infraction est commise en bande
+organisée. 
 
 La peine est portée à dix ans d'emprisonnement et la peine complémentaire d'interdiction de séjour peut être prononcée
 suivant les modalités prévues par l'article 131-31 du code pénal lorsque le coupable a antérieurement été condamné à
-l'emprisonnement ou à une peine plus grave pour crime ou délit.
+l'emprisonnement ou à une peine plus grave pour crime ou délit. 
 
-Le tribunal ordonne, en outre, la confiscation des armes ou des munitions.
+Le tribunal ordonne, en outre, la confiscation des armes ou des munitions. 
 
 Ces dispositions ne sont pas applicables, dans la mesure où ils exercent leur industrie ou leur commerce, aux fabricants et
 aux vendeurs régulièrement autorisés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -7222,10 +7783,6 @@ _Cité par_:
   - Code des transports - art. L5211-3-1 (VD)
   - Code pénal - art. 421-1 (VD)
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 _Cite_:
 
   - Code pénal - art. 131-31
@@ -7235,28 +7792,116 @@ _Anciens textes_:
   - Code de la défense. - art. L2339-8 (Ab)
 
 
+###### Article L317-7-1
+
+Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende le fait de frauduleusement supprimer, masquer, altérer ou
+modifier de façon quelconque les marquages, poinçons, numéros de série, emblèmes ou signes de toute nature apposés ou
+intégrés sur des matériels mentionnés à l'article L. 311-2, des armes ou leurs éléments essentiels afin de garantir leur
+identification de manière certaine suivant les modalités fixées par un décret en Conseil d'Etat ou de détenir, en
+connaissance de cause, une arme ainsi modifiée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L311-2
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L317-7-2 (Ab)
+
+
+###### Article L317-7-2
+
+Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende l'acquisition, la vente, la livraison ou le transport de
+matériels, d'armes et de leurs éléments essentiels mentionnés à l'article L. 311-2 dépourvus des marquages, poinçons, numéros
+de série, emblèmes ou signes de toute nature apposés ou intégrés sur les matériels, les armes ou leurs éléments essentiels,
+nécessaires à leur identification de manière certaine suivant les modalités fixées par le décret en Conseil d'Etat prévu à
+l'article L. 317-7-1, ou dont les marquages, poinçons, numéros de série, emblèmes ou signes de toute nature auraient été
+supprimés, masqués, altérés ou modifiés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L311-2
+  - Code de la sécurité intérieure - art. L317-7-1 (Ab)
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L317-7-3 (Ab)
+  - Code de la sécurité intérieure - art. L317-7-4 (Ab)
+
+
+###### Article L317-7-3
+
+Les peines peuvent être portées à dix ans d'emprisonnement et 150 000 € d'amende si les infractions mentionnées à l'article
+L. 317-7-2 sont commises en bande organisée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L317-7-2
+
+
+###### Article L317-7-4
+
+La tentative des délits prévus aux articles L. 317-7-2 et L. 317-7-3 est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L317-7-2 (Ab)
+
+
 ###### Article L317-8
 
-Quiconque, hors de son domicile et sauf les exceptions résultant des dispositions des articles L. 315-1 et L. 315-2, est
-trouvé porteur ou effectue sans motif légitime le transport d'une ou plusieurs armes de 1re, 4e ou 6e catégorie, ou
-d'éléments constitutifs de ces armes des 1re et 4e catégories ou des munitions correspondantes, même s'il en est
-régulièrement détenteur, est puni : 
+Quiconque, hors de son domicile et sauf les exceptions résultant des articles L. 315-1 et L. 315-2, est trouvé porteur ou
+effectue sans motif légitime le transport de matériels de guerre, d'une ou plusieurs armes, de leurs éléments essentiels ou
+de munitions, même s'il en est régulièrement détenteur, est puni : 
 
-1° S'il s'agit d'une arme de la 1re ou de la 4e catégorie ou d'éléments constitutifs de ces armes ou de munitions
-correspondantes, de cinq ans d'emprisonnement et de 3 750 euros d'amende ; 
+1° S'il s'agit de matériels de guerre mentionnés à l'article L. 311-2, d'armes, de leurs éléments essentiels ou de munitions
+des catégories A ou B, de cinq ans d'emprisonnement et de 75 000 € d'amende ; 
 
-2° S'il s'agit d'une arme de la 6e catégorie, de trois ans d'emprisonnement et de 3 750 euros d'amende. 
+2° S'il s'agit d'armes, de leurs éléments essentiels ou de munitions de la catégorie C, de deux ans d'emprisonnement et de 30
+000 € d'amende ; 
 
-L'emprisonnement peut être porté à dix ans dans les cas suivants : 
-
-1° Si l'auteur des faits a été antérieurement condamné pour crime ou délit à une peine égale ou supérieure à un an
-d'emprisonnement ferme ou à une peine plus grave ; 
-
-2° Si le transport d'armes est effectué par au moins deux personnes ; 
-
-3° Si deux personnes au moins sont trouvées ensemble porteuses d'armes. 
-
-Dans tous les cas prévus au présent article, le tribunal ordonne la confiscation des armes.
+3° S'il s'agit d'armes, de munitions ou de leurs éléments de la catégorie D, à l'exception de ceux qui présentent une faible
+dangerosité et figurent sur une liste fixée par arrêté, d'un an d'emprisonnement et de 15 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -7282,29 +7927,35 @@ _Cité par_:
   - Code de procédure pénale - art. 837 (VD)
   - Code des transports - art. R2252-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2013-711 du 5 août 2013 - art. 20
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L315-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L311-2
+  - Code de la sécurité intérieure - art. L315-1
 
 
 ###### Article L317-9
 
-Les personnes physiques coupables des infractions prévues à l'article L. 317-8 encourent également la peine complémentaire de
-l'interdiction de séjour, prononcée suivant les modalités prévues par l'article 131-31 du code pénal.
+Si le transport d'armes est effectué par au moins deux personnes ou si deux personnes au moins sont trouvées ensemble
+porteuses d'armes, les peines prévues à l'article L. 317-8 sont portées : 
+
+1° S'il s'agit de matériels de guerre mentionnés à l'article L. 311-2, d'armes, de leurs éléments essentiels ou de munitions
+des catégories A ou B, à dix ans d'emprisonnement et 500 000 € d'amende ; 
+
+2° S'il s'agit d'armes, de leurs éléments essentiels ou de munitions de catégorie C, à cinq ans d'emprisonnement et 75 000 €
+d'amende ; 
+
+3° S'il s'agit d'armes, de munitions ou de leurs éléments de la catégorie D, à l'exception de ceux qui présentent une faible
+dangerosité et figurent sur une liste fixée par arrêté, à deux ans d'emprisonnement et 30 000 € d'amende.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2013-711 du 5 août 2013 - art. 20
 
 _Cité par_:
 
@@ -7314,35 +7965,76 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 131-31
-  - Code de la sécurité intérieure - art. L317-8 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L311-2
+  - Code de la sécurité intérieure - art. L317-8
 
 
-###### Article L317-10
+###### Article L317-9-1
 
-En cas de récidive, les peines complémentaires de l'interdiction de séjour et l'interdiction des droits mentionnés à
-l'article 131-26 du code pénal peuvent être prononcées.
+La licence de tir en cours de validité délivrée par une fédération sportive ayant reçu délégation du ministre chargé des
+sports au titre de l'article L. 131-14 du code du sport ou la carte de collectionneur d'armes délivrée en application des
+articles L. 312-6-1 à L. 312-6-4 du présent code valent titre de transport légitime des armes qu'elles permettent d'acquérir
+régulièrement. 
 
-Les délits prévus et réprimés par le présent titre ainsi que ceux prévus et réprimés par le titre III du livre III de la
-deuxième partie du code de la défense sont considérés comme étant, du point de vue de la récidive, un même délit.
+Le permis de chasser vaut titre de transport légitime pour les armes qu'il permet de détenir. 
+
+Le permis de chasser accompagné de la validation de l'année en cours ou de l'année précédente vaut titre de port légitime des
+armes qu'il permet d'acquérir pour leur utilisation en action de chasse ou pour toute activité qui y est liée.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cite_:
 
-  - Code pénal - art. 131-26
+  - Code du sport. - art. L131-14
+  - Code de la sécurité intérieure - art. L312-6-1
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L344-2 (VD)
+  - Code de la sécurité intérieure - art. L345-2 (VD)
+
+
+###### Article L317-9-2
+
+Sont punis de cinq ans d'emprisonnement et de 75 000 € d'amende les contrefaçons d'un poinçon d'épreuve et l'usage frauduleux
+des poinçons contrefaits.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Abrogé par_:
+
+  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+
+###### Article L317-10
+
+En cas de récidive, les peines complémentaires de l'interdiction de séjour et l'interdiction des droits mentionnés à
+l'article 131-26 du code pénal peuvent être prononcées. 
+
+Les délits prévus et réprimés par le présent titre ainsi que ceux prévus et réprimés par le titre III du livre III de la
+deuxième partie du code de la défense, sont considérés comme étant, du point de vue de la récidive, un même délit.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 131-26
 
 
 ###### Article L317-11
@@ -7353,20 +8045,42 @@ d'identifier, le cas échéant, les autres auteurs ou complices.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L317-7 (VD)
-
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-### TITRE II : JEUX DE HASARD, CASINOS, LOTERIES<a id=97></a>
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L317-7
+
+
+###### Article L317-12
+
+En cas de condamnation pour les infractions prévues au présent chapitre, le prononcé des peines complémentaires suivantes est
+obligatoire : 
+
+1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
+
+3° Le retrait du permis de chasser avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
+plus. 
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+
+
+### TITRE II : JEUX DE HASARD, CASINOS, LOTERIES<a id=99></a>
 
 ###### Article L320-1
 
@@ -7397,7 +8111,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre Ier : Casinos<a id=98></a>
+#### Chapitre Ier : Casinos<a id=100></a>
 
 ###### Article L321-1
 
@@ -7733,7 +8447,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Loteries<a id=99></a>
+#### Chapitre II : Loteries<a id=101></a>
 
 ###### Article L322-1
 
@@ -7929,7 +8643,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Dispositions communes<a id=100></a>
+#### Chapitre III : Dispositions communes<a id=102></a>
 
 ###### Article L323-1
 
@@ -7975,9 +8689,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Dispositions pénales<a id=101></a>
+#### Chapitre IV : Dispositions pénales<a id=103></a>
 
-##### Section 1 : Jeux de hasard et casinos<a id=102></a>
+##### Section 1 : Jeux de hasard et casinos<a id=104></a>
 
 ###### Article L324-1
 
@@ -8201,7 +8915,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Loteries<a id=103></a>
+##### Section 2 : Loteries<a id=105></a>
 
 ###### Article L324-6
 
@@ -8382,9 +9096,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE III : FERMETURE ADMINISTRATIVE  DE CERTAINS ÉTABLISSEMENTS<a id=104></a>
+### TITRE III : FERMETURE ADMINISTRATIVE  DE CERTAINS ÉTABLISSEMENTS<a id=106></a>
 
-#### Chapitre Ier : Débits de boissons et restaurants<a id=105></a>
+#### Chapitre Ier : Débits de boissons et restaurants<a id=107></a>
 
 ###### Article L331-1
 
@@ -8412,7 +9126,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Etablissements de vente à emporter de boissons  alcoolisées ou d'aliments préparés sur place<a id=106></a>
+#### Chapitre II : Etablissements de vente à emporter de boissons  alcoolisées ou d'aliments préparés sur place<a id=108></a>
 
 ###### Article L332-1
 
@@ -8445,7 +9159,7 @@ _Créé par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Etablissements diffusant de la musique<a id=107></a>
+#### Chapitre III : Etablissements diffusant de la musique<a id=109></a>
 
 ###### Article L333-1
 
@@ -8477,7 +9191,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Dispositions pénales<a id=108></a>
+#### Chapitre IV : Dispositions pénales<a id=110></a>
 
 ###### Article L334-1
 
@@ -8540,9 +9254,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=109></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=111></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin<a id=110></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin<a id=112></a>
 
 ###### Article L341-1
 
@@ -8564,7 +9278,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=111></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=113></a>
 
 ###### Article L342-1
 
@@ -8586,7 +9300,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=112></a>
+#### Chapitre III : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=114></a>
 
 ###### Article L343-1
 
@@ -8633,7 +9347,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie francaise<a id=113></a>
+#### Chapitre IV : Dispositions applicables en Polynésie francaise<a id=115></a>
 
 ###### Article L344-1
 
@@ -8682,22 +9396,32 @@ République en Polynésie française ;
 3° Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie
 locale ; 
 
+3° bis A l'article L. 312-1, après les mots : " par la fédération sportive ayant reçu, au titre de l'article L. 131-14 du
+code du sport, délégation du ministre chargé des sports pour la pratique du tir ”, sont insérés les mots : " ou par une
+fédération sportive territoriale, en application des dispositions applicables localement ” ; 
+
+3° ter Aux articles L. 312-4, L. 312-4-1 et L. 317-9-1, après les mots : " par une fédération sportive ayant reçu délégation
+du ministre chargé des sports au titre de l'article L. 131-14 du code du sport ”, sont insérés les mots : " ou par une
+fédération sportive territoriale, en application des dispositions applicables localement ” ; 
+
+3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
+remplacés par les mots : " dispositions applicables localement ” ; 
+
 4° Le 2° de l'article L. 324-4 est supprimé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2013-519 du 20 juin 2013 - art. 3
 
 _Cite_:
 
+  - Code de la sécurité intérieure - art. L312-4 (V)
+  - Code de la sécurité intérieure - art. L313-4 (V)
+  - Code de la sécurité intérieure - art. L317-9-1 (V)
   - Code de la sécurité intérieure - art. L324-4 (V)
-  - Code de la sécurité intérieure - art. L344-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L344-1
 
 
 ###### Article L344-3
@@ -8783,7 +9507,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=114></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=116></a>
 
 ###### Article L345-1
 
@@ -8825,21 +9549,37 @@ République en Nouvelle-Calédonie ;
 3° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contre-valeur en monnaie
 locale ; 
 
+3° bis A l'article L. 312-1, après les mots : " par la fédération sportive ayant reçu, au titre de l'article L. 131-14 du
+code du sport, délégation du ministre chargé des sports pour la pratique du tir ”, sont insérés les mots : " ou par une
+fédération sportive territoriale, en application des dispositions applicables localement ” ; 
+
+3° ter Aux articles L. 312-4, L. 312-4-1 et L. 317-9-1, après les mots : " par une fédération sportive ayant reçu délégation
+du ministre chargé des sports au titre de l'article L. 131-14 du code du sport ”, sont insérés les mots : " ou par une
+fédération sportive territoriale, en application des dispositions applicables localement ” ; 
+
+3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
+remplacés par les mots : " dispositions applicables localement ” ; 
+
 4° Le 2° de l'article L. 324-4 est supprimé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L345-1 (VD)
-
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-519 du 20 juin 2013 - art. 3
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L312-1 (V)
+  - Code de la sécurité intérieure - art. L312-4 (V)
+  - Code de la sécurité intérieure - art. L313-4 (V)
+  - Code de la sécurité intérieure - art. L317-9-1 (V)
+  - Code de la sécurité intérieure - art. L324-4
+  - Code de la sécurité intérieure - art. L345-1
 
 
 ###### Article L345-3
@@ -8912,7 +9652,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VI : Dispositions applicables à Wallis-et-Futuna<a id=115></a>
+#### Chapitre VI : Dispositions applicables à Wallis-et-Futuna<a id=117></a>
 
 ###### Article L346-1
 
@@ -8958,13 +9698,28 @@ Pour l'application des dispositions énumérées à l'article L. 346-1 :
 3° Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contre-valeur en
 monnaie locale ; 
 
-4° Le 2° de l'article L. 324-4 est supprimé.
+3° bis A l'article L. 312-1, après les mots : " par la fédération sportive ayant reçu, au titre de l'article L. 131-14 du
+code du sport, délégation du ministre chargé des sports pour la pratique du tir ”, sont insérés les mots : " ou par une
+fédération sportive territoriale, en application des dispositions applicables localement ” ; 
+
+3° ter Aux articles L. 312-4, L. 312-4-1 et L. 317-9-1, après les mots : " par  une fédération sportive ayant reçu délégation
+du ministre chargé des  sports au titre de l'article L. 131-14 du code du sport ”, sont insérés les mots : " ou par une
+fédération sportive territoriale, en application des dispositions applicables localement ” ; 
+
+3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
+remplacés par les mots : " dispositions applicables localement ” ;
+
+4° Le 2° de l'article L. 324-4est supprimé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-519 du 20 juin 2013 - art. 3
 
 _Cité par_:
 
@@ -8972,14 +9727,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L346-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L324-4
+  - Code de la sécurité intérieure - art. L346-1
 
 
-#### Chapitre VII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=116></a>
+#### Chapitre VII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=118></a>
 
 ###### Article L347-1
 
@@ -9028,13 +9780,13 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-## LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE<a id=117></a>
+## LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE<a id=119></a>
 
-### TITRE Ier : POLICE NATIONALE<a id=118></a>
+### TITRE Ier : POLICE NATIONALE<a id=120></a>
 
-#### Chapitre Ier : Missions et personnels de la police nationale<a id=119></a>
+#### Chapitre Ier : Missions et personnels de la police nationale<a id=121></a>
 
-##### Section 1 : Dispositions générales<a id=120></a>
+##### Section 1 : Dispositions générales<a id=122></a>
 
 ###### Article L411-1
 
@@ -9110,7 +9862,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Fonctionnaires actifs<a id=121></a>
+##### Section 2 : Fonctionnaires actifs<a id=123></a>
 
 ###### Article L411-4
 
@@ -9127,7 +9879,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Adjoints de sécurité<a id=122></a>
+##### Section 3 : Adjoints de sécurité<a id=124></a>
 
 ###### Article L411-5
 
@@ -9211,7 +9963,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Réserve civile<a id=123></a>
+##### Section 4 : Réserve civile<a id=125></a>
 
 ###### Article L411-7
 
@@ -9571,7 +10323,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Déontologie de la police nationale<a id=124></a>
+#### Chapitre II : Déontologie de la police nationale<a id=126></a>
 
 ###### Article L412-1
 
@@ -9600,9 +10352,9 @@ _Créé par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Etablissements publics de la police nationale<a id=125></a>
+#### Chapitre III : Etablissements publics de la police nationale<a id=127></a>
 
-##### Section unique : Institut national de police scientifique<a id=126></a>
+##### Section unique : Institut national de police scientifique<a id=128></a>
 
 ###### Article L413-1
 
@@ -9703,11 +10455,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE II : GENDARMERIE NATIONALE<a id=127></a>
+### TITRE II : GENDARMERIE NATIONALE<a id=129></a>
 
-#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=128></a>
+#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=130></a>
 
-##### Section 1 : Missions<a id=129></a>
+##### Section 1 : Missions<a id=131></a>
 
 ###### Article L421-1
 
@@ -9792,7 +10544,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Militaires de la gendarmerie nationale<a id=130></a>
+##### Section 2 : Militaires de la gendarmerie nationale<a id=132></a>
 
 ###### Article L421-4
 
@@ -9809,9 +10561,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE III : DISPOSITIONS COMMUNES<a id=131></a>
+### TITRE III : DISPOSITIONS COMMUNES<a id=133></a>
 
-#### Chapitre III : Service volontaire citoyen de la police  et de la gendarmerie nationales<a id=132></a>
+#### Chapitre III : Service volontaire citoyen de la police  et de la gendarmerie nationales<a id=134></a>
 
 ###### Article L433-1
 
@@ -10043,9 +10795,9 @@ _Créé par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER<a id=133></a>
+### TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER<a id=135></a>
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=134></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=136></a>
 
 ###### Article L442-1
 
@@ -10081,7 +10833,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=135></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=137></a>
 
 ###### Article L445-1
 
@@ -10132,7 +10884,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=136></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=138></a>
 
 ###### Article L446-1
 
@@ -10176,7 +10928,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=137></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=139></a>
 
 ###### Article L447-1
 
@@ -10217,7 +10969,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=138></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=140></a>
 
 ###### Article L448-1
 
@@ -10239,13 +10991,13 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-## LIVRE V : POLICES MUNICIPALES<a id=139></a>
+## LIVRE V : POLICES MUNICIPALES<a id=141></a>
 
-### TITRE Ier : AGENTS DE POLICE MUNICIPALE<a id=140></a>
+### TITRE Ier : AGENTS DE POLICE MUNICIPALE<a id=142></a>
 
-#### Chapitre Ier : Missions, recrutement et modalités d'exercice<a id=141></a>
+#### Chapitre Ier : Missions, recrutement et modalités d'exercice<a id=143></a>
 
-##### Section 1 : Missions<a id=142></a>
+##### Section 1 : Missions<a id=144></a>
 
 ###### Article L511-1
 
@@ -10316,7 +11068,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Nomination et agrément<a id=143></a>
+##### Section 2 : Nomination et agrément<a id=145></a>
 
 ###### Article L511-2
 
@@ -10392,7 +11144,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Carte professionnelle, tenue et équipements<a id=144></a>
+##### Section 3 : Carte professionnelle, tenue et équipements<a id=146></a>
 
 ###### Article L511-4
 
@@ -10433,7 +11185,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Port d'armes<a id=145></a>
+##### Section 4 : Port d'armes<a id=147></a>
 
 ###### Article L511-5
 
@@ -10477,7 +11229,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 5 : Formation continue<a id=146></a>
+##### Section 5 : Formation continue<a id=148></a>
 
 ###### Article L511-6
 
@@ -10524,9 +11276,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Organisation des services<a id=147></a>
+#### Chapitre II : Organisation des services<a id=149></a>
 
-##### Section 1 : Mise en commun des agents de police municipale<a id=148></a>
+##### Section 1 : Mise en commun des agents de police municipale<a id=150></a>
 
 ###### Article L512-1
 
@@ -10660,7 +11412,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat<a id=149></a>
+##### Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat<a id=151></a>
 
 ###### Article L512-4
 
@@ -10794,7 +11546,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Contrôle par le ministre de l'intérieur<a id=150></a>
+#### Chapitre III : Contrôle par le ministre de l'intérieur<a id=152></a>
 
 ###### Article L513-1
 
@@ -10832,7 +11584,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Commission consultative des polices municipales<a id=151></a>
+#### Chapitre IV : Commission consultative des polices municipales<a id=153></a>
 
 ###### Article L514-1
 
@@ -10867,7 +11619,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Déontologie des agents de police municipale<a id=152></a>
+#### Chapitre V : Déontologie des agents de police municipale<a id=154></a>
 
 ###### Article L515-1
 
@@ -10894,9 +11646,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE II : GARDES CHAMPÊTRES<a id=153></a>
+### TITRE II : GARDES CHAMPÊTRES<a id=155></a>
 
-#### Chapitre Ier : Missions<a id=154></a>
+#### Chapitre Ier : Missions<a id=156></a>
 
 ###### Article L521-1
 
@@ -10950,7 +11702,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Nomination, agrément et modalités d'exercice<a id=155></a>
+#### Chapitre II : Nomination, agrément et modalités d'exercice<a id=157></a>
 
 ###### Article L522-1
 
@@ -11085,7 +11837,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Dispositions applicables dans les départements  de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=156></a>
+#### Chapitre III : Dispositions applicables dans les départements  de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=158></a>
 
 ###### Article L523-1
 
@@ -11135,9 +11887,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES  APPLICABLES À PARIS<a id=157></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES  APPLICABLES À PARIS<a id=159></a>
 
-#### Chapitre Ier : Agents de la ville de Paris chargés d'un service de police<a id=158></a>
+#### Chapitre Ier : Agents de la ville de Paris chargés d'un service de police<a id=160></a>
 
 ###### Article L531-1
 
@@ -11200,7 +11952,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police<a id=159></a>
+#### Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police<a id=161></a>
 
 ###### Article L532-1
 
@@ -11232,9 +11984,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER<a id=160></a>
+### TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER<a id=162></a>
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=161></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=163></a>
 
 ###### Article L542-1
 
@@ -11277,7 +12029,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=162></a>
+#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=164></a>
 
 ###### Article L543-1
 
@@ -11304,7 +12056,7 @@ _Modifié par_:
   - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
 
 
-#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=163></a>
+#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=165></a>
 
 ###### Article L544-1
 
@@ -11330,7 +12082,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=164></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=166></a>
 
 ###### Article L545-1
 
@@ -11403,7 +12155,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=165></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=167></a>
 
 ###### Article L546-1
 
@@ -11643,11 +12395,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-## LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=166></a>
+## LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=168></a>
 
-### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS ET DE PROTECTION PHYSIQUE DES PERSONNES<a id=167></a>
+### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS ET DE PROTECTION PHYSIQUE DES PERSONNES<a id=169></a>
 
-#### Chapitre Ier : Dispositions générales<a id=168></a>
+#### Chapitre Ier : Dispositions générales<a id=170></a>
 
 ###### Article L611-1
 
@@ -11809,9 +12561,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Conditions d'exercice<a id=169></a>
+#### Chapitre II : Conditions d'exercice<a id=171></a>
 
-##### Section 1 : Dispositions générales<a id=170></a>
+##### Section 1 : Dispositions générales<a id=172></a>
 
 ###### Article L612-1
 
@@ -11984,7 +12736,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=171></a>
+##### Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=173></a>
 
 ###### Article L612-6
 
@@ -12137,7 +12889,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales<a id=172></a>
+##### Section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales<a id=174></a>
 
 ###### Article L612-9
 
@@ -12550,9 +13302,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Autorisation d'exercice des employés<a id=173></a>
+##### Section 4 : Autorisation d'exercice des employés<a id=175></a>
 
-##### Sous-section 1 : Délivrance de la carte professionnelle<a id=174></a>
+##### Sous-section 1 : Délivrance de la carte professionnelle<a id=176></a>
 
 ###### Article L612-20
 
@@ -12691,7 +13443,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Autorisation d'accès à la formation professionnelle<a id=175></a>
+##### Sous-section 2 : Autorisation d'accès à la formation professionnelle<a id=177></a>
 
 ###### Article L612-22
 
@@ -12729,7 +13481,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 3 : Autorisation provisoire d'exercice<a id=176></a>
+##### Sous-section 3 : Autorisation provisoire d'exercice<a id=178></a>
 
 ###### Article L612-23
 
@@ -12773,7 +13525,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 5 : Dispositions communes<a id=177></a>
+##### Section 5 : Dispositions communes<a id=179></a>
 
 ###### Article L612-24
 
@@ -12867,11 +13619,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Modalités d'exercice<a id=178></a>
+#### Chapitre III : Modalités d'exercice<a id=180></a>
 
-##### Section 1 : Activités de surveillance et de gardiennage<a id=179></a>
+##### Section 1 : Activités de surveillance et de gardiennage<a id=181></a>
 
-##### Sous-section 1 : Missions<a id=180></a>
+##### Sous-section 1 : Missions<a id=182></a>
 
 ###### Article L613-1
 
@@ -13004,7 +13756,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Tenue<a id=181></a>
+##### Sous-section 2 : Tenue<a id=183></a>
 
 ###### Article L613-4
 
@@ -13031,7 +13783,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 3 : Port d'arme<a id=182></a>
+##### Sous-section 3 : Port d'arme<a id=184></a>
 
 ###### Article L613-5
 
@@ -13067,7 +13819,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 4 : Activités de surveillance à distance  des biens meubles ou immeubles<a id=183></a>
+##### Sous-section 4 : Activités de surveillance à distance  des biens meubles ou immeubles<a id=185></a>
 
 ###### Article L613-6
 
@@ -13107,7 +13859,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 5 : Activité d'agent cynophile<a id=184></a>
+##### Sous-section 5 : Activité d'agent cynophile<a id=186></a>
 
 ###### Article L613-7
 
@@ -13151,9 +13903,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Activités de transport de fonds<a id=185></a>
+##### Section 2 : Activités de transport de fonds<a id=187></a>
 
-##### Sous-section 1 : Tenue et port d'arme<a id=186></a>
+##### Sous-section 1 : Tenue et port d'arme<a id=188></a>
 
 ###### Article L613-8
 
@@ -13214,7 +13966,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Sécurisation des locaux des personnes faisant appel  aux entreprises de transport de fonds et de leurs accès<a id=187></a>
+##### Sous-section 2 : Sécurisation des locaux des personnes faisant appel  aux entreprises de transport de fonds et de leurs accès<a id=189></a>
 
 ###### Article L613-10
 
@@ -13269,7 +14021,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Activités de protection physique des personnes<a id=188></a>
+##### Section 3 : Activités de protection physique des personnes<a id=190></a>
 
 ###### Article L613-12
 
@@ -13300,7 +14052,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Activités de vidéoprotection<a id=189></a>
+##### Section 4 : Activités de vidéoprotection<a id=191></a>
 
 ###### Article L613-13
 
@@ -13339,9 +14091,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Services de sécurité des bailleurs d'immeuble<a id=190></a>
+#### Chapitre IV : Services de sécurité des bailleurs d'immeuble<a id=192></a>
 
-##### Section 1 : Missions<a id=191></a>
+##### Section 1 : Missions<a id=193></a>
 
 ###### Article L614-1
 
@@ -13379,7 +14131,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Recrutement<a id=192></a>
+##### Section 2 : Recrutement<a id=194></a>
 
 ###### Article L614-2
 
@@ -13421,7 +14173,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Tenue et carte professionnelle<a id=193></a>
+##### Section 3 : Tenue et carte professionnelle<a id=195></a>
 
 ###### Article L614-3
 
@@ -13450,14 +14202,15 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Port d'armes<a id=194></a>
+##### Section 4 : Port d'armes<a id=196></a>
 
 ###### Article L614-4
 
 Les agents de la personne morale mentionnée à l'article L. 614-1 peuvent être nominativement autorisés par le représentant de
-l'Etat dans le département, ou, à Paris, par le préfet de police, à porter une arme de sixième catégorie dans l'exercice de
-leurs missions, lorsque les immeubles ou groupes d'immeubles collectifs à usage d'habitation dans lesquels ils assurent les
-fonctions de gardiennage ou de surveillance sont particulièrement exposés à des risques d'agression sur les personnes.
+l'Etat dans le département, ou, à Paris, par le préfet de police, à porter une arme de  la catégorie D figurant sur une liste
+fixée par décret en Conseil d'Etat dans l'exercice de leurs missions, lorsque les immeubles ou groupes d'immeubles collectifs
+à usage d'habitation dans lesquels ils assurent les fonctions de gardiennage ou de surveillance sont particulièrement exposés
+à des risques d'agression sur les personnes.
 
 **Liens relatifs à cet article**
 
@@ -13465,9 +14218,13 @@ _Anciens textes_:
 
   - Loi n°83-629 du 12 juillet 1983 - art. 11-5 al. 2 (VT)
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 2
 
 _Cité par_:
 
@@ -13476,37 +14233,29 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L614-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L614-1
 
 
 ###### Article L614-5
 
-Un décret en Conseil d'Etat précise les types d'armes de sixième catégorie susceptibles d'être autorisés, leurs conditions
-d'acquisition et de conservation par la personne morale, les modalités selon lesquelles cette dernière les remet à ses
-agents, les conditions dans lesquelles ces armes sont portées pendant l'exercice des fonctions de gardiennage ou de
-surveillance et remisées en dehors de l'exercice de ces fonctions, les modalités d'agrément des personnes dispensant la
-formation à ces agents ainsi que le contenu de cette formation.
+Un décret en Conseil d'Etat précise les types d'armes de  la catégorie D figurant sur une liste fixée par décret en Conseil
+d'Etat susceptibles d'être autorisés, leurs conditions d'acquisition et de conservation par la personne morale, les modalités
+selon lesquelles cette dernière les remet à ses agents, les conditions dans lesquelles ces armes sont portées pendant
+l'exercice des fonctions de gardiennage ou de surveillance et remisées en dehors de l'exercice de ces fonctions, les
+modalités d'agrément des personnes dispensant la formation à ces agents ainsi que le contenu de cette formation.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-629 du 12 juillet 1983 - art. 11-5 al. 3 (VT)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
+_Modifié par_:
 
-#### Chapitre V : Services internes de sécurité  des entreprises de transport<a id=195></a>
+  - Ordonnance n°2013-518 du 20 juin 2013 - art. 2
+
+
+#### Chapitre V : Services internes de sécurité  des entreprises de transport<a id=197></a>
 
 ###### Article L615-1
 
@@ -13525,7 +14274,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VI : Contrôle administratif<a id=196></a>
+#### Chapitre VI : Contrôle administratif<a id=198></a>
 
 ###### Article L616-1
 
@@ -13591,11 +14340,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VII : Dispositions pénales<a id=197></a>
+#### Chapitre VII : Dispositions pénales<a id=199></a>
 
-##### Section 1 : Conditions d'exercice<a id=198></a>
+##### Section 1 : Conditions d'exercice<a id=200></a>
 
-##### Sous-section 1 : Dispositions générales<a id=199></a>
+##### Sous-section 1 : Dispositions générales<a id=201></a>
 
 ###### Article L617-1
 
@@ -13664,7 +14413,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=200></a>
+##### Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=202></a>
 
 ###### Article L617-3
 
@@ -13693,7 +14442,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 3 : Autorisation d'exercice délivrée aux exploitants  et aux personnes morales<a id=201></a>
+##### Sous-section 3 : Autorisation d'exercice délivrée aux exploitants  et aux personnes morales<a id=203></a>
 
 ###### Article L617-4
 
@@ -13774,7 +14523,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 4 : Carte professionnelle des employés<a id=202></a>
+##### Sous-section 4 : Carte professionnelle des employés<a id=204></a>
 
 ###### Article L617-7
 
@@ -13832,7 +14581,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 5 : Services internes de sécurité<a id=203></a>
+##### Sous-section 5 : Services internes de sécurité<a id=205></a>
 
 ###### Article L617-9
 
@@ -13893,9 +14642,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Modalités d'exercice<a id=204></a>
+##### Section 2 : Modalités d'exercice<a id=206></a>
 
-##### Sous-section 1 : Activités de surveillance et de gardiennage<a id=205></a>
+##### Sous-section 1 : Activités de surveillance et de gardiennage<a id=207></a>
 
 ###### Article L617-11
 
@@ -13922,7 +14671,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Activités de transport de fonds<a id=206></a>
+##### Sous-section 2 : Activités de transport de fonds<a id=208></a>
 
 ###### Article L617-12
 
@@ -13952,7 +14701,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Services internes de sécurité<a id=207></a>
+##### Section 3 : Services internes de sécurité<a id=209></a>
 
 ###### Article L617-13
 
@@ -13986,7 +14735,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Contrôle administratif<a id=208></a>
+##### Section 4 : Contrôle administratif<a id=210></a>
 
 ###### Article L617-14
 
@@ -14012,7 +14761,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 5 : Dispositions communes<a id=209></a>
+##### Section 5 : Dispositions communes<a id=211></a>
 
 ###### Article L617-15
 
@@ -14095,9 +14844,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES<a id=210></a>
+### TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES<a id=212></a>
 
-#### Chapitre Ier : Dispositions générales<a id=211></a>
+#### Chapitre Ier : Dispositions générales<a id=213></a>
 
 ###### Article L621-1
 
@@ -14164,9 +14913,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Conditions d'exercice<a id=212></a>
+#### Chapitre II : Conditions d'exercice<a id=214></a>
 
-##### Section 1 : Dispositions générales<a id=213></a>
+##### Section 1 : Dispositions générales<a id=215></a>
 
 ###### Article L622-1
 
@@ -14323,7 +15072,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=214></a>
+##### Section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=216></a>
 
 ###### Article L622-6
 
@@ -14458,7 +15207,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Autorisation d'exercice délivrée aux exploitants individuels  et aux personnes morales<a id=215></a>
+##### Section 3 : Autorisation d'exercice délivrée aux exploitants individuels  et aux personnes morales<a id=217></a>
 
 ###### Article L622-9
 
@@ -14792,9 +15541,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Autorisation d'exercice des employés<a id=216></a>
+##### Section 4 : Autorisation d'exercice des employés<a id=218></a>
 
-##### Sous-section 1 : Délivrance de la carte professionnelle<a id=217></a>
+##### Sous-section 1 : Délivrance de la carte professionnelle<a id=219></a>
 
 ###### Article L622-19
 
@@ -14905,7 +15654,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Autorisation d'accès à la formation professionnelle<a id=218></a>
+##### Sous-section 2 : Autorisation d'accès à la formation professionnelle<a id=220></a>
 
 ###### Article L622-21
 
@@ -14945,7 +15694,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 3 : Autorisation provisoire d'exercice<a id=219></a>
+##### Sous-section 3 : Autorisation provisoire d'exercice<a id=221></a>
 
 ###### Article L622-22
 
@@ -14989,7 +15738,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 5 : Dispositions communes<a id=220></a>
+##### Section 5 : Dispositions communes<a id=222></a>
 
 ###### Article L622-23
 
@@ -15056,7 +15805,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Contrôle administratif<a id=221></a>
+#### Chapitre III : Contrôle administratif<a id=223></a>
 
 ###### Article L623-1
 
@@ -15107,11 +15856,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Dispositions pénales<a id=222></a>
+#### Chapitre IV : Dispositions pénales<a id=224></a>
 
-##### Section 1 : Conditions d'exercice<a id=223></a>
+##### Section 1 : Conditions d'exercice<a id=225></a>
 
-##### Sous-section 1 : Dispositions générales<a id=224></a>
+##### Sous-section 1 : Dispositions générales<a id=226></a>
 
 ###### Article L624-1
 
@@ -15202,7 +15951,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=225></a>
+##### Sous-section 2 : Agrément des exploitants individuels  et des dirigeants et gérants de personnes morales<a id=227></a>
 
 ###### Article L624-4
 
@@ -15231,7 +15980,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales<a id=226></a>
+##### Sous-section 3 : Autorisation d'exercice délivrée  aux exploitants individuels et aux personnes morales<a id=228></a>
 
 ###### Article L624-5
 
@@ -15312,7 +16061,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 4 : Autorisation d'exercice des employés<a id=227></a>
+##### Sous-section 4 : Autorisation d'exercice des employés<a id=229></a>
 
 ###### Article L624-8
 
@@ -15390,7 +16139,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 5 : Dispositions communes<a id=228></a>
+##### Sous-section 5 : Dispositions communes<a id=230></a>
 
 ###### Article L624-11
 
@@ -15416,7 +16165,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Contrôle administratif<a id=229></a>
+##### Section 2 : Contrôle administratif<a id=231></a>
 
 ###### Article L624-12
 
@@ -15442,7 +16191,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Dispositions communes<a id=230></a>
+##### Section 3 : Dispositions communes<a id=232></a>
 
 ###### Article L624-13
 
@@ -15508,9 +16257,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE III : CONSEIL NATIONAL DES ACTIVITÉS  PRIVÉES DE SÉCURITÉ<a id=231></a>
+### TITRE III : CONSEIL NATIONAL DES ACTIVITÉS  PRIVÉES DE SÉCURITÉ<a id=233></a>
 
-#### Chapitre Ier : Dispositions générales<a id=232></a>
+#### Chapitre Ier : Dispositions générales<a id=234></a>
 
 ###### Article L631-1
 
@@ -15533,9 +16282,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Missions et fonctionnement du Conseil national  des activités privées de sécurité<a id=233></a>
+#### Chapitre II : Missions et fonctionnement du Conseil national  des activités privées de sécurité<a id=235></a>
 
-##### Section 1 : Missions<a id=234></a>
+##### Section 1 : Missions<a id=236></a>
 
 ###### Article L632-1
 
@@ -15574,7 +16323,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Fonctionnement<a id=235></a>
+##### Section 2 : Fonctionnement<a id=237></a>
 
 ###### Article L632-2
 
@@ -15653,7 +16402,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Commissions régionales ou interrégionales  d'agrément et de contrôle<a id=236></a>
+#### Chapitre III : Commissions régionales ou interrégionales  d'agrément et de contrôle<a id=238></a>
 
 ###### Article L633-1
 
@@ -15759,9 +16508,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Contrôles<a id=237></a>
+#### Chapitre IV : Contrôles<a id=239></a>
 
-##### Section 1 : Exercice du contrôle<a id=238></a>
+##### Section 1 : Exercice du contrôle<a id=240></a>
 
 ###### Article L634-1
 
@@ -15885,7 +16634,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Sanctions disciplinaires<a id=239></a>
+##### Section 2 : Sanctions disciplinaires<a id=241></a>
 
 ###### Article L634-4
 
@@ -15934,7 +16683,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Dispositions finales<a id=240></a>
+#### Chapitre V : Dispositions finales<a id=242></a>
 
 ###### Article L635-1
 
@@ -15955,9 +16704,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=241></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=243></a>
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=242></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=244></a>
 
 ###### Article L642-1
 
@@ -16019,7 +16768,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=243></a>
+#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=245></a>
 
 ###### Article L643-1
 
@@ -16041,7 +16790,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=244></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=246></a>
 
 ###### Article L644-1
 
@@ -16063,7 +16812,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=245></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=247></a>
 
 ###### Article L645-1
 
@@ -16172,7 +16921,7 @@ _Modifié par_:
   - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=246></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=248></a>
 
 ###### Article L646-1
 
@@ -16282,7 +17031,7 @@ _Modifié par_:
   - Ordonnance n°2013-519 du 20 juin 2013 - art. 5
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=247></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=249></a>
 
 ###### Article L647-1
 
@@ -16387,11 +17136,11 @@ _Cite_:
   - Code de la sécurité intérieure - art. L634-2
 
 
-## LIVRE VII : SÉCURITÉ CIVILE<a id=248></a>
+## LIVRE VII : SÉCURITÉ CIVILE<a id=250></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=249></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=251></a>
 
-#### Chapitre unique : Missions de la sécurité civile<a id=250></a>
+#### Chapitre unique : Missions de la sécurité civile<a id=252></a>
 
 ###### Article L711-1
 
@@ -16413,9 +17162,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE<a id=251></a>
+### TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE<a id=253></a>
 
-#### Chapitre Ier : Dispositions générales<a id=252></a>
+#### Chapitre Ier : Dispositions générales<a id=254></a>
 
 ###### Article L721-1
 
@@ -16499,7 +17248,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Services d'incendie et de secours<a id=253></a>
+#### Chapitre II : Services d'incendie et de secours<a id=255></a>
 
 ###### Article L722-1
 
@@ -16523,9 +17272,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Sapeurs-pompiers<a id=254></a>
+#### Chapitre III : Sapeurs-pompiers<a id=256></a>
 
-##### Section 1 : Missions<a id=255></a>
+##### Section 1 : Missions<a id=257></a>
 
 ###### Article L723-1
 
@@ -16551,7 +17300,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Sapeurs-pompiers professionnels<a id=256></a>
+##### Section 2 : Sapeurs-pompiers professionnels<a id=258></a>
 
 ###### Article L723-2
 
@@ -16578,7 +17327,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Sapeurs-pompiers volontaires<a id=257></a>
+##### Section 3 : Sapeurs-pompiers volontaires<a id=259></a>
 
 ###### Article L723-3
 
@@ -17041,9 +17790,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Réserves communales de sécurité civile<a id=258></a>
+#### Chapitre IV : Réserves communales de sécurité civile<a id=260></a>
 
-##### Section 1 : Missions des réserves communales<a id=259></a>
+##### Section 1 : Missions des réserves communales<a id=261></a>
 
 ###### Article L724-1
 
@@ -17069,7 +17818,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Institution des réserves communales<a id=260></a>
+##### Section 2 : Institution des réserves communales<a id=262></a>
 
 ###### Article L724-2
 
@@ -17112,7 +17861,7 @@ _Créé par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Réservistes communaux<a id=261></a>
+##### Section 3 : Réservistes communaux<a id=263></a>
 
 ###### Article L724-3
 
@@ -17139,7 +17888,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 1 : Engagement à servir dans la réserve<a id=262></a>
+##### Sous-section 1 : Engagement à servir dans la réserve<a id=264></a>
 
 ###### Article L724-4
 
@@ -17185,7 +17934,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Réserve communale de sécurité civile et emploi<a id=263></a>
+##### Sous-section 2 : Réserve communale de sécurité civile et emploi<a id=265></a>
 
 ###### Article L724-6
 
@@ -17320,7 +18069,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 3 : Protection sociale et réparation des dommages<a id=264></a>
+##### Sous-section 3 : Protection sociale et réparation des dommages<a id=266></a>
 
 ###### Article L724-12
 
@@ -17399,9 +18148,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Associations de sécurité civile<a id=265></a>
+#### Chapitre V : Associations de sécurité civile<a id=267></a>
 
-##### Section 1 : Agrément des associations<a id=266></a>
+##### Section 1 : Agrément des associations<a id=268></a>
 
 ###### Article L725-1
 
@@ -17438,7 +18187,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Relations avec la réserve de sécurité civile<a id=267></a>
+##### Section 2 : Relations avec la réserve de sécurité civile<a id=269></a>
 
 ###### Article L725-2
 
@@ -17465,9 +18214,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Participation des associations agréées  aux opérations de secours<a id=268></a>
+##### Section 3 : Participation des associations agréées  aux opérations de secours<a id=270></a>
 
-##### Sous-section 1 : Dispositions générales<a id=269></a>
+##### Sous-section 1 : Dispositions générales<a id=271></a>
 
 ###### Article L725-3
 
@@ -17605,7 +18354,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Sous-section 2 : Participation des membres des associations salariés  aux opérations de secours<a id=270></a>
+##### Sous-section 2 : Participation des membres des associations salariés  aux opérations de secours<a id=272></a>
 
 ###### Article L725-7
 
@@ -17685,11 +18434,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION<a id=271></a>
+### TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION<a id=273></a>
 
-#### Chapitre Ier : Prévention des risques<a id=272></a>
+#### Chapitre Ier : Prévention des risques<a id=274></a>
 
-##### Section 1 : Information sur les risques majeurs<a id=273></a>
+##### Section 1 : Information sur les risques majeurs<a id=275></a>
 
 ###### Article L731-1
 
@@ -17712,7 +18461,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Schéma départemental d'analyse  et de couverture des risques<a id=274></a>
+##### Section 2 : Schéma départemental d'analyse  et de couverture des risques<a id=276></a>
 
 ###### Article L731-2
 
@@ -17742,7 +18491,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Plan communal de sauvegarde<a id=275></a>
+##### Section 3 : Plan communal de sauvegarde<a id=277></a>
 
 ###### Article L731-3
 
@@ -17791,9 +18540,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Obligations en matière de sécurité civile<a id=276></a>
+#### Chapitre II : Obligations en matière de sécurité civile<a id=278></a>
 
-##### Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population<a id=277></a>
+##### Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population<a id=279></a>
 
 ###### Article L732-1
 
@@ -17864,7 +18613,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Capacité suffisante de communication  radioélectrique des services de secours<a id=278></a>
+##### Section 2 : Capacité suffisante de communication  radioélectrique des services de secours<a id=280></a>
 
 ###### Article L732-3
 
@@ -17920,7 +18669,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Interopérabilité des réseaux<a id=279></a>
+##### Section 3 : Interopérabilité des réseaux<a id=281></a>
 
 ###### Article L732-5
 
@@ -17952,7 +18701,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Alimentation en énergie des établissements de santé<a id=280></a>
+##### Section 4 : Alimentation en énergie des établissements de santé<a id=282></a>
 
 ###### Article L732-6
 
@@ -17983,7 +18732,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 5 : Code d'alerte national<a id=281></a>
+##### Section 5 : Code d'alerte national<a id=283></a>
 
 ###### Article L732-7
 
@@ -18010,7 +18759,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Déminage<a id=282></a>
+#### Chapitre III : Déminage<a id=284></a>
 
 ###### Article L733-1
 
@@ -18092,11 +18841,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES<a id=283></a>
+### TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES<a id=285></a>
 
-#### Chapitre Ier : Planification opérationnelle<a id=284></a>
+#### Chapitre Ier : Planification opérationnelle<a id=286></a>
 
-##### Section 1 : Plans Orsec<a id=285></a>
+##### Section 1 : Plans Orsec<a id=287></a>
 
 ###### Article L741-1
 
@@ -18263,7 +19012,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Plans particuliers d'intervention<a id=286></a>
+##### Section 2 : Plans particuliers d'intervention<a id=288></a>
 
 ###### Article L741-6
 
@@ -18317,9 +19066,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Opérations de secours<a id=287></a>
+#### Chapitre II : Opérations de secours<a id=289></a>
 
-##### Section 1 : Direction des opérations de secours<a id=288></a>
+##### Section 1 : Direction des opérations de secours<a id=290></a>
 
 ###### Article L742-1
 
@@ -18546,7 +19295,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Secours aux personnes en détresse<a id=289></a>
+##### Section 2 : Secours aux personnes en détresse<a id=291></a>
 
 ###### Article L742-8
 
@@ -18633,7 +19382,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Prise en charge des dépenses de secours<a id=290></a>
+##### Section 3 : Prise en charge des dépenses de secours<a id=292></a>
 
 ###### Article L742-11
 
@@ -18680,7 +19429,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Réquisitions<a id=291></a>
+##### Section 4 : Réquisitions<a id=293></a>
 
 ###### Article L742-12
 
@@ -18797,9 +19546,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE V : ÉVALUATION ET CONTRÔLE<a id=292></a>
+### TITRE V : ÉVALUATION ET CONTRÔLE<a id=294></a>
 
-#### Chapitre Ier : Missions d'évaluation et de contrôle<a id=293></a>
+#### Chapitre Ier : Missions d'évaluation et de contrôle<a id=295></a>
 
 ###### Article L751-1
 
@@ -18870,7 +19619,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Dispositions pénales<a id=294></a>
+#### Chapitre II : Dispositions pénales<a id=296></a>
 
 ###### Article L752-1
 
@@ -18901,9 +19650,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=295></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=297></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=296></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=298></a>
 
 ###### Article L761-1
 
@@ -18926,7 +19675,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=297></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=299></a>
 
 ###### Article L762-1
 
@@ -19040,7 +19789,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=298></a>
+#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=300></a>
 
 ###### Article L763-1
 
@@ -19070,7 +19819,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=299></a>
+#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=301></a>
 
 ###### Article L764-1
 
@@ -19126,7 +19875,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=300></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=302></a>
 
 ###### Article L765-1
 
@@ -19364,7 +20113,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=301></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=303></a>
 
 ###### Article L766-1
 
@@ -19645,7 +20394,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=302></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=304></a>
 
 ###### Article L767-1
 
@@ -19754,7 +20503,7 @@ _Cité par_:
   - Arrêté du 5 novembre 2013 - art. 8 (V)
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=303></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=305></a>
 
 ###### Article L768-1
 
