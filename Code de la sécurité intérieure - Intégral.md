@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-05-26
+Version Consolidée au 2014-06-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -5133,6 +5133,11 @@ Il peut être également procédé à ces opérations dans des lieux et établis
 sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques
 d'agression ou de vol.
 
+Après information du maire de la commune concernée et autorisation des autorités publiques compétentes, des commerçants
+peuvent mettre en œuvre sur la voie publique un système de vidéoprotection aux fins d'assurer la protection des abords
+immédiats de leurs bâtiments et installations, dans les lieux particulièrement exposés à des risques d'agression ou de vol.
+Les conditions de mise en œuvre et le type de bâtiments et installations concernés sont définis par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -5159,7 +5164,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 14
+  - Loi n°2014-626 du 18 juin 2014 - art. 73
 
 _Cite_:
 
@@ -5381,17 +5386,20 @@ _Codifié par_:
 
 L'autorisation préfectorale prescrit toutes les précautions utiles, en particulier quant à la qualité des personnes chargées
 de l'exploitation du système de vidéoprotection ou visionnant les images et aux mesures à prendre pour assurer le respect des
-dispositions de la loi.
+dispositions de la loi. 
+
+Dans le cas prévu au dernier alinéa de l'article L. 251-2, le visionnage des images ne peut être assuré que par des agents de
+l'autorité publique individuellement désignés et habilités des services de police et de gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Loi n°95-73 du 21 janvier 1995 - art. 10 III, al. 2 (VT)
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2014-626 du 18 juin 2014 - art. 73
 
 _Cité par_:
 
@@ -5400,9 +5408,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R252-12 (V)
   - Code des transports - art. L2251-4-1 (MMN)
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L251-2 (V)
 
 
 ###### Article L252-3
