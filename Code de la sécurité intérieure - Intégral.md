@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-06-20
+Version Consolidée au 2014-06-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -23761,19 +23761,17 @@ _Créé par_:
 
 Le président du conseil d'administration est nommé par décret. La durée de son mandat est de trois ans renouvelable une fois.
 
+La limite d'âge applicable au président du conseil d'administration est fixée à soixante-huit ans.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-1321 du 28 octobre 2009 - art. 16 (VT)
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2014-634 du 19 juin 2014 - art. 1
 
 
 ###### Article D123-17
