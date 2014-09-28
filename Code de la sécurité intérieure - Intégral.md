@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-08-21
+Version Consolidée au 2014-09-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -394,143 +394,144 @@ Version Consolidée au 2014-08-21
           - [Section 1 : Dispositions générales (art. R231-1 à R231-3)](#391)
           - [Section 2 : Système informatique national du système  d'information Schengen dénommé "N-SIS" (art. R231-4 à R231-13)](#392)
           - [Section 3 : Bureau national chargé de la gestion opérationnelle de la partie nationale du système d'information Schengen dénommé " Sirene " (art. R231-14 à R231-16)](#393)
-        - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. R232-1 à R232-11)](#394)
-          - [Section 1 : Transmission des données (art. R232-1)](#395)
-          - [Section 2 : Sanctions (art. R232-2 à R232-5)](#396)
+        - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. R232-1 à R232-18)](#394)
+          - [Section 1 : Transmission des données (art. R232-1 à R232-1-1)](#395)
+          - [Section 2 : Sanctions (art. R232-2 à R232-5-1)](#396)
           - [Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE " (art. R232-6 à R232-11)](#397)
-        - [Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives (art. R234-1)](#398)
-        - [Chapitre VI : Autres traitements automatisés de données personnelles (art. R236-1 à R236-45)](#399)
-          - [Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique" (art. R236-1 à R236-10)](#400)
-          - [Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique" (art. R236-11 à R236-20)](#401)
-          - [Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique " (art. R236-21 à R236-30)](#402)
-          - [Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions " (art. R236-31 à R236-37)](#403)
-          - [Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection " (art. R236-38 à R236-45)](#404)
-      - [TITRE V : VIDÉOPROTECTION (art. R251-1 à R253-4)](#405)
-        - [Chapitre Ier : Dispositions générales (art. R251-1 à R251-12)](#406)
-          - [Section 1 : Commission nationale de la vidéoprotection (art. R251-1 à R251-6)](#407)
-          - [Section 2 : Commission départementale de vidéoprotection (art. R251-7 à R251-12)](#408)
-        - [Chapitre II : Autorisation et conditions de fonctionnement (art. R252-1 à R252-12)](#409)
-          - [Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection (art. R252-1 à R252-7)](#410)
-          - [Section 2 : Délivrance et mise en œuvre de l'autorisation (art. R252-8 à R252-12)](#411)
-        - [Chapitre III : Contrôle et droit d'accès (art. R253-1 à R253-4)](#412)
-          - [Section 1 : Contrôle et sanctions (art. R253-1 à R253-2)](#413)
-          - [Section 2 : Droit d'accès et garanties (art. R253-3 à R253-4)](#414)
-      - [TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES (art. R271-1 à R273-9)](#415)
-        - [Chapitre Ier : Dispositions générales (art. R271-1 à R271-8)](#416)
-          - [Section 1 : Obligations à la charge des bailleurs (art. R271-1 à R271-6)](#417)
-          - [Section 2 : Dispositions pénales (art. R271-7 à R271-8)](#418)
-        - [Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement (art. R273-1 à R273-9)](#419)
-          - [Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux (art. R273-1 à R273-3)](#420)
-          - [Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité (art. R273-4 à R273-6)](#421)
-          - [Section 3 : Garages et parcs de stationnement (art. R273-7)](#422)
-          - [Section 4 : Contrôle (art. R273-8)](#423)
-          - [Section 5 : Dispositions pénales (art. R273-9)](#424)
-      - [TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R281-1 à R288-3)](#425)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. R281-1 à R281-2)](#426)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R282-1 à R282-2)](#427)
-        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R283-1 à R283-2)](#428)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R284-1 à R284-2)](#429)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. D285-2 à R285-3)](#430)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D286-2 à R286-3)](#431)
-        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. D287-2 à R287-3)](#432)
-        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. D288-2 à R288-3)](#433)
-    - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE (art. R411-1 à R448-2)](#434)
-      - [TITRE Ier : POLICE NATIONALE (art. R411-1 à R413-54)](#435)
-        - [Chapitre Ier : Missions et personnels  de la police nationale (art. R411-1 à R411-30)](#436)
-          - [Section 1 : Dispositions générales (art. R411-1)](#437)
-          - [Section 2 : Fonctionnaires actifs (art. R411-2 à R411-3)](#438)
-          - [Section 3 : Adjoints de sécurité (art. R411-4 à R411-12)](#439)
-            - [Sous-section 1 : Dispositions générales (art. R411-4)](#440)
-            - [Sous-section 2 : Missions (art. R411-5 à R411-7)](#441)
-            - [Sous-section 3 : Recrutement (art. R411-8 à R411-9)](#442)
-            - [Sous-section 4 : Formation et validation de l'expérience professionnelle (art. R411-10 à R411-12)](#443)
-          - [Section 4 : Réserve civile (art. D411-17 à R411-30)](#444)
-            - [Sous-section 1 : Dispositions communes aux réservistes de la police nationale (art. D411-17 à R411-16)](#445)
-            - [Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité (art. D411-25 à R411-24)](#446)
-            - [Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale (art. D411-31 à R411-30)](#447)
-        - [Chapitre III : Etablissements publics de la police nationale (art. R413-1 à R413-54)](#448)
-          - [Section 1 : Ecole nationale supérieure de la police (art. R413-1 à R413-26)](#449)
-            - [Sous-section 1 : Dispositions générales (art. R413-1 à R413-2)](#450)
-            - [Sous-section 2 : Organisation administrative (art. R413-3 à R413-16)](#451)
-            - [Sous-section 3 : Organisation pédagogique (art. R413-17 à R413-21)](#452)
-            - [Sous-section 4 : Organisation financière (art. R413-22 à R413-26)](#453)
-          - [Section 2 : Institut national de police scientifique (art. R413-27 à R413-54)](#454)
-            - [Sous-section 1 : Dispositions générales (art. R413-27 à R413-31)](#455)
-            - [Sous-section 2 : Organisation administrative (art. R413-32 à R413-41)](#456)
-            - [Sous-section 3 : Conseil scientifique (art. R413-42 à R413-46)](#457)
-            - [Sous-section 4 : Organisation financière (art. R413-47 à R413-54)](#458)
-      - [TITRE II : GENDARMERIE NATIONALE (art. R421-1)](#459)
-        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. R421-1)](#460)
-      - [TITRE III : DISPOSITIONS COMMUNES (art. R431-1 à R434-33)](#461)
-        - [Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques (art. R431-1 à R431-8)](#462)
-          - [Section 1 : Répartition des attributions (art. R431-1 à R431-5)](#463)
-          - [Section 2 : Organisation de la coopération (art. R431-6 à R431-8)](#464)
-        - [Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale (art. R434-1 à R434-33)](#465)
-          - [Section 1 : Dispositions générales (art. R434-1 à R434-3)](#466)
-          - [Section 2 : Principes généraux (art. R434-4 à R434-13)](#467)
-            - [Sous-section 1 : Autorité et protection (art. R434-4 à R434-7)](#468)
-            - [Sous-section 2 : Devoirs du policier et du gendarme (art. R434-8 à R434-13)](#469)
-          - [Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale (art. R434-14 à R434-27)](#470)
-            - [Sous-section 1 : Relation avec la population et respect des libertés (art. R434-14 à R434-22)](#471)
-            - [Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie (art. R434-23 à R434-27)](#472)
-          - [Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale (art. R434-28 à R434-33)](#473)
-            - [Sous-section 1 : Dispositions propres à la police nationale (art. R434-28 à R434-30)](#474)
-            - [Sous-section 2 : Dispositions propres à la gendarmerie nationale (art. R434-31 à R434-33)](#475)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R442-1 à R448-2)](#476)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R442-1)](#477)
-        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. R443-1)](#478)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R444-1)](#479)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. R445-1 à R445-2)](#480)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R446-1 à R446-2)](#481)
-        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. R447-1 à R447-2)](#482)
-        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. R448-1 à R448-2)](#483)
-    - [LIVRE V : POLICES MUNICIPALES (art. R511-1 à R546-3)](#484)
-      - [TITRE Ier : AGENTS DE POLICE MUNICIPALE (art. R511-1 à R515-21)](#485)
-        - [Chapitre Ier : Missions, recrutement et modalités d'exercice (art. R511-1 à D511-41)](#486)
-          - [Section 1 : Missions (art. R511-1)](#487)
-          - [Section 2 : Nomination et agrément (art. R511-2)](#488)
-          - [Section 3 : Carte professionnelle, tenue et équipements (art. D511-3 à D511-10)](#489)
-            - [Sous-section 1 : Carte professionnelle (art. D511-3 à D511-5)](#490)
-            - [Sous-section 2 : Tenue (art. D511-6 à D511-8)](#491)
-            - [Sous-section 3 : Véhicules (art. D511-9 à D511-10)](#492)
-          - [Section 4 : Port d'armes (art. R511-11 à R511-34)](#493)
-            - [Sous-section 1 : Armement des agents de police municipale (art. R511-12 à R511-29)](#494)
-              - [Paragraphe 1 : Armes susceptibles d'être autorisées (art. R511-12 à R511-13)](#495)
-              - [Paragraphe 2 : Missions pouvant justifier le port d'armes (art. R511-14 à R511-17)](#496)
-              - [Paragraphe 3 : Autorisation (art. R511-18 à R511-20)](#497)
-              - [Paragraphe 4 : Formation et entraînement (art. R511-21 à R511-22)](#498)
-              - [Paragraphe 5 : Conditions de port et d'emploi des armes (art. R511-23 à R511-29)](#499)
-            - [Sous-section 2 : Acquisition, détention  et conservation des armes par la commune (art. R511-30 à R511-34)](#500)
-          - [Section 5 : Formation continue (art. R511-35 à R511-40)](#501)
-          - [Section 6 : Dispositions diverses (art. D511-41)](#502)
-        - [Chapitre II : Organisation des services (art. R512-1 à R512-6)](#503)
-          - [Section 1 : Mise en commun des agents de police municipale (art. R512-1 à R512-4)](#504)
-          - [Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat (art. R512-5 à R512-6)](#505)
-        - [Chapitre IV : Commission consultative des polices municipales (art. R514-1 à R514-11)](#506)
-          - [Section 1 : Composition (art. R514-1 à R514-5)](#507)
-          - [Section 2 : Fonctionnement (art. R514-6 à R514-11)](#508)
-        - [Chapitre V : Déontologie des agents de police municipale (art. R515-1 à R515-21)](#509)
-          - [Section 1 : Dispositions générales (art. R515-1 à R515-6)](#510)
-          - [Section 2 : Devoirs généraux des agents de police municipale (art. R515-7 à R515-16)](#511)
-          - [Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement (art. R515-17 à R515-20)](#512)
-          - [Section 4 : Du contrôle des polices municipales (art. R515-21)](#513)
-      - [TITRE II : GARDES CHAMPÊTRES (art. R521-1 à R522-2)](#514)
-        - [Chapitre Ier : Missions (art. R521-1)](#515)
-        - [Chapitre II : Nomination, agrément et modalités d'exercice (art. D522-3 à R522-2)](#516)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS (art. R531-1 à R532-1)](#517)
-        - [Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police (art. R531-1 à R531-11)](#518)
-          - [Section 1 : Missions (art. R531-1 à R531-2)](#519)
-          - [Section 2 : Recrutement et agrément (art. R531-3 à R531-9)](#520)
-          - [Section 3 : Carte professionnelle, tenue et équipements (art. R531-10)](#521)
-          - [Section 4 : Convention de coordination avec la police nationale (art. R531-11)](#522)
-        - [Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police (art. R532-1)](#523)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R542-1 à R546-3)](#524)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R542-1)](#525)
-        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R543-1)](#526)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R544-1)](#527)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. D545-2 à R545-5)](#528)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R546-1 à R546-3)](#529)
-    - [Annexes (art. Annexe 1 à Annexe 2)](#530)
+          - [Section 4 : Le traitement de données à caractère personnel "système API-PNR France" (art. R232-12 à R232-18)](#398)
+        - [Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives (art. R234-1)](#399)
+        - [Chapitre VI : Autres traitements automatisés de données personnelles (art. R236-1 à R236-45)](#400)
+          - [Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique" (art. R236-1 à R236-10)](#401)
+          - [Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique" (art. R236-11 à R236-20)](#402)
+          - [Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique " (art. R236-21 à R236-30)](#403)
+          - [Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions " (art. R236-31 à R236-37)](#404)
+          - [Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection " (art. R236-38 à R236-45)](#405)
+      - [TITRE V : VIDÉOPROTECTION (art. R251-1 à R253-4)](#406)
+        - [Chapitre Ier : Dispositions générales (art. R251-1 à R251-12)](#407)
+          - [Section 1 : Commission nationale de la vidéoprotection (art. R251-1 à R251-6)](#408)
+          - [Section 2 : Commission départementale de vidéoprotection (art. R251-7 à R251-12)](#409)
+        - [Chapitre II : Autorisation et conditions de fonctionnement (art. R252-1 à R252-12)](#410)
+          - [Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection (art. R252-1 à R252-7)](#411)
+          - [Section 2 : Délivrance et mise en œuvre de l'autorisation (art. R252-8 à R252-12)](#412)
+        - [Chapitre III : Contrôle et droit d'accès (art. R253-1 à R253-4)](#413)
+          - [Section 1 : Contrôle et sanctions (art. R253-1 à R253-2)](#414)
+          - [Section 2 : Droit d'accès et garanties (art. R253-3 à R253-4)](#415)
+      - [TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES (art. R271-1 à R273-9)](#416)
+        - [Chapitre Ier : Dispositions générales (art. R271-1 à R271-8)](#417)
+          - [Section 1 : Obligations à la charge des bailleurs (art. R271-1 à R271-6)](#418)
+          - [Section 2 : Dispositions pénales (art. R271-7 à R271-8)](#419)
+        - [Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement (art. R273-1 à R273-9)](#420)
+          - [Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux (art. R273-1 à R273-3)](#421)
+          - [Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité (art. R273-4 à R273-6)](#422)
+          - [Section 3 : Garages et parcs de stationnement (art. R273-7)](#423)
+          - [Section 4 : Contrôle (art. R273-8)](#424)
+          - [Section 5 : Dispositions pénales (art. R273-9)](#425)
+      - [TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R281-1 à R288-3)](#426)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. R281-1 à R281-2)](#427)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R282-1 à R282-2)](#428)
+        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R283-1 à R283-2)](#429)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R284-1 à R284-2)](#430)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. D285-2 à R285-3)](#431)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D286-2 à R286-3)](#432)
+        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. D287-2 à R287-3)](#433)
+        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. D288-2 à R288-3)](#434)
+    - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE (art. R411-1 à R448-2)](#435)
+      - [TITRE Ier : POLICE NATIONALE (art. R411-1 à R413-54)](#436)
+        - [Chapitre Ier : Missions et personnels  de la police nationale (art. R411-1 à R411-30)](#437)
+          - [Section 1 : Dispositions générales (art. R411-1)](#438)
+          - [Section 2 : Fonctionnaires actifs (art. R411-2 à R411-3)](#439)
+          - [Section 3 : Adjoints de sécurité (art. R411-4 à R411-12)](#440)
+            - [Sous-section 1 : Dispositions générales (art. R411-4)](#441)
+            - [Sous-section 2 : Missions (art. R411-5 à R411-7)](#442)
+            - [Sous-section 3 : Recrutement (art. R411-8 à R411-9)](#443)
+            - [Sous-section 4 : Formation et validation de l'expérience professionnelle (art. R411-10 à R411-12)](#444)
+          - [Section 4 : Réserve civile (art. D411-17 à R411-30)](#445)
+            - [Sous-section 1 : Dispositions communes aux réservistes de la police nationale (art. D411-17 à R411-16)](#446)
+            - [Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité (art. D411-25 à R411-24)](#447)
+            - [Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale (art. D411-31 à R411-30)](#448)
+        - [Chapitre III : Etablissements publics de la police nationale (art. R413-1 à R413-54)](#449)
+          - [Section 1 : Ecole nationale supérieure de la police (art. R413-1 à R413-26)](#450)
+            - [Sous-section 1 : Dispositions générales (art. R413-1 à R413-2)](#451)
+            - [Sous-section 2 : Organisation administrative (art. R413-3 à R413-16)](#452)
+            - [Sous-section 3 : Organisation pédagogique (art. R413-17 à R413-21)](#453)
+            - [Sous-section 4 : Organisation financière (art. R413-22 à R413-26)](#454)
+          - [Section 2 : Institut national de police scientifique (art. R413-27 à R413-54)](#455)
+            - [Sous-section 1 : Dispositions générales (art. R413-27 à R413-31)](#456)
+            - [Sous-section 2 : Organisation administrative (art. R413-32 à R413-41)](#457)
+            - [Sous-section 3 : Conseil scientifique (art. R413-42 à R413-46)](#458)
+            - [Sous-section 4 : Organisation financière (art. R413-47 à R413-54)](#459)
+      - [TITRE II : GENDARMERIE NATIONALE (art. R421-1)](#460)
+        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. R421-1)](#461)
+      - [TITRE III : DISPOSITIONS COMMUNES (art. R431-1 à R434-33)](#462)
+        - [Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques (art. R431-1 à R431-8)](#463)
+          - [Section 1 : Répartition des attributions (art. R431-1 à R431-5)](#464)
+          - [Section 2 : Organisation de la coopération (art. R431-6 à R431-8)](#465)
+        - [Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale (art. R434-1 à R434-33)](#466)
+          - [Section 1 : Dispositions générales (art. R434-1 à R434-3)](#467)
+          - [Section 2 : Principes généraux (art. R434-4 à R434-13)](#468)
+            - [Sous-section 1 : Autorité et protection (art. R434-4 à R434-7)](#469)
+            - [Sous-section 2 : Devoirs du policier et du gendarme (art. R434-8 à R434-13)](#470)
+          - [Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale (art. R434-14 à R434-27)](#471)
+            - [Sous-section 1 : Relation avec la population et respect des libertés (art. R434-14 à R434-22)](#472)
+            - [Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie (art. R434-23 à R434-27)](#473)
+          - [Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale (art. R434-28 à R434-33)](#474)
+            - [Sous-section 1 : Dispositions propres à la police nationale (art. R434-28 à R434-30)](#475)
+            - [Sous-section 2 : Dispositions propres à la gendarmerie nationale (art. R434-31 à R434-33)](#476)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R442-1 à R448-2)](#477)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R442-1)](#478)
+        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. R443-1)](#479)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R444-1)](#480)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. R445-1 à R445-2)](#481)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R446-1 à R446-2)](#482)
+        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. R447-1 à R447-2)](#483)
+        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. R448-1 à R448-2)](#484)
+    - [LIVRE V : POLICES MUNICIPALES (art. R511-1 à R546-3)](#485)
+      - [TITRE Ier : AGENTS DE POLICE MUNICIPALE (art. R511-1 à R515-21)](#486)
+        - [Chapitre Ier : Missions, recrutement et modalités d'exercice (art. R511-1 à D511-41)](#487)
+          - [Section 1 : Missions (art. R511-1)](#488)
+          - [Section 2 : Nomination et agrément (art. R511-2)](#489)
+          - [Section 3 : Carte professionnelle, tenue et équipements (art. D511-3 à D511-10)](#490)
+            - [Sous-section 1 : Carte professionnelle (art. D511-3 à D511-5)](#491)
+            - [Sous-section 2 : Tenue (art. D511-6 à D511-8)](#492)
+            - [Sous-section 3 : Véhicules (art. D511-9 à D511-10)](#493)
+          - [Section 4 : Port d'armes (art. R511-11 à R511-34)](#494)
+            - [Sous-section 1 : Armement des agents de police municipale (art. R511-12 à R511-29)](#495)
+              - [Paragraphe 1 : Armes susceptibles d'être autorisées (art. R511-12 à R511-13)](#496)
+              - [Paragraphe 2 : Missions pouvant justifier le port d'armes (art. R511-14 à R511-17)](#497)
+              - [Paragraphe 3 : Autorisation (art. R511-18 à R511-20)](#498)
+              - [Paragraphe 4 : Formation et entraînement (art. R511-21 à R511-22)](#499)
+              - [Paragraphe 5 : Conditions de port et d'emploi des armes (art. R511-23 à R511-29)](#500)
+            - [Sous-section 2 : Acquisition, détention  et conservation des armes par la commune (art. R511-30 à R511-34)](#501)
+          - [Section 5 : Formation continue (art. R511-35 à R511-40)](#502)
+          - [Section 6 : Dispositions diverses (art. D511-41)](#503)
+        - [Chapitre II : Organisation des services (art. R512-1 à R512-6)](#504)
+          - [Section 1 : Mise en commun des agents de police municipale (art. R512-1 à R512-4)](#505)
+          - [Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat (art. R512-5 à R512-6)](#506)
+        - [Chapitre IV : Commission consultative des polices municipales (art. R514-1 à R514-11)](#507)
+          - [Section 1 : Composition (art. R514-1 à R514-5)](#508)
+          - [Section 2 : Fonctionnement (art. R514-6 à R514-11)](#509)
+        - [Chapitre V : Déontologie des agents de police municipale (art. R515-1 à R515-21)](#510)
+          - [Section 1 : Dispositions générales (art. R515-1 à R515-6)](#511)
+          - [Section 2 : Devoirs généraux des agents de police municipale (art. R515-7 à R515-16)](#512)
+          - [Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement (art. R515-17 à R515-20)](#513)
+          - [Section 4 : Du contrôle des polices municipales (art. R515-21)](#514)
+      - [TITRE II : GARDES CHAMPÊTRES (art. R521-1 à R522-2)](#515)
+        - [Chapitre Ier : Missions (art. R521-1)](#516)
+        - [Chapitre II : Nomination, agrément et modalités d'exercice (art. D522-3 à R522-2)](#517)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS (art. R531-1 à R532-1)](#518)
+        - [Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police (art. R531-1 à R531-11)](#519)
+          - [Section 1 : Missions (art. R531-1 à R531-2)](#520)
+          - [Section 2 : Recrutement et agrément (art. R531-3 à R531-9)](#521)
+          - [Section 3 : Carte professionnelle, tenue et équipements (art. R531-10)](#522)
+          - [Section 4 : Convention de coordination avec la police nationale (art. R531-11)](#523)
+        - [Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police (art. R532-1)](#524)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R542-1 à R546-3)](#525)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R542-1)](#526)
+        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R543-1)](#527)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R544-1)](#528)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. D545-2 à R545-5)](#529)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R546-1 à R546-3)](#530)
+    - [Annexes (art. Annexe 1 à Annexe 2)](#531)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE<a id=2></a>
@@ -30249,23 +30250,19 @@ _Créé par_:
 
 ###### Article R232-1
 
-Les données à caractère personnel mentionnées à l'article L. 232-4 sont transmises par les transporteurs aériens, dès la
-clôture du vol, par envoi électronique sécurisé au ministère de l'intérieur (direction centrale de la police aux frontières),
-en conformité avec les spécifications relatives aux formats de message EDIFACT/ ONU/ PAXLST, mentionnées à la norme 3.47.1 de
-l'annexe 9 de la convention relative à l'aviation civile internationale signée à Chicago le 7 décembre 1944 et publiée par le
-décret n° 69-1158 du 18 décembre 1969.
+Les données à caractère personnel mentionnées à l'article L. 232-4 du présent code sont transmises par les transporteurs
+aériens, dès la clôture du vol, par envoi électronique sécurisé au ministère de l'intérieur, soit aux formats de message
+EDIFACT/ ONU/ PAXLST, mentionnés à la norme 3.47.1 de l'annexe 9 de la convention susvisée signée à Chicago le 7 décembre
+1944, soit aux formats de message XML, CSV ou EXCEL.
+
+**Nota:**
+
+Aux termes du décret n° 2014-989 du 29 aout 2014, article 2, les transporteurs aériens se conforment aux obligations prévues
+à l'article R. 232-1 au plus tard à compter du premier jour du cinquième mois suivant la publication dudit décret.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2006-1630 du 19 décembre 2006 - art. 1 (VT)
-
 _Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
@@ -30277,9 +30274,44 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R287-1 (M)
   - Code de la sécurité intérieure - art. R288-1 (M)
 
+_Modifié par_:
+
+  - Décret n°2014-989 du 29 août 2014 - art. 1
+
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L232-4 (V)
+  - Code de la sécurité intérieure - art. L232-4
+
+
+###### Article R232-1-1
+
+Les données de réservation mentionnées au I, a, de l'article R. 232-14 sont transmises par les transporteurs aériens une
+première fois quarante-huit heures avant le départ du vol et une seconde fois à la clôture du vol, par envoi électronique
+sécurisé, à l'unité de gestion visée au VI de l'article L. 232-7, soit dans l'un des formats prévus à l'annexe 9 de la
+convention de Chicago, soit par tout autre mode de transfert agréé par l'unité de gestion. Les données d'enregistrement
+mentionnées au I, b, de l'article R. 232-14 sont transmises par les transporteurs aériens à la clôture du vol, par envoi
+électronique sécurisé, à l'unité de gestion visée au VI de l'article L. 232-7, soit dans l'un des formats prévus à l'annexe 9
+de la convention de Chicago, soit par tout autre mode de transfert agréé par l'unité de gestion.
+
+**Nota:**
+
+Aux termes du décret n° 2014-1095 du 26 septembre 2014, article 3, les transporteurs aériens se conforment aux obligations
+prévues au 1° de l'article 2 à compter du 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 2
+
+_Cité par_:
+
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
+  - Code de la sécurité intérieure - art. R232-5-1 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L232-7
 
 
 ##### Section 2 : Sanctions<a id=396></a>
@@ -30401,6 +30433,39 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
+
+
+###### Article R232-5-1
+
+I.-En cas de méconnaissance par un transporteur aérien des obligations fixées à l'article R. 232-1-1, l'amende et la
+procédure prévues par l'article L. 232-5 s'appliquent à son égard. 
+
+II.-Le procès-verbal mentionné à l'article L. 232-5 comprend le nom de l'entreprise de transport et les références du vol ou
+du voyage au titre duquel la responsabilité de l'entreprise de transport est susceptible d'être engagée. Il précise, pour
+chaque vol ou voyage, les obligations définies méconnues par l'entreprise de transport. Il comporte également, le cas
+échéant, les observations de celle-ci. 
+
+Il est signé par le directeur de l'UIP ou son adjoint. 
+
+III.-Le directeur de l'UIP notifie à l'entreprise de transport, par lettre recommandée avec demande d'avis de réception, le
+projet de sanction prévu par l'article L. 232-5. Pendant le délai d'un mois prévu par le même article pour produire ses
+observations, l'entreprise peut se faire délivrer copie à ses frais de tout ou partie de la procédure. 
+
+IV.-En cas de sanction, l'amende est recouvrée dans les conditions prévues pour les créances de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 2
+
+_Cité par_:
+
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 4 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L232-5
 
 
 ##### Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE "<a id=397></a>
@@ -30628,7 +30693,624 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R232-11-1 (V)
 
 
-#### Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives<a id=398></a>
+##### Section 4 : Le traitement de données à caractère personnel "système API-PNR France"<a id=398></a>
+
+###### Article R232-12
+
+Pour les finalités prévues à l'article L. 232-7 du présent code, un traitement automatisé de données à caractère personnel
+dénommé " API-PNR France " est mis en œuvre par les ministres de l'intérieur, de la défense, chargé des transports et chargé
+des douanes. 
+
+Ce traitement est confié à l'unité de gestion chargée de la collecte des données prévue au VI de l'article 232-7 du présent
+code. Ce service à compétence nationale dénommé " Unité Information Passagers " (UIP) est rattaché au ministre chargé des
+douanes. Sa création et son organisation sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 1 (V)
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 4 (V)
+  - Code de la sécurité intérieure - art. R232-13 (V)
+  - Code de la sécurité intérieure - art. R232-14 (V)
+  - Code de la sécurité intérieure - art. R285-1 (M)
+  - Code de la sécurité intérieure - art. R286-1 (M)
+  - Code de la sécurité intérieure - art. R287-1 (M)
+  - Code de la sécurité intérieure - art. R288-1 (M)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L232-7
+
+
+###### Article R232-13
+
+L'Unité Information Passagers est responsable de la collecte des données des passagers visées aux a et b de l'article R.
+232-14 transmises par les transporteurs aériens, de leur conservation, de leur traitement ainsi que de la transmission de ces
+données ou des résultats de leur traitement aux unités et services mentionnés à l'article R. 232-15. 
+
+Seuls les personnels affectés au sein de l'Unité Information Passagers, individuellement désignés et spécialement habilités
+par le directeur de cette unité, ont accès aux données à caractère personnel et aux informations enregistrées dans le
+traitement mentionné à l'article R. 232-12 du présent code. 
+
+Ces personnels répondent aux requêtes formulées par les unités et services mentionnés à l'article R. 232-15 après avoir
+vérifié la conformité de ces demandes au regard des attributions légales des unités et services concernés dans le cadre des
+finalités visées à l'article susmentionné. 
+
+Chaque requête précise la période de temps demandée et peut porter sur les éléments suivants : une ou plusieurs zones
+géographiques, un ou plusieurs vols, une ou plusieurs personnes, une ou des catégories de données.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (M)
+  - Code de la sécurité intérieure - art. R232-14 (V)
+
+
+###### Article R232-14
+
+Les données à caractère personnel et informations relatives aux passagers aériens transmises par les transporteurs aériens,
+visées au II de l'article L. 232-7 et enregistrées dans le traitement prévu à l'article R. 232-12 du présent code sont les
+suivantes : 
+
+a) En ce qui concerne les données de réservation : 
+
+1° Code repère du dossier passager ; 
+
+2° Date de réservation/ d'émission du billet ; 
+
+3° Date(s) prévue(s) du voyage ; 
+
+4° Nom(s), prénom(s), date de naissance ; 
+
+5° Adresse et coordonnées (numéro de téléphone, adresse électronique) ; 
+
+6° Moyens de paiement, y compris l'adresse de facturation ; 
+
+7° Itinéraire complet pour le dossier passager concerné ; 
+
+8° Informations " grands voyageurs " tels que les programmes de fidélité ; 
+
+9° Agence de voyages/agent de voyages ; 
+
+10° Statut du voyageur tel que confirmations, enregistrement, non-présentation, passager de dernière minute ; 
+
+11° Indications concernant la scission/ division du dossier passager ; 
+
+12° Toute autre information, à l'exclusion des données à caractère personnel visées au second alinéa du I de l'article L.
+232-7 du code de la sécurité intérieure ; 
+
+13° Etablissement des billets (numéro du billet, date d'émission, allers simples, décomposition tarifaire) ; 
+
+14° Numéro du siège ; 
+
+15° Informations sur le partage de code ; 
+
+16° Toutes les informations relatives aux bagages ; 
+
+17° Nombre et autres noms de voyageurs figurant dans le dossier passager ; 
+
+18° Tout renseignement préalable sur les passagers (API) qui a été collecté ; 
+
+19° Historique complet des modifications des données PNR énumérées aux points 1 à 18 ; 
+
+b) En ce qui concerne les données d'enregistrement et d'embarquement : 
+
+1° Code repère du dossier passager ; 
+
+2° Numéro et type du document de voyage utilisé ; 
+
+3° Nationalité, nom, prénom, date de naissance, sexe ; 
+
+4° Point de passage frontalier utilisé pour entrer sur le territoire français ou en sortir ; 
+
+5° Code de transport (numéro du vol et code du transporteur aérien) ; 
+
+6° Date du vol ; 
+
+7° Heures de départ et d'arrivée du transport ; 
+
+8° Point d'embarquement initial et de débarquement final des passagers ; 
+
+9° Point de départ et d'arrivée du vol ; 
+
+10° Date d'expiration du document de voyage ; 
+
+11° Statut de la personne embarquée (membre d'équipage, passager : toute information sur les correspondances) ; 
+
+12° Nombre, poids et identification des bagages ; 
+
+13° Numéro de siège ; 
+
+14° Nombre total des personnes transportées dans l'aéronef ; 
+
+15° Etat ou organisation émetteur du document de voyage ; 
+
+16° Numéro d'identification du passager ; 
+
+c) Les résultats issus des mises en relation des données mentionnées aux a et b du présent article avec le fichier des
+personnes recherchées, le système d'information Schengen de deuxième génération (SIS II), le fichier des objets et des
+véhicules signalés, le système informatisé concourant au dispositif de lutte contre les fraudes et le fichier des documents
+de voyage volés et perdus d'Interpol ; 
+
+d) La catégorie et le numéro des fiches contenues dans les traitements susvisés qui, après vérification, ont permis la
+prévention ou la constatation d'une des infractions visée au I de l'article L. 232-7 du code de sécurité intérieure ; 
+
+e) Les réponses aux requêtes formulées par les unités et services mentionnés à l'article R. 232-15.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2010-569 du 28 mai 2010 - art. 11 (V)
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
+  - Décret n°2015-1328 du 21 octobre 2015 (V)
+  - Décret n°2016-1523 du 10 novembre 2016 - art. 1
+  - Décret n°2018-714 du 3 août 2018 - art. 12
+  - Code de la sécurité intérieure - art. R232-13 (V)
+  - Code de la sécurité intérieure - art. R232-20 (V)
+  - Code de la sécurité intérieure - art. R232-21 (V)
+  - Code de la sécurité intérieure - art. R285-1 (M)
+  - Code de la sécurité intérieure - art. R286-1 (M)
+  - Code de la sécurité intérieure - art. R287-1 (M)
+  - Code de la sécurité intérieure - art. R288-1 (M)
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+
+###### Article R232-15
+
+Peuvent être destinataires des données à caractère personnel et informations enregistrées dans le traitement, dans le cadre
+de leurs attributions légales et dans la limite du besoin d'en connaître : 
+
+I.-Au titre de la prévention et de la constatation des actes de terrorisme, du rassemblement des preuves de ces actes et de
+la recherche de leurs auteurs : 
+
+Les agents de la police nationale, de la direction générale de la sécurité intérieure et les militaires de la gendarmerie
+nationale individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein
+des services ci-après : 
+
+a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses : 
+
+- les services de la direction générale de la sécurité intérieure ; 
+
+- l'unité de coordination de la lutte antiterroriste ; 
+
+- l'état-major de la direction centrale de la police judiciaire ; 
+
+- la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
+
+- la sous-direction chargée de la lutte contre le terrorisme et les extrémismes à potentialités violentes de la direction du
+renseignement de la préfecture de police ; 
+
+- l'état-major de la direction régionale de la police judiciaire de Paris ; 
+
+- la section antiterroriste de la brigade criminelle de la police judiciaire de Paris ; 
+
+- le bureau de la lutte antiterroriste de la sous-direction de la police judiciaire de la direction générale de la
+gendarmerie nationale ; 
+
+b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
+aéroportuaires : 
+
+- les services et office centraux de la direction centrale de la police aux frontières ; 
+
+- les directions et services de la police aux frontières des aéroports ; 
+
+- les permanences des directions départementales de la sécurité publique sur le territoire desquelles existe une plate-forme
+aéroportuaire sur laquelle elles exercent l'autorité de police générale en aérogare ; 
+
+- les centres opérationnels et de renseignement des groupements de gendarmerie sur le territoire desquels existe une plate-
+forme aéroportuaire sur laquelle la gendarmerie exerce l'autorité de police générale en aérogare ; 
+
+- le centre de renseignement opérationnel de la gendarmerie ; 
+
+- les unités de la gendarmerie des transports aériens. 
+
+II.-Au titre de la prévention des actes de terrorisme : 
+
+1° Les agents des douanes individuellement désignés et spécialement habilités par le directeur général des douanes, affectés
+au sein des services ci-après : 
+
+a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses : 
+
+- la cellule chargée de la lutte antiterroriste au sein de la direction nationale du renseignement et des enquêtes
+douanières ; 
+
+b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
+aéroportuaires : 
+
+- les services centraux et territoriaux de la direction générale des douanes et droits indirects chargés de la lutte contre
+la fraude dans les transports internationaux ; 
+
+2° Les agents individuellement désignés et spécialement habilités par le directeur du service à compétence nationale dénommé
+" traitement du renseignement et action contre les circuits financiers clandestins ". 
+
+III.-Au titre de la prévention et de la constatation des infractions mentionnées à l'article 695-23 du code de procédure
+pénale, du rassemblement des preuves de ces infractions et de la recherche de leurs auteurs : 
+
+1° Les agents de la police nationale, de la direction générale de la sécurité intérieure et les militaires de la gendarmerie
+nationale individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein
+des services ci-après : 
+
+a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses : 
+
+- les services de la direction générale de la sécurité intérieure ; 
+
+- l'état-major de la direction centrale de la police judiciaire ; 
+
+- les services et offices centraux de la direction centrale de la police judiciaire ; 
+
+- les directions interrégionales et régionales de la direction centrale de la police judiciaire ; 
+
+- les services et office centraux de la direction centrale de la police aux frontières ; 
+
+- l'état-major de la direction centrale de la sécurité publique ; 
+
+- le centre de veille opérationnelle de la direction de la coopération internationale ; 
+
+- la direction régionale de la police judiciaire de Paris ; 
+
+- l'état-major de la direction de la sécurité de proximité de l'agglomération parisienne ; 
+
+- la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale ; 
+
+- le service technique de recherches judiciaires et de documentation de la gendarmerie nationale ; 
+
+- les sections de recherches de la gendarmerie nationale ; 
+
+- l'état-major de la gendarmerie des transports aériens ; 
+
+- les services territoriaux de premier niveau de la police nationale et de la gendarmerie nationale, pour le seul exercice
+des missions de police judiciaire dont ils sont saisis au titre de la répression des infractions mentionnées à l'article
+695-23 du code de procédure pénale ; 
+
+b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
+aéroportuaires : 
+
+- les services visés au b du I du présent article ; 
+
+2° Les agents des douanes individuellement désignés et spécialement habilités par le directeur général des douanes, affectés
+au sein des services ci-après désignés : 
+
+a) Services habilités à formuler des requêtes à l'UIP et à en recevoir les réponses : 
+
+- les services centraux de la direction générale des douanes et droits indirects ; 
+
+- les services ci-après désignés lorsqu'ils sont en charge de la lutte contre la fraude dans les transports internationaux,
+en métropole et outre-mer : 
+
+- la direction nationale du renseignement et des enquêtes douanières ; 
+
+- les services chargés de l'orientation des contrôles au sein des directions des douanes ; 
+
+- les cellules de ciblage ; 
+
+- les brigades des douanes chargées de la lutte contre l'immigration irrégulière et de la sûreté dans les transports
+internationaux ; 
+
+- les brigades des douanes chargées de la lutte contre la fraude dans les aéroports internationaux ; 
+
+- le service national de la douane judiciaire ; 
+
+b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
+aéroportuaires : 
+
+- les services centraux de la direction générale des douanes et droits indirects ; 
+
+- les services ci-après désignés lorsqu'ils sont en charge de la lutte contre la fraude dans les transports internationaux,
+en métropole et outre-mer : 
+
+- les centres de liaison interservices ; 
+
+- les cellules de coordination des aéroports ; 
+
+3° Les agents individuellement désignés et spécialement habilités par le directeur du service à compétence nationale dénommé
+" traitement du renseignement et action contre les circuits financiers clandestins ". 
+
+IV.-Au titre de la prévention et de la constatation des atteintes aux intérêts fondamentaux de la Nation, du rassemblement
+des preuves de ces atteintes et de la recherche de leurs auteurs : 
+
+Les agents individuellement désignés et spécialement habilités par le directeur général de la sécurité intérieure, affectés
+au sein de cette direction. 
+
+V.-Au titre de la prévention des actes terroristes et des atteintes aux intérêts fondamentaux de la Nation : 
+
+1° Les agents de la direction générale de la sécurité extérieure, individuellement désignés et spécialement habilités
+affectés au sein : 
+
+- de la direction du renseignement ; 
+
+- de la direction des opérations ; 
+
+- de la direction technique ; 
+
+- des services directement rattachés au directeur général ; 
+
+2° Les agents de la direction de la protection et de la sécurité de la défense, individuellement désignés et spécialement
+habilités, affectés au sein : 
+
+- de la sous-direction de la contre-ingérence ; 
+
+- de la sous-direction des centres nationaux d'expertises ; 
+
+- des directions zonales de protection et de sécurité de la défense ; 
+
+- de la direction de la sécurité économique en zone de défense et de sécurité de Paris ; 
+
+3° Les agents de la direction du renseignement militaire individuellement désignés et spécialement habilités : 
+
+- de la sous-direction des opérations ; 
+
+- de la sous-direction de l'exploitation ; 
+
+- des unités rattachées au directeur du renseignement militaire. 
+
+VI.-En cas de menace grave et d'urgence avérée et pour les seuls besoins de la prévention des actes de terrorisme et des
+atteintes aux intérêts fondamentaux de la Nation, le directeur de l'Unité Information Passagers, son adjoint ou un agent
+individuellement désigné et spécialement habilité peut autoriser, après demande motivée et vérification que les conditions de
+la visualisation sont respectées, les agents individuellement désignés et spécialement habilités par le directeur général
+dont ils relèvent et affectés au sein des services ci-après, à être destinataires, pendant une durée maximale de sept jours,
+de l'ensemble des données collectées au sein du traitement dénommé " API-PNR France " : 
+
+- la direction générale de la sécurité extérieure ; 
+
+- la direction générale de la sécurité intérieure. 
+
+VII.-Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols concernés,
+pour les besoins de la prévention des seuls crimes et délits suivants et mentionnés à l'article 695-23 du code de procédure
+pénale : 
+
+- participation à une organisation criminelle ; 
+
+- terrorisme ; 
+
+- traite des êtres humains ; 
+
+- exploitation sexuelle des enfants et pornographie infantile ; 
+
+- trafic illicite de stupéfiants et de substances psychotropes ; 
+
+- trafic illicite d'armes, de munitions et d'explosifs ; 
+
+- fraude y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du
+26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ; 
+
+- blanchiment du produit du crime ou du délit ; 
+
+- faux monnayage, y compris la contrefaçon de l'euro ; 
+
+- crimes et délits contre l'environnement, y compris le trafic illicite d'espèces animales menacées et le trafic illicite
+d'espèces et d'essences végétales menacées ; 
+
+- aide à l'entrée et au séjour irrégulier ; 
+
+- trafic illicite d'organes et de tissus humains ; 
+
+- trafic illicite de biens culturels, y compris antiquités et œuvres d'art ; 
+
+- contrefaçon et piratage de produits ; 
+
+- falsification de documents administratifs et trafic de faux ; 
+
+- falsification de moyens de paiement ; 
+
+- trafic illicite de substances hormonales et autres facteurs de croissance ; 
+
+- trafic illicite de matières nucléaires et radioactives. 
+
+Sont destinataires, selon les modalités prévues au VI, pendant une période maximale de vingt jours ouvrés et pour une
+destination ou une provenance déterminée, de l'ensemble des données collectées au sein du traitement : 
+
+Les agents de la police nationale et les militaires de la gendarmerie nationale, individuellement désignés et spécialement
+habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein : 
+
+- des services et office centraux de la direction centrale de la police aux frontières ; 
+
+- des services et offices centraux de la direction centrale de la police judiciaire ; 
+
+- de la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
+
+- du service technique de recherches judiciaires et de documentation de la gendarmerie nationale. 
+
+VIII.-Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols concernés
+pour les besoins de la prévention des seuls crimes et délits suivants : 
+
+- trafic illicite de stupéfiants et de substances psychotropes ; 
+
+- trafic illicite d'armes, de munitions et d'explosifs ; 
+
+- fraude y compris fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26
+juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ; 
+
+- blanchiment du produit du crime ou du délit ; 
+
+- crimes et délits contre l'environnement, y compris le trafic illicite d'espèces animales menacées et le trafic illicite
+d'espèces et d'essences végétales menacées ; 
+
+- trafic illicite d'organes et de tissus humains ; 
+
+- trafic illicite de biens culturels, y compris antiquités et œuvres d'art : 
+
+- contrefaçon et piratage de produits ; 
+
+- falsification de moyens de paiement ; 
+
+- trafic illicite de substances hormonales et autres facteurs de croissance ; 
+
+- trafic illicite de matières nucléaires et radioactives ; et 
+
+- délits douaniers connexes aux délits mentionnés par l'article 695-23 du code de procédure pénale. 
+
+Sont destinataires, selon les modalités prévues au VI, pendant une période maximale de vingt jours ouvrés et pour une
+destination ou une provenance déterminée, de l'ensemble des données collectées au sein du traitement : 
+
+Les agents des douanes, individuellement désignés et spécialement habilités par le directeur général des douanes affectés au
+sein : 
+
+- de la direction du renseignement douanier ; 
+
+- des services territoriaux chargés de l'orientation des contrôles ; 
+
+- des brigades réalisant des opérations de ciblage aérien ; 
+
+- des cellules de ciblage aérien.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2010-569 du 28 mai 2010 - art. 11 (V)
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
+  - Décret n°2016-1523 du 10 novembre 2016 - art. 1
+  - Décret n°2018-714 du 3 août 2018 - art. 12
+  - Code de la sécurité intérieure - art. R232-13 (V)
+  - Code de la sécurité intérieure - art. R232-14 (V)
+  - Code de la sécurité intérieure - art. R232-20 (V)
+  - Code de la sécurité intérieure - art. R232-22 (V)
+  - Code de la sécurité intérieure - art. R285-1 (M)
+  - Code de la sécurité intérieure - art. R286-1 (M)
+  - Code de la sécurité intérieure - art. R287-1 (M)
+  - Code de la sécurité intérieure - art. R288-1 (M)
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+
+###### Article R232-16
+
+Les données à caractère personnel et les informations mentionnées à l'article R. 232-14 sont conservées cinq ans à compter de
+leur réception dans le système. 
+
+II.-A l'expiration d'un délai de deux ans à compter de leur collecte, les données susceptibles de révéler l'identité des
+passagers sont conservées mais ne peuvent plus être communiquées aux agents appartenant aux services mentionnés à l'article
+R. 232-15. 
+
+Ces données sont : 
+
+- les noms, prénoms du passager ainsi que, le cas échéant, celui des autres passagers mentionnés dans le dossier passager
+voyageant avec lui ; 
+
+- l'adresse et les coordonnées du passager ; 
+
+- tous les moyens de paiement utilisés par celui-ci qui permettent de l'identifier ; 
+
+- les informations " grand voyageur " qui permettent de l'identifier ; 
+
+- toute information préalable sur le passager (données API) permettant de l'identifier. 
+
+III.-Ce n'est que sur demande motivée et après autorisation expresse du directeur de l'Unité Information Passagers ou en cas
+d'absence, de son adjoint ou de la personne désignée à cet effet, que les agents appartenant aux services susmentionnés
+pourront être destinataires des données mentionnées au II présent article. 
+
+IV.-Si les données de réservation transférées par les transporteurs aériens comportent des données à caractère personnel
+autres que celles énumérées à l'article R. 232-14, notamment des données à caractère personnel visées au second alinéa de
+l'article L. 232-7 du code de la sécurité intérieure, l'Unité d'Information Passagers les efface sans délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2018-714 du 3 août 2018 - art. 7
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L232-7
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. R232-13 (V)
+  - Code de la sécurité intérieure - art. R232-14 (V)
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R232-20 (V)
+
+
+###### Article R232-17
+
+Toutes les demandes et opérations effectuées sur le traitement font l'objet d'enregistrements comprenant l'identifiant : 
+
+- de l'agent à l'origine de la demande ; 
+
+- de l'agent ayant validé la demande ; 
+
+- de celui ayant validé les résultats et les ayant transmis. 
+
+Ces informations ainsi que la date et l'heure de ces opérations sont conservées cinq ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2018-714 du 3 août 2018 - art. 7
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R232-21 (V)
+
+
+###### Article R232-18
+
+I.-Conformément au dernier alinéa de l'article 41 de la loi du 6 janvier 1978 susvisée, les droits d'accès et de
+rectification des données mentionnées à l'article R. 232-14 s'exercent directement auprès du directeur de l'Unité Information
+Passagers ou de son adjoint. Par exception, ces droits s'exercent auprès de la Commission nationale de l'informatique et des
+libertés pour la mention " connu " ou " inconnu " au fichier des personnes recherchées, dans le système d'information
+Schengen de deuxième génération, le fichier des objets et des véhicules signalés, le système informatisé concourant au
+dispositif de lutte contre les fraudes et le fichier des documents de voyage volés et perdus d'Interpol. Cette exception
+s'applique également aux résultats des requêtes formulées par les unités et services visées à l'article R. 232-15. 
+
+II.-Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 41
+
+_Créé par_:
+
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
+  - Code de la sécurité intérieure - art. R232-13 (V)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2018-714 du 3 août 2018 - art. 7
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R232-22 (V)
+
+
+#### Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives<a id=399></a>
 
 ###### Article R234-1
 
@@ -30669,9 +31351,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R287-1 (M)
 
 
-#### Chapitre VI : Autres traitements automatisés de données personnelles<a id=399></a>
+#### Chapitre VI : Autres traitements automatisés de données personnelles<a id=400></a>
 
-##### Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique"<a id=400></a>
+##### Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique"<a id=401></a>
 
 ###### Article R236-1
 
@@ -31002,7 +31684,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique"<a id=401></a>
+##### Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique"<a id=402></a>
 
 ###### Article R236-11
 
@@ -31389,7 +32071,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique "<a id=402></a>
+##### Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique "<a id=403></a>
 
 ###### Article R236-21
 
@@ -31735,7 +32417,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions "<a id=403></a>
+##### Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions "<a id=404></a>
 
 ###### Article R236-31
 
@@ -31971,7 +32653,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection "<a id=404></a>
+##### Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection "<a id=405></a>
 
 ###### Article R236-38
 
@@ -32232,11 +32914,11 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE V : VIDÉOPROTECTION<a id=405></a>
+### TITRE V : VIDÉOPROTECTION<a id=406></a>
 
-#### Chapitre Ier : Dispositions générales<a id=406></a>
+#### Chapitre Ier : Dispositions générales<a id=407></a>
 
-##### Section 1 : Commission nationale de la vidéoprotection<a id=407></a>
+##### Section 1 : Commission nationale de la vidéoprotection<a id=408></a>
 
 ###### Article R251-1
 
@@ -32464,7 +33146,7 @@ _Abrogé par_:
   - Décret n°2018-785 du 12 septembre 2018 - art. 18
 
 
-##### Section 2 : Commission départementale de vidéoprotection<a id=408></a>
+##### Section 2 : Commission départementale de vidéoprotection<a id=409></a>
 
 ###### Article R251-7
 
@@ -32634,9 +33316,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre II : Autorisation et conditions de fonctionnement<a id=409></a>
+#### Chapitre II : Autorisation et conditions de fonctionnement<a id=410></a>
 
-##### Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection<a id=410></a>
+##### Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection<a id=411></a>
 
 ###### Article R252-1
 
@@ -32875,7 +33557,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Délivrance et mise en œuvre de l'autorisation<a id=411></a>
+##### Section 2 : Délivrance et mise en œuvre de l'autorisation<a id=412></a>
 
 ###### Article R252-8
 
@@ -33030,9 +33712,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L252-3 (V)
 
 
-#### Chapitre III : Contrôle et droit d'accès<a id=412></a>
+#### Chapitre III : Contrôle et droit d'accès<a id=413></a>
 
-##### Section 1 : Contrôle et sanctions<a id=413></a>
+##### Section 1 : Contrôle et sanctions<a id=414></a>
 
 ###### Article R253-1
 
@@ -33101,7 +33783,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Droit d'accès et garanties<a id=414></a>
+##### Section 2 : Droit d'accès et garanties<a id=415></a>
 
 ###### Article R253-3
 
@@ -33162,11 +33844,11 @@ _Cite_:
   - Code de la sécurité intérieure - art. L253-5 (V)
 
 
-### TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES<a id=415></a>
+### TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES<a id=416></a>
 
-#### Chapitre Ier : Dispositions générales<a id=416></a>
+#### Chapitre Ier : Dispositions générales<a id=417></a>
 
-##### Section 1 : Obligations à la charge des bailleurs<a id=417></a>
+##### Section 1 : Obligations à la charge des bailleurs<a id=418></a>
 
 ###### Article R271-1
 
@@ -33364,7 +34046,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R271-8 (VD)
 
 
-##### Section 2 : Dispositions pénales<a id=418></a>
+##### Section 2 : Dispositions pénales<a id=419></a>
 
 ###### Article R271-7
 
@@ -33428,9 +34110,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R271-6 (VD)
 
 
-#### Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement<a id=419></a>
+#### Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement<a id=420></a>
 
-##### Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux<a id=420></a>
+##### Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux<a id=421></a>
 
 ###### Article R273-1
 
@@ -33537,7 +34219,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-1 (VD)
 
 
-##### Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité<a id=421></a>
+##### Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité<a id=422></a>
 
 ###### Article R273-4
 
@@ -33644,7 +34326,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-4 (VD)
 
 
-##### Section 3 : Garages et parcs de stationnement<a id=422></a>
+##### Section 3 : Garages et parcs de stationnement<a id=423></a>
 
 ###### Article R273-7
 
@@ -33680,7 +34362,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-1 (VD)
 
 
-##### Section 4 : Contrôle<a id=423></a>
+##### Section 4 : Contrôle<a id=424></a>
 
 ###### Article R273-8
 
@@ -33709,7 +34391,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R273-9 (VD)
 
 
-##### Section 5 : Dispositions pénales<a id=424></a>
+##### Section 5 : Dispositions pénales<a id=425></a>
 
 ###### Article R273-9
 
@@ -33740,9 +34422,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-8 (VD)
 
 
-### TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=425></a>
+### TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=426></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=426></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=427></a>
 
 ###### Article R281-1
 
@@ -33783,7 +34465,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R232-9 (VD)
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=427></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=428></a>
 
 ###### Article R282-1
 
@@ -33846,7 +34528,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R251-7 (VD)
 
 
-#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=428></a>
+#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=429></a>
 
 ###### Article R283-1
 
@@ -33933,7 +34615,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R252-10 (VD)
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=429></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=430></a>
 
 ###### Article R284-1
 
@@ -34000,7 +34682,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R251-8 (VD)
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=430></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=431></a>
 
 ###### Article D285-2
 
@@ -34051,165 +34733,211 @@ Sont applicables en Polynésie française les dispositions du présent livre men
 ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES 
 
 </th>
-        <th>DANS LEUR RÉDACTION 
+      <th>DANS LEUR RÉDACTION 
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-2 à R. 211-8 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 214-1 à R. 214-3 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre II 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 223-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre III 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 232-1 à R. 232-5 
+    </tr>
+    <tr>
+      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td>
+
+R. 232-12 à R. 232-18
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td>
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 234-1 à R. 236-45 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 242-1 à R. 244-6 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre V 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre V 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 251-1 et R. 251-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>
+      <td align="center">
+
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 251-3 à R. 251-12
 
 </td>
-        <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
-du code de la sécurité intérieure 
+      <td>
 
-(Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="center">
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 252-2 à R. 253-4 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -34219,7 +34947,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-901 du 18 août 2014 - art. 33
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 4
 
 _Cité par_:
 
@@ -34305,7 +35033,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=431></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=432></a>
 
 ###### Article D286-2
 
@@ -34348,165 +35076,210 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES 
 
 </th>
-        <th>DANS LEUR RÉDACTION 
+      <th>DANS LEUR RÉDACTION 
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-2 à R. 211-8 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-11 à R. 211-16, 
 R. 211-18 et R. 211-21 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 214-1 à R. 214-3 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre II 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 223-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III 
+    </tr>
+    <tr>
+      <td align="center">Au titre III 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 232-1 à R. 232-5 
+    </tr>
+    <tr>
+      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td>
+
+R. 232-12 à R. 232-18 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">R. 234-1 à R. 236-45 
+      <td>
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France' pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td align="center">R. 234-1 à R. 236-45 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 242-1 à R. 244-6 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre V 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre V 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
+
 R. 251-1 et R. 251-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>
+      <td align="center">
+
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 251-3 à R. 251-12
 
 </td>
-        <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
-du code de la sécurité intérieure 
+      <td>
 
-(Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="center">
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 252-2 à R. 253-4 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -34516,7 +35289,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-901 du 18 août 2014 - art. 33
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 4
 
 _Cite_:
 
@@ -34598,7 +35371,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=432></a>
+#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=433></a>
 
 ###### Article D287-2
 
@@ -34641,165 +35414,212 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES 
 
 </th>
-        <th>DANS LEUR RÉDACTION 
+      <th>DANS LEUR RÉDACTION 
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-2 à R. 211-8 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 214-1 à R. 214-3 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre II 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 223-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre III 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 232-1 à R. 232-5 
+    </tr>
+    <tr>
+      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td>
+
+R. 232-12 à R. 232-18 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td>
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 234-1 à R. 236-45 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 242-1 à R. 244-6 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre V 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre V 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
+
 R. 251-1 et R. 251-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>
+      <td align="center">
+
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 251-3 à R. 251-12
 
 </td>
-        <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
-du code de la sécurité intérieure 
+      <td>
 
-(Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="center">
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 252-2 à R. 253-4 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -34809,7 +35629,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-901 du 18 août 2014 - art. 33
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 4
 
 _Cite_:
 
@@ -34896,7 +35716,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=433></a>
+#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=434></a>
 
 ###### Article D288-2
 
@@ -34944,168 +35764,210 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES 
 
 </th>
-        <th>DANS LEUR RÉDACTION 
+      <th>DANS LEUR RÉDACTION 
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-2 à R. 211-8 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 211-27 à R. 211-30 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 214-1 à R. 214-3 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre II 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre II 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 223-2 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre III 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre III 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 232-1 à R. 232-5 
+    </tr>
+    <tr>
+      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+    </tr>
+    <tr>
+      <td>
+
+R. 232-12 à R. 232-18 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td>
+
+Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 236-1 à R. 236-45 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre IV 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 242-1 à R. 242-3 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre V 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre V 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td>
+    </tr>
+    <tr>
+      <td>
 
 R. 251-1
 
 </td>
-        <td>
+      <td>
 
 Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure 
+      <td align="center">
 
-(Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="center">
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure 
+
+(Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 R. 252-2 à R. 253-4 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -35115,7 +35977,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-901 du 18 août 2014 - art. 33
+  - Décret n°2014-1095 du 26 septembre 2014 - art. 4
 
 _Cité par_:
 
@@ -35182,13 +36044,13 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-## LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE<a id=434></a>
+## LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE<a id=435></a>
 
-### TITRE Ier : POLICE NATIONALE<a id=435></a>
+### TITRE Ier : POLICE NATIONALE<a id=436></a>
 
-#### Chapitre Ier : Missions et personnels  de la police nationale<a id=436></a>
+#### Chapitre Ier : Missions et personnels  de la police nationale<a id=437></a>
 
-##### Section 1 : Dispositions générales<a id=437></a>
+##### Section 1 : Dispositions générales<a id=438></a>
 
 ###### Article R411-1
 
@@ -35218,7 +36080,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R448-1 (VD)
 
 
-##### Section 2 : Fonctionnaires actifs<a id=438></a>
+##### Section 2 : Fonctionnaires actifs<a id=439></a>
 
 ###### Article R411-2
 
@@ -35300,9 +36162,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Adjoints de sécurité<a id=439></a>
+##### Section 3 : Adjoints de sécurité<a id=440></a>
 
-##### Sous-section 1 : Dispositions générales<a id=440></a>
+##### Sous-section 1 : Dispositions générales<a id=441></a>
 
 ###### Article R411-4
 
@@ -35340,7 +36202,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R447-2 (VD)
 
 
-##### Sous-section 2 : Missions<a id=441></a>
+##### Sous-section 2 : Missions<a id=442></a>
 
 ###### Article R411-5
 
@@ -35449,7 +36311,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 3 : Recrutement<a id=442></a>
+##### Sous-section 3 : Recrutement<a id=443></a>
 
 ###### Article R411-8
 
@@ -35534,7 +36396,7 @@ _Modifié par_:
   - Décret n°2014-134 du 17 février 2014 - art. 6
 
 
-##### Sous-section 4 : Formation et validation de l'expérience professionnelle<a id=443></a>
+##### Sous-section 4 : Formation et validation de l'expérience professionnelle<a id=444></a>
 
 ###### Article R411-10
 
@@ -35614,9 +36476,9 @@ _Cite_:
   - Code de l'éducation - art. L335-5 (VT)
 
 
-##### Section 4 : Réserve civile<a id=444></a>
+##### Section 4 : Réserve civile<a id=445></a>
 
-##### Sous-section 1 : Dispositions communes aux réservistes de la police nationale<a id=445></a>
+##### Sous-section 1 : Dispositions communes aux réservistes de la police nationale<a id=446></a>
 
 ###### Article D411-17
 
@@ -35843,7 +36705,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité<a id=446></a>
+##### Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité<a id=447></a>
 
 ###### Article D411-25
 
@@ -35951,7 +36813,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L411-8 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale<a id=447></a>
+##### Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale<a id=448></a>
 
 ###### Article D411-31
 
@@ -36146,11 +37008,11 @@ _Cite_:
   - Code de la sécurité intérieure - art. L411-11 (V)
 
 
-#### Chapitre III : Etablissements publics de la police nationale<a id=448></a>
+#### Chapitre III : Etablissements publics de la police nationale<a id=449></a>
 
-##### Section 1 : Ecole nationale supérieure de la police<a id=449></a>
+##### Section 1 : Ecole nationale supérieure de la police<a id=450></a>
 
-##### Sous-section 1 : Dispositions générales<a id=450></a>
+##### Sous-section 1 : Dispositions générales<a id=451></a>
 
 ###### Article R413-1
 
@@ -36219,7 +37081,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Organisation administrative<a id=451></a>
+##### Sous-section 2 : Organisation administrative<a id=452></a>
 
 ###### Article R413-3
 
@@ -36673,7 +37535,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 3 : Organisation pédagogique<a id=452></a>
+##### Sous-section 3 : Organisation pédagogique<a id=453></a>
 
 ###### Article R413-17
 
@@ -36806,7 +37668,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 4 : Organisation financière<a id=453></a>
+##### Sous-section 4 : Organisation financière<a id=454></a>
 
 ###### Article R413-22
 
@@ -36938,9 +37800,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Institut national de police scientifique<a id=454></a>
+##### Section 2 : Institut national de police scientifique<a id=455></a>
 
-##### Sous-section 1 : Dispositions générales<a id=455></a>
+##### Sous-section 1 : Dispositions générales<a id=456></a>
 
 ###### Article R413-27
 
@@ -37099,7 +37961,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Organisation administrative<a id=456></a>
+##### Sous-section 2 : Organisation administrative<a id=457></a>
 
 ###### Article R413-32
 
@@ -37439,7 +38301,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 3 : Conseil scientifique<a id=457></a>
+##### Sous-section 3 : Conseil scientifique<a id=458></a>
 
 ###### Article R413-42
 
@@ -37614,7 +38476,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 4 : Organisation financière<a id=458></a>
+##### Sous-section 4 : Organisation financière<a id=459></a>
 
 ###### Article R413-47
 
@@ -37817,9 +38679,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE II : GENDARMERIE NATIONALE<a id=459></a>
+### TITRE II : GENDARMERIE NATIONALE<a id=460></a>
 
-#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=460></a>
+#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=461></a>
 
 ###### Article R421-1
 
@@ -37837,11 +38699,11 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE III : DISPOSITIONS COMMUNES<a id=461></a>
+### TITRE III : DISPOSITIONS COMMUNES<a id=462></a>
 
-#### Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques<a id=462></a>
+#### Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques<a id=463></a>
 
-##### Section 1 : Répartition des attributions<a id=463></a>
+##### Section 1 : Répartition des attributions<a id=464></a>
 
 ###### Article R431-1
 
@@ -37967,7 +38829,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Organisation de la coopération<a id=464></a>
+##### Section 2 : Organisation de la coopération<a id=465></a>
 
 ###### Article R431-6
 
@@ -38042,9 +38904,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale<a id=465></a>
+#### Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale<a id=466></a>
 
-##### Section 1 : Dispositions générales<a id=466></a>
+##### Section 1 : Dispositions générales<a id=467></a>
 
 ###### Article R434-1
 
@@ -38121,9 +38983,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Principes généraux<a id=467></a>
+##### Section 2 : Principes généraux<a id=468></a>
 
-##### Sous-section 1 : Autorité et protection<a id=468></a>
+##### Sous-section 1 : Autorité et protection<a id=469></a>
 
 ###### Article R434-4
 
@@ -38230,7 +39092,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Devoirs du policier et du gendarme<a id=469></a>
+##### Sous-section 2 : Devoirs du policier et du gendarme<a id=470></a>
 
 ###### Article R434-8
 
@@ -38350,9 +39212,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale<a id=470></a>
+##### Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale<a id=471></a>
 
-##### Sous-section 1 : Relation avec la population et respect des libertés<a id=471></a>
+##### Sous-section 1 : Relation avec la population et respect des libertés<a id=472></a>
 
 ###### Article R434-14
 
@@ -38543,7 +39405,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie<a id=472></a>
+##### Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie<a id=473></a>
 
 ###### Article R434-23
 
@@ -38646,9 +39508,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale<a id=473></a>
+##### Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale<a id=474></a>
 
-##### Sous-section 1 : Dispositions propres à la police nationale<a id=474></a>
+##### Sous-section 1 : Dispositions propres à la police nationale<a id=475></a>
 
 ###### Article R434-28
 
@@ -38712,7 +39574,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Dispositions propres à la gendarmerie nationale<a id=475></a>
+##### Sous-section 2 : Dispositions propres à la gendarmerie nationale<a id=476></a>
 
 ###### Article R434-31
 
@@ -38773,9 +39635,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=476></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=477></a>
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=477></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=478></a>
 
 ###### Article R442-1
 
@@ -38809,7 +39671,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-4 (VD)
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=478></a>
+#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=479></a>
 
 ###### Article R443-1
 
@@ -38835,7 +39697,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=479></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=480></a>
 
 ###### Article R444-1
 
@@ -38857,7 +39719,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=480></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=481></a>
 
 ###### Article R445-1
 
@@ -38997,7 +39859,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-4 (VD)
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=481></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=482></a>
 
 ###### Article R446-1
 
@@ -39137,7 +39999,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-9 (VD)
 
 
-#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=482></a>
+#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=483></a>
 
 ###### Article R447-1
 
@@ -39277,7 +40139,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-9 (VD)
 
 
-#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=483></a>
+#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=484></a>
 
 ###### Article R448-1
 
@@ -39398,13 +40260,13 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-## LIVRE V : POLICES MUNICIPALES<a id=484></a>
+## LIVRE V : POLICES MUNICIPALES<a id=485></a>
 
-### TITRE Ier : AGENTS DE POLICE MUNICIPALE<a id=485></a>
+### TITRE Ier : AGENTS DE POLICE MUNICIPALE<a id=486></a>
 
-#### Chapitre Ier : Missions, recrutement et modalités d'exercice<a id=486></a>
+#### Chapitre Ier : Missions, recrutement et modalités d'exercice<a id=487></a>
 
-##### Section 1 : Missions<a id=487></a>
+##### Section 1 : Missions<a id=488></a>
 
 ###### Article R511-1
 
@@ -39449,7 +40311,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R545-3 (VD)
 
 
-##### Section 2 : Nomination et agrément<a id=488></a>
+##### Section 2 : Nomination et agrément<a id=489></a>
 
 ###### Article R511-2
 
@@ -39485,9 +40347,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L511-2 (V)
 
 
-##### Section 3 : Carte professionnelle, tenue et équipements<a id=489></a>
+##### Section 3 : Carte professionnelle, tenue et équipements<a id=490></a>
 
-##### Sous-section 1 : Carte professionnelle<a id=490></a>
+##### Sous-section 1 : Carte professionnelle<a id=491></a>
 
 ###### Article D511-3
 
@@ -39577,7 +40439,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Tenue<a id=491></a>
+##### Sous-section 2 : Tenue<a id=492></a>
 
 ###### Article D511-6
 
@@ -39660,7 +40522,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 3 : Véhicules<a id=492></a>
+##### Sous-section 3 : Véhicules<a id=493></a>
 
 ###### Article D511-9
 
@@ -39710,7 +40572,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. D545-4 (VD)
 
 
-##### Section 4 : Port d'armes<a id=493></a>
+##### Section 4 : Port d'armes<a id=494></a>
 
 ###### Article R511-11
 
@@ -39755,9 +40617,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R545-3 (VD)
 
 
-##### Sous-section 1 : Armement des agents de police municipale<a id=494></a>
+##### Sous-section 1 : Armement des agents de police municipale<a id=495></a>
 
-##### Paragraphe 1 : Armes susceptibles d'être autorisées<a id=495></a>
+##### Paragraphe 1 : Armes susceptibles d'être autorisées<a id=496></a>
 
 ###### Article R511-12
 
@@ -39863,7 +40725,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R511-12 (VD)
 
 
-##### Paragraphe 2 : Missions pouvant justifier le port d'armes<a id=496></a>
+##### Paragraphe 2 : Missions pouvant justifier le port d'armes<a id=497></a>
 
 ###### Article R511-14
 
@@ -39988,7 +40850,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R511-12 (VD)
 
 
-##### Paragraphe 3 : Autorisation<a id=497></a>
+##### Paragraphe 3 : Autorisation<a id=498></a>
 
 ###### Article R511-18
 
@@ -40099,7 +40961,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L511-2 (V)
 
 
-##### Paragraphe 4 : Formation et entraînement<a id=498></a>
+##### Paragraphe 4 : Formation et entraînement<a id=499></a>
 
 ###### Article R511-21
 
@@ -40196,7 +41058,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R511-21 (VD)
 
 
-##### Paragraphe 5 : Conditions de port et d'emploi des armes<a id=499></a>
+##### Paragraphe 5 : Conditions de port et d'emploi des armes<a id=500></a>
 
 ###### Article R511-23
 
@@ -40420,7 +41282,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R545-1 (VT)
 
 
-##### Sous-section 2 : Acquisition, détention  et conservation des armes par la commune<a id=500></a>
+##### Sous-section 2 : Acquisition, détention  et conservation des armes par la commune<a id=501></a>
 
 ###### Article R511-30
 
@@ -40588,7 +41450,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 5 : Formation continue<a id=501></a>
+##### Section 5 : Formation continue<a id=502></a>
 
 ###### Article R511-35
 
@@ -40764,7 +41626,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R511-37 (VD)
 
 
-##### Section 6 : Dispositions diverses<a id=502></a>
+##### Section 6 : Dispositions diverses<a id=503></a>
 
 ###### Article D511-41
 
@@ -40789,9 +41651,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. D545-2 (VD)
 
 
-#### Chapitre II : Organisation des services<a id=503></a>
+#### Chapitre II : Organisation des services<a id=504></a>
 
-##### Section 1 : Mise en commun des agents de police municipale<a id=504></a>
+##### Section 1 : Mise en commun des agents de police municipale<a id=505></a>
 
 ###### Article R512-1
 
@@ -40935,7 +41797,7 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2212-14 (VT)
 
 
-##### Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat<a id=505></a>
+##### Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat<a id=506></a>
 
 ###### Article R512-5
 
@@ -40997,9 +41859,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L512-4 (V)
 
 
-#### Chapitre IV : Commission consultative des polices municipales<a id=506></a>
+#### Chapitre IV : Commission consultative des polices municipales<a id=507></a>
 
-##### Section 1 : Composition<a id=507></a>
+##### Section 1 : Composition<a id=508></a>
 
 ###### Article R514-1
 
@@ -41160,7 +42022,7 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2212-6, alinéa 1 (VT)
 
 
-##### Section 2 : Fonctionnement<a id=508></a>
+##### Section 2 : Fonctionnement<a id=509></a>
 
 ###### Article R514-6
 
@@ -41287,9 +42149,9 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2212-10 (VT)
 
 
-#### Chapitre V : Déontologie des agents de police municipale<a id=509></a>
+#### Chapitre V : Déontologie des agents de police municipale<a id=510></a>
 
-##### Section 1 : Dispositions générales<a id=510></a>
+##### Section 1 : Dispositions générales<a id=511></a>
 
 ###### Article R515-1
 
@@ -41419,7 +42281,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Devoirs généraux des agents de police municipale<a id=511></a>
+##### Section 2 : Devoirs généraux des agents de police municipale<a id=512></a>
 
 ###### Article R515-7
 
@@ -41665,7 +42527,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement<a id=512></a>
+##### Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement<a id=513></a>
 
 ###### Article R515-17
 
@@ -41775,7 +42637,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 4 : Du contrôle des polices municipales<a id=513></a>
+##### Section 4 : Du contrôle des polices municipales<a id=514></a>
 
 ###### Article R515-21
 
@@ -41803,9 +42665,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L513-1 (V)
 
 
-### TITRE II : GARDES CHAMPÊTRES<a id=514></a>
+### TITRE II : GARDES CHAMPÊTRES<a id=515></a>
 
-#### Chapitre Ier : Missions<a id=515></a>
+#### Chapitre Ier : Missions<a id=516></a>
 
 ###### Article R521-1
 
@@ -41850,7 +42712,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R545-3 (VD)
 
 
-#### Chapitre II : Nomination, agrément et modalités d'exercice<a id=516></a>
+#### Chapitre II : Nomination, agrément et modalités d'exercice<a id=517></a>
 
 ###### Article D522-3
 
@@ -41931,11 +42793,11 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2213-59 (VT)
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS<a id=517></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS<a id=518></a>
 
-#### Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police<a id=518></a>
+#### Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police<a id=519></a>
 
-##### Section 1 : Missions<a id=519></a>
+##### Section 1 : Missions<a id=520></a>
 
 ###### Article R531-1
 
@@ -41997,7 +42859,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1 (V)
 
 
-##### Section 2 : Recrutement et agrément<a id=520></a>
+##### Section 2 : Recrutement et agrément<a id=521></a>
 
 ###### Article R531-3
 
@@ -42226,7 +43088,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1 (V)
 
 
-##### Section 3 : Carte professionnelle, tenue et équipements<a id=521></a>
+##### Section 3 : Carte professionnelle, tenue et équipements<a id=522></a>
 
 ###### Article R531-10
 
@@ -42256,7 +43118,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1 (V)
 
 
-##### Section 4 : Convention de coordination avec la police nationale<a id=522></a>
+##### Section 4 : Convention de coordination avec la police nationale<a id=523></a>
 
 ###### Article R531-11
 
@@ -42283,7 +43145,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1 (V)
 
 
-#### Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police<a id=523></a>
+#### Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police<a id=524></a>
 
 ###### Article R532-1
 
@@ -42321,9 +43183,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L532-1 (V)
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=524></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=525></a>
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=525></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=526></a>
 
 ###### Article R542-1
 
@@ -42341,7 +43203,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=526></a>
+#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=527></a>
 
 ###### Article R543-1
 
@@ -42364,7 +43226,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=527></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=528></a>
 
 ###### Article R544-1
 
@@ -42382,7 +43244,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=528></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=529></a>
 
 ###### Article D545-2
 
@@ -42720,7 +43582,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=529></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=530></a>
 
 ###### Article R546-1
 
@@ -42812,7 +43674,7 @@ _Nouveaux textes_:
   - Code de la sécurité intérieure - art. R546-6 (V)
 
 
-## Annexes<a id=530></a>
+## Annexes<a id=531></a>
 
 ###### Article Annexe 1
 
