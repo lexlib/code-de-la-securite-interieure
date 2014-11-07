@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2014-10-23
+Version Consolidée au 2014-11-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -9124,21 +9124,31 @@ _Codifié par_:
 ###### Article L321-6
 
 Les prélèvements sur les produits des jeux dans les casinos sont fixés par la sous-section 4 de la section VI du chapitre III
-du titre III du livre III de la deuxième partie du code général des collectivités territoriales.
+du titre III du livre III de la deuxième partie et par l'article L. 5211-21-1 du code général des collectivités
+territoriales.
+
+**Nota:**
+
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L321-2 (VD)
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 10
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L5211-21-1 (V)
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L321-2 (VD)
 
 
 ###### Article L321-7
