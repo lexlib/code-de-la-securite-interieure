@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-01-16
+Version Consolidée au 2015-01-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -48021,8 +48021,14 @@ _Créé par_:
 ###### Article R411-9
 
 Les adjoints de sécurité sont recrutés par contrat écrit, pour une durée de trois ans renouvelable une fois par reconduction
-expresse, conclu, au nom de l'Etat, par le préfet de département, et, à Paris, par le préfet de police, et, dans le
-département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+expresse, conclu, au nom de l'Etat : 
+
+1° Soit par le préfet de zone de défense et de sécurité ; 
+
+2° Soit, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône ; 
+
+3° Soit, dans les départements d'outre-mer, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et
+dans les Terres australes et antarctiques françaises, par le haut fonctionnaire de zone de défense et de sécurité. 
 
 Le contrat prévoit une période d'essai de trois mois. Elle peut être prolongée d'un mois. Au cours de cette période, l'Etat
 peut mettre fin au contrat sans indemnité ni préavis, et les adjoints de sécurité peuvent mettre fin à leurs fonctions sans
@@ -48050,7 +48056,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-134 du 17 février 2014 - art. 6
+  - Décret n°2015-76 du 27 janvier 2015 - art. 1
 
 
 ##### Sous-section 4 : Formation et validation de l'expérience professionnelle<a id=572></a>
@@ -51372,77 +51378,120 @@ Sont applicables en Polynésie française les dispositions du présent livre men
 ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 411-1 à R. 411-12 
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 411-1 à R. 411-7
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+      <td align="center">
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 411-13 à R. 411-30 
+    </tr>
+    <tr>
+      <td>
+
+R. 411-8 et R. 411-9
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td>
+
+Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
+l'administration du ministère de l'intérieur 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 411-31 à R. 413-54
+    </tr>
+    <tr>
+      <td>
+
+R. 411-10 à
+
+R. 411-12
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td>
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">Le titre II 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Le titre III 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td align="center">R. 411-13 à
+
+R. 411-30 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+D. 411-31 à R. 413-54
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Le titre II 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Le titre III 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -51450,20 +51499,14 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2015-76 du 27 janvier 2015 - art. 2
 
 _Cité par_:
 
   - Décret n°2016-684 du 26 mai 2016 - art. 3
   - Décret n°2017-907 du 6 mai 2017 - art. 1
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. D411-31 (VD)
-  - Code de la sécurité intérieure - art. R411-1 (VD)
-  - Code de la sécurité intérieure - art. R411-13 (VD)
 
 
 ###### Article R445-2
@@ -51512,77 +51555,118 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 411-1 à R. 411-12 
+    </tr>
+    <tr>
+      <td align="center">
 
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+R. 411-1 à
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 411-13 à R. 411-30 
+R. 411-7</td>
+      <td align="center">
 
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 411-31 à R. 413-54
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Le titre II 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Le titre III 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-8 et
+
+R. 411-9 
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
+l'administration du ministère de l'intérieur 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-10 à
+
+R. 411-12
+
+</td>
+      <td>
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+R. 411-13 à R. 411-30 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+D. 411-31 à R. 413-54
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Le titre II 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Le titre III 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -51590,9 +51674,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2015-76 du 27 janvier 2015 - art. 2
 
 _Cité par_:
 
@@ -51600,9 +51684,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. D411-31 (VD)
-  - Code de la sécurité intérieure - art. R411-1 (VD)
-  - Code de la sécurité intérieure - art. R411-13 (VD)
+  - Code de la sécurité intérieure - art. D411-31
+  - Code de la sécurité intérieure - art. R411-1
+  - Code de la sécurité intérieure - art. R411-13
 
 
 ###### Article R446-2
@@ -51652,77 +51736,120 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 411-1 à R. 411-12 
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 411-1 à 
+
+R. 411-7
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 411-13 à R. 411-30 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 411-31 à R. 413-54
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Le titre II 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Le titre III 
-
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-8 et 
+
+R. 411-9
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
+l'administration du ministère de l'intérieur
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-10 à
+
+R. 411-12
+
+</td>
+      <td>
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+R. 411-13 à R. 411-30 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+D. 411-31 à R. 413-54
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Le titre II 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">Le titre III 
+
+</td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -51730,9 +51857,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2015-76 du 27 janvier 2015 - art. 2
 
 _Cité par_:
 
@@ -51740,9 +51867,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. D411-31 (VD)
-  - Code de la sécurité intérieure - art. R411-1 (VD)
-  - Code de la sécurité intérieure - art. R411-13 (VD)
+  - Code de la sécurité intérieure - art. D411-31
+  - Code de la sécurité intérieure - art. R411-1
+  - Code de la sécurité intérieure - art. R411-13
 
 
 ###### Article R447-2
@@ -51792,97 +51919,135 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <td>
 
 DISPOSITIONS APPLICABLES 
 
 </td>
-        <td>
+      <td>
 
 DANS LEUR RÉDACTION 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Au titre Ier 
+    </tr>
+    <tr>
+      <td align="center">Au titre Ier 
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-R. 411-1 à R. 411-12 
+    </tr>
+    <tr>
+      <td align="center">R. 411-1 à 
 
-</td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+R. 411-7 </td>
+      <td align="center">
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td>
+
+R. 411-8 et 
+
+R. 411-9 
+
+</td>
+      <td>
+
+Résultant du décret n° 2015-76 du 27 janvier 2015 modifiant diverses dispositions relatives aux secrétariats généraux pour
+l'administration du ministère de l'intérieur 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 411-10 à 
+
+R. 411-12 
+
+</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la
+partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+    </tr>
+    <tr>
+      <td align="center">
+
 R. 411-13 à R. 411-30 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-D. 411-31 à R. 413-54
+    </tr>
+    <tr>
+      <td align="center">
+
+D. 411-31 à R. 413-54 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Le titre II 
+    </tr>
+    <tr>
+      <td align="center">Le titre II 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Le titre III 
+    </tr>
+    <tr>
+      <td align="center">Le titre III 
 
 </td>
-        <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td align="center">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 (V)
+  - Décret n°2015-76 du 27 janvier 2015 (V)
+  - Code de la sécurité intérieure - art. D411-31
+  - Code de la sécurité intérieure - art. R411-13
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2015-76 du 27 janvier 2015 - art. 2
 
 _Cité par_:
 
   - Décret n°2016-684 du 26 mai 2016 - art. 3
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. D411-31 (VD)
-  - Code de la sécurité intérieure - art. R411-1 (VD)
-  - Code de la sécurité intérieure - art. R411-13 (VD)
 
 
 ###### Article R448-2
