@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-01-30
+Version Consolidée au 2015-02-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -9813,8 +9813,8 @@ _Cite_:
 
 Sont exceptées des dispositions des articles L. 322-1 et L. 322-2 les loteries d'objets mobiliers exclusivement destinées à
 des actes de bienfaisance, à l'encouragement des arts ou au financement d'activités sportives à but non lucratif,
-lorsqu'elles ont été autorisées par le représentant de l'Etat dans le département où est situé le siège social de l'organisme
-bénéficiaire et, à Paris, par le préfet de police. 
+lorsqu'elles ont été autorisées par le  maire de la commune  où est situé le siège social de l'organisme bénéficiaire et, à
+Paris, par le préfet de police. 
 
 Les modalités d'application de cette dérogation sont fixées par voie réglementaire.
 
@@ -9824,6 +9824,10 @@ _Anciens textes_:
 
   - Loi du 21 mai 1836 - art. 5 (VT)
 
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
 _Cité par_:
 
   - Loi n°2010-476 du 12 mai 2010 - art. 5 (V)
@@ -9832,17 +9836,13 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L345-3 (V)
   - Code de la sécurité sociale. - art. R161-71 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2015-177 du 16 février 2015 - art. 15 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L322-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L322-1
 
 
 ###### Article L322-4
@@ -11008,7 +11008,10 @@ fédération sportive territoriale, en application des dispositions applicables 
 3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
 remplacés par les mots : " dispositions applicables localement ” ;
 
-4° Le 2° de l'article L. 324-4est supprimé.
+4° A l'article L. 322-3, les mots : "le maire de la commune" sont remplacés par les mots : "l'administrateur supérieur des
+îles Wallis et Futuna" ;  
+
+5° Le 2° de l'article L. 324-4est supprimé.
 
 **Liens relatifs à cet article**
 
@@ -11018,7 +11021,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-519 du 20 juin 2013 - art. 3
+  - Loi n°2015-177 du 16 février 2015 - art. 15 (V)
 
 _Cité par_:
 
