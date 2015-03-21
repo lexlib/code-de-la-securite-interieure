@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-02-19
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -13,14 +13,14 @@ Version Consolidée au 2015-02-19
       - [TITRE III : COMPÉTENCES RESPECTIVES DE L'ÉTAT ET DES COLLECTIVITÉS TERRITORIALES EN MATIÈRE DE SÉCURITÉ PUBLIQUE (art. L131-1 à L132-16)](#10)
         - [Chapitre Ier : Exercice des pouvoirs de police (art. L131-1 à L131-6)](#11)
           - [Section 1 : Pouvoirs de police du maire (art. L131-1 à L131-2-1)](#12)
-          - [Section 2 : Pouvoirs de police du président du conseil général (art. L131-3)](#13)
+          - [Section 2 : Pouvoirs de police du président du conseil départemental (art. L131-3)](#13)
           - [Section 3 : Pouvoirs de police du représentant de l'Etat  dans le département (art. L131-4 à L131-6)](#14)
         - [Chapitre II : Prévention de la délinquance (art. L132-1 à L132-16)](#15)
           - [Section 1 : Rôle du maire (art. L132-1 à L132-7)](#16)
           - [Section 2 : Rôle du représentant de l'Etat et du procureur de la République dans le département (art. L132-8 à L132-10-1)](#17)
           - [Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris (art. L132-11 à L132-12-3)](#18)
           - [Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance (art. L132-13 à L132-14)](#19)
-          - [Section 5 : Rôle du conseil général (art. L132-15)](#20)
+          - [Section 5 : Rôle du conseil départemental (art. L132-15)](#20)
           - [Section 6 : De l'information des députés et des sénateurs (art. L132-16)](#21)
       - [TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE (art. L141-1 à L142-1)](#22)
         - [Chapitre Ier : Dispositions générales (art. L141-1)](#23)
@@ -1341,13 +1341,13 @@ _Créé par_:
   - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 11
 
 
-##### Section 2 : Pouvoirs de police du président du conseil général<a id=13></a>
+##### Section 2 : Pouvoirs de police du président du conseil départemental<a id=13></a>
 
 ###### Article L131-3
 
-Le président du conseil général exerce les pouvoirs de police afférents à la gestion du domaine du département, notamment en
-ce qui concerne la circulation sur ce domaine, dans les conditions prévues à l'article L. 3221-4 du code général des
-collectivités territoriales.
+Le président du conseil départemental exerce les pouvoirs de police afférents à la gestion du domaine du département,
+notamment en ce qui concerne la circulation sur ce domaine, dans les conditions prévues à l'article L. 3221-4 du code général
+des collectivités territoriales.
 
 **Nota:**
 
@@ -1355,17 +1355,17 @@ collectivités territoriales.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L3221-4
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ##### Section 3 : Pouvoirs de police du représentant de l'Etat  dans le département<a id=14></a>
@@ -1402,7 +1402,7 @@ pourvu par le maire.
 
 Le représentant de l'Etat dans le département peut, dans les conditions prévues à l'article L. 3221-5 du même code, exercer
 les pouvoirs de police afférents à la gestion du domaine du département dans le cas où il n'y aurait pas été pourvu par le
-président du conseil général.
+président du conseil départemental.
 
 **Nota:**
 
@@ -1410,17 +1410,17 @@ président du conseil général.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L3221-5 (V)
-
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3221-5
 
 
 ###### Article L131-6
@@ -2007,11 +2007,11 @@ _Cite_:
   - Code de la sécurité intérieure - art. L251-2
 
 
-##### Section 5 : Rôle du conseil général<a id=20></a>
+##### Section 5 : Rôle du conseil départemental<a id=20></a>
 
 ###### Article L132-15
 
-Le conseil général concourt aux actions de prévention de la délinquance dans le cadre de l'exercice de ses compétences
+Le conseil départemental concourt aux actions de prévention de la délinquance dans le cadre de l'exercice de ses compétences
 d'action sociale. Il statue sur l'organisation et le financement des services et des actions sanitaires et sociaux qui
 relèvent de sa compétence, notamment des actions qui concourent à la politique de prévention de la délinquance. Pour la mise
 en œuvre des actions de prévention de la délinquance dans les communes définies au deuxième alinéa de l'article L. 132-4 ou
@@ -2026,26 +2026,22 @@ actions mises en œuvre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. L3214-1, al. 2 (V)
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L132-13 (VD)
-  - Code de la sécurité intérieure - art. L132-4 (VD)
+  - Code de la sécurité intérieure - art. L132-13
+  - Code de la sécurité intérieure - art. L132-4
 
 _Cité par_:
 
   - Code général des collectivités territoriales - art. L3214-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ##### Section 6 : De l'information des députés et des sénateurs<a id=21></a>
@@ -2182,7 +2178,8 @@ par la référence au haut fonctionnaire de zone de défense et de sécurité ;
 
 3° Les références au département sont remplacées par la référence à la collectivité ; 
 
-4° Les références au président du conseil général sont remplacées par la référence au président du conseil territorial ; 
+4° Les références au président du conseil départemental sont remplacées par la référence au président du conseil
+territorial ; 
 
 5° L'article L. 131-3 est ainsi rédigé : 
 
@@ -2204,18 +2201,15 @@ territoriales pour Saint-Barthélemy et à l'article L. O. 6352-9 du même code 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L6212-3
+  - Code général des collectivités territoriales - art. LO6252-7 (V)
   - Code général des collectivités territoriales - art. LO6252-9 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 #### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=28></a>
@@ -2253,17 +2247,18 @@ par la référence au haut fonctionnaire de zone de défense et de sécurité ;
 3° Les références au département sont remplacées par la référence à la collectivité territoriale de Saint-Pierre-et-
 Miquelon ; 
 
-4° Les références au président du conseil général sont remplacées par la référence au président du conseil territorial ; 
+4° Les références au président du conseil départemental sont remplacées par la référence au président du conseil
+territorial ; 
 
 5° L'article L. 131-3 est ainsi rédigé : 
 
 " Art. L. 131-3. ― Les pouvoirs de police du président du conseil territorial de Saint-Pierre-et-Miquelon sont définis à
-l'article L. O. 6462-6 du code général des collectivités territoriales. " ; 
+l'article L. O. 6462-6 du code général des collectivités territoriales. "   ; 
 
 6° L'article L. 131-4 est ainsi rédigé : 
 
 " Art. L. 131-4. ― Le représentant de l'Etat à Saint-Pierre-et-Miquelon exerce les pouvoirs de police définis à l'article L.
-6412-2 du code général des collectivités territoriales. " ; 
+6412-2 du code général des collectivités territoriales. "  ; 
 
 7° L'article L. 131-5 est ainsi rédigé : 
 
@@ -2274,18 +2269,14 @@ territoriales. "
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L6412-2
   - Code général des collectivités territoriales - art. LO6462-2 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 #### Chapitre V : Dispositions applicables en Polynésie française<a id=29></a>
@@ -13149,7 +13140,7 @@ champêtres en commun.
 Une région, un département ou un établissement public chargé de la gestion d'un parc naturel régional peut recruter un ou
 plusieurs gardes champêtres compétents dans chacune des communes concernées. Dans ces cas, leur nomination est prononcée
 conjointement par le maire de chacune des communes et, respectivement, par le président du conseil régional, le président du
-conseil général ou le président de l'établissement public, dans des conditions fixées par décret en Conseil d'Etat. 
+conseil départemental ou le président de l'établissement public, dans des conditions fixées par décret en Conseil d'Etat. 
 
 Un établissement public de coopération intercommunale peut recruter un ou plusieurs gardes champêtres compétents dans chacune
 des communes concernées. Leur nomination est prononcée conjointement par le maire de chacune des communes membres et le
@@ -13169,9 +13160,13 @@ commune.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -13179,8 +13174,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de procédure pénale
-  - Code de la sécurité intérieure - art. L521-1 (VD)
+  - Code de la sécurité intérieure - art. L521-1
 
 _Cité par_:
 
@@ -13188,10 +13182,6 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3221-8 (VD)
   - Code général des collectivités territoriales - art. L4231-6 (VD)
   - Code général des collectivités territoriales - art. L5211-9 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L522-3
@@ -13408,17 +13398,13 @@ dans le Département de Mayotte ;
 
 2° Les références au département et à la région sont remplacées par la référence au Département de Mayotte ;
 
-3° Les références au président du conseil régional sont remplacées par la référence au président du conseil général.
+3° Les références au président du conseil régional sont remplacées par la référence au président du conseil départemental.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L542-2
@@ -13451,20 +13437,16 @@ dans la collectivité ;
 
 2° Les références au département et à la région sont remplacées par la référence à la collectivité ;
 
-3° Les références au président du conseil général et au président du conseil régional sont remplacées par la référence au
-président du conseil territorial ;
+3° Les références au président du conseil départemental et au président du conseil régional sont remplacées par la référence
+au président du conseil territorial ;
 
 4° La référence à la police municipale est remplacée par la référence à la police territoriale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 _Modifié par_:
 
-  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 #### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=169></a>
@@ -13479,18 +13461,14 @@ dans la collectivité territoriale de Saint-Pierre-et-Miquelon ;
 2° Les références au département et à la région sont remplacées par la référence à la collectivité territoriale de Saint-
 Pierre-et-Miquelon ;
 
-3° Les références au président du conseil général et au président du conseil régional sont remplacées par la référence au
-président du conseil territorial.
+3° Les références au président du conseil départemental et au président du conseil régional sont remplacées par la référence
+au président du conseil territorial.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 #### Chapitre V : Dispositions applicables en Polynésie française<a id=170></a>
@@ -19578,12 +19556,12 @@ _Codifié par_:
 
 La commune, sur délibération du conseil municipal, peut instituer une réserve communale de sécurité civile. Ses modalités
 d'organisation et de mise en œuvre doivent être compatibles avec le règlement opérationnel prévu à l'article L. 1424-4 du
-code général des collectivités territoriales.
+code général des collectivités territoriales. 
 
 La réserve communale de sécurité civile est placée sous l'autorité du maire. La charge en incombe à la commune ; toutefois,
 une convention peut fixer les modalités de participation au financement de l'établissement public de coopération
-intercommunale à fiscalité propre dont la commune est membre et du conseil général. La gestion de la réserve communale peut
-être confiée, dans des conditions déterminées par convention, au service départemental d'incendie et de secours ou à un
+intercommunale à fiscalité propre dont la commune est membre et du conseil départemental. La gestion de la réserve communale
+peut être confiée, dans des conditions déterminées par convention, au service départemental d'incendie et de secours ou à un
 établissement public de coopération intercommunale.
 
 **Nota:**
@@ -19591,6 +19569,14 @@ intercommunale à fiscalité propre dont la commune est membre et du conseil gé
 
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
@@ -19605,14 +19591,6 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L762-2 (VD)
   - Code de la sécurité intérieure - art. R731-3 (VD)
   - Code du travail - art. D5151-15 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ##### Section 3 : Réservistes communaux<a id=273></a>
@@ -21547,7 +21525,7 @@ Pour l'application du présent livre à Saint-Barthélemy et à Saint-Martin :
 
 1° La référence au département est remplacée par la référence à la collectivité ;
 
-2° La référence au conseil général est remplacée par la référence au conseil territorial ;
+2° La référence au conseil départemental est remplacée par la référence au conseil territorial ;
 
 3° La référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat dans
 la collectivité ;
@@ -21560,13 +21538,9 @@ l'Etat en mer.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 #### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=311></a>
@@ -21596,7 +21570,7 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon :
 
 1° La référence au département est remplacée par la référence à la collectivité territoriale de Saint-Pierre-et-Miquelon ; 
 
-2° La référence au conseil général est remplacée par la référence au conseil territorial ; 
+2° La référence au conseil départemental est remplacée par la référence au conseil territorial ; 
 
 3° La référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat dans
 la collectivité territoriale de Saint-Pierre-et-Miquelon ; 
@@ -21612,17 +21586,13 @@ service territorial d'incendie et de secours.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L723-4 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 #### Chapitre V : Dispositions applicables en Polynésie française<a id=312></a>
@@ -25846,8 +25816,8 @@ _Cité par_:
 ###### Article D132-6
 
 Le conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives
-sectaires et les violences faites aux femmes est présidé par le préfet de département. Le président du conseil général et le
-procureur de la République en sont les vice-présidents. 
+sectaires et les violences faites aux femmes est présidé par le préfet de département. Le président du conseil départemental
+et le procureur de la République en sont les vice-présidents. 
 
 Il comprend en outre : 
 
@@ -25867,17 +25837,9 @@ Le préfet de département consulte les vice-présidents avant d'arrêter la com
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 12, II et III (VT)
-
-_Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 _Cite_:
 
@@ -25938,7 +25900,7 @@ Présidé par le maire ou son représentant, le conseil local de sécurité et d
 
 1° Le préfet de département et le procureur de la République, ou leurs représentants ;
 
-2° Le président du conseil général, ou son représentant ;
+2° Le président du conseil départemental, ou son représentant ;
 
 3° Des représentants des services de l'Etat désignés par le préfet de département ;
 
@@ -25958,17 +25920,9 @@ La composition du conseil local de sécurité et de prévention de la délinquan
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. D2211-2 (VT)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -26069,7 +26023,7 @@ intercommunal de sécurité et de prévention de la délinquance comprend :
 
 2° Les maires, ou leurs représentants, des communes membres de l'établissement public de coopération intercommunale ;
 
-3° Le président du conseil général, ou son représentant ;
+3° Le président du conseil départemental, ou son représentant ;
 
 4° Des représentants des services de l'Etat désignés par le préfet de département ;
 
@@ -26086,17 +26040,9 @@ l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. D5211-54 (VT)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 
 ##### Section 5 : Plan de prévention de la délinquance  dans le département<a id=361></a>
@@ -27018,7 +26964,8 @@ Pour l'application des dispositions mentionnées à l'article D. 155-3 :
 
 2° A l'article D. 132-8 : 
 
-a) Les mots : " le président du conseil général " sont remplacés par les mots : " le président de la Polynésie française " ; 
+a) Les mots : " le président du conseil départemental " sont remplacés par les mots : " le président de la Polynésie
+française " ; 
 
 b) Le 4° est supprimé ; 
 
@@ -27031,13 +26978,9 @@ République. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 _Cite_:
 
@@ -45538,22 +45481,18 @@ _Cité par_:
 
 ###### Article D322-1
 
-Les dérogations prévues par l'article L. 322-3 sont accordées par le préfet du département où est situé le siège social de
+Les dérogations prévues par l'article L. 322-3 sont accordées par le  maire de la commune où est situé le siège social de
 l'organisme bénéficiaire et, lorsque celui-ci est à Paris, par le préfet de police.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°87-430 du 19 juin 1987 - art. 2 (VT)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-317 du 19 mars 2015 - art. 1
 
 _Cité par_:
 
@@ -45562,48 +45501,40 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L322-3 (V)
+  - Code de la sécurité intérieure - art. L322-3
 
 
 ###### Article D322-2
 
 Lorsque le capital d'émission dépasse un montant fixé par arrêté conjoint du ministre de l'intérieur et du ministre chargé de
-l'économie et des finances, le préfet statue après avis du directeur départemental ou, le cas échéant, régional des finances
+l'économie et des finances, le maire statue après avis du directeur départemental ou, le cas échéant, régional des finances
 publiques.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°87-430 du 19 juin 1987 - art. 3 (VT)
-
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-317 du 19 mars 2015 - art. 1
 
 
 ###### Article D322-3
 
-L'autorisation peut être subordonnée par le préfet à la fixation d'un montant maximum des frais d'organisation prélevés par
+L'autorisation peut être subordonnée par le maire à la fixation d'un montant maximum des frais d'organisation prélevés par
 l'organisme demandeur et à l'engagement, pris par celui-ci, de justifier de l'affectation des sommes qu'il aura recueillies.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°87-430 du 19 juin 1987 - art. 4 (VT)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-317 du 19 mars 2015 - art. 1
 
 
 ##### Section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines<a id=533></a>
@@ -74784,7 +74715,7 @@ Pour l'application des dispositions du présent livre à Saint-Pierre-et-Miquelo
 
 1° La référence au département est remplacée par la référence à la collectivité territoriale de Saint-Pierre-et-Miquelon ;
 
-2° La référence au conseil général est remplacée par la référence au conseil territorial ;
+2° La référence au conseil départemental est remplacée par la référence au conseil territorial ;
 
 3° La référence au représentant de l'Etat est remplacée par la référence au représentant de l'Etat dans la collectivité
 territoriale de Saint-Pierre-et-Miquelon ;
@@ -74793,18 +74724,9 @@ territoriale de Saint-Pierre-et-Miquelon ;
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°2005-1157 du 13 septembre 2005 - art. 21 (VT)
-  - Décret n°2006-237 du 27 février 2006 - art. 14 (VT)
-
-_Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 
 ###### Article R764-3
