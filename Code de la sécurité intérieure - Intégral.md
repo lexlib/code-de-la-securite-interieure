@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-03-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -22321,6 +22321,16 @@ k) Des personnes physiques employées par les organismes qualifiés indépendant
 communications électroniques pour effectuer les contrôles prévus par l'article L. 33-10 du code des postes et des
 communications électroniques ; 
 
+l) Des agents de l'Agence nationale de la sécurité des systèmes d'information mentionnés à l'article R. 2321-2 du code de la
+défense ; 
+
+m) Des prestataires de service de confiance mentionnés au chapitre III du décret n° 2015-350 du 27 mars 2015 relatif à la
+qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité
+nationale ;
+
+n) Des centres d'évaluation mentionnés au chapitre III du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des
+produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale ; 
+
 2° Recrutement des membres des juridictions administratives, des magistrats de l'ordre judiciaire et des juges de
 proximité ; 
 
@@ -22402,22 +22412,24 @@ des navires.
 
 _Cite_:
 
-  - Décret n°2007-937 du 15 mai 2007 (V)
-  - Code des postes et des communications électroni... - art. L33-10 (V)
-  - Code de procédure pénale - art. 529-4 (V)
-  - Code de la route. - art. L130-4 (V)
-  - Code des ports maritimes - art. R321-12 (V)
-  - Code des transports - art. L5332-6 (V)
-  - Code des transports - art. L6342-4 (V)
-  - Code de la sécurité intérieure - art. L613-2 (V)
+  - Décret n°2007-937 du 15 mai 2007
+  - Code des postes et des communications électroniques - art. L33-10
+  - Code de procédure pénale - art. 529-4
+  - Code de la défense. - art. R2321-2
+  - Code de la route. - art. L130-4
+  - Code des ports maritimes - art. R321-12
+  - Code des transports - art. L5332-6
+  - Code des transports - art. L6342-4
+  - Code de la sécurité intérieure - art. L613-2
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2015-349 du 27 mars 2015 - art. 2
+  - Décret n°2015-350 du 27 mars 2015 - art. 23 (V)
 
 _Cité par_:
 
@@ -26945,11 +26957,37 @@ DANS LEUR RÉDACTION
 </td>
       </tr>
       <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4°, R. 114-3 à R. 114-5 
+        <td align="center">R. 113-1 à R. 113-2, R. 114-1 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-2, sauf le k du 1° et les n et o du 4°
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-3 à R. 114-5 
+
+</td>
+        <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
       </tr>
@@ -27026,7 +27064,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 _Cité par_:
 
@@ -27446,12 +27484,37 @@ DANS LEUR RÉDACTION
 </td>
       </tr>
       <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4°, et R. 114-3 à R.
-114-5 
+        <td align="center">R. 113-1 à R. 113-2, R. 114-1 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-2, sauf le k du 1° et les n et o du 4° 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-3 à R. 114-5 
+
+</td>
+        <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
       </tr>
@@ -27515,7 +27578,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 _Cité par_:
 
@@ -27818,12 +27881,37 @@ DANS LEUR RÉDACTION
 </td>
       </tr>
       <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4° et R. 114-3 à R.
-114-5 
+        <td align="center">R. 113-1 à R. 113-2, R. 114-1 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-2, sauf le k du 1° et les n et o du 4° 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-3 à R. 114-5 
+
+</td>
+        <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
       </tr>
@@ -27887,7 +27975,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 _Cité par_:
 
@@ -27897,7 +27985,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. D157-4 (V)
+  - Code de la sécurité intérieure - art. D157-4
 
 
 ###### Article R157-5
@@ -28098,12 +28186,37 @@ DANS LEUR RÉDACTION
 </td>
       </tr>
       <tr>
-        <td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4° et R. 114-3 à R.
-114-5 
+        <td align="center">
+
+R. 113-1 à R. 113-2, R. 114-1 
 
 </td>
         <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-2, sauf le k du 1° et les n et o du 4° 
+
+</td>
+        <td>
+
+Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité
+nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 114-3 à R. 114-5 
+
+</td>
+        <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
       </tr>
@@ -28183,7 +28296,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
+  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 _Cité par_:
 
