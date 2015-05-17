@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-05-01
+Version Consolidée au 2015-05-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -44994,7 +44994,9 @@ n) L'ultimate poker ;
 
 o) Le poker trois cartes ; 
 
-p) Le rampo.
+p) Le rampo ;
+
+q) Le sic-bo. 
 
 2° Jeux dits " de cercle " : 
 
@@ -45007,6 +45009,8 @@ c) Le baccara à deux tableaux à banque ouverte ;
 d) L'écarté ; 
 
 e) Les formes de poker déterminées par arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget ;
+
+f) Le bingo.
 
 3° Les formes électroniques des jeux mentionnés aux 1° et 2° ; 
 
@@ -45043,7 +45047,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1726 du 30 décembre 2014 - art. 1
+  - Décret n°2015-540 du 15 mai 2015 - art. 1
 
 _Cite_:
 
