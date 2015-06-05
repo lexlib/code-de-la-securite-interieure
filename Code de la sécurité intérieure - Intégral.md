@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-06-05
+Version Consolidée au 2015-06-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -613,7 +613,7 @@ Version Consolidée au 2015-06-05
         - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R446-1 à R446-2)](#610)
         - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. R447-1 à R447-2)](#611)
         - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. R448-1 à R448-2)](#612)
-    - [LIVRE V : POLICES MUNICIPALES (art. R511-1 à R546-3)](#613)
+    - [LIVRE V : POLICES MUNICIPALES (art. R511-1 à R546-6)](#613)
       - [TITRE Ier : AGENTS DE POLICE MUNICIPALE (art. R511-1 à R515-21)](#614)
         - [Chapitre Ier : Missions, recrutement et modalités d'exercice (art. R511-1 à R511-42)](#615)
           - [Section 1 : Missions (art. R511-1)](#616)
@@ -653,12 +653,12 @@ Version Consolidée au 2015-06-05
           - [Section 3 : Carte professionnelle, tenue et équipements (art. R531-10)](#650)
           - [Section 4 : Convention de coordination avec la police nationale (art. R531-11)](#651)
         - [Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police (art. R532-1)](#652)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R542-1 à R546-3)](#653)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R542-1 à R546-6)](#653)
         - [Chapitre II : Dispositions particulières à Mayotte (art. R542-1)](#654)
         - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R543-1)](#655)
         - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R544-1)](#656)
         - [Chapitre V : Dispositions applicables en Polynésie française (art. D545-2 à R545-5)](#657)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R546-1 à R546-3)](#658)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R546-1 à R546-6)](#658)
     - [LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R611-1 à R648-1)](#659)
       - [TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES (art. R611-1 à R617-1)](#660)
         - [Chapitre Ier : Dispositions générales (art. R611-1 à R611-2)](#661)
@@ -56831,10 +56831,84 @@ _Créé par_:
 
 ###### Article R546-1
 
-Les gardes champêtres ont, sur le bras, une plaque de métal où sont inscrits ces mots : " La Loi " ainsi que le nom de la
-municipalité et celui du garde. 
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 546-2 et R. 546-3, les
+dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
+colonne de droite du même tableau :
 
-Ils peuvent être armés dans l'exercice de leurs fonctions.
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+      <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Au titre Ier 
+
+</td>
+      <td valign="middle" align="left"> </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+R. 511-1, R. 511-2, R. 511-11 à R. 511-34 
+
+</td>
+      <td valign="middle">
+
+Résultant du  décret n° 2015-617 du 3 juin 2015 modifiant certaines dispositions du  code de la sécurité intérieure (partie
+réglementaire) relatives aux polices municipales en Nouvelle-Calédonie. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+R. 512-1, R. 512-2, R. 512-5, R. 512-6 
+
+</td>
+      <td valign="middle">
+
+Résultant du  décret n° 2015-617 du 3 juin 2015 modifiant certaines dispositions du  code de la sécurité intérieure (partie
+réglementaire) relatives aux polices municipales en Nouvelle-Calédonie. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+R. 515-21 
+
+</td>
+      <td valign="middle">
+
+Résultant du  décret n° 2015-617 du 3 juin 2015 modifiant certaines dispositions du  code de la sécurité intérieure (partie
+réglementaire) relatives aux polices municipales en Nouvelle-Calédonie. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Annexe 1 prévue pour l'application de l'article R. 512-5 
+
+</td>
+      <td valign="middle">
+
+Résultant du  décret n° 2015-617 du 3 juin 2015 modifiant certaines dispositions du  code de la sécurité intérieure (partie
+réglementaire) relatives aux polices municipales en Nouvelle-Calédonie. </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -56842,13 +56916,14 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2015-617 du 3 juin 2015
+  - Code de la sécurité intérieure
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2015-617 du 3 juin 2015 - art. 1
+  - Décret n°2015-617 du 3 juin 2015 - art. 1
 
 _Anciens textes_:
 
@@ -56861,8 +56936,158 @@ _Nouveaux textes_:
 
 ###### Article R546-2
 
-Les gardes chargés de la conservation des bois peuvent exercer, en sus de leurs fonctions, les attributions dévolues aux
-gardes champêtres par l'article L. 546-5.
+Pour l'application des dispositions énumérées à l'article R. 546-1 : 
+
+1° Le second alinéa de l'article R. 511-1 est ainsi rédigé : 
+
+"   Ils peuvent également constater par procès-verbal, dans les conditions prévues par le deuxième alinéa de l'article L.
+511-1 du présent code, les contraventions mentionnées à l'
+article R. 610-5 du code pénal
+, relatives aux arrêtés de police municipale pris par le maire ou par le haut-commissaire de la République en Nouvelle-
+Calédonie en application de l'
+article L. 131-13 du code des communes de la Nouvelle-Calédonie
+, ainsi que les contraventions aux dispositions du 
+code de la route
+de la Nouvelle-Calédonie et les contraventions relatives à l'interdiction de fumer dans les lieux affectés à un usage
+collectif prévues par les dispositions applicables localement. " ; 
+
+2° L'article R. 511-2 est ainsi rédigé : 
+
+" Art. R. 511-2.-L'agrément des agents de police municipale est prévu par l'article L. 546-1-1. Il peut être retiré ou
+suspendu dans les conditions prévues par le troisième alinéa de l'article L. 511-2. " ; 
+
+3° 
+Au 1° de l'article R. 511-12, la référence : " 1°, " ainsi que 
+
+les a et b sont supprimés ; 
+
+4° A l'article R. 511-19, le dernier alinéa est supprimé ; 
+
+5° A l'article R. 511-21, après les mots : " dans les conditions prévues à l'article R. 511-22 " sont insérés les mots : "
+dans sa rédaction applicable en Nouvelle-Calédonie en vertu du 6° de l'article R. 546-2 " ; 
+
+6° L'article R. 511-22 est ainsi rédigé : 
+
+" Art. R. 511-22.-La formation préalable à l'autorisation de port d'armes mentionnée à l'article R. 511-19 et la formation
+d'entraînement mentionnée à l'article R. 511-21 sont organisées par un centre de formation de la police nationale. 
+
+Ces formations peuvent être assurées par des agents de police municipale, moniteurs en maniement des armes, qui sont formés à
+cette fonction avec le concours des administrations et établissements publics de l'Etat chargés de la formation des
+fonctionnaires de la police nationale et des militaires de la gendarmerie nationale. 
+
+Eu égard à la spécificité des risques liés à l'emploi d'une arme mentionnée au d du 1° de l'article R. 511-12, une formation
+spécifique préalable à l'autorisation de port de celle-ci et une formation spécifique d'entraînement, qui tiennent compte de
+ses particularités d'emploi, sont organisées par un centre de formation de la police nationale. La formation spécifique
+préalable est sanctionnée par un certificat individuel délivré aux agents de police municipale. 
+
+Un arrêté du ministre de l'intérieur fixe le contenu et la durée de ces formations ainsi que les règles relatives à la
+délivrance du certificat de moniteur de police municipale en maniement des armes et à l'exercice de cette fonction et celles
+relatives à la délivrance du certificat individuel mentionné à l'alinéa précédent. 
+
+Les autres modalités d'organisation des formations sont déterminées par convention entre le haut-commissaire de la République
+en Nouvelle-Calédonie et chacune des communes concernées. " ; 
+
+7° Au deuxième alinéa de l'article R. 511-25, les mots : " mentionnées aux a, b et d du 1° " sont remplacés par les mots : "
+mentionnées au d du 1° " ; 
+
+8° Aux articles R. 511-27, R. 511-28, R. 511-32 et R. 511-33, après les mots : " l'article R. 511-22 " sont insérés les
+mots : " dans sa rédaction applicable en Nouvelle-Calédonie en vertu du 6° de l'article R. 546-2 " ; 
+
+9° Le premier alinéa de l'article R. 511-30 est ainsi rédigé : 
+
+" Les armes dont le port a été autorisé par le haut-commissaire de la République en Nouvelle-Calédonie en application de
+l'article R. 511-18 sont acquises et détenues par la commune sur autorisation du haut-commissaire. " ; 
+
+10° Au d du 2° de l'article R. 512-1, les mots : " en application de l'
+article 97 de la loi n° 84-53 du 26 janvier 1984
+
+" sont remplacés par les mots : " en application des dispositions applicables localement " ; 
+
+11° A l'article R. 512-5 : 
+
+a) Le deuxième alinéa est supprimé ; 
+
+b) Au troisième alinéa, les mots : " ou intercommunale " sont supprimés ; 
+
+12° L'article R. 512-6 est ainsi rédigé : 
+
+"
+
+Art. R. 512-6.-Lorsqu'une convention de coordination prévue à l'article L. 512-4 est conclue, il en est fait mention au
+Journal officiel de la Nouvelle-Calédonie. " ; 
+
+13° A l'annexe 1 prévue pour l'application de l'article R. 512-5 : 
+
+a) 
+A l'article 6, les mots : " en application de l'
+article L. 325-2 du code de la route
+, sous l'autorité de l'officier de police judiciaire compétent, ou, en application du deuxième alinéa de ce dernier article,
+par l'agent de police judiciaire adjoint, chef de la police municipale " sont remplacés par les mots : " en application des
+dispositions du 
+code de la route
+de la Nouvelle-Calédonie " ; 
+
+b) A l'article 13, les mots : " et par les articles 
+L. 221-2
+, 
+L. 223-5
+, 
+L. 224-16
+, 
+L. 224-17
+, 
+L. 224-18
+, 
+L. 231-2
+, 
+L. 233-1
+, 
+L. 233-2
+, L. 234-1 à L. 234-9 et 
+L. 235-2
+du code de la route, " sont remplacés par les mots : " et par les dispositions du 
+code de la route
+de la Nouvelle-Calédonie relatives au permis de conduire et au comportement du conducteur, "
+
+.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 97
+  - Code des communes de la Nouvelle-Calédonie - art. L131-13
+  - Code pénal - art. R610-5
+  - Code de la route.
+  - Code de la route. - art. L221-2
+  - Code de la route. - art. L223-5
+  - Code de la route. - art. L224-16
+  - Code de la route. - art. L224-17
+  - Code de la route. - art. L224-18
+  - Code de la route. - art. L231-2
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L233-2
+  - Code de la route. - art. L235-2
+  - Code de la route. - art. L325-2
+
+_Codifié par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art.
+
+_Modifié par_:
+
+  - Décret n°2015-617 du 3 juin 2015 - art. 1
+
+
+###### Article R546-3
+
+Pour l'application du présent livre en Nouvelle-Calédonie : 
+
+1° La référence au préfet de département est remplacée par la référence au haut-commissaire de la République en Nouvelle-
+Calédonie ; 
+
+2° La référence au Centre national de la fonction publique territoriale est remplacée par la référence à un centre de
+formation de la police nationale.
 
 **Liens relatifs à cet article**
 
@@ -56870,53 +57095,69 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
+_Modifié par_:
+
+  - Décret n°2015-617 du 3 juin 2015 - art. 1
+
+
+###### Article R546-4
+
+Les gardes champêtres ont, sur le bras, une plaque de métal où sont inscrits ces mots : " La Loi " ainsi que le nom de la
+municipalité et celui du garde. 
+
+Ils peuvent être armés dans l'exercice de leurs fonctions dans les conditions prévues aux articles R. 312-22, R. 312-24 et R.
+312-25.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2015-617 du 3 juin 2015 - art. 1
 
-**Liens**:
+_Cité par_:
 
-  - TRANSFERE: Décret n°2015-617 du 3 juin 2015 - art. 1
-
-_Anciens textes_:
-
-  - Code des communes de la Nouvelle-Calédonie - art. R132-3 (VT)
+  - Décret n°2016-1616 du 28 novembre 2016 - art. 13 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L546-5 (V)
+  - Code de la sécurité intérieure - art. R312-22
+  - Code de la sécurité intérieure - art. R312-24
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code de la sécurité intérieure - art. R546-5 (V)
+  - Code de la sécurité intérieure - art. R546-1 (T)
 
 
-###### Article R546-3
+###### Article R546-5
+
+Les gardes chargés de la conservation des bois peuvent exercer, en sus de leurs fonctions, les attributions dévolues aux
+gardes champêtres par l'article L. 546-5.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-617 du 3 juin 2015 - art. 1
+
+_Anciens textes_:
+
+  - Code de la sécurité intérieure - art. R546-2 (T)
+
+
+###### Article R546-6
 
 Les agents de police municipale et les gardes champêtres peuvent recevoir un diplôme donnant droit au port de la médaille
 d'honneur de la police.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 _Créé par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2015-617 du 3 juin 2015 - art. 1
+  - Décret n°2015-617 du 3 juin 2015 - art. 1
 
 _Anciens textes_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. R411-2 (VT)
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. R546-6 (V)
+  - Code de la sécurité intérieure - art. R546-3 (T)
 
 
 ## LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=659></a>
