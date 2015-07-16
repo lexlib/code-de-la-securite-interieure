@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-06-28
+Version Consolidée au 2015-07-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -15517,19 +15517,18 @@ _Modifié par_:
 
 ###### Article L615-1
 
-Les dispositions applicables aux services internes de sécurité de la Société nationale des chemins de fer français (SNCF) et
-de la Régie autonome des transports parisiens (RATP) sont définies au chapitre Ier du titre V du livre II de la deuxième
-partie du code des transports.
+Les dispositions applicables aux services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens
+(RATP) sont définies au chapitre Ier du titre V du livre II de la deuxième partie du code des transports.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-855 du 15 juillet 2015 - art. 31
 
 
 #### Chapitre VI : Activités de protection des navires<a id=202></a>
