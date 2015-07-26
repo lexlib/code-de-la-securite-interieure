@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-07-17
+Version Consolidée au 2015-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -57,7 +57,7 @@ Version Consolidée au 2015-07-17
       - [TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES (art. L232-1 à L235-1)](#54)
         - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. L232-1 à L232-8)](#55)
         - [Chapitre III : Contrôle automatisé des données  signalétiques des véhicules (art. L233-1 à L233-2)](#56)
-        - [Chapitre IV : Consultation des traitements automatisés de données  personnelles aux fins d'enquêtes administratives (art. L234-1 à L234-3)](#57)
+        - [Chapitre IV : Consultation des traitements automatisés de données  personnelles aux fins d'enquêtes administratives (art. L234-1 à L234-4)](#57)
         - [Chapitre V : Coopération internationale en matière d'accès  aux traitements automatisés de données personnelles (art. L235-1)](#58)
       - [TITRE IV : INTERCEPTIONS DE SÉCURITÉ ET ACCES ADMINISTRATIF AUX DONNEES DE CONNEXION (art. L241-1 à L246-5)](#59)
         - [Chapitre Ier : Dispositions générales (art. L241-1 à L241-4)](#60)
@@ -4386,6 +4386,42 @@ _Cite_:
 _Cité par_:
 
   - Code de procédure pénale - art. R40-29 (V)
+
+
+###### Article L234-4
+
+Dans la stricte limite de leurs attributions et pour les seuls besoins liés à la protection des intérêts mentionnés aux 1°,
+4° et 5° de l'article L. 811-3 du présent code, peuvent avoir accès aux traitements automatisés de données à caractère
+personnel mentionnés à l'article 230-6 du code de procédure pénale, y compris pour les données portant sur des procédures
+judiciaires en cours et à l'exclusion de celles relatives aux personnes enregistrées en qualité de victimes, les agents
+individuellement désignés et habilités des services mentionnés à l'article L. 811-2 et ceux désignés par le décret en Conseil
+d'Etat mentionné à l'article L. 811-4. 
+
+Un décret en Conseil d'Etat détermine les services concernés ainsi que les modalités et les finalités de l'accès aux
+traitements automatisés mentionnés au présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-912 du 24 juillet 2015 - art. 20
+
+_Cité par_:
+
+  - Décret n°2015-1807 du 28 décembre 2015 (V)
+  - Code de la sécurité intérieure - art. R234-3 (V)
+  - Code de la sécurité intérieure - art. R285-1 (M)
+  - Code de la sécurité intérieure - art. R286-1 (M)
+  - Code de la sécurité intérieure - art. R287-1 (M)
+  - Code de la sécurité intérieure - art. R288-1 (M)
+  - Code de procédure pénale - art. R40-29-1 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 230-6
+  - Code de la sécurité intérieure - art. L811-2
+  - Code de la sécurité intérieure - art. L811-3
+  - Code de la sécurité intérieure - art. L811-4
 
 
 #### Chapitre V : Coopération internationale en matière d'accès  aux traitements automatisés de données personnelles<a id=58></a>
