@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-07-27
+Version Consolidée au 2015-07-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -3392,26 +3392,27 @@ _Codifié par_:
 ###### Article L214-3
 
 Conformément aux dispositions du dernier alinéa de l'article L. 2338-3 du code de la défense, les officiers et sous-officiers
-de gendarmerie sont autorisés à faire usage de tous engins ou moyens appropriés tels que herses, hérissons, câbles, pour
-immobiliser les moyens de transport quand les conducteurs ne s'arrêtent pas à leurs sommations.
+de gendarmerie et les volontaires dans les armées, en service au sein de la gendarmerie sont autorisés à faire usage de tous
+engins ou moyens appropriés tels que herses, hérissons, câbles, pour immobiliser les moyens de transport quand les
+conducteurs ne s'arrêtent pas à leurs sommations.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de la défense. - art. L2338-3
-
-_Anciens textes_:
-
-  - Code de la défense. - art. L2338-3 dernier alinéa (M)
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Loi n°2015-917 du 28 juillet 2015 - art. 26
+
+_Abrogé par_:
+
+  - Loi n°2017-258 du 28 février 2017 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. L2338-3
 
 
 ###### Article L214-4
@@ -4155,17 +4156,24 @@ l'article L. 232-4 du présent code.
 Les transporteurs aériens sont également tenus de communiquer les données relatives aux passagers enregistrées dans leurs
 systèmes de réservation. 
 
-III. ― Les transporteurs aériens mentionnés au II informent les personnes concernées par le traitement mentionné au I. 
+En outre, les ministres mentionnés au I du présent article peuvent demander aux opérateurs de voyage ou de séjour affrétant
+tout ou partie d'un aéronef de transmettre les données relatives aux passagers enregistrées dans leurs systèmes de
+réservation.  
+
+III. ― Les transporteurs aériens et, le cas échéant, les opérateurs de voyage ou de séjour affrétant tout ou partie d'un
+aéronef  mentionnés au II informent les personnes concernées par le traitement mentionné au I. 
 
 IV. ― Les données mentionnées au II ne peuvent être conservées que pour une durée maximale de cinq ans. 
 
-V. ― En cas de méconnaissance des obligations fixées au présent article par une entreprise de transport aérien, l'amende et
-la procédure prévues à l'article L. 232-5 sont applicables. 
+V. ― En cas de méconnaissance des obligations fixées au présent article par une entreprise de transport aérien ou par un
+opérateur de voyage ou de séjour affrétant tout ou partie d'un aéronef, l'amende et la procédure prévues à l'article L. 232-5
+sont applicables. 
 
 VI. ― Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis de la
 Commission nationale de l'informatique et des libertés. Ce décret détermine les services autorisés à interroger l'unité de
-gestion chargée de la collecte des données auprès des transporteurs aériens, de leur conservation et de leur analyse, en
-précisant si cette autorisation est délivrée à des fins de prévention ou à des fins de répression.
+gestion chargée de la collecte des données auprès des transporteurs aériens et des opérateurs de voyage ou de séjour
+affrétant tout ou partie d'un aéronef, de leur conservation et de leur analyse, en précisant si cette autorisation est
+délivrée à des fins de prévention ou à des fins de répression.
 
 **Nota:**
 
@@ -4173,10 +4181,6 @@ Conformément à l'article 17 II de la loi n° 2013-1168 du 18 décembre 2013, l
 intérieure est applicable jusqu'au 31 décembre 2017.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2013-1168 du 18 décembre 2013 - art. 17 (M)
 
 _Cité par_:
 
@@ -4197,6 +4201,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R286-1 (M)
   - Code de la sécurité intérieure - art. R287-1 (M)
   - Code de la sécurité intérieure - art. R288-1 (M)
+
+_Modifié par_:
+
+  - Loi n°2015-917 du 28 juillet 2015 - art. 28
 
 _Cite_:
 
