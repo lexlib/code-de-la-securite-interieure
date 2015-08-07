@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-07-30
+Version Consolidée au 2015-08-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -14137,9 +14137,11 @@ _Cité par_:
 ###### Article L612-2
 
 L'exercice d'une activité mentionnée aux 1° et 2° de l'article L. 611-1 est exclusif de toute autre prestation de services
-non liée à la surveillance, au gardiennage ou au transport de fonds, de bijoux ou de métaux précieux. 
+non liée à la surveillance, au gardiennage ou au transport de fonds, de bijoux ou de métaux précieux, à l'exception du
+transport, par les personnes exerçant l'activité mentionnée au 2° de l'article L. 611-1, dans les conditions prévues aux
+articles L. 613-8 à L. 613-11, de tout bien, objet ou valeur. 
 
-L'exercice de l'activité mentionnée au 3° de l'article L. 611-1 est exclusif de toute autre activité.
+L'exercice de l'activité mentionnée au 3° de l'article L. 611-1 est exclusif de toute autre activité. 
 
 L'exercice de l'activité mentionnée au 4° du même article L. 611-1 est exclusif de toute autre activité, à l'exception du
 conseil et de la formation en matière de sûreté maritime.
@@ -14163,11 +14165,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-742 du 1er juillet 2014 - art. 8
+  - Loi n°2015-990 du 6 août 2015 - art. 66
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L611-1
+  - Code de la sécurité intérieure - art. L613-8 (V)
 
 
 ###### Article L612-3
@@ -18636,7 +18639,10 @@ télécommunications de Polynésie française ” ;
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ; 
+supprimés ;
+
+4° bis Au premier alinéa de l'article L. 612-2, les références : "L. 613-8 à L. 613-11" sont remplacées par les références :
+"L. 613-8, L. 613-9 et L. 613-11" ; 
 
 5° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des
@@ -18712,7 +18718,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+  - Loi n°2015-990 du 6 août 2015 - art. 66
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=257></a>
@@ -18737,7 +18743,9 @@ télécommunications de Nouvelle-Calédonie " ;
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ; 
+supprimés ;
+
+5° bis Au premier alinéa de l'article L. 612-2, la référence : "à L. 613-11" est remplacée par la référence : "et L. 613-9" ;
 
 6° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des
@@ -18816,7 +18824,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+  - Loi n°2015-990 du 6 août 2015 - art. 66
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=258></a>
@@ -18841,7 +18849,10 @@ télécommunications de Wallis-et-Futuna ” ;
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
 européen ", au deuxième alinéa de l'article L. 612-11, les mots : " ou l'Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ; 
+supprimés ;
+
+4° bis Au premier alinéa de l'article L. 612-2, la référence : "à L. 613-11" est remplacée par la référence : "et L.
+613-9" ;  
 
 5° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des
@@ -18893,7 +18904,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1353 du 13 novembre 2014 - art. 24 (V)
+  - Loi n°2015-990 du 6 août 2015 - art. 66
 
 _Cite_:
 
