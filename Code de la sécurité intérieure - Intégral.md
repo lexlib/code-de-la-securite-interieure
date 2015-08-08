@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 2015-08-08
         - [Chapitre II : Prévention de la délinquance (art. L132-1 à L132-16)](#15)
           - [Section 1 : Rôle du maire (art. L132-1 à L132-7)](#16)
           - [Section 2 : Rôle du représentant de l'Etat et du procureur de la République dans le département (art. L132-8 à L132-10-1)](#17)
-          - [Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris (art. L132-11 à L132-12-3)](#18)
+          - [Section 3 : Dispositions particulières à Paris  et à la métropole du Grand Paris (art. L132-11 à L132-12-1)](#18)
           - [Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance (art. L132-13 à L132-14)](#19)
           - [Section 5 : Rôle du conseil départemental (art. L132-15)](#20)
           - [Section 6 : De l'information des députés et des sénateurs (art. L132-16)](#21)
@@ -1878,58 +1878,23 @@ _Codifié par_:
 
 ###### Article L132-12-1
 
-Il est créé un conseil métropolitain de sécurité et de prévention de la délinquance qui coordonne les grandes orientations en
-matière de prévention de la délinquance sur le territoire de la métropole du Grand Paris. Le conseil métropolitain de
-sécurité et de prévention de la délinquance peut constituer en son sein un ou plusieurs groupes de travail et d'échange
-d'informations à vocation territoriale ou thématique. A la demande de l'autorité judiciaire, ces groupes peuvent traiter des
-questions relatives à l'exécution des peines et à la prévention de la récidive. Des informations confidentielles peuvent être
-échangées dans le cadre de ces groupes. Elles ne peuvent être communiquées à des tiers.  Les modalités d'application du
-présent alinéa sont fixées par décret. 
-
-Les modalités de fonctionnement du conseil métropolitain de sécurité et de prévention de la délinquance sont déterminées par
-le règlement intérieur établi par le conseil de la métropole.
+Les établissements publics territoriaux créés en application de l'article L. 5219-2 du code général des collectivités
+territoriales exercent leur compétence en matière d'animation et de coordination des dispositifs de prévention de la
+délinquance dans les conditions prévues aux articles L. 132-13 et L. 132-14 du présent code.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-58 du 27 janvier 2014 - art. 12 (V)
 
 _Modifié par_:
 
-  - Loi n°2014-896 du 15 août 2014 - art. 36
-
-
-###### Article L132-12-2
-
-Après avis du conseil métropolitain de sécurité et de prévention de la délinquance, le préfet de police et le préfet de la
-région d'Ile-de-France, préfet de Paris, arrêtent conjointement le plan de prévention de la délinquance de la métropole. Les
-actions de prévention de la délinquance conduites par la métropole du Grand Paris et les plans de prévention de la
-délinquance arrêtés par le représentant de l'Etat dans le département, en application de l'article L. 132-6, ne doivent pas
-être incompatibles avec le plan mentionné au présent article.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-58 du 27 janvier 2014 - art. 12 (V)
-
-_Abrogé par_:
-
   - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
 
+_Cite_:
 
-###### Article L132-12-3
-
-Sous réserve des dispositions du code de procédure pénale relatives à l'exercice de la mission de police judiciaire, le
-préfet de police informe régulièrement le président de la métropole du Grand Paris des résultats obtenus en matière de lutte
-contre l'insécurité.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-58 du 27 janvier 2014 - art. 12 (V)
-
-_Abrogé par_:
-
-  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+  - Code général des collectivités territoriales - art. L5219-2 (V)
 
 
 ##### Section 4 : Rôle des établissements publics de coopération intercommunale compétents en matière de prévention de la délinquance<a id=19></a>
@@ -13502,17 +13467,17 @@ _Modifié par_:
 
 ###### Article L545-1
 
-Les articles L. 511-1, L. 511-4, L. 511-5, L. 512-1      à L. 513-1, L. 514-1, L. 515-1, L. 521-1, L. 522-1 à L. 522-4 sont
+Les articles L. 511-1, L. 511-4, L. 511-5, L. 512-1 à L. 513-1, L. 514-1, L. 515-1, L. 521-1, L. 522-1 à L. 522-4 sont
 applicables en Polynésie française, sous réserve des adaptations suivantes : 
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Polynésie française ; 
 
-2°  Au deuxième alinéa de l'article L. 511-1 et au quatrième alinéa de l'article L. 521-1, les mots : "  contraventions aux
+2° Au deuxième alinéa de l'article L. 511-1 et au quatrième alinéa de l'article L. 521-1, les mots : " contraventions aux
 dispositions du code de la route " sont remplacés par les mots : " contraventions aux dispositions applicables localement en
 matière de circulation et de sécurité routières " ; 
 
-3° A l'article L. 511-1, le troisième alinéa est supprimé ; 
+3° A l'article L. 511-1, le quatrième alinéa est supprimé ; 
 
 4° A l'article L. 511-4, la seconde phrase du premier alinéa est ainsi rédigée : " Les caractéristiques de la carte
 professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont fixées
@@ -13534,16 +13499,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
+  - Loi n°2015-991 du 7 août 2015 - art. 134
 
 _Cite_:
 
-  - Code de la route.
-  - Code de la sécurité intérieure - art. L511-1
-  - Code de la sécurité intérieure - art. L512-1
-  - Code de la sécurité intérieure - art. L515-1
-  - Code de la sécurité intérieure - art. L521-1
-  - Code de la sécurité intérieure - art. L522-1
+  - Code de la sécurité intérieure - art. L511-1 (VT)
+  - Code de la sécurité intérieure - art. L511-4 (V)
+  - Code de la sécurité intérieure - art. L512-1 (V)
+  - Code de la sécurité intérieure - art. L514-1 (V)
+  - Code de la sécurité intérieure - art. L515-1 (V)
+  - Code de la sécurité intérieure - art. L521-1 (V)
+  - Code de la sécurité intérieure - art. L522-1 (V)
+  - Code de la sécurité intérieure - art. L522-2 (V)
 
 
 ###### Article L545-2
@@ -13575,8 +13542,9 @@ _Codifié par_:
 
 ###### Article L546-1
 
-Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, L. 512-3, L. 512-4, L. 512-6 à L. 513-1, L.
-514-1 et L. 515-1 sont applicables en Nouvelle-Calédonie, sous réserve des dispositions suivantes : 
+Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, 
+L. 512-3, L. 512-4, L. 512-6 à L. 513-1, L. 514-1 et L. 515-1 sont applicables en Nouvelle-Calédonie, sous réserve des
+dispositions suivantes : 
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Nouvelle-Calédonie ; 
@@ -13586,7 +13554,7 @@ République en Nouvelle-Calédonie ;
 a) Au deuxième alinéa, les mots : " contraventions aux dispositions du code de la route ” sont remplacés par les mots : "
 contraventions aux dispositions du code de la route de la Nouvelle-Calédonie ” ; 
 
-b) Le troisième alinéa est supprimé ; 
+b) Les troisième et quatrième alinéas sont supprimés ; 
 
 3° A l'article L. 511-4, la seconde phrase du premier alinéa est ainsi rédigée : " Les caractéristiques de la carte
 professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont fixées
@@ -13611,15 +13579,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-519 du 20 juin 2013 - art. 4
+  - Loi n°2015-991 du 7 août 2015 - art. 134
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L511-1
-  - Code de la sécurité intérieure - art. L512-1
+  - Code de la sécurité intérieure - art. L511-4 (V)
+  - Code de la sécurité intérieure - art. L512-1 (V)
+  - Code de la sécurité intérieure - art. L512-3 (V)
   - Code de la sécurité intérieure - art. L512-6
-  - Code de la sécurité intérieure - art. L514-1 (V)
-  - Code de la sécurité intérieure - art. L515-1 (V)
+  - Code de la sécurité intérieure - art. L514-1
+  - Code de la sécurité intérieure - art. L515-1
 
 _Cité par_:
 
