@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-08-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L768-2)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -72976,33 +72976,30 @@ _Cité par_:
 
 Sous réserve qu'il ne s'agisse pas de munitions chimiques, en cas de découverte fortuite pendant une période de dix ans
 suivant la délivrance des attestations mentionnées à l'article R. 733-13, la neutralisation, l'enlèvement et la destruction
-des munitions, mines, pièges, engins et explosifs sont à la charge : 
+des munitions, mines, pièges, engins et explosifs sont à la charge :
 
 1° De l'acquéreur, lorsque la cession est consentie en application de l'article 67 de la loi n° 2008-1425 du 27 décembre 2008
-de finances pour 2009 ; 
+de finances pour 2009 ou de l'article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 ;
 
 2° Du ministère de la défense, lorsque la cession est consentie en application d'autres dispositions, en particulier de
 l'article L. 3211-1 du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°76-225 du 4 mars 1976 - art. 4-1 (VT)
-
 _Cite_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (M)
-  - Code général de la propriété des personnes publ... - art. L3211-1 (M)
-  - Code de la sécurité intérieure - art. R733-13 (VD)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39 (V)
+  - Code général de la propriété des personnes publ... - art. L3211-1 (V)
+  - Code de la sécurité intérieure - art. R733-13 (V)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 3
 
 
 ###### Article R733-6
@@ -73091,7 +73088,8 @@ nécessaires sont effectuées en fonction de l'usage auquel ces terrains sont de
 présente sous-section.
 
 II. - Lorsque la cession intervient en application de l'article 67 de la loi n° 2008-1425 du 27 décembre 2008 de finances
-pour 2009, les opérations de dépollution pyrotechnique sont conduites, à ses frais, par l'acquéreur.
+pour 2009 ou de l'article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015, les opérations de dépollution
+pyrotechnique sont conduites, à ses frais, par l'acquéreur. 
 
 III. - Lorsque la cession intervient en application d'autres dispositions, notamment de l'article L. 3211-1 du code général
 de la propriété des personnes publiques, si le coût définitif des opérations de dépollution pyrotechnique excède le prix de
@@ -73099,29 +73097,26 @@ vente du terrain, l'Etat n'est pas tenu de supporter à ce titre une charge sup�
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°76-225 du 4 mars 1976 - art. 4-5 (VT)
-
 _Cite_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (M)
-  - Code général de la propriété des personnes publ... - art. L3211-1 (M)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39 (V)
+  - Code général de la propriété des personnes publ... - art. L3211-1 (V)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 3
 
 
 ###### Article R733-10
 
 I. - Sauf si la cession intervient en application de l'article 67 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour
-2009, l'acquéreur présente un dossier relatif à l'usage futur du site, pour réaliser les opérations de dépollution
-pyrotechnique nécessaires.
+2009 ou de l'article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015, l'acquéreur présente un dossier
+relatif à l'usage futur du site, pour réaliser les opérations de dépollution pyrotechnique nécessaires.
 
 Le contenu de ce dossier ainsi que les modalités de détermination de l'usage futur du terrain sont définis par un arrêté du
 ministre de la défense.
@@ -73134,21 +73129,18 @@ dépollution pyrotechnique est établi en fonction de ces zones de pollution.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°76-225 du 4 mars 1976 - art. 4-6 (VT)
-
 _Cite_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (M)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39 (V)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 3
 
 _Cité par_:
 
@@ -73159,27 +73151,25 @@ _Cité par_:
 
 ###### Article R733-11
 
-Lorsque la cession intervient en application de l'article 67 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour
-2009, l'acquéreur informe le ministère de la défense de l'usage futur qu'il compte faire de l'emprise, en fonction duquel
-seront effectuées les opérations de dépollution pyrotechnique, lorsqu'un projet d'aménagement aura été déterminé.
+Lorsque la cession intervient en application de l'article 67 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009
+ou de l'article 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015, l'acquéreur informe le ministère de la
+défense de l'usage futur qu'il compte faire de l'emprise, en fonction duquel seront effectuées les opérations de dépollution
+pyrotechnique, lorsqu'un projet d'aménagement aura été déterminé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°76-225 du 4 mars 1976 - art. 4-7 (VT)
-
 _Cite_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (M)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (V)
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39 (V)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 3
 
 
 ###### Article R733-12
@@ -76547,111 +76537,207 @@ _Créé par_:
 
 ###### Article R765-2
 
-Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. 765-4, R. 765-5, et R. 765-7,
-les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée
-dans la colonne de droite du même tableau : 
+Sont applicables en Polynésie française, sous réserve des 
+
+adaptations prévues aux articles R. 765-4, R. 765-5, et R. 765-7, les dispositions du présent livre mentionnées dans la
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
-      <tbody><tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES 
 
-DISPOSITIONS APPLICABLES </th>
-        <th>
+</th>
+      <th>DANS LEUR RÉDACTION 
 
-DANS LEUR RÉDACTION </th>
-      </tr>
-      <tr>
-        <td align="justify">
+</th>
+    </tr>
+    <tr>
+      <td>
 
-Au titre II </td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">
+Au titre II 
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 725-1 à R. 725-11 
+
 </td>
-        <td align="justify">
+      <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="justify">
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 725-13 
+
 </td>
-        <td align="justify">
+      <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="justify">
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
-Au titre III </td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-R. 733-3 à R. 733-16 
 </td>
-        <td align="justify">
+    </tr>
+    <tr>
+      <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="justify">
+Au titre III
 
-Au titre IV </td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 733-3 et R. 733-4 
+
+</td>
+      <td valign="top" align="left">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
+Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 733-5 
+
+</td>
+      <td valign="top" align="left">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
+Conseil d'Etat et décrets simples) et du 
+
+décret n° 2015-1027 du 19 août 2015
+
+pris pour l'application de l'
+article 39 de la loi n° 2014-1654 du 29 décembre 2014
+de finances pour 2015 relatif au dispositif de cession à l'euro symbolique 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 733-6 à R. 733-8 
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
+Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+R. 733-9 à R. 733-11
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
+Conseil d'Etat et décrets simples) et du 
+
+décret n° 2015-1027 du 19 août 2015
+
+pris pour l'application de l'
+article 39 de la loi n° 2014-1654 du 29 décembre 2014
+de finances pour 2015 relatif au dispositif de cession à l'euro symbolique 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+R. 733-12 à R. 733-16
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du 
+décret n° 2014-1253 du 27 octobre 2014
+relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en
+Conseil d'Etat et décrets simples) 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Au titre IV 
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 R. 741-40 
+
 </td>
-        <td align="justify">
+      <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="justify">
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
-R. 742-2, R. 742-3 et R. 742-5 à R. 742-15
 </td>
-        <td align="justify">
+    </tr>
+    <tr>
+      <td>
+
+R. 742-2, R. 742-3 et R. 742-5 à R. 742-15 
+
+</td>
+      <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-    </tbody></table>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-  - Code de la sécurité intérieure - art. R725-1 (VD)
-  - Code de la sécurité intérieure - art. R725-13 (VD)
-  - Code de la sécurité intérieure - art. R733-3 (VD)
-  - Code de la sécurité intérieure - art. R741-40 (VD)
-  - Code de la sécurité intérieure - art. R742-2 (VD)
-  - Code de la sécurité intérieure - art. R742-5 (VD)
-  - Code de la sécurité intérieure - art. R765-4 (VD)
-  - Code de la sécurité intérieure - art. R765-5 (VD)
-  - Code de la sécurité intérieure - art. R765-7 (VD)
+  - Décret n°2014-1253 du 27 octobre 2014
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 4
 
 
 ###### Article R765-4
@@ -76954,37 +77040,58 @@ _Cité par_:
 
 ###### Article R766-2
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 766-4 et R. 766-6, les
-dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+Sont applicables en Nouvelle-Calédonie, sous réserve des 
+adaptations prévues aux articles R. 766-4 et R. 766-6, les dispositions du présent livre mentionnées dans la colonne de
+gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLI-    ┃ DANS LEUR RÉDACTION                                                                              ┃
-┃ CABLES                 ┃                                                                                                  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Au titre II            ┃                                                                                                  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 725-13              ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI  ┃
-┃                        ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat   ┃
-┃                        ┃ et décrets simples)                                                                              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Au titre III           ┃                                                                                                  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 733-3 à R. 733-16   ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI  ┃
-┃                        ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat   ┃
-┃                        ┃ et décrets simples)                                                                              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Au titre IV            ┃                                                                                                  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 741-40              ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI  ┃
-┃                        ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat   ┃
-┃                        ┃ et décrets simples)                                                                              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 742-2, R. 742-3 et  ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI  ┃
-┃ R. 742-5 à R. 742-15   ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat   ┃
-┃                        ┃ et décrets simples)                                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS    ┃ DANS LEUR RÉDACTION                                                                                     ┃
+┃ APPLICABLES     ┃                                                                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre II     ┃                                                                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 725-13       ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃                 ┃ de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets      ┃
+┃                 ┃ simples)                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre III    ┃                                                                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-3 et R.  ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃ 733-4           ┃ de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets      ┃
+┃                 ┃ simples)                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-5        ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃                 ┃ de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets      ┃
+┃                 ┃ simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' article 39 de la loi   ┃
+┃                 ┃ n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif de cession à l'euro symbo- ┃
+┃                 ┃ lique                                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-6 à R.   ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃ 733-8           ┃ de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets      ┃
+┃                 ┃ simples)                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-9 à R.   ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃ 733-11          ┃ de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets      ┃
+┃                 ┃ simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' article 39 de la loi   ┃
+┃                 ┃ n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif de cession à l'euro symbo- ┃
+┃                 ┃ lique                                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-12 à R.  ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃ 733-16          ┃ de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets      ┃
+┃                 ┃ simples)                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre IV     ┃                                                                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 741-40       ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃                 ┃ de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets      ┃
+┃                 ┃ simples)                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 742-2, R.    ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII  ┃
+┃ 742-3 et R.     ┃ de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets      ┃
+┃ 742-5 à R.      ┃ simples)                                                                                                ┃
+┃ 742-15          ┃                                                                                                         ┃
+┗━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -76992,22 +77099,16 @@ colonne de droite du même tableau :
 
 _Cite_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-  - Code de la sécurité intérieure - art. R725-13 (VD)
-  - Code de la sécurité intérieure - art. R733-3 (VD)
-  - Code de la sécurité intérieure - art. R741-40 (VD)
-  - Code de la sécurité intérieure - art. R742-2 (VD)
-  - Code de la sécurité intérieure - art. R742-5 (VD)
-  - Code de la sécurité intérieure - art. R766-4 (VD)
-  - Code de la sécurité intérieure - art. R766-6 (VD)
+  - Décret n°2014-1253 du 27 octobre 2014
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 4
 
 
 ###### Article R766-4
@@ -77312,38 +77413,60 @@ _Cite_:
 
 ###### Article R767-2
 
-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles R. 767-4, R. 767-5 et R.
+Sont applicables dans les îles Wallis et Futuna, sous réserve des  adaptations prévues aux articles R. 767-4, R. 767-5 et R.
 767-7, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction
-indiquée dans la colonne de droite du même tableau : 
+indiquée dans la colonne de droite du même tableau :
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES            ┃ DANS LEUR RÉDACTION                                                                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Au titre III                        ┃                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 733-3 à R. 733-16                ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃                                     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃                                     ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Au titre IV                         ┃                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 741-1 à R. 741-9, R. 741-11 (2e  ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃ alinéa), R. 741-13 à R. 741-17      ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃                                     ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 741-40                           ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃                                     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃                                     ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 741-46                           ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃                                     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃                                     ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 742-2, R. 742-3, R. 742-5 à R.   ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃ 742-7, R. 742-9 à R. 742-11, R.     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃ 742-13 à R. 742-15                  ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLI-     ┃ DANS LEUR RÉDACTION                                                                             ┃
+┃ CABLES                  ┃                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre III            ┃                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-3 et R. 733-4    ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-5                ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' ar- ┃
+┃                         ┃ ticle 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif ┃
+┃                         ┃ de cession à l'euro symbolique                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-6 à R. 733-8     ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-9 à R. 733-11    ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' ar- ┃
+┃                         ┃ ticle 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif ┃
+┃                         ┃ de cession à l'euro symbolique                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-12 à R. 733-16   ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre IV             ┃                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 741-1 à R. 741-9, R. ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃ 741-11 (2e alinéa), R.  ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat  ┃
+┃ 741-13 à R. 741-17      ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 741-40               ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 741-46               ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 742-2, R. 742-3, R.  ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃ 742-5 à R. 742-7, R.    ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat  ┃
+┃ 742-9 à R. 742-11, R.   ┃ et décrets simples)                                                                             ┃
+┃ 742-13 à R. 742-15      ┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -77351,28 +77474,16 @@ indiquée dans la colonne de droite du même tableau :
 
 _Cite_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-  - Code de la sécurité intérieure - art. R733-3 (VD)
-  - Code de la sécurité intérieure - art. R741-1 (VD)
-  - Code de la sécurité intérieure - art. R741-11 (VD)
-  - Code de la sécurité intérieure - art. R741-13 (VD)
-  - Code de la sécurité intérieure - art. R741-40 (VD)
-  - Code de la sécurité intérieure - art. R741-46 (VD)
-  - Code de la sécurité intérieure - art. R742-13 (VD)
-  - Code de la sécurité intérieure - art. R742-2 (VD)
-  - Code de la sécurité intérieure - art. R742-5 (VD)
-  - Code de la sécurité intérieure - art. R742-9 (VD)
-  - Code de la sécurité intérieure - art. R767-4 (VD)
-  - Code de la sécurité intérieure - art. R767-5 (VD)
-  - Code de la sécurité intérieure - art. R767-7 (VD)
+  - Décret n°2014-1253 du 27 octobre 2014
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 4
 
 
 ###### Article R767-4
@@ -77674,34 +77785,56 @@ _Cité par_:
 
 ###### Article R768-2
 
-Sont applicables dans les Terres australes et antarctiques françaises, sous réserve des adaptations prévues aux articles R.
+Sont applicables dans les Terres australes et antarctiques françaises, sous réserve des  adaptations prévues aux articles R.
 768-4 et R. 768-6, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur
-rédaction indiquée dans la colonne de droite du même tableau : 
+rédaction indiquée dans la colonne de droite du même tableau :
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DISPOSITIONS APPLICABLES            ┃ DANS LEUR RÉDACTION                                                                 ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Au titre III                        ┃                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 733-3 à R. 733-16                ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃                                     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃                                     ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Au titre IV                         ┃                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 741-1 à R. 741-17                ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃                                     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃                                     ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 741-40                           ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃                                     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃                                     ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ R. 742-2, R. 742-3, R. 742-5 à R.   ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des    ┃
-┃ 742-7, R. 742-9 à R. 742-11, R.     ┃ livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure  ┃
-┃ 742-13 à R. 742-15                  ┃ (Décrets en Conseil d'Etat et décrets simples)                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS APPLI-     ┃ DANS LEUR RÉDACTION                                                                             ┃
+┃ CABLES                  ┃                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre III            ┃                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-3 et R. 733-4    ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-5                ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' ar- ┃
+┃                         ┃ ticle 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif ┃
+┃                         ┃ de cession à l'euro symbolique                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-6 à R. 733-8     ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-9 à R. 733-11    ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples) et du décret n° 2015-1027 du 19 août 2015 pris pour l'application de l' ar- ┃
+┃                         ┃ ticle 39 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 relatif au dispositif ┃
+┃                         ┃ de cession à l'euro symbolique                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 733-12 à R. 733-16   ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre IV             ┃                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 741-1 à R. 741-17    ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 741-40               ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃                         ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat  ┃
+┃                         ┃ et décrets simples)                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ R. 742-2, R. 742-3, R.  ┃ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI ┃
+┃ 742-5 à R. 742-7, R.    ┃ et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat  ┃
+┃ 742-9 à R. 742-11, R.   ┃ et décrets simples)                                                                             ┃
+┃ 742-13 à R. 742-15      ┃                                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
@@ -77709,24 +77842,16 @@ rédaction indiquée dans la colonne de droite du même tableau :
 
 _Cite_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 (VD)
-  - Code de la sécurité intérieure - art. R733-3 (VD)
-  - Code de la sécurité intérieure - art. R741-1 (VD)
-  - Code de la sécurité intérieure - art. R741-40 (VD)
-  - Code de la sécurité intérieure - art. R742-13 (VD)
-  - Code de la sécurité intérieure - art. R742-2 (VD)
-  - Code de la sécurité intérieure - art. R742-5 (VD)
-  - Code de la sécurité intérieure - art. R742-9 (VD)
-  - Code de la sécurité intérieure - art. R768-4 (VD)
-  - Code de la sécurité intérieure - art. R768-6 (VD)
+  - Décret n°2014-1253 du 27 octobre 2014
+  - Loi n°2014-1654 du 29 décembre 2014 - art. 39
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2015-1027 du 19 août 2015 - art. 4
 
 
 ###### Article R768-4
