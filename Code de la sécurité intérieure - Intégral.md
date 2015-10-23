@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-10-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -34714,9 +34714,9 @@ _Cité par_:
 
 ###### Article R232-14
 
-Les données à caractère personnel et informations relatives aux passagers aériens transmises par les transporteurs aériens,
-visées au II de l'article L. 232-7 et enregistrées dans le traitement prévu à l'article R. 232-12 du présent code sont les
-suivantes : 
+I.-Les données à caractère personnel et informations relatives aux passagers aériens transmises par les transporteurs
+aériens, visées au II de l'article L. 232-7 et enregistrées dans le traitement prévu à l'article R. 232-12 du présent code
+sont les suivantes : 
 
 a) En ce qui concerne les données de réservation : 
 
@@ -34724,9 +34724,9 @@ a) En ce qui concerne les données de réservation :
 
 2° Date de réservation/ d'émission du billet ; 
 
-3° Date(s) prévue(s) du voyage ; 
+3° Date (s) prévue (s) du voyage ; 
 
-4° Nom(s), prénom(s), date de naissance ; 
+4° Nom (s), prénom (s), date de naissance ; 
 
 5° Adresse et coordonnées (numéro de téléphone, adresse électronique) ; 
 
@@ -34736,7 +34736,7 @@ a) En ce qui concerne les données de réservation :
 
 8° Informations " grands voyageurs " tels que les programmes de fidélité ; 
 
-9° Agence de voyages/agent de voyages ; 
+9° Agence de voyages/ agent de voyages ; 
 
 10° Statut du voyageur tel que confirmations, enregistrement, non-présentation, passager de dernière minute ; 
 
@@ -34793,10 +34793,20 @@ b) En ce qui concerne les données d'enregistrement et d'embarquement :
 
 16° Numéro d'identification du passager ; 
 
-c) Les résultats issus des mises en relation des données mentionnées aux a et b du présent article avec le fichier des
-personnes recherchées, le système d'information Schengen de deuxième génération (SIS II), le fichier des objets et des
-véhicules signalés, le système informatisé concourant au dispositif de lutte contre les fraudes et le fichier des documents
-de voyage volés et perdus d'Interpol ; 
+II.-Sont également enregistrés dans le traitement : 
+
+a) Afin de permettre la mise en relation des données mentionnées au I avec celles du fichier des personnes recherchées, une
+copie partielle et actualisée de ce dernier constituée des seuls signalements correspondant aux besoins exclusifs des
+missions confiées aux agents de l'Unité Information Passagers ; cette copie, conservée au sein de la base technique du
+traitement API-PNR, n'est pas accessible aux agents de cette unité ; 
+
+b) Pendant une durée maximale de 24 heures, les fiches des traitements de données suivants dont la mise en relation avec les
+données mentionnées au I s'est révélée positive : la copie partielle du fichier des personnes recherchées mentionnée au a, le
+système d'information Schengen de deuxième génération (SIS II), le fichier des objets et des véhicules signalés, le système
+informatisé concourant au dispositif de lutte contre les fraudes et le fichier des documents de voyage volés et perdus
+d'Interpol ; 
+
+c) Les résultats issus de la mise en relation des données mentionnées au I avec les traitements cités au b ci-dessus ; 
 
 d) La catégorie et le numéro des fiches contenues dans les traitements susvisés qui, après vérification, ont permis la
 prévention ou la constatation d'une des infractions visée au I de l'article L. 232-7 du code de sécurité intérieure ; 
@@ -34820,9 +34830,14 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R287-1 (M)
   - Code de la sécurité intérieure - art. R288-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+  - Décret n°2015-1328 du 21 octobre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L232-7
+  - Code de la sécurité intérieure - art. R232-15 (M)
 
 
 ###### Article R232-15
@@ -34893,6 +34908,9 @@ la fraude dans les transports internationaux ;
 2° Les agents individuellement désignés et spécialement habilités par le directeur du service à compétence nationale dénommé
 " traitement du renseignement et action contre les circuits financiers clandestins ". 
 
+3° Les agents, individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés
+dans les services du renseignement territorial. 
+
 III.-Au titre de la prévention et de la constatation des infractions mentionnées à l'article 695-23 du code de procédure
 pénale, du rassemblement des preuves de ces infractions et de la recherche de leurs auteurs : 
 
@@ -34931,6 +34949,8 @@ a) Services habilités à formuler des requêtes à l'UIP et à être destinatai
 - les services territoriaux de premier niveau de la police nationale et de la gendarmerie nationale, pour le seul exercice
 des missions de police judiciaire dont ils sont saisis au titre de la répression des infractions mentionnées à l'article
 695-23 du code de procédure pénale ; 
+
+- aux seules fins de prévention, les services du renseignement territorial ;  
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
 aéroportuaires : 
@@ -35140,9 +35160,13 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R287-1 (M)
   - Code de la sécurité intérieure - art. R288-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
+  - Décret n°2015-1328 du 21 octobre 2015 - art. 3
+
+_Cite_:
+
+  - Code de procédure pénale - art. 695-23
 
 
 ###### Article R232-16
@@ -38886,17 +38910,29 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
 
-R. 232-12 à R. 232-18 
+R. 232-12 et R. 232-13
 
 </td>
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-14 et R. 232-15 </td>
+      <td>Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28
+mai 2010 relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité
+intérieure </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-18 </td>
+      <td>Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère
+personnel dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure </
+td>
     </tr>
     <tr>
       <td>
@@ -39045,11 +39081,8 @@ _Cite_:
   - Code de la sécurité intérieure - art. R223-2
   - Code de la sécurité intérieure - art. R224-1
   - Code de la sécurité intérieure - art. R232-1
-  - Code de la sécurité intérieure - art. R232-12
   - Code de la sécurité intérieure - art. R232-19
-  - Code de la sécurité intérieure - art. R234-1
   - Code de la sécurité intérieure - art. R241-1
-  - Code de la sécurité intérieure - art. R242-1
   - Code de la sécurité intérieure - art. R242-2
   - Code de la sécurité intérieure - art. R246-1
   - Code de la sécurité intérieure - art. R251-1
@@ -39062,8 +39095,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
-  - Décret n°2015-26 du 14 janvier 2015 - art. 3
+  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -39293,15 +39325,27 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
     <tr>
       <td>
 
-R. 232-12 à R. 232-18 
+R. 232-12 et R. 232-13
 
 </td>
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France'pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-14 et R. 232-15 </td>
+      <td>Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28
+mai 2010 relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité
+intérieure </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-18</td>
+      <td>Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère
+personnel dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure </
+td>
     </tr>
     <tr>
       <td>
@@ -39442,8 +39486,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
-  - Décret n°2015-26 du 14 janvier 2015 - art. 3
+  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
 
 _Cite_:
 
@@ -39457,11 +39500,8 @@ _Cite_:
   - Code de la sécurité intérieure - art. R223-2
   - Code de la sécurité intérieure - art. R224-1
   - Code de la sécurité intérieure - art. R232-1
-  - Code de la sécurité intérieure - art. R232-12
   - Code de la sécurité intérieure - art. R232-19
-  - Code de la sécurité intérieure - art. R234-1
   - Code de la sécurité intérieure - art. R241-1
-  - Code de la sécurité intérieure - art. R242-1
   - Code de la sécurité intérieure - art. R242-2
   - Code de la sécurité intérieure - art. R246-1
   - Code de la sécurité intérieure - art. R251-1
@@ -39696,15 +39736,27 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
     <tr>
       <td>
 
-R. 232-12 à R. 232-18 
+R. 232-12 et R. 232-13 
 
 </td>
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-14 et R. 232-15</td>
+      <td>Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28
+mai 2010 relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité
+intérieure </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-18 </td>
+      <td>Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère
+personnel dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure </
+td>
     </tr>
     <tr>
       <td>
@@ -39718,7 +39770,7 @@ ressortissants français projetant de participer à des activités terroristes �
 </td>
     </tr>
     <tr>
-      <td align="center"> R. 234-1 
+      <td align="center">R. 234-1 
 
 </td>
       <td align="center">
@@ -39734,8 +39786,8 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 R. 234-2
 
 </td>
-      <td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi
-n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
+      <td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n°
+2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses
 dispositions concernant la défense et la sécurité nationale </td>
     </tr>
     <tr>
@@ -39744,8 +39796,8 @@ dispositions concernant la défense et la sécurité nationale </td>
 R. 236-1 à R. 236-45
 
 </td>
-      <td> Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire
-du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
     </tr>
     <tr>
       <td align="center">
@@ -39843,8 +39895,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
-  - Décret n°2015-26 du 14 janvier 2015 - art. 3
+  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
 
 _Cite_:
 
@@ -39858,11 +39909,8 @@ _Cite_:
   - Code de la sécurité intérieure - art. R223-2
   - Code de la sécurité intérieure - art. R224-1
   - Code de la sécurité intérieure - art. R232-1
-  - Code de la sécurité intérieure - art. R232-12
   - Code de la sécurité intérieure - art. R232-19
-  - Code de la sécurité intérieure - art. R234-1
   - Code de la sécurité intérieure - art. R241-1
-  - Code de la sécurité intérieure - art. R242-1
   - Code de la sécurité intérieure - art. R242-2
   - Code de la sécurité intérieure - art. R246-1
   - Code de la sécurité intérieure - art. R251-1
@@ -40113,15 +40161,27 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
     <tr>
       <td>
 
-R. 232-12 à R. 232-18 
+R. 232-12 et R. 232-13 
 
 </td>
       <td>
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-14 et R. 232-15 </td>
+      <td>Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28
+mai 2010 relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité
+intérieure </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-18</td>
+      <td>Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère
+personnel dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure </
+td>
     </tr>
     <tr>
       <td>
@@ -40241,8 +40301,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 10
-  - Décret n°2015-26 du 14 janvier 2015 - art. 3
+  - Décret n°2015-1328 du 21 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -40260,11 +40319,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R223-2
   - Code de la sécurité intérieure - art. R224-1
   - Code de la sécurité intérieure - art. R232-1
-  - Code de la sécurité intérieure - art. R232-12
-  - Code de la sécurité intérieure - art. R232-19 (T)
+  - Code de la sécurité intérieure - art. R232-19
   - Code de la sécurité intérieure - art. R236-1
   - Code de la sécurité intérieure - art. R241-1
-  - Code de la sécurité intérieure - art. R242-1
   - Code de la sécurité intérieure - art. R242-2
   - Code de la sécurité intérieure - art. R246-1
   - Code de la sécurité intérieure - art. R251-1
