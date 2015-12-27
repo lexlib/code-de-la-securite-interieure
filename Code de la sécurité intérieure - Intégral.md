@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-23
+Version Consolidée au 2015-12-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -681,7 +681,7 @@ Version Consolidée au 2015-12-23
         - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R543-1)](#678)
         - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R544-1)](#679)
         - [Chapitre V : Dispositions applicables en Polynésie française (art. D545-2 à R545-5)](#680)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R546-1 à R546-6)](#681)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D546-1-1 à R546-6)](#681)
     - [LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R611-1 à R648-1)](#682)
       - [TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES (art. R611-1 à R617-1)](#683)
         - [Chapitre Ier : Dispositions générales (art. R611-1 à R611-2)](#684)
@@ -59404,6 +59404,77 @@ _Créé par_:
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=681></a>
+
+###### Article D546-1-1
+
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 546-2-1, les dispositions du
+présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
+droite du même tableau :
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DISPOSITIONS AP-  ┃ DANS LEUR RÉDACTION                                                                                   ┃
+┃ PLICABLES         ┃                                                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Au titre Ier      ┃                                                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ D. 511-3 à D.     ┃ Résultant du décret n° 2015-1773 du 24 décembre 2015 pris pour l'application de l' article L. 511-4   ┃
+┃ 511-10            ┃ du code de la sécurité intérieure en Nouvelle-Calédonie                                               ┃
+┗━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1773 du 24 décembre 2015 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L511-4
+
+
+###### Article D546-2-1
+
+Pour l'application des dispositions énumérées à l'article D. 546-1-1 : 
+
+1° L'article D. 511-3 est ainsi rédigé : 
+
+" Art. D. 511-3.-Dans les communes employant des agents de police municipale, la carte professionnelle prévue à l'article L.
+511-4 est remise à chaque agent par le maire. 
+
+" La carte professionnelle comporte les mentions et les éléments définis par un arrêté du haut-commissaire de la République
+en Nouvelle-Calédonie. " ;  
+
+2° Aux articles D. 511-4 et D. 511-5, les mots : " ou au président de l'établissement public de coopération intercommunale "
+sont supprimés ; 
+
+3° Aux articles D. 511-6 et D. 511-9, les mots : " arrêté du ministre de l'intérieur pris après avis de la commission
+consultative des polices municipales " sont remplacés par les mots : " arrêté du haut-commissaire de la République en
+Nouvelle-Calédonie " ; 
+
+4° Aux articles D. 511-6 et D. 511-9, les mots : ", pour toutes les polices municipales, " sont supprimés ; 
+
+5° L'article D. 511-7 est ainsi rédigé : 
+
+" Art. D. 511-7.-Chaque commune ayant recruté et mis à disposition sur le territoire d'une autre commune un ou plusieurs
+agents de police municipale en application de l'article L. 512-1 doit, quand ces agents appartiennent à des brigades
+spécialisées ou exercent des missions autres que de service général, les doter des tenues mentionnées au 2° de l'article D.
+511-6. " 
+
+6° A l'article D. 511-8, les mots : " ou, quand, les agents de police municipale ont été recrutés par un établissement public
+de coopération intercommunale, par le président de cet établissement. " sont supprimés ; 
+
+7° A l'article D. 511-10, la référence au chapitre III du titre Ier du livre III du code de la route est remplacée par la
+référence aux articles du code de la route de la Nouvelle-Calédonie ayant le même objet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1773 du 24 décembre 2015 - art. 1
+
 
 ###### Article R546-1
 
