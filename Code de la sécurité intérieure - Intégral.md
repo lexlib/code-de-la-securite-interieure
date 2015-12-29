@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-28
+Version Consolidée au 2015-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -892,16 +892,17 @@ Version Consolidée au 2015-12-28
         - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. D768-3 à R768-6)](#889)
     - [LIVRE VIII : DU RENSEIGNEMENT (art. R811-1 à R898-1)](#890)
       - [TITRE IER : DISPOSITIONS GÉNÉRALES (art. R811-1 à R811-2)](#891)
-      - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R851-1 à R853-3)](#892)
-        - [Chapitre Ier : Des accès administratifs aux données de connexion (art. R851-1 à R851-4)](#893)
-        - [Chapitre II : Des interceptions de sécurité (art. R852-1 à R852-2)](#894)
-        - [Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques (art. R853-1 à R853-3)](#895)
-      - [TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R895-1 à R898-1)](#896)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. R895-1)](#897)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R896-1)](#898)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. R897-1)](#899)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R898-1)](#900)
-    - [Annexes (art. Annexe 1 à Annexe 3)](#901)
+      - [TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT (art. R841-2)](#892)
+      - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R851-1 à R853-3)](#893)
+        - [Chapitre Ier : Des accès administratifs aux données de connexion (art. R851-1 à R851-4)](#894)
+        - [Chapitre II : Des interceptions de sécurité (art. R852-1 à R852-2)](#895)
+        - [Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques (art. R853-1 à R853-3)](#896)
+      - [TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R895-1 à R898-1)](#897)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. R895-1)](#898)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R896-1)](#899)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. R897-1)](#900)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R898-1)](#901)
+    - [Annexes (art. Annexe 1 à Annexe 3)](#902)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE<a id=2></a>
@@ -79030,9 +79031,61 @@ _Cite_:
   - Code de la sécurité intérieure - art. L811-4
 
 
-### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=892></a>
+### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT<a id=892></a>
 
-#### Chapitre Ier : Des accès administratifs aux données de connexion<a id=893></a>
+###### Article R841-2
+
+Relèvent des dispositions de l'article L. 841-2 du présent code les  traitements ou parties de traitements automatisés de
+données à caractère  personnel intéressant la sûreté de l'Etat autorisés par les actes  réglementaires ou dispositions
+suivants : 
+
+1°  Décret portant création au profit de la direction générale de la  sécurité intérieure d'un traitement automatisé de
+données à caractère  personnel dénommé CRISTINA ; 
+
+2° Décret portant  application des dispositions de l'article 31 de la loi n° 78-17 du 6  janvier 1978 aux fichiers
+d'informations nominatives mis en œuvre par la  direction générale de la sécurité extérieure ; 
+
+3° Décret autorisant la mise en œuvre par la direction de la protection  et de la sécurité de la défense d'un traitement
+automatisé de données à  caractère personnel dénommé SIREX ; 
+
+4° Décret  portant application des dispositions de l'article 31 de la loi n° 78-17  du 6 janvier 1978 au fichier
+d'informations nominatives mis en œuvre par  la direction du renseignement militaire ; 
+
+5° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé FSPRT ; 
+
+6° Décret n° 2010-569 du 28 mai 2010 portant création du fichier des  personnes recherchées, pour les seules données
+intéressant la sûreté de  l'Etat mentionnées au 8° du III de l'article 2 de ce décret ; 
+
+7° Article R. 231-4 du code de la sécurité intérieure, pour les seules  données mentionnées au 2° de l'article R. 231-7 du
+même code ; 
+
+8° Arrêté relatif à la création d'un système de traitement automatisé  de données à caractère personnel dénommé STARTRAC mis
+en œuvre par le  service à compétence nationale TRACFIN, pour les seules données  intéressant la sûreté de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 31
+  - Décret n°2010-569 du 28 mai 2010
+  - Code de la sécurité intérieure
+
+_Cité par_:
+
+  - Décret n°2005-1309 du 20 octobre 2005 - art. 88 (V)
+  - Décret n°2016-725 du 1er juin 2016 (V)
+  - Décret n°2017-1218 du 2 août 2017 (V)
+  - Décret n°2017-1224 du 3 août 2017 (V)
+  - Décret n°2017-1231 du 4 août 2017 (V)
+
+_Créé par_:
+
+  - Décret n°2015-1808 du 28 décembre 2015 - art. 1
+
+
+### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=893></a>
+
+#### Chapitre Ier : Des accès administratifs aux données de connexion<a id=894></a>
 
 ###### Article R851-1
 
@@ -79453,7 +79506,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L851-6
 
 
-#### Chapitre II : Des interceptions de sécurité<a id=894></a>
+#### Chapitre II : Des interceptions de sécurité<a id=895></a>
 
 ###### Article R852-1
 
@@ -79619,7 +79672,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L852-1
 
 
-#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques<a id=895></a>
+#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques<a id=896></a>
 
 ###### Article R853-1
 
@@ -80276,9 +80329,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L853-3
 
 
-### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=896></a>
+### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=897></a>
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=897></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=898></a>
 
 ###### Article R895-1
 
@@ -80305,8 +80358,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80334,13 +80387,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV  </td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  
+
+</td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80414,10 +80479,10 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 6
+  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=898></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=899></a>
 
 ###### Article R896-1
 
@@ -80444,8 +80509,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80473,13 +80538,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV  
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  </td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80553,10 +80630,10 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 7
+  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=899></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=900></a>
 
 ###### Article R897-1
 
@@ -80583,8 +80660,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80612,13 +80689,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV  
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  </td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80692,10 +80781,10 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 8
+  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=900></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=901></a>
 
 ###### Article R898-1
 
@@ -80722,8 +80811,8 @@ DANS LEUR RÉDACTION
 Au titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80751,13 +80840,25 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
+        <td>Au titre IV 
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R. 841-2  </td>
+        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
+requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
+l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure  </td>
+      </tr>
+      <tr>
         <td align="left">
 
 Au titre V 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="left">
 
@@ -80831,10 +80932,10 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 9
+  - Décret n°2015-1808 du 28 décembre 2015 - art. 3
 
 
-## Annexes<a id=901></a>
+## Annexes<a id=902></a>
 
 ###### Article Annexe 1
 
