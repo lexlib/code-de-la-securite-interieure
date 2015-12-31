@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2015-12-31
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -5351,35 +5351,31 @@ vidéoprotection sans autorisation, de ne pas les détruire dans le délai prév
 commission départementale de vidéoprotection ou de la Commission nationale de l'informatique et des libertés, de faire
 accéder des personnes non habilitées aux images ou d'utiliser ces images à d'autres fins que celles pour lesquelles elles
 sont autorisées est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, sans préjudice des dispositions des
-articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail.
+articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-47 du code du travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Loi n°95-73 du 21 janvier 1995 - art. 10 VI (VT)
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2015-994 du 17 août 2015 - art. 18
 
 _Cite_:
 
   - Code pénal - art. 226-1
-  - Code du travail - art. L1121-1 (V)
-  - Code du travail - art. L1221-9 (V)
-  - Code du travail - art. L1222-4 (V)
-  - Code du travail - art. L2323-32 (V)
+  - Code du travail - art. L1121-1
+  - Code du travail - art. L1221-9
+  - Code du travail - art. L1222-4
+  - Code du travail - art. L2323-47
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. L223-3 (V)
   - Code de la sécurité intérieure - art. L282-2 (VD)
   - Code de la sécurité intérieure - art. L285-2 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 #### Chapitre V : Dispositions communes<a id=66></a>
@@ -23448,11 +23444,11 @@ ministre. Seuls les autorités publiques compétentes et les agents publics just
 conditions et sous les réserves prévues au dernier alinéa, les juridictions administratives et judiciaires peuvent consulter
 un acte figurant dans ce recueil. 
 
-Par dérogation à l'article 4 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations
-avec les administrations, les décisions et les autres actes pris par les autorités administratives au sein des services
-mentionnés au premier alinéa du présent article peuvent comporter seulement, outre la signature, le numéro d'identification
-de leur auteur, attribué avec la délégation de signature et qui se substitue à la mention de ses prénom, nom et qualité. Le
-nombre de délégations de signature numérotées par service est fixé par arrêté du ministre compétent. 
+Par dérogation à l'article L. 111-2 du code des relations entre le public et l'administration, les décisions et les autres
+actes pris par les autorités administratives au sein des services mentionnés au premier alinéa du présent article peuvent
+comporter seulement, outre la signature, le numéro d'identification de leur auteur, attribué avec la délégation de signature
+et qui se substitue à la mention de ses prénom, nom et qualité. Le nombre de délégations de signature numérotées par service
+est fixé par arrêté du ministre compétent. 
 
 Lorsque, dans le cadre d'une procédure engagée devant une juridiction administrative ou judiciaire, la solution du litige
 dépend d'une question relative à un acte non publié en application du présent article ou faisant l'objet d'une signature
@@ -23461,13 +23457,6 @@ contradictoire. Si cet acte est protégé au titre du secret de la défense nati
 déclassification et sa communication en application de l'article L. 2312-4 du code de la défense.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2000-321 du 12 avril 2000 - art. 4
-  - Code de la défense. - art. L2312-4
-  - Code de la sécurité intérieure - art. L811-2
-  - Code de la sécurité intérieure - art. L811-4
 
 _Cité par_:
 
@@ -23484,9 +23473,16 @@ _Cité par_:
   - Arrêté du 26 juillet 2019 - art. (V)
   - Arrêté du 2 octobre 2019 - art. 3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L2312-4
+  - Code de la sécurité intérieure - art. L811-2
+  - Code de la sécurité intérieure - art. L811-4
+  - Code des relations entre le public et l'adminis... - art. L111-2 (V)
 
 
 ###### Article L861-2
@@ -25505,7 +25501,7 @@ _Cite_:
 ###### Article R122-30
 
 Pour l'exercice de ses attributions en matière d'administration de la police nationale, le préfet de zone de défense et de
-sécurité dispose d'un secrétariat général pour l'administration de la police.
+sécurité dispose d'un        secrétariat général pour l'administration du ministère de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -25513,13 +25509,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Anciens textes_:
-
-  - Code de la défense. - art. R*1311-21 (VT)
+  - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 
 ##### Paragraphe 3 : Dispositions diverses<a id=362></a>
@@ -80781,7 +80773,7 @@ centrale de la police aux frontières au titre de la finalité mentionnée au 6�
 
 c) A la direction centrale de la sécurité publique :
 
-- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+- l'unité nationale et les unités départementales de recherche et d'appui des services du renseignement territorial au titre
 des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
 
 Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
@@ -80841,9 +80833,9 @@ exploiter les renseignements ainsi collectés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 3
+  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
 
 _Cite_:
 
@@ -80966,8 +80958,8 @@ utiliser la technique mentionnée au II de l'article L. 852-1 sont les suivants 
 
 a) A la direction centrale de la sécurité publique :
 
-- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre de
-la finalité mentionnée au 4° de l'article L. 811-3. 
+- l'unité nationale et les unités départementales de recherche et d'appui des services du renseignement territorial au titre
+de la finalité mentionnée au 4° de l'article L. 811-3. 
 
 Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
 individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au 1° du présent article,
@@ -81003,9 +80995,9 @@ peuvent pas exploiter les renseignements ainsi collectés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 4
+  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
 
 _Cité par_:
 
@@ -81055,7 +81047,7 @@ centrale de la police aux frontières au titre de la finalité mentionnée au 6�
 
 c) A la direction centrale de la sécurité publique :
 
-- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+- l'unité nationale et les unités départementales de recherche et d'appui des services du renseignement territorial au titre
 des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
 
 Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
@@ -81117,7 +81109,7 @@ exploiter les renseignements ainsi collectés.
 
 _Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 5
+  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
 
 _Cité par_:
 
@@ -81162,7 +81154,7 @@ centrale de la police aux frontières au titre de la finalité mentionnée au 6�
 
 c) A la direction centrale de la sécurité publique :
 
-- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+- l'unité nationale et les unités départementales de recherche et d'appui des services du renseignement territorial au titre
 des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
 
 Les agents du service interministériel d'assistance technique et de la sous-direction de la lutte contre la cybercriminalité
@@ -81213,7 +81205,7 @@ peuvent pas exploiter les renseignements ainsi collectés.
 
 _Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 5
+  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
 
 _Cité par_:
 
@@ -81366,7 +81358,7 @@ centrale de la police aux frontières au titre de la finalité mentionnée au 6�
 
 c) A la direction centrale de la sécurité publique :
 
-- l'unité nationale et les unités territoriales de recherche et d'appui des services du renseignement territorial au titre
+- l'unité nationale et les unités départementales de recherche et d'appui des services du renseignement territorial au titre
 des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
 
 Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
@@ -81659,7 +81651,7 @@ Ces agents ne peuvent pas exploiter les renseignements ainsi collectés.
 
 _Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 5
+  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
 
 _Cité par_:
 
