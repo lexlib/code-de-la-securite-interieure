@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-05-29
+Version Consolidée au 2016-06-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -79606,7 +79606,10 @@ intéressant la sûreté de  l'Etat mentionnées au 8° du III de l'article 2 de
 même code ; 
 
 8° Arrêté relatif à la création d'un système de traitement automatisé  de données à caractère personnel dénommé STARTRAC mis
-en œuvre par le  service à compétence nationale TRACFIN, pour les seules données  intéressant la sûreté de l'Etat.
+en œuvre par le  service à compétence nationale TRACFIN, pour les seules données  intéressant la sûreté de l'Etat ;
+
+9° Décret portant création au profit de la direction nationale du renseignement et des enquêtes douanières d'un traitement
+automatisé de données à caractère personnel dénommé BCR-DNRED.
 
 **Liens relatifs à cet article**
 
@@ -79625,9 +79628,9 @@ _Cité par_:
   - Décret n°2017-1231 du 4 août 2017 (V)
   - Décret n°2018-378 du 22 mai 2018 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1808 du 28 décembre 2015 - art. 1
+  - Décret n°2016-725 du 1er juin 2016 - art. 2
 
 
 ### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=887></a>
@@ -81383,18 +81386,18 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> Au titre II </td>
-        <td> </td>
-      </tr>
+        <td>Au titre II </td>
+        <td>
+      </td></tr>
       <tr>
-        <td> R. 821-1 
+        <td>R. 821-1 
 
 </td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 823-1 et R. 823-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
+        <td>R. 823-1 et R. 823-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
 
 </td>
       </tr>
@@ -81406,9 +81409,9 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
         <td>R. 841-2 
 
 </td>
-        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
-requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
+        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés </td>
       </tr>
       <tr>
         <td align="left">
@@ -81433,20 +81436,20 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> R. 851-1-1</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 851-1-1 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 851-2 à R. 851-4</td>
-        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+        <td>R. 851-2 à R. 851-4 </td>
+        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
 services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
 sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td> R. 851-5 à R. 851-10</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 851-5 à R. 851-10 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td align="left">
@@ -81484,25 +81487,25 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td> Au titre VII </td>
-        <td> </td>
+        <td>Au titre VII </td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 871-1 à R. 871-5 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 871-1 à R. 871-5</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 872-1 à R. 872-6 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 872-1 à R. 872-6</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td> R. 873-1 et R. 873-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+        <td>R. 873-1 et R. 873-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
       </tr>
     </tbody>
   </table>
@@ -81512,18 +81515,17 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2015-1639 du 11 décembre 2015
+  - Décret n°2016-725 du 1er juin 2016
   - Code de la sécurité intérieure
   - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R851-1
   - Code de la sécurité intérieure - art. R852-1
   - Code de la sécurité intérieure - art. R853-1
 
 _Modifié par_:
 
-  - Décret n°2016-67 du 29 janvier 2016 - art. 4
+  - Décret n°2016-725 du 1er juin 2016 - art. 2
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=900></a>
@@ -81582,18 +81584,18 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> Au titre II </td>
-        <td> </td>
-      </tr>
+        <td>Au titre II </td>
+        <td>
+      </td></tr>
       <tr>
-        <td> R. 821-1 
+        <td>R. 821-1 
 
 </td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 823-1 et R. 823-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 823-1 et R. 823-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td>Au titre IV 
@@ -81603,9 +81605,9 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
       </td></tr>
       <tr>
         <td>R. 841-2 </td>
-        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
-requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
+        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés </td>
       </tr>
       <tr>
         <td align="left">
@@ -81628,22 +81630,22 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> R. 851-1-1</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 851-1-1 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 851-2 à R. 851-4 
+        <td>R. 851-2 à R. 851-4 
 
 </td>
-        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
 services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
 sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td> R. 851-5 à R. 851-10 </td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 851-5 à R. 851-10 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td align="left">
@@ -81681,25 +81683,25 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td> Au titre VII </td>
-        <td> </td>
+        <td>Au titre VII </td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 871-1 à R. 871-5 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 871-1 à R. 871-5 </td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 872-1 à R. 872-6 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 872-1 à R. 872-6</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td> R. 873-1 et R. 873-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 873-1 et R. 873-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
       </tr>
     </tbody>
   </table>
@@ -81710,17 +81712,17 @@ _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
   - Décret n°2015-1639 du 11 décembre 2015
+  - Décret n°2016-725 du 1er juin 2016
   - Code de la sécurité intérieure
   - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R851-1
   - Code de la sécurité intérieure - art. R852-1
   - Code de la sécurité intérieure - art. R853-1
 
 _Modifié par_:
 
-  - Décret n°2016-67 du 29 janvier 2016 - art. 4
+  - Décret n°2016-725 du 1er juin 2016 - art. 2
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=901></a>
@@ -81779,18 +81781,18 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> Au titre II </td>
-        <td> </td>
-      </tr>
+        <td>Au titre II </td>
+        <td>
+      </td></tr>
       <tr>
-        <td> R. 821-1 
+        <td>R. 821-1 
 
 </td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 823-1 et R. 823-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 823-1 et R. 823-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td>Au titre IV 
@@ -81800,9 +81802,9 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
       </td></tr>
       <tr>
         <td>R. 841-2 </td>
-        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
-requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
+        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés </td>
       </tr>
       <tr>
         <td align="left">
@@ -81827,24 +81829,24 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> R. 851-1-1</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 851-1-1 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 851-2 à R. 851-4 
+        <td>R. 851-2 à R. 851-4 
 
 </td>
-        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
 services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
 sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td> R. 851-5 à R. 851-10 
+        <td>R. 851-5 à R. 851-10 
 
 </td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement 
 
 </td>
       </tr>
@@ -81884,25 +81886,25 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td> Au titre VII </td>
-        <td> </td>
+        <td>Au titre VII </td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 871-1 à R. 871-5 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 871-1 à R. 871-5</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 872-1 à R. 872-6 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 872-1 à R. 872-6</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td> R. 873-1 et R. 873-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 873-1 et R. 873-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
       </tr>
     </tbody>
   </table>
@@ -81913,17 +81915,17 @@ _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
   - Décret n°2015-1639 du 11 décembre 2015
+  - Décret n°2016-725 du 1er juin 2016
   - Code de la sécurité intérieure
   - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R851-1
   - Code de la sécurité intérieure - art. R852-1
   - Code de la sécurité intérieure - art. R853-1
 
 _Modifié par_:
 
-  - Décret n°2016-67 du 29 janvier 2016 - art. 4
+  - Décret n°2016-725 du 1er juin 2016 - art. 2
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=902></a>
@@ -81982,18 +81984,18 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> Au titre II </td>
-        <td> </td>
-      </tr>
+        <td>Au titre II </td>
+        <td>
+      </td></tr>
       <tr>
-        <td> R. 821-1 
+        <td>R. 821-1 
 
 </td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 823-1 et R. 823-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 823-1 et R. 823-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td>Au titre IV 
@@ -82003,9 +82005,9 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
       </td></tr>
       <tr>
         <td>R. 841-2 </td>
-        <td>Résultant du décret n° 2015-1808 du 28 décembre 2015 relatif à la compétence du Conseil d'Etat pour connaître des
-requêtes concernant la mise en œuvre du droit d'accès aux traitements ou parties de traitements intéressant la sûreté de
-l'Etat, pris en application de l'article L. 841-2 du code de la sécurité intérieure </td>
+        <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
+l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés </td>
       </tr>
       <tr>
         <td align="left">
@@ -82030,22 +82032,22 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
 </td>
       </tr>
       <tr>
-        <td> R. 851-1-1</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 851-1-1 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 851-2 à R. 851-4 
+        <td>R. 851-2 à R. 851-4 
 
 </td>
-        <td> Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
+        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
 services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
 sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td>  R. 851-5 à R. 851-10</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 851-5 à R. 851-10 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
         <td align="left">
@@ -82083,25 +82085,25 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 
 Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
 spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure
+intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
 
 </td>
       </tr>
       <tr>
-        <td> Au titre VII </td>
-        <td> </td>
+        <td>Au titre VII </td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 871-1 à R. 871-5 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 871-1 à R. 871-5</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 872-1 à R. 872-6 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
       </tr>
       <tr>
-        <td> R. 872-1 à R. 872-6</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
-      </tr>
-      <tr>
-        <td> R. 873-1 et R. 873-2</td>
-        <td> Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+        <td>R. 873-1 et R. 873-2 </td>
+        <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
       </tr>
     </tbody>
   </table>
@@ -82112,17 +82114,17 @@ _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
   - Décret n°2015-1639 du 11 décembre 2015
+  - Décret n°2016-725 du 1er juin 2016
   - Code de la sécurité intérieure
   - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R851-1
   - Code de la sécurité intérieure - art. R852-1
   - Code de la sécurité intérieure - art. R853-1
 
 _Modifié par_:
 
-  - Décret n°2016-67 du 29 janvier 2016 - art. 4
+  - Décret n°2016-725 du 1er juin 2016 - art. 2
 
 
 ## Annexes<a id=903></a>
