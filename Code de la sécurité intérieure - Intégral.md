@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -26422,7 +26422,10 @@ _Modifié par_:
 ###### Article D123-12
 
 Le président du conseil d'orientation est nommé par arrêté du Premier ministre, après avis rendu public du président de
-l'Autorité de la statistique publique, pour un mandat de trois ans renouvelable une fois. 
+l'Autorité de la statistique publique, pour un mandat de trois ans renouvelable une fois. S'il a effectué deux mandats
+consécutifs dont la durée totale est inférieure à six ans, le président peut être renouvelé pour un troisième mandat dont la
+durée est fixée, dans la limite d'une durée maximale de trois ans, de manière à lui permettre d'atteindre une durée totale de
+six ans dans l'exercice des fonctions de président.
 
 Les membres du conseil d'orientation mentionnés aux 1° à 3° de l'article R. 123-11 sont nommés pour un mandat de trois ans
 renouvelable une fois. A l'exception de ceux mentionnés au 1° de cet article, ils sont nommés par arrêté du Premier ministre.
@@ -26437,7 +26440,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
+  - Décret n°2016-950 du 11 juillet 2016 - art. 1
 
 
 ###### Article D123-13
