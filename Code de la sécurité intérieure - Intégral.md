@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-07-14
+Version Consolidée au 2016-07-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -4024,8 +4024,7 @@ concernée en mesure de lui présenter ses observations dans un délai maximal d
 décision. Cette personne peut se faire assister par un conseil ou représenter par un mandataire de son choix.
 
 Lorsque les conditions en sont réunies, l'interdiction de sortie du territoire peut être renouvelée par décision expresse et
-motivée. Elle est levée aussitôt que ces conditions ne sont plus satisfaites. Les renouvellements consécutifs d'une
-interdiction initiale ne peuvent porter la durée globale d'interdiction au-delà de deux années.
+motivée. Elle est levée aussitôt que ces conditions ne sont plus satisfaites. 
 
 La personne qui fait l'objet d'une interdiction de sortie du territoire peut, dans le délai de deux mois suivant la
 notification de la décision et suivant la notification de chaque renouvellement, demander au tribunal administratif
@@ -4063,10 +4062,6 @@ _Cite_:
   - Code de justice administrative - art. L521-1
   - Code de justice administrative - art. L521-2
 
-_Créé par_:
-
-  - Loi n°2014-1353 du 13 novembre 2014 - art. 1
-
 _Cité par_:
 
   - Décret n°2015-26 du 14 janvier 2015 (V)
@@ -4090,6 +4085,10 @@ _Cité par_:
   - Code de procédure pénale - art. 706-25-6 (VT)
   - Code de procédure pénale - art. 706-25-7 (VT)
   - Code de procédure pénale - art. 706-25-9 (V)
+
+_Modifié par_:
+
+  - Loi n°2016-987 du 21 juillet 2016 - art. 11
 
 
 #### Chapitre V : Contrôle administratif des retours sur le territoire national<a id=55></a>
@@ -4132,15 +4131,16 @@ l'intérieur de ce périmètre, pendant une plage horaire fixée par le ministre
 heures ;
 
 2° Se présenter périodiquement aux services de police ou aux unités de gendarmerie, dans la limite de trois présentations par
-semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés. ;
+semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés ;
 
-Les obligations prévues aux 1° et 2° du présent article sont prononcées pour une durée maximale d'un mois.
+Les obligations prévues aux 1° et 2° du présent article sont prononcées pour une durée maximale d'un mois, renouvelable deux
+fois par décision motivée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 52
+  - Loi n°2016-987 du 21 juillet 2016 - art. 10
 
 _Cité par_:
 
@@ -4148,6 +4148,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L225-4 (V)
   - Code de la sécurité intérieure - art. L225-6 (V)
   - Code de la sécurité intérieure - art. L225-7 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L225-1
 
 
 ###### Article L225-3
@@ -6044,13 +6048,13 @@ _Codifié par_:
 
 ###### Article L285-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes :
+Sont applicables en Polynésie française, dans leur rédaction résultant de la  loi n° 2016-987 du 21 juillet 2016 prorogeant
+l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant mesures de renforcement de la lutte
+antiterroriste, les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
 
-2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1 et L. 225-1 à L. 225-7  ;
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1 et L. 225-1 à L. 225-7 ;
 
 3° Le titre III ;
 
@@ -6064,28 +6068,18 @@ procédure pénale, les dispositions suivantes :
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L211-1
-  - Code de la sécurité intérieure - art. L211-15
-  - Code de la sécurité intérieure - art. L212-1
-  - Code de la sécurité intérieure - art. L213-1
-  - Code de la sécurité intérieure - art. L214-1
-  - Code de la sécurité intérieure - art. L221-1
-  - Code de la sécurité intérieure - art. L222-1
-  - Code de la sécurité intérieure - art. L223-1 (V)
-  - Code de la sécurité intérieure - art. L224-1 (V)
-  - Code de la sécurité intérieure - art. L225-1 (V)
-  - Code de la sécurité intérieure - art. L262-1
-  - Code de la sécurité intérieure - art. L271-1 (V)
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -6147,9 +6141,9 @@ _Cite_:
 
 ###### Article L286-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la  loi n° 2016-987 du 21 juillet 2016 prorogeant
+l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant mesures de renforcement de la lutte
+antiterroriste, les dispositions suivantes : 
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
 
@@ -6157,7 +6151,7 @@ procédure pénale, les dispositions suivantes :
 
 3° Le titre III ; 
 
-4° Le titre IV ; 
+4° Le titre IV ;
 
 5° Le titre V ; 
 
@@ -6165,13 +6159,12 @@ procédure pénale, les dispositions suivantes :
 
 7° Au titre VII : l'article L. 271-1.
 
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
 
 _Codifié par_:
 
@@ -6179,23 +6172,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L211-1
-  - Code de la sécurité intérieure - art. L211-15
-  - Code de la sécurité intérieure - art. L212-1
-  - Code de la sécurité intérieure - art. L213-1
-  - Code de la sécurité intérieure - art. L214-1
-  - Code de la sécurité intérieure - art. L221-1
-  - Code de la sécurité intérieure - art. L222-1
-  - Code de la sécurité intérieure - art. L222-3
-  - Code de la sécurité intérieure - art. L223-1 (V)
-  - Code de la sécurité intérieure - art. L224-1 (V)
-  - Code de la sécurité intérieure - art. L225-1 (V)
-  - Code de la sécurité intérieure - art. L262-1
-  - Code de la sécurité intérieure - art. L271-1 (V)
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -6269,9 +6246,9 @@ _Cite_:
 
 ###### Article L287-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016
-renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties
-de la procédure pénale, les dispositions suivantes : 
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la  loi n° 2016-987 du 21 juillet 2016
+prorogeant l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant mesures de renforcement
+de la lutte antiterroriste, les dispositions suivantes : 
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 213-1, L.
 214-1 à L. 214-4 ; 
@@ -6280,7 +6257,7 @@ de la procédure pénale, les dispositions suivantes :
 
 3° Le titre III ; 
 
-4° Le titre IV ; 
+4° Le titre IV ;
 
 5° Le titre V ; 
 
@@ -6288,13 +6265,12 @@ de la procédure pénale, les dispositions suivantes :
 
 7° Au titre VII : l'article L. 271-1.
 
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
 
 _Codifié par_:
 
@@ -6302,23 +6278,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L211-1
-  - Code de la sécurité intérieure - art. L211-11
-  - Code de la sécurité intérieure - art. L211-15
-  - Code de la sécurité intérieure - art. L212-1
-  - Code de la sécurité intérieure - art. L213-1
-  - Code de la sécurité intérieure - art. L214-1
-  - Code de la sécurité intérieure - art. L221-1
-  - Code de la sécurité intérieure - art. L222-1
-  - Code de la sécurité intérieure - art. L223-1 (V)
-  - Code de la sécurité intérieure - art. L224-1 (V)
-  - Code de la sécurité intérieure - art. L225-1 (V)
-  - Code de la sécurité intérieure - art. L262-1
-  - Code de la sécurité intérieure - art. L271-1 (V)
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -6394,9 +6354,9 @@ _Cite_:
 
 ###### Article L288-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2016-731 du
-3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et
-les garanties de la procédure pénale, les dispositions suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la  loi n° 2016-987
+du 21 juillet 2016 prorogeant l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant
+mesures de renforcement de la lutte antiterroriste, les dispositions suivantes : 
 
 1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 à L. 214-3 ; 
 
@@ -6408,25 +6368,18 @@ les garanties de la procédure pénale, les dispositions suivantes :
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L211-11
-  - Code de la sécurité intérieure - art. L211-5
-  - Code de la sécurité intérieure - art. L214-1
-  - Code de la sécurité intérieure - art. L222-1
-  - Code de la sécurité intérieure - art. L223-1 (V)
-  - Code de la sécurité intérieure - art. L224-1 (V)
-  - Code de la sécurité intérieure - art. L225-1 (V)
-  - Code de la sécurité intérieure - art. L232-1
-  - Code de la sécurité intérieure - art. L234-1
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -10567,7 +10520,10 @@ Elle est constituée :
 1° De retraités des corps actifs de la police nationale, dégagés de leur lien avec le service, dans le cadre des obligations
 définies à l'article L. 411-8 ; 
 
-2° De volontaires, dans les conditions définies aux articles L. 411-9 à L. 411-11. 
+2° De personnes justifiant, lors de la souscription du contrat d'engagement, avoir eu la qualité d'adjoint de sécurité
+pendant au moins trois années de services effectifs ; 
+
+3° De volontaires, dans les conditions définies aux articles L. 411-9 à L. 411-11. 
 
 Les retraités des corps actifs de la police nationale mentionnés au troisième alinéa du présent article peuvent également
 adhérer à la réserve civile au titre de volontaire.
@@ -10578,10 +10534,6 @@ _Anciens textes_:
 
   - Loi n°2003-239 du 18 mars 2003 - art. 4 (VT)
 
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
 _Cité par_:
 
   - Arrêté du 18 avril 2013 - art. 2 (V)
@@ -10590,7 +10542,7 @@ _Cité par_:
   - Décret n°2017-1058 du 10 mai 2017 - art. 4
   - Décret n°2018-380 du 23 mai 2018 - art. 5 (V)
   - Décret n°2019-688 du 1er juillet 2019 - art. 1 (V)
-  - Code de la sécurité intérieure - art. L411-10 (VD)
+  - Code de la sécurité intérieure - art. L411-10 (V)
   - Code de la sécurité intérieure - art. L411-11 (V)
   - Code de la sécurité intérieure - art. L411-9 (V)
   - Code de la sécurité intérieure - art. R411-26 (VD)
@@ -10599,9 +10551,13 @@ _Cité par_:
   - Code du travail - art. D5151-15 (Ab)
   - Code du travail - art. L5151-9 (VD)
 
+_Modifié par_:
+
+  - Loi n°2016-987 du 21 juillet 2016 - art. 18
+
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L411-8 (VD)
+  - Code de la sécurité intérieure - art. L411-8
 
 _Codifié par_:
 
@@ -10645,34 +10601,31 @@ _Codifié par_:
 
 ###### Article L411-9
 
-Peuvent être admis dans la réserve civile de la police nationale, en qualité de volontaire, les candidats qui satisfont aux
-conditions suivantes :
+Peuvent être admis dans la réserve civile de la police nationale, au titre des 2° et 3° de l'article L. 411-7, les candidats
+qui satisfont aux conditions suivantes : 
 
-1° Etre de nationalité française ;
+1° Etre de nationalité française ; 
 
-2° Etre âgé de dix-huit à soixante-cinq ans ;
+2° Etre âgé de dix-huit à soixante-cinq ans ; 
 
 3° Ne pas avoir été condamné soit à la perte des droits civiques ou à l'interdiction d'exercer un emploi public, soit à une
-peine criminelle ou correctionnelle inscrite au bulletin n° 2 du casier judiciaire ;
+peine criminelle ou correctionnelle inscrite au bulletin n° 2 du casier judiciaire ; 
 
-4° Etre en règle au regard des obligations du service national ;
+4° Etre en règle au regard des obligations du service national ; 
 
 5° Posséder l'aptitude physique requise pour exercer une activité dans la réserve, dont les conditions sont prévues par
-arrêté du ministre de l'intérieur.
+arrêté du ministre de l'intérieur. 
 
 Nul ne peut être admis dans la réserve s'il résulte de l'enquête administrative, ayant donné lieu le cas échéant à la
 consultation des traitements de données à caractère personnel mentionnés aux articles 230-6 et 230-19 du code de procédure
 pénale, que le comportement ou les agissements du candidat sont contraires à l'honneur, à la probité, aux bonnes mœurs ou de
-nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat.
+nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat. 
 
-En outre, les retraités des corps actifs de la police nationale ne doivent pas avoir fait l'objet d'une sanction
-disciplinaire pour des motifs incompatibles avec l'exercice des missions dans la réserve civile.
+En outre, les retraités des corps actifs de la police nationale et les réservistes mentionnés au 2° de l'article L. 411-7 du
+présent code ne doivent pas avoir fait l'objet d'une sanction disciplinaire pour des motifs incompatibles avec l'exercice des
+missions dans la réserve civile.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 4-2 (VT)
 
 _Cité par_:
 
@@ -10681,9 +10634,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. D411-31 (VD)
   - Code de la sécurité intérieure - art. L411-7 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2016-987 du 21 juillet 2016 - art. 18
 
 _Cite_:
 
@@ -10701,20 +10654,19 @@ l'exclusion de toute mission à l'étranger, des missions de police judiciaire d
 code de procédure pénale, des missions de soutien à la demande des fonctionnaires sous l'autorité desquels ils sont placés ou
 des missions de spécialiste correspondant à leur qualification professionnelle.
 
+Les personnes mentionnées au 2° de l'article L. 411-7 du présent code peuvent assurer, à l'exclusion de toute mission à
+l'étranger, les missions exercées par les retraités des corps actifs de la police nationale.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 4-3 (VT)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2016-987 du 21 juillet 2016 - art. 18
 
 _Cite_:
 
   - Code de procédure pénale - art. 21
-  - Code de la sécurité intérieure - art. L411-7 (VD)
+  - Code de la sécurité intérieure - art. L411-7 (V)
 
 _Cité par_:
 
@@ -10727,16 +10679,18 @@ _Codifié par_:
 
 ###### Article L411-11
 
-Les réservistes volontaires souscrivent un contrat d'engagement d'une durée d'un an, renouvelable tacitement dans la limite
-de cinq ans, qui définit leurs obligations de disponibilité et de formation et qui leur confère la qualité de collaborateur
-occasionnel du service public.
+Les réservistes volontaires et les réservistes mentionnés au 2° de l'article L. 411-7 souscrivent un contrat d'engagement
+d'une durée d'un an, renouvelable tacitement dans la limite de cinq ans, qui définit leurs obligations de disponibilité et de
+formation et qui leur confère la qualité de collaborateur occasionnel du service public. 
 
-Le contrat d'engagement précise la durée maximale de l'affectation, qui ne peut excéder :
+Le contrat d'engagement précise la durée maximale de l'affectation, qui ne peut excéder : 
 
 1° Pour les retraités des corps actifs de la police nationale, cent cinquante jours par an ou, pour l'accomplissement de
-missions à l'étranger, deux cent dix jours ;
+missions à l'étranger, deux cent dix jours ; 
 
-2° Pour les autres réservistes volontaires, quatre-vingt-dix jours par an.
+2° Pour les autres réservistes volontaires, quatre-vingt-dix jours par an ; 
+
+3° Pour les réservistes mentionnés au 2° du même article L. 411-7, cent cinquante jours par an. 
 
 L'administration peut prononcer la radiation de la réserve civile en cas de manquement aux obligations prévues par le contrat
 d'engagement. Ce contrat peut également être résilié ou suspendu en cas de manquement lorsque le réserviste volontaire cesse
@@ -10744,13 +10698,13 @@ de remplir une des conditions prévues à la présente section ou en cas de néc
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 4-4 (VT)
+  - Loi n°2016-987 du 21 juillet 2016 - art. 18
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Code de la sécurité intérieure - art. L411-7 (V)
 
 _Cité par_:
 
@@ -11407,28 +11361,38 @@ _Cité par_:
 
 ###### Article L445-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes, sous réserve des adaptations suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la 
+loi n° 2016-987 du 21 juillet 2016
+prorogeant l'application de la 
+loi n° 55-385 du 3 avril 1955
+relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, les dispositions suivantes, sous
+réserve des adaptations suivantes : 
 
 1° Lorsqu'ils sont exécutés en Polynésie française, le contrat de droit public des adjoints de sécurité mentionné à l'article
 L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses
-contraires, aux dispositions applicables localement  ; 
+contraires, aux dispositions applicables localement ; 
 
-2° L'article L. 411-7 est complété par un alinéa ainsi rédigé : 
+2° L'
 
-" En Polynésie française, la réserve civile peut également être constituée par des fonctionnaires de l'Etat pour
+article L. 411-7 est complété par un alinéa ainsi rédigé : 
+
+" 
+En Polynésie française, la réserve civile peut également être constituée par des fonctionnaires de l'Etat pour
 l'administration de la Polynésie française ayant exercé des missions de police, dans les conditions prévues par la loi n°
 66-496 du 11 juillet 1966 relative à la création de corps de fonctionnaires de l'Etat pour l'administration de la Polynésie
-française. " ; 
+française. " 
+; 
 
-3° Les articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6 sont remplacés par les dispositions suivantes : 
+3° Les 
+articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6 sont remplacés par les dispositions suivantes : 
 
 " Les conditions dans lesquelles le réserviste de la police nationale et le volontaire du service volontaire citoyen de la
 police et de la gendarmerie nationales exercent une activité salariée pendant la période d'activité dans la réserve civile de
 la police nationale ou dans le service volontaire citoyen de la police et de la gendarmerie nationales sont fixées par une
 convention conclue entre l'autorité localement compétente et le haut-commissaire de la République en Polynésie française.
-" ; 
+"
+
+; 
 
 4° Pour l'application de l'article L. 433-2, la référence à l'article L. 314-2 du code de l'entrée et du séjour des étrangers
 et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux
@@ -11438,14 +11402,15 @@ conditions d'entrée et de séjour des étrangers en Polynésie française.
 
 _Cite_:
 
+  - Loi n°55-385 du 3 avril 1955
   - Loi n°66-496 du 11 juillet 1966
   - Ordonnance n°2000-372 du 26 avril 2000 - art. 6
+  - Loi n°2016-987 du 21 juillet 2016
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
-  - Code de la sécurité intérieure - art. L411-5
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -11460,20 +11425,28 @@ _Codifié par_:
 
 ###### Article L446-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes, sous réserve des adaptations suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la 
+loi n° 2016-987 du 21 juillet 2016
+prorogeant l'application de la 
+loi n° 55-385 du 3 avril 1955
+relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, les dispositions suivantes, sous
+réserve des adaptations suivantes :
 
 1° Lorsqu'ils sont exécutés en Nouvelle-Calédonie, le contrat de droit public des adjoints de sécurité mentionné à l'article
 L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses
-contraires, aux dispositions applicables localement  ; 
+contraires, aux dispositions applicables localement ; 
 
-2° Les articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6 sont remplacés par les dispositions suivantes : 
+2° Les 
+
+articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6
+sont remplacés par les dispositions suivantes : 
 
 " Les conditions dans lesquelles le réserviste de la police nationale et le volontaire du service volontaire citoyen de la
 police et de la gendarmerie nationales exercent une activité salariée pendant la période d'activité dans la réserve civile de
 la police nationale ou dans le service volontaire citoyen de la police et de la gendarmerie nationales sont fixées par une
-convention conclue entre l'autorité localement compétente et le haut-commissaire de la République en Nouvelle-Calédonie. " ; 
+convention conclue entre l'autorité localement compétente et le haut-commissaire de la République en Nouvelle-Calédonie. " 
+
+; 
 
 3° Pour l'application de l'article L. 433-2, la référence à l'article L. 314-2 du code de l'entrée et du séjour des étrangers
 et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux
@@ -11483,15 +11456,12 @@ conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie.
 
 _Cite_:
 
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 6
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
-  - Code de la sécurité intérieure - art. L411-13
-  - Code de la sécurité intérieure - art. L411-5
-  - Code de la sécurité intérieure - art. L433-5
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -11506,15 +11476,21 @@ _Codifié par_:
 
 ###### Article L447-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
-contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale, les dispositions suivantes, sous réserve des adaptations suivantes : 
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la 
+loi n° 2016-987 du 21 juillet 2016
+prorogeant l'application de la 
+loi n° 55-385 du 3 avril 1955
+relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, les dispositions suivantes, sous
+réserve des adaptations suivantes : 
 
 1° Lorsqu'ils sont exécutés dans les îles Wallis et Futuna, le contrat de droit public des adjoints de sécurité mentionné à
 l'article L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations
-expresses contraires, aux dispositions applicables localement  ; 
+expresses contraires, aux dispositions applicables localement ; 
 
-2° Les articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6 sont remplacés par les dispositions suivantes : 
+2° Les 
+
+articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6
+sont remplacés par les dispositions suivantes : 
 
 " Les conditions dans lesquelles le réserviste de la police nationale et le volontaire du service volontaire citoyen de la
 police et de la gendarmerie nationales exercent une activité salariée pendant la période d'activité dans la réserve civile de
@@ -11527,14 +11503,14 @@ conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futun
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
-  - Code de la sécurité intérieure - art. L411-5
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+
+_Modifié par_:
+
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -11550,18 +11526,22 @@ _Codifié par_:
 ###### Article L448-1
 
 Le présent livre est applicable dans les Terres australes et antarctiques françaises, à l'exception des articles L. 411-5 et
-L. 411-6 dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le
-terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
+L. 411-6 dans sa rédaction résultant de la 
+loi n° 2016-987 du 21 juillet 2016
+prorogeant l'application de la 
+loi n° 55-385 du 3 avril 1955
+relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L411-5
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+
+_Modifié par_:
+
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Codifié par_:
 
@@ -11778,10 +11758,9 @@ _Codifié par_:
 
 ###### Article L511-5
 
-Lorsque la nature de leurs interventions et les circonstances le justifient, les agents de police municipale peuvent être
-autorisés nominativement par le représentant de l'Etat dans le département, sur demande motivée du maire, à porter une arme,
-sous réserve de l'existence d'une convention de coordination des interventions de la police municipale et des forces de
-sécurité de l'Etat, prévue par la section 2 du chapitre II du présent titre. 
+Les agents de police municipale peuvent être autorisés nominativement par le représentant de l'Etat dans le département, sur
+demande motivée du maire, à porter une arme, sous réserve de l'existence d'une convention de coordination des interventions
+de la police municipale et des forces de sécurité de l'Etat, prévue par la section 2 du chapitre II du présent titre. 
 
 Lorsque l'agent est employé par un établissement public de coopération intercommunale et mis à disposition de plusieurs
 communes dans les conditions prévues au premier alinéa de l'article L. 512-2, cette demande est établie conjointement par
@@ -11795,13 +11774,9 @@ derniers reçoivent à cet effet.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Anciens textes_:
-
-  - CODE DES COMMUNES. - art. L412-51 (VT)
+  - Loi n°2016-987 du 21 juillet 2016 - art. 16
 
 _Cité par_:
 
@@ -11811,7 +11786,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L512-2 (VD)
+  - Code de la sécurité intérieure - art. L512-2
 
 _Codifié par_:
 
@@ -12681,16 +12656,21 @@ _Modifié par_:
 ###### Article L545-1
 
 Les articles L. 511-1, L. 511-4, L. 511-5, L. 512-1 à L. 513-1, L. 514-1, L. 515-1, L. 521-1, L. 522-1 à L. 522-4 sont
-applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
-contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale, sous réserve des adaptations suivantes : 
+applicables en Polynésie française, dans leur rédaction résultant de la 
+loi n° 2016-987 du 21 juillet 2016
+prorogeant l'application de la 
+loi n° 55-385 du 3 avril 1955
+relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, sous réserve des adaptations
+suivantes : 
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Polynésie française ; 
 
-2° Au deuxième alinéa de l'article L. 511-1 et au quatrième alinéa de l'article L. 521-1, les mots : " contraventions aux
-dispositions du code de la route " sont remplacés par les mots : " contraventions aux dispositions applicables localement en
-matière de circulation et de sécurité routières " ; 
+2° 
+Au deuxième alinéa de l'article L. 511-1 et au quatrième alinéa de l'article L. 521-1, les mots : " contraventions aux
+dispositions du code de la route
+ " sont remplacés par les mots : " contraventions aux dispositions applicables localement en matière de circulation et de
+sécurité routières " ; 
 
 3° A l'article L. 511-1, le quatrième alinéa est supprimé ; 
 
@@ -12702,11 +12682,18 @@ par arrêté du haut-commissaire de la République en Polynésie française. " ;
 
 6° Au quatrième alinéa de l'article L. 521-1, après les mots : " aux épreuves de dépistage ", la fin de la seconde phrase est
 ainsi rédigée : " de l'imprégnation alcoolique, dans les conditions fixées par la réglementation applicable en Polynésie
-française " ; 
+française "
+ ; 
 
 7° A l'article L. 522-2, le deuxième alinéa est supprimé.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+  - Code de la route.
 
 _Codifié par_:
 
@@ -12714,18 +12701,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L511-1
-  - Code de la sécurité intérieure - art. L511-4
-  - Code de la sécurité intérieure - art. L512-1
-  - Code de la sécurité intérieure - art. L514-1
-  - Code de la sécurité intérieure - art. L515-1
-  - Code de la sécurité intérieure - art. L521-1
-  - Code de la sécurité intérieure - art. L522-1
-  - Code de la sécurité intérieure - art. L522-2
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 
 ###### Article L545-2
@@ -12757,10 +12733,13 @@ _Codifié par_:
 
 ###### Article L546-1
 
-Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, 
-L. 512-3, L. 512-4 et L. 512-6 à L. 513-1 sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n°
-2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant
-l'efficacité et les garanties de la procédure pénale, sous réserve des adaptations suivantes :
+Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, L. 512-3, L. 512-4 et L. 512-6 à L. 513-1
+sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la 
+loi n° 2016-987 du 21 juillet 2016
+prorogeant l'application de la 
+loi n° 55-385 du 3 avril 1955
+relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, sous réserve des adaptations
+suivantes :
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Nouvelle-Calédonie ; 
@@ -12794,20 +12773,19 @@ président de l'établissement public de coopération intercommunale le cas éch
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+  - Code de la route.
+
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L511-1
-  - Code de la sécurité intérieure - art. L511-4
-  - Code de la sécurité intérieure - art. L512-1
-  - Code de la sécurité intérieure - art. L512-3
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 _Cité par_:
 
@@ -22692,24 +22670,23 @@ _Anciens textes_:
 I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seuls besoins de la prévention du
 terrorisme, peut être individuellement autorisé le recueil en temps réel, sur les réseaux des opérateurs et des personnes
 mentionnés à l'article L. 851-1, des informations ou documents mentionnés au même article L. 851-1 relatifs à une personne
-préalablement identifiée comme présentant une menace. 
+préalablement identifiée susceptible d'être en lien avec une menace. Lorsqu'il existe des raisons sérieuses de penser qu'une
+ou plusieurs personnes appartenant à l'entourage de la personne concernée par l'autorisation sont susceptibles de fournir des
+informations au titre de la finalité qui motive l'autorisation, celle-ci peut être également accordée individuellement pour
+chacune de ces personnes. 
 
-II.-Par dérogation à l'article L. 821-4, l'autorisation est délivrée pour une durée de deux mois, renouvelable dans les mêmes
-conditions de durée. 
-
-III.-L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
+II.-L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+  - Loi n°2016-987 du 21 juillet 2016 - art. 15
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L821-4
-  - Code de la sécurité intérieure - art. L821-5
-  - Code de la sécurité intérieure - art. L851-1
+  - Code de la sécurité intérieure - art. L821-5 (V)
+  - Code de la sécurité intérieure - art. L851-1 (V)
 
 _Cité par_:
 
@@ -22894,7 +22871,7 @@ de l'article 226-3 du code pénal afin d'intercepter des correspondances émises
 correspondances interceptées par cet appareil ou ce dispositif technique sont détruites dès qu'il apparaît qu'elles sont sans
 lien avec l'autorisation délivrée, dans la limite du délai prévu au 1° du I de l'article L. 822-2 du présent code. 
 
-III.-L'autorisation vaut autorisation de recueil des informations ou documents mentionnés à l'article L. 851-1 nécessaires à
+III.-L'autorisation vaut autorisation de recueil des informations ou documents mentionnés à l'article L. 851-1 associés à
 l'exécution de l'interception et à son exploitation. 
 
 IV.-Un service du Premier ministre organise la centralisation de l'exécution des interceptions mentionnées au I. Après avis
@@ -22912,9 +22889,9 @@ d'interception délivrées sont portés à la connaissance de la commission.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 5
+  - Loi n°2016-987 du 21 juillet 2016 - art. 17
 
 _Cité par_:
 
@@ -22931,9 +22908,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 226-3 (VT)
+  - Code pénal - art. 226-3
   - Code de la sécurité intérieure - art. L811-3
-  - Code de la sécurité intérieure - art. L821-2 (VD)
+  - Code de la sécurité intérieure - art. L821-2
   - Code de la sécurité intérieure - art. L851-1
 
 
@@ -23582,7 +23559,7 @@ _Cite_:
 ###### Article L863-2
 
 Les services spécialisés de renseignement mentionnés à l'article L. 811-2 et les services désignés par le décret en Conseil
-d'Etat prévu à l'article L. 811-4 peuvent échanger toutes les informations utiles à l'accomplissement de leurs missions
+d'Etat prévu à l'article L. 811-4 peuvent partager toutes les informations utiles à l'accomplissement de leurs missions
 définies au titre Ier du présent livre. 
 
 Les autorités administratives mentionnées à l'article 1er de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux
@@ -23600,9 +23577,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L811-2
   - Code de la sécurité intérieure - art. L811-4
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+  - Loi n°2016-987 du 21 juillet 2016 - art. 17
 
 
 ### TITRE VII : OBLIGATIONS DES OPERATEURS ET PRESTATAIRES DE SERVICES<a id=334></a>
@@ -23876,28 +23853,26 @@ _Cite_:
 
 ###### Article L895-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes du présent livre VIII : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la  loi n° 2016-987 du 21 juillet 2016 prorogeant
+l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant mesures de renforcement de la lutte
+antiterroriste, les dispositions suivantes du présent livre VIII : 
 
 1° Les titres Ier à VI ; 
 
-2° Au titre VII : les articles L. 871-1, L. 871-2, L. 871-4, 
-L. 871-6 et L. 871-7 ; 
+2° Au titre VII : les articles L. 871-1, L. 871-2, L. 871-4, L. 871-6 et L. 871-7 ; 
 
 3° Le titre VIII.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L871-1
-  - Code de la sécurité intérieure - art. L871-4
-  - Code de la sécurité intérieure - art. L871-6
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+
+_Modifié par_:
+
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 
 ###### Article L895-2
@@ -23926,29 +23901,26 @@ _Cite_:
 
 ###### Article L896-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes du présent livre VIII : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la  loi n° 2016-987 du 21 juillet 2016 prorogeant
+l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant mesures de renforcement de la lutte
+antiterroriste, les dispositions suivantes du présent livre VIII : 
 
 1° Les titres Ier à VI ; 
 
-2° Au titre VII : les articles L. 871-1, L. 871-2, 
-L. 871-4, 
-L. 871-6 et L. 871-7 ; 
+2° Au titre VII : les articles L. 871-1, L. 871-2, L. 871-4, L. 871-6 et L. 871-7 ; 
 
 3° Le titre VIII.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L871-1
-  - Code de la sécurité intérieure - art. L871-4
-  - Code de la sécurité intérieure - art. L871-6
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+
+_Modifié par_:
+
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 
 ###### Article L896-2
@@ -23977,15 +23949,20 @@ _Cite_:
 
 ###### Article L897-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
-contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale, les titres Ier à VIII du présent livre VIII.
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la  loi n° 2016-987 du 21 juillet 2016 prorogeant
+l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant mesures de renforcement de la lutte
+antiterroriste, les titres Ier à VIII du présent livre VIII.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
+
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 
 ###### Article L897-2
@@ -24014,32 +23991,34 @@ _Cite_:
 
 ###### Article L898-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2016-731 du
-3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et
-les garanties de la procédure pénale, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la  loi n° 2016-987
+du 21 juillet 2016 prorogeant l'application de la  loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence et portant
+mesures de renforcement de la lutte antiterroriste, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations
+suivantes : 
 
-1° Au début de l'article L. 871-3, les mots : “ Dans le cadre des attributions qui lui sont conférées par le livre II du code
-des postes et des communications électroniques, ” sont supprimés ; 
+1° Au début de l'article L. 871-3, les mots : "Dans le cadre des attributions qui lui sont conférées par le livre II du code
+des postes et des communications électroniques," sont supprimés ; 
 
 2° L'article L. 871-5 est ainsi rédigé : 
 
-“ Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications
+"Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications
 électroniques et le secret des correspondances que doivent respecter les opérateurs ainsi que les membres de leur personnel
 ne sont opposables ni aux juridictions compétentes pour ordonner des interceptions en application de l'article 100 du code de
 procédure pénale, ni au ministre chargé des communications électroniques, dans l'exercice des prérogatives qui leur sont
-dévolues au présent titre. ˮ
+dévolues au présent titre."
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 _Cite_:
 
+  - Loi n°55-385 du 3 avril 1955
+  - Loi n°2016-987 du 21 juillet 2016
   - Code des postes et des communications électroniques - art. L32
   - Code de procédure pénale - art. 100
-  - Code de la sécurité intérieure - art. L871-3
+
+_Modifié par_:
+
+  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
 
 
 # Partie réglementaire<a id=341></a>
