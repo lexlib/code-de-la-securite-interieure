@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-09-07
+Version Consolidée au 2016-09-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -26899,27 +26899,22 @@ _Modifié par_:
 
 Le directeur est nommé par décret.
 
-Il est assisté par deux directeurs adjoints, nommés par décret. Le directeur et un directeur adjoint sont choisis parmi les
-membres des corps recrutés par la voie de l'Ecole nationale d'administration ou les membres des corps de niveau équivalent ou
-les agents contractuels de haut niveau justifiant d'une expérience professionnelle d'au moins huit années.
-
-L'autre directeur adjoint est choisi parmi les magistrats de l'ordre judiciaire.
+Il est assisté par deux directeurs adjoints, nommés par décret. Le directeur et les directeurs adjoints sont choisis parmi
+les membres des corps recrutés par la voie de l'Ecole nationale d'administration ou les membres des corps de niveau
+équivalent ou les agents contractuels de haut niveau justifiant d'une expérience professionnelle d'au moins huit années ou
+les magistrats de l'ordre judiciaire.
 
 Le directeur dispose de conseillers mis à disposition par les ministres représentés au conseil d'administration.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2009-1321 du 28 octobre 2009 - art. 17 (VT)
-
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2016-1240 du 21 septembre 2016 - art. 1
 
 
 ###### Article D123-18
