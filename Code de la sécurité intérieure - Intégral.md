@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-10-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -24419,8 +24419,8 @@ renseignement du ministère de la défense peut intervenir sont :
 mentionnées aux a et b du 1° et aux f et j du 3° de l'article R. 114-2, aux 1°, 2° et 3° de l'article R. 114-4 ainsi qu'au 2O
 de l'article R. 114-5 ; 
 
-2° Pour la direction de la protection et de la sécurité de la défense, les enquêtes relatives aux autorisations ou aux
-habilitations mentionnées aux a, b et c du 1° et aux f et j du 3° de l'article R. 114-2, aux 1°, 2° et 3° de l'article R.
+2° Pour la          direction du renseignement et de la sécurité de la défense, les enquêtes relatives aux autorisations ou
+aux habilitations mentionnées aux a, b et c du 1° et aux f et j du 3° de l'article R. 114-2, aux 1°, 2° et 3° de l'article R.
 114-4 ainsi qu'aux 1°, 2° et 3° de l'article R. 114-5 ; 
 
 3° Pour la direction du renseignement militaire, les enquêtes relatives aux autorisations ou aux habilitations mentionnées
@@ -24428,14 +24428,18 @@ aux a, b et h du 1° et j du 3° de l'article R. 114-2 ainsi qu'aux 1°, 2° et 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 8
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2018-141 du 27 février 2018 - art. 3
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L234-2 (V)
-  - Code de la sécurité intérieure - art. R114-2 (V)
+  - Code de la sécurité intérieure - art. L234-2
+  - Code de la sécurité intérieure - art. R114-2
   - Code de la sécurité intérieure - art. R114-4 (V)
   - Code de la sécurité intérieure - art. R114-5 (V)
 
@@ -31475,8 +31479,8 @@ _Anciens textes_:
 Pour l'application du II de l'article L. 222-1, les services spécialisés de renseignement dont les agents peuvent accéder aux
 traitements automatisés de données à caractère personnel mentionnés à l'article L. 222-1 sont :
 
-- pour le ministère de la défense : la direction générale de la sécurité extérieure, la direction de la protection et de la
-sécurité de la défense et la direction du renseignement militaire ;
+- pour le ministère de la défense : la direction générale de la sécurité extérieure, la          direction du renseignement
+et de la sécurité de la défense et la direction du renseignement militaire ;
 
 - pour le ministère de l'intérieur : la direction générale de la sécurité intérieure ;
 
@@ -31506,13 +31510,13 @@ _Cité par_:
   - Code de la route. - art. R225-4 (V)
   - Code de la route. - art. R330-2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 1
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L222-1 (V)
+  - Code de la sécurité intérieure - art. L222-1
 
 
 #### Chapitre III : Mise en œuvre de systèmes de vidéoprotection<a id=414></a>
@@ -33083,7 +33087,7 @@ a) Services habilités à formuler des requêtes à l'UIP et à être destinatai
 
 - la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale ;
 
-- le       service central de renseignement criminel de la gendarmerie nationale ;
+- le service central de renseignement criminel de la gendarmerie nationale ;
 
 - les sections de recherches de la gendarmerie nationale ;
 
@@ -33157,8 +33161,8 @@ affectés au sein :
 
 - des services directement rattachés au directeur général ; 
 
-2° Les agents de la direction de la protection et de la sécurité de la défense, individuellement désignés et spécialement
-habilités, affectés au sein :
+2° Les agents de la          direction du renseignement et de la sécurité de la défense, individuellement désignés et
+spécialement habilités, affectés au sein :
 
 - de la sous-direction de la contre-ingérence ;
 
@@ -33241,7 +33245,7 @@ habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein :
 
 - de la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
 
-- du       service central de renseignement criminel de la gendarmerie nationale. 
+- du service central de renseignement criminel de la gendarmerie nationale. 
 
 VIII.-Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols concernés
 pour les besoins de la prévention des seuls crimes et délits suivants :
@@ -33305,7 +33309,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1805 du 28 décembre 2015 - art. 5 (V)
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cite_:
 
@@ -33501,8 +33505,8 @@ _Cité par_:
 Pour l'application du 2° de l'article L. 234-2, les services spécialisés de renseignement dont les agents peuvent accéder aux
 traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de procédure pénale sont :
 
-- pour le ministère de la défense : la direction générale de la sécurité extérieure, la direction de la protection et de la
-sécurité de la défense et la direction du renseignement militaire ;
+- pour le ministère de la défense : la direction générale de la sécurité extérieure, la          direction du renseignement
+et de la sécurité de la défense et la direction du renseignement militaire ;
 
 - pour le ministère de l'intérieur : la direction générale de la sécurité intérieure ;
 
@@ -33512,14 +33516,14 @@ clandestins ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 2
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Code de procédure pénale - art. 230-6 (V)
-  - Code de la sécurité intérieure - art. L234-2 (V)
+  - Code de procédure pénale - art. 230-6
+  - Code de la sécurité intérieure - art. L234-2
 
 _Cité par_:
 
@@ -33528,33 +33532,33 @@ _Cité par_:
 
 ###### Article R234-3
 
-I.-Peuvent avoir accès aux traitements automatisés de données à  caractère personnel mentionnés à l'article 230-6 du code de
-procédure  pénale dans les conditions prévues à l'article L. 234-4 du présent code  les agents individuellement désignés et
-habilités des services  mentionnés aux articles L. 811-2 et L. 811-4 suivants : 
+I.-Peuvent avoir accès aux traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de
+procédure pénale dans les conditions prévues à l'article L. 234-4 du présent code les agents individuellement désignés et
+habilités des services mentionnés aux articles L. 811-2 et L. 811-4 suivants : 
 
 1° Pour les besoins liés à la protection des intérêts mentionnés au 1° de l'article L. 811-3 : 
 
 a) La direction générale de la sécurité extérieure ; 
 
-b) La direction de la protection et de la sécurité de la défense ; 
+b) La          direction du renseignement et de la sécurité de la défense ; 
 
 c) La direction du renseignement militaire ; 
 
 d) La direction générale de la sécurité intérieure ; 
 
-e) Le service à compétence nationale dénommé “ traitement du  renseignement et action contre les circuits financiers
+e) Le service à compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers
 clandestins ” ; 
 
-f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
+f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
 
 - les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
 
-g) Les services du renseignement territorial de la direction centrale  de la sécurité publique placés sous l'autorité du
-directeur général de  la police nationale ; 
+g) Les services du renseignement territorial de la direction centrale de la sécurité publique placés sous l'autorité du
+directeur général de la police nationale ; 
 
-h) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
+h) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale :
 
-- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
+- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ;
 
 - la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
 
@@ -33562,45 +33566,45 @@ h) Les services suivants placés sous l'autorité du directeur général de la g
 
 a) La direction générale de la sécurité extérieure ; 
 
-b) La direction de la protection et de la sécurité de la défense ; 
+b) La          direction du renseignement et de la sécurité de la défense ; 
 
 c) La direction du renseignement militaire ; 
 
 d) La direction générale de la sécurité intérieure ; 
 
-e) Le service à compétence nationale dénommé “ traitement du  renseignement et action contre les circuits financiers
+e) Le service à compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers
 clandestins ” ; 
 
 f) La direction nationale du renseignement et des enquêtes douanières ; 
 
-g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
+g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
 
 - les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
 
-h) Les services suivants placés sous l'autorité du directeur général de la police nationale : 
+h) Les services suivants placés sous l'autorité du directeur général de la police nationale :
 
-- les services du renseignement territorial de la direction centrale de la sécurité publique ; 
+- les services du renseignement territorial de la direction centrale de la sécurité publique ;
 
-- l'office  central de lutte contre la criminalité liée aux technologies de  l'information et de la communication de la
-direction centrale de la  police judiciaire ; 
+- l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication de la
+direction centrale de la police judiciaire ;
 
-- la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
+- la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
 
 - l'unité de coordination de la lutte antiterroriste ; 
 
-i) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
+i) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale :
 
-- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
+- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ;
 
-- la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
+- la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ;
 
 - les sections de recherches de la gendarmerie nationale ; 
 
-j) Les services suivants placés sous l'autorité du préfet de police : 
+j) Les services suivants placés sous l'autorité du préfet de police :
 
-- la sous-direction de la sécurité intérieure de la direction du renseignement ; 
+- la sous-direction de la sécurité intérieure de la direction du renseignement ;
 
-- la sous-direction du renseignement territorial de la direction du renseignement ; 
+- la sous-direction du renseignement territorial de la direction du renseignement ;
 
 - la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ; 
 
@@ -33608,36 +33612,36 @@ j) Les services suivants placés sous l'autorité du préfet de police :
 
 a) La direction générale de la sécurité extérieure ; 
 
-b) La direction de la protection et de la sécurité de la défense ; 
+b) La          direction du renseignement et de la sécurité de la défense ; 
 
 c) La direction générale de la sécurité intérieure ; 
 
-d) Les services du renseignement territorial de la direction centrale  de la sécurité publique placés sous l'autorité du
-directeur général de  la police nationale ; 
+d) Les services du renseignement territorial de la direction centrale de la sécurité publique placés sous l'autorité du
+directeur général de la police nationale ; 
 
-e) La sous-direction de  l'anticipation opérationnelle de la direction des opérations et de  l'emploi placée sous l'autorité
-du directeur général de la gendarmerie  nationale ; 
+e) La sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi placée sous l'autorité du
+directeur général de la gendarmerie nationale ; 
 
-f) Les services suivants placés sous l'autorité du préfet de police : 
+f) Les services suivants placés sous l'autorité du préfet de police :
 
-- la sous-direction de la sécurité intérieure de la direction du renseignement ; 
+- la sous-direction de la sécurité intérieure de la direction du renseignement ;
 
 - la sous-direction du renseignement territorial de la direction du renseignement. 
 
-II.-Seuls peuvent avoir accès aux traitements automatisés de données à  caractère personnel mentionnés à l'article 230-6 du
-code de procédure  pénale sur la base de l'article L. 234-4 du présent code les agents des  services mentionnés au I
-individuellement désignés et habilités par le  directeur dont ils relèvent. 
+II.-Seuls peuvent avoir accès aux traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du
+code de procédure pénale sur la base de l'article L. 234-4 du présent code les agents des services mentionnés au I
+individuellement désignés et habilités par le directeur dont ils relèvent. 
 
-L'accès des services  aux traitements est limité à la consultation et ne peut donner lieu à  aucune interconnexion avec
+L'accès des services aux traitements est limité à la consultation et ne peut donner lieu à aucune interconnexion avec
 d'autres traitements. 
 
 Les dispositions de l'article R. 40-30 du code de procédure pénale sont applicables.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1807 du 28 décembre 2015 - art. 1
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
@@ -80606,10 +80610,11 @@ _Cité par_:
 
 ###### Article R811-1
 
-Les services spécialisés de renseignement sont la direction générale de la sécurité extérieure, la direction de la protection
-et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la sécurité intérieure, le
-service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes douanières ” et le service à
-compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers clandestins ”.
+Les services spécialisés de renseignement sont la direction générale de la sécurité extérieure, la          direction du
+renseignement et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la sécurité
+intérieure, le service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes douanières ” et
+le service à compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers clandestins
+”.
 
 **Liens relatifs à cet article**
 
@@ -80626,9 +80631,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R897-1 (M)
   - Code de la sécurité intérieure - art. R898-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1185 du 28 septembre 2015 - art. 1
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 
 ###### Article R811-2
@@ -80805,32 +80810,32 @@ _Créé par_:
 
 ###### Article R841-2
 
-Relèvent des dispositions de l'article L. 841-2 du présent code les  traitements ou parties de traitements automatisés de
-données à caractère  personnel intéressant la sûreté de l'Etat autorisés par les actes  réglementaires ou dispositions
+Relèvent des dispositions de l'article L. 841-2 du présent code les traitements ou parties de traitements automatisés de
+données à caractère personnel intéressant la sûreté de l'Etat autorisés par les actes réglementaires ou dispositions
 suivants : 
 
-1°  Décret portant création au profit de la direction générale de la  sécurité intérieure d'un traitement automatisé de
-données à caractère  personnel dénommé CRISTINA ; 
+1° Décret portant création au profit de la direction générale de la sécurité intérieure d'un traitement automatisé de données
+à caractère personnel dénommé CRISTINA ; 
 
-2° Décret portant  application des dispositions de l'article 31 de la loi n° 78-17 du 6  janvier 1978 aux fichiers
-d'informations nominatives mis en œuvre par la  direction générale de la sécurité extérieure ; 
+2° Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 aux fichiers
+d'informations nominatives mis en œuvre par la direction générale de la sécurité extérieure ; 
 
-3° Décret autorisant la mise en œuvre par la direction de la protection  et de la sécurité de la défense d'un traitement
-automatisé de données à  caractère personnel dénommé SIREX ; 
+3° Décret autorisant la mise en œuvre par la          direction du renseignement et de la sécurité de la défense d'un
+traitement automatisé de données à caractère personnel dénommé SIREX ; 
 
-4° Décret  portant application des dispositions de l'article 31 de la loi n° 78-17  du 6 janvier 1978 au fichier
-d'informations nominatives mis en œuvre par  la direction du renseignement militaire ; 
+4° Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 au fichier d'informations
+nominatives mis en œuvre par la direction du renseignement militaire ; 
 
 5° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé FSPRT ; 
 
-6° Décret n° 2010-569 du 28 mai 2010 portant création du fichier des  personnes recherchées, pour les seules données
-intéressant la sûreté de  l'Etat mentionnées au 8° du III de l'article 2 de ce décret ; 
+6° Décret n° 2010-569 du 28 mai 2010 portant création du fichier des personnes recherchées, pour les seules données
+intéressant la sûreté de l'Etat mentionnées au 8° du III de l'article 2 de ce décret ; 
 
-7° Article R. 231-4 du code de la sécurité intérieure, pour les seules  données mentionnées au 2° de l'article R. 231-7 du
+7° Article R. 231-4 du code de la sécurité intérieure, pour les seules données mentionnées au 2° de l'article R. 231-7 du
 même code ; 
 
-8° Arrêté relatif à la création d'un système de traitement automatisé  de données à caractère personnel dénommé STARTRAC mis
-en œuvre par le  service à compétence nationale TRACFIN, pour les seules données  intéressant la sûreté de l'Etat ;
+8° Arrêté relatif à la création d'un système de traitement automatisé de données à caractère personnel dénommé STARTRAC mis
+en œuvre par le service à compétence nationale TRACFIN, pour les seules données intéressant la sûreté de l'Etat ; 
 
 9° Décret portant création au profit de la direction nationale du renseignement et des enquêtes douanières d'un traitement
 automatisé de données à caractère personnel dénommé BCR-DNRED.
@@ -80854,7 +80859,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-725 du 1er juin 2016 - art. 2
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 
 ### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=902></a>
@@ -81662,8 +81667,8 @@ _Cite_:
 
 I.-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
 utiliser les dispositifs techniques mentionnés au I de l'article L. 853-1 sont la direction générale de la sécurité
-extérieure, la direction de la protection et de la sécurité de la défense, la direction du renseignement militaire, la
-direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
+extérieure, la          direction du renseignement et de la sécurité de la défense, la direction du renseignement militaire,
+la direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
 renseignement et des enquêtes douanières ”. 
 
 II.-Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés
@@ -81755,7 +81760,7 @@ exploiter les renseignements ainsi collectés.
 
 _Modifié par_:
 
-  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
@@ -81777,8 +81782,8 @@ _Cite_:
 
 I.-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
 utiliser les dispositifs techniques mentionnés au I de l'article L. 853-2 sont la direction générale de la sécurité
-extérieure, la direction de la protection et de la sécurité de la défense, la direction du renseignement militaire, la
-direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
+extérieure, la          direction du renseignement et de la sécurité de la défense, la direction du renseignement militaire,
+la direction générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du
 renseignement et des enquêtes douanières ”. 
 
 II.-Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés
@@ -81851,7 +81856,7 @@ peuvent pas exploiter les renseignements ainsi collectés.
 
 _Modifié par_:
 
-  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
@@ -81868,9 +81873,9 @@ _Cite_:
 
 I.-Les services spécialisés de renseignement dont les agents individuellement désignés et habilités peuvent être autorisés à
 s'introduire dans un véhicule ou dans un lieu privé dans les conditions prévues à l'article L. 853-3 sont la direction
-générale de la sécurité extérieure, la direction de la protection et de la sécurité de la défense, la direction générale de
-la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes
-douanières ”. 
+générale de la sécurité extérieure, la          direction du renseignement et de la sécurité de la défense, la direction
+générale de la sécurité intérieure et le service à compétence nationale dénommé “ direction nationale du renseignement et des
+enquêtes douanières ”. 
 
 II.-Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés
 à s'introduire dans un véhicule ou dans un lieu privé dans les conditions prévues à l'article L. 853-3 sont les suivants : 
@@ -82297,7 +82302,7 @@ Ces agents ne peuvent pas exploiter les renseignements ainsi collectés.
 
 _Modifié par_:
 
-  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
