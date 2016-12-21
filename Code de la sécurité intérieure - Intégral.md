@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-11-30
+Version Consolidée au 2016-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -902,7 +902,7 @@ Version Consolidée au 2016-11-30
       - [TITRE IER : DISPOSITIONS GÉNÉRALES (art. R811-1 à R811-2)](#899)
       - [TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R821-1 à R823-2)](#900)
         - [Chapitre Ier : De l'autorisation de mise en œuvre (art. R821-1)](#901)
-        - [Chapitre III : Des organes compétents (art. R823-1 à R823-2)](#902)
+        - [Chapitre III : Des organes compétents (art. D823-3 à R823-2)](#902)
       - [TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT (art. R841-2)](#903)
       - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R851-1 à R853-3)](#904)
         - [Chapitre Ier : Des accès administratifs aux données de connexion (art. R851-1 à R851-10)](#905)
@@ -81816,6 +81816,48 @@ _Créé par_:
 
 
 #### Chapitre III : Des organes compétents<a id=902></a>
+
+###### Article D823-3
+
+Le service mentionné à l'article R. 823-1 est un service à compétence nationale rattaché au Premier ministre et, pour sa
+gestion administrative et budgétaire, au secrétariat général de la défense et de la sécurité nationale. Ce dernier est
+notamment chargé de la passation des marchés, de la gestion budgétaire et financière et du recrutement des agents du service.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1772 du 20 décembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R823-1 (V)
+
+
+###### Article D823-4
+
+Le  directeur du groupement interministériel de contrôle exerce son  autorité sur l'ensemble des personnels du service. Il
+est assisté d'un  directeur adjoint.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1772 du 20 décembre 2016 - art. 1
+
+
+###### Article D823-5
+
+Le  groupement interministériel de contrôle dispose, sur crédits alloués  par le Premier ministre, des moyens nécessaires à
+l'accomplissement de  ses missions. Les modalités de gestion du budget, des moyens, des  personnels et des achats sont fixées
+entre le groupement  interministériel de contrôle et le secrétariat général de la défense et  de la sécurité nationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1772 du 20 décembre 2016 - art. 1
+
 
 ###### Article R823-1
 
