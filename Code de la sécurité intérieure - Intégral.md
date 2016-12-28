@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2016-12-28
+Version Consolidée au 2016-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -20636,25 +20636,21 @@ _Codifié par_:
 
 ###### Article L751-2
 
-L'inspection de la défense et de la sécurité civiles assure l'évaluation périodique et l'inspection technique des services
-d'incendie et de secours. 
+L'inspection générale de la sécurité civile assure l'évaluation périodique et l'inspection technique des services d'incendie
+et de secours. 
 
 A la demande du ministre chargé de la sécurité civile, elle apporte son concours à l'accomplissement des missions exercées
 par l'inspection générale de l'administration en application de l'article L. 751-1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2004-811 du 13 août 2004 - art. 42 (Ab)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2016-1867 du 27 décembre 2016 - art. 15
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L751-1 (V)
+  - Code de la sécurité intérieure - art. L751-1
 
 _Codifié par_:
 
@@ -20666,22 +20662,18 @@ _Codifié par_:
 ###### Article L752-1
 
 Le fait de mettre obstacle à l'accomplissement des contrôles opérés en application des articles L. 751-1 et L. 751-2 par un
-membre de l'inspection générale de l'administration ou de l'inspection de la défense et de la sécurité civiles est puni de 15
-000 euros d'amende.
+membre de l'inspection générale de l'administration ou de l'inspection générale de la sécurité civile est puni de 15 000
+euros d'amende.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2004-811 du 13 août 2004 - art. 43 (Ab)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2016-1867 du 27 décembre 2016 - art. 15
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L751-1 (V)
+  - Code de la sécurité intérieure - art. L751-1
 
 _Cité par_:
 
