@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -323,7 +323,7 @@ Version Consolidée au 2017-01-01
         - [Chapitre II : Des renseignements collectés (art. L822-1 à L822-4)](#320)
       - [TITRE III : DE LA COMMISSION NATIONALE DE CONTRÔLE DES TECHNIQUES DE RENSEIGNEMENT (art. L831-1 à L833-11)](#321)
         - [Chapitre Ier : Composition et organisation (art. L831-1 à L831-2)](#322)
-        - [Chapitre II : Règles de déontologie et de fonctionnement (art. L832-1 à L832-5)](#323)
+        - [Chapitre II : Règles de déontologie et de fonctionnement (art. L832-2 à L832-5)](#323)
         - [Chapitre III : Missions (art. L833-1 à L833-11)](#324)
       - [TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ETAT (art. L841-1 à L841-2)](#325)
       - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION (art. L851-1 à L854-9)](#326)
@@ -22001,8 +22001,7 @@ La Commission nationale de contrôle des techniques de renseignement est une aut
 
 Elle est composée de neuf membres : 
 
-1° Deux députés et deux sénateurs, désignés, respectivement, pour la durée de la législature par l'Assemblée nationale et
-pour la durée de leur mandat par le Sénat, de manière à assurer une représentation pluraliste du Parlement ; 
+1° Deux députés et deux sénateurs, désignés de manière à assurer une représentation pluraliste du Parlement ; 
 
 2° Deux membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller d'Etat, nommés par le vice-président du
 Conseil d'Etat ; 
@@ -22020,15 +22019,7 @@ Le président de la commission est nommé par décret du Président de la Répub
 
 Le mandat des membres, à l'exception de ceux mentionnés au 1°, est de six ans. Il n'est pas renouvelable. 
 
-Les membres du Conseil d'Etat ou de la Cour de cassation sont renouvelés par moitié tous les trois ans. 
-
-La commission peut suspendre le mandat d'un de ses membres ou y mettre fin si elle constate, à la majorité des trois quarts
-des autres membres, qu'il se trouve dans une situation d'incompatibilité, qu'il est empêché d'exercer ses fonctions ou qu'il
-a manqué à ses obligations. 
-
-En cas de vacance d'un siège de membre, pour quelque cause que ce soit, il est procédé à la désignation ou à la nomination
-d'un nouveau membre pour la durée du mandat restant à courir. Si cette durée est inférieure à deux ans, le mandat du nouveau
-membre est renouvelable une fois.
+Les membres du Conseil d'Etat ou de la Cour de cassation sont renouvelés par moitié tous les trois ans.
 
 **Liens relatifs à cet article**
 
@@ -22040,12 +22031,12 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L821-3 (V)
   - Code de la sécurité intérieure - art. L831-2 (V)
   - Code de la sécurité intérieure - art. L832-2 (V)
-  - Code de la sécurité intérieure - art. L832-3 (M)
+  - Code de la sécurité intérieure - art. L832-3 (V)
   - Code de la sécurité intérieure - art. L853-3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 
 ###### Article L831-2
@@ -22071,25 +22062,9 @@ _Cite_:
 
 #### Chapitre II : Règles de déontologie et de fonctionnement<a id=323></a>
 
-###### Article L832-1
-
-Dans l'exercice de leurs fonctions, les membres de la commission ne reçoivent d'instruction d'aucune autorité.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-912 du 24 juillet 2015 - art. 2
-
-_Abrogé par_:
-
-  - Loi n°2017-55 du 20 janvier 2017 - art. 39
-
-
 ###### Article L832-2
 
-Le président de la commission ne peut être titulaire d'aucun mandat électif et ne peut exercer aucune autre activité
-professionnelle. 
+Le président de la commission ne peut être titulaire d'aucun mandat électif et exerce ses fonctions à temps plein.
 
 La fonction de membre de la commission est incompatible avec tout intérêt, direct ou indirect, dans les services pouvant être
 autorisés à mettre en œuvre les techniques mentionnées au titre V du présent livre ou dans l'activité de l'une des personnes
@@ -22106,20 +22081,18 @@ _Cite_:
   - Code des postes et des communications électroniques - art. L34-1
   - Code de la sécurité intérieure - art. L831-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 
 ###### Article L832-3
-
-La Commission nationale de contrôle des techniques de renseignement établit son règlement intérieur. 
 
 Les avis sur les demandes mentionnées à l'article L. 821-2 sont rendus par le président ou par un autre membre mentionné aux
 2° et 3° de l'article L. 831-1. Ces avis sont tenus à la disposition de tous les membres de la commission. 
 
 Toute question nouvelle ou sérieuse est renvoyée à la formation restreinte ou à la formation plénière. Ces formations peuvent
-également être réunies si le président de la commission ou le membre mentionné au deuxième alinéa du présent article estime
+également être réunies si le président de la commission ou le membre mentionné au premier alinéa du présent article estime
 que la validité de la demande n'est pas certaine. La formation restreinte et la formation plénière ne peuvent valablement
 délibérer que si, respectivement, au moins trois et quatre membres sont présents. Leurs décisions sont prises à la majorité
 des membres présents. 
@@ -22131,43 +22104,14 @@ l'article L. 821-2 lors de sa plus proche réunion.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L821-2
-  - Code de la sécurité intérieure - art. L831-1
-
-
-###### Article L832-4
-
-La commission dispose des moyens humains et techniques nécessaires à l'accomplissement de ses missions ainsi que des crédits
-correspondants, dans les conditions fixées par la loi de finances. [Dispositions déclarées non conformes à la Constitution
-par la décision du Conseil constitutionnel n° 2015-713 DC du 23 juillet 2015.] Le président est ordonnateur des dépenses de
-la commission. La loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne lui est pas applicable.
-La commission présente ses comptes au contrôle de la Cour des comptes. 
-
-Le secrétaire général de la commission assiste le président. Il est nommé par le président de la commission. 
-
-La commission peut bénéficier de la mise à disposition ou du détachement de fonctionnaires et de magistrats et recruter, au
-besoin, des agents contractuels, placés sous son autorité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi du 10 août 1922
-  - DÉCISION n°2015-713 DC du 23 juillet 2015
-
-_Créé par_:
-
-  - Loi n°2015-912 du 24 juillet 2015 - art. 2
-
-_Abrogé par_:
-
-  - Loi n°2017-55 du 20 janvier 2017 - art. 39
+  - Code de la sécurité intérieure - art. L831-1 (V)
 
 
 ###### Article L832-5
@@ -22379,8 +22323,6 @@ _Cité par_:
 
 ###### Article L833-9
 
-La commission établit chaque année un rapport public dressant le bilan de son activité. 
-
 Dans le respect du secret de la défense nationale et sans révéler des procédures ou des méthodes opérationnelles, le rapport
 public de la commission fait état du nombre : 
 
@@ -22408,9 +22350,9 @@ _Cite_:
   - DÉCISION n°2015-713 DC du 23 juillet 2015
   - Code de la sécurité intérieure - art. L821-5
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 2
+  - Loi n°2017-55 du 20 janvier 2017 - art. 39
 
 
 ###### Article L833-10
@@ -23372,9 +23314,8 @@ informer le Premier ministre.
 
 Lorsque la commission estime que l'illégalité constatée est susceptible de constituer une infraction, elle saisit le
 procureur de la République dans le respect du secret de la défense nationale et transmet l'ensemble des éléments portés à sa
-connaissance à la Commission consultative du secret de la défense nationale afin que celle-ci donne au Premier ministre son
-avis sur la possibilité de déclassifier tout ou partie de ces éléments en vue de leur transmission au procureur de la
-République. 
+connaissance à la Commission du secret de la défense nationale afin que celle-ci donne au Premier ministre son avis sur la
+possibilité de déclassifier tout ou partie de ces éléments en vue de leur transmission au procureur de la République. 
 
 II.-Aucun agent ne peut être sanctionné ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, notamment en
 matière de rémunération, de recrutement, de titularisation, de notation, de discipline, de traitement, de formation, de
@@ -23391,15 +23332,16 @@ du code pénal.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 8
+  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 _Cite_:
 
-  - Code pénal - art. 226-10 (M)
-  - Code de la sécurité intérieure - art. L811-2 (V)
-  - Code de la sécurité intérieure - art. L811-4 (V)
+  - Code pénal - art. 226-10
+  - Code de la sécurité intérieure - art. L811-2
+  - Code de la sécurité intérieure - art. L811-4
+  - Code de la sécurité intérieure - art. L833-8 (V)
 
 
 #### Chapitre II : De la protection juridique des agents<a id=333></a>
