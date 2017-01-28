@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-01-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -121,19 +121,19 @@ Version Consolidée au 2017-01-22
         - [Chapitre VII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L347-1 à L347-2)](#118)
     - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE (art. L411-1 à L448-1)](#119)
       - [TITRE Ier : POLICE NATIONALE (art. L411-1 à L413-4)](#120)
-        - [Chapitre Ier : Missions et personnels de la police nationale (art. L411-1 à L411-17)](#121)
+        - [Chapitre Ier : Missions et personnels de la police nationale (art. L411-1 à L411-21)](#121)
           - [Section 1 : Dispositions générales (art. L411-1 à L411-3)](#122)
           - [Section 2 : Fonctionnaires actifs (art. L411-4)](#123)
           - [Section 3 : Adjoints de sécurité (art. L411-5 à L411-6)](#124)
           - [Section 4 : Réserve civile (art. L411-7 à L411-17)](#125)
-        - [Chapitre III : Etablissements publics de la police nationale (art. L413-1 à L413-4)](#126)
-          - [Section unique : Institut national de police scientifique (art. L413-1 à L413-4)](#127)
-      - [TITRE II : GENDARMERIE NATIONALE (art. L421-1 à L421-4)](#128)
-        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. L421-1 à L421-4)](#129)
-          - [Section 1 : Missions (art. L421-1 à L421-3)](#130)
-          - [Section 2 : Militaires de la gendarmerie nationale (art. L421-4)](#131)
-      - [TITRE III : DISPOSITIONS COMMUNES (art. L433-1 à L434-1)](#132)
-        - [Chapitre III : Service volontaire citoyen de la police  et de la gendarmerie nationales (art. L433-1 à L433-7)](#133)
+          - [Section 5 : Réserve citoyenne de la police nationale (art. L411-18 à L411-21)](#126)
+        - [Chapitre III : Etablissements publics de la police nationale (art. L413-1 à L413-4)](#127)
+          - [Section unique : Institut national de police scientifique (art. L413-1 à L413-4)](#128)
+      - [TITRE II : GENDARMERIE NATIONALE (art. L421-1 à L421-4)](#129)
+        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. L421-1 à L421-4)](#130)
+          - [Section 1 : Missions (art. L421-1 à L421-3)](#131)
+          - [Section 2 : Militaires de la gendarmerie nationale (art. L421-4)](#132)
+      - [TITRE III : DISPOSITIONS COMMUNES (art. L434-1)](#133)
         - [Chapitre IV : Déontologie de la police et de la gendarmerie nationales (art. L434-1)](#134)
       - [TITRE IV : DISPOSITIONS RELATIVES  À L'OUTRE-MER (art. L442-1 à L448-1)](#135)
         - [Chapitre II : Dispositions particulières à Mayotte (art. L442-1)](#136)
@@ -10798,9 +10798,97 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Etablissements publics de la police nationale<a id=126></a>
+##### Section 5 : Réserve citoyenne de la police nationale<a id=126></a>
 
-##### Section unique : Institut national de police scientifique<a id=127></a>
+###### Article L411-18
+
+La réserve citoyenne de la police nationale est destinée, afin de renforcer le lien entre la Nation et la police nationale, à
+des missions de solidarité, de médiation sociale, d'éducation à la loi et de prévention, à l'exclusion de l'exercice de toute
+prérogative de puissance publique. 
+
+La réserve citoyenne de la police nationale fait partie de la réserve civique prévue par la loi n° 2017-86 du 27 janvier 2017
+relative à l'égalité et à la citoyenneté.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2017-86 du 27 janvier 2017 (V)
+
+_Créé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 6
+
+_Cité par_:
+
+  - Décret n°2017-930 du 9 mai 2017 - art. 9 (V)
+
+
+###### Article L411-19
+
+Peuvent être admis dans la réserve citoyenne de la police nationale les candidats qui satisfont aux conditions suivantes : 
+
+1° Etre de nationalité française, ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur
+l'Espace économique européen ou de la Confédération suisse ou résider régulièrement en France depuis au moins cinq ans et
+satisfaire à la condition d'intégration définie à l'article L. 314-2 du code de l'entrée et du séjour des étrangers et du
+droit d'asile ; 
+
+2° Etre majeur ; 
+
+3° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n°
+2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec
+l'exercice des missions ; 
+
+4° Remplir les conditions d'aptitude correspondant aux missions de la réserve citoyenne. 
+
+Nul ne peut être admis dans la réserve citoyenne de la police nationale s'il résulte de l'enquête administrative, ayant le
+cas échéant donné lieu à consultation des traitements de données à caractère personnel mentionnés aux articles 230-6 et
+230-19 du code de procédure pénale, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux
+bonnes mœurs ou de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté
+de l'Etat. 
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 6
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
+  - Code de procédure pénale - art. 230-19 (V)
+  - Code de procédure pénale - art. 230-6 (V)
+
+
+###### Article L411-20
+
+Les personnes admises dans la réserve citoyenne de la police nationale souscrivent une déclaration d'intention de servir en
+qualité de réserviste citoyen de la police nationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 6
+
+
+###### Article L411-21
+
+Les périodes d'emploi au titre de la réserve citoyenne de la police nationale n'ouvrent droit à aucune indemnité ou
+allocation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 6
+
+
+#### Chapitre III : Etablissements publics de la police nationale<a id=127></a>
+
+##### Section unique : Institut national de police scientifique<a id=128></a>
 
 ###### Article L413-1
 
@@ -10901,11 +10989,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE II : GENDARMERIE NATIONALE<a id=128></a>
+### TITRE II : GENDARMERIE NATIONALE<a id=129></a>
 
-#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=129></a>
+#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=130></a>
 
-##### Section 1 : Missions<a id=130></a>
+##### Section 1 : Missions<a id=131></a>
 
 ###### Article L421-1
 
@@ -10985,7 +11073,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Militaires de la gendarmerie nationale<a id=131></a>
+##### Section 2 : Militaires de la gendarmerie nationale<a id=132></a>
 
 ###### Article L421-4
 
@@ -11002,239 +11090,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE III : DISPOSITIONS COMMUNES<a id=132></a>
-
-#### Chapitre III : Service volontaire citoyen de la police  et de la gendarmerie nationales<a id=133></a>
-
-###### Article L433-1
-
-Le service volontaire citoyen de la police et de la gendarmerie nationales est destiné, afin de renforcer le lien entre la
-Nation et les forces de sécurité intérieure, à des missions de solidarité, de médiation sociale, d'éducation à la loi et de
-prévention, à l'exclusion de l'exercice de toute prérogative de puissance publique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 5 (VT)
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 6
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L433-2
-
-Peuvent être admis au service volontaire citoyen les candidats qui satisfont aux conditions suivantes : 
-
-1° Etre de nationalité française, ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur
-l'Espace économique européen ou de la Confédération suisse ou résider régulièrement en France depuis au moins cinq ans et
-satisfaire à la condition d'intégration définie à l'article L. 314-2 du code de l'entrée et du séjour des étrangers et du
-droit d'asile ; 
-
-2° Etre âgé d'au moins dix-sept ans et, si le candidat est mineur non émancipé, produire l'accord de ses parents ou de ses
-représentants légaux ; 
-
-3° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n°
-2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec
-l'exercice des missions ; 
-
-4° Remplir les conditions d'aptitude correspondant aux missions du service volontaire citoyen. 
-
-Nul ne peut être admis au service volontaire citoyen s'il résulte de l'enquête administrative, ayant le cas échéant donné
-lieu à consultation des traitements de données à caractère personnel mentionnés aux articles 230-6 et 230-19 du code de
-procédure pénale, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou de
-nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 5-1 (VT)
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 6
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
-  - Code de procédure pénale - art. 230-6
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L433-7 (Ab)
-  - Code de la sécurité intérieure - art. L442-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L433-3
-
-Les personnes admises au service volontaire citoyen souscrivent un contrat d'engagement d'une durée d'un à cinq ans
-renouvelable qui leur confère la qualité de collaborateur occasionnel du service public.
-
-L'administration peut prononcer la radiation du service volontaire citoyen en cas de manquement aux obligations prévues par
-le contrat d'engagement. Ce contrat peut également être résilié ou suspendu en cas de manquement lorsque le réserviste
-volontaire cesse de remplir une des conditions prévues au présent chapitre ou en cas de nécessité tenant à l'ordre public.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 5-2 (VT)
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 6
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L433-4
-
-Les périodes d'emploi au titre du service volontaire citoyen sont indemnisées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 5-3 I (VT)
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 6
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L433-7 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L433-5
-
-Dans le cas où l'intéressé exerce une activité salariée, son contrat de travail est suspendu pendant la période où il
-effectue des missions au titre du service volontaire citoyen de la police et de la gendarmerie nationales. Toutefois, cette
-période est considérée comme une période de travail effectif pour les avantages légaux et conventionnels en matière
-d'ancienneté, d'avancement, de congés payés et de droits aux prestations sociales. 
-
-Si l'intéressé accomplit ses missions pendant son temps de travail, il doit, lorsque leur durée dépasse dix jours ouvrés par
-année civile, obtenir l'accord de son employeur dans les conditions prévues à l'article L. 411-13. 
-
-Aucun licenciement ou déclassement professionnel, aucune sanction disciplinaire ne peut être prononcé à l'encontre du
-volontaire citoyen de la police et de la gendarmerie nationales en raison des absences résultant des présentes dispositions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 5-3 II (VT)
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 6
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L411-13
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L446-1 (M)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L433-6
-
-Pendant la période d'activité au titre du service volontaire citoyen de la police et de la gendarmerie nationales,
-l'intéressé bénéficie, pour lui et ses ayants droit, des prestations des assurances maladie, maternité, invalidité et décès
-du régime de sécurité sociale dont il relève en dehors de son service dans le service volontaire citoyen de la police et de
-la gendarmerie nationales, dans les conditions définies à l'article L. 161-8 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 5-3 III (VT)
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 6
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L161-8
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L433-7
-
-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 433-2 et L. 433-4 à L. 433-6.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2003-239 du 18 mars 2003 - art. 6 ecqc la gendarmerie (VT)
-
-_Abrogé par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 6
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L433-2 (Ab)
-  - Code de la sécurité intérieure - art. L433-4 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
+### TITRE III : DISPOSITIONS COMMUNES<a id=133></a>
 
 #### Chapitre IV : Déontologie de la police et de la gendarmerie nationales<a id=134></a>
 
@@ -11286,56 +11142,43 @@ _Cité par_:
 
 ###### Article L445-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la 
-loi n° 2016-987 du 21 juillet 2016
-prorogeant l'application de la 
-loi n° 55-385 du 3 avril 1955
-relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, les dispositions suivantes, sous
-réserve des adaptations suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2017-86 du 27 janvier 2017 relative à
+l'égalité et à la citoyenneté les dispositions suivantes, sous réserve des adaptations suivantes : 
 
 1° Lorsqu'ils sont exécutés en Polynésie française, le contrat de droit public des adjoints de sécurité mentionné à l'article
 L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses
 contraires, aux dispositions applicables localement ; 
 
-2° L'
+2° L' article L. 411-7 est complété par  un alinéa ainsi rédigé : 
 
-article L. 411-7 est complété par un alinéa ainsi rédigé : 
-
-" 
-En Polynésie française, la réserve civile peut également être constituée par des fonctionnaires de l'Etat pour
+" En Polynésie française, la réserve civile peut également être constituée par des fonctionnaires de l'Etat pour
 l'administration de la Polynésie française ayant exercé des missions de police, dans les conditions prévues par la loi n°
 66-496 du 11 juillet 1966 relative à la création de corps de fonctionnaires de l'Etat pour l'administration de la Polynésie
-française. " 
-; 
+française. " ; 
 
-3° Les 
-articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6 sont remplacés par les dispositions suivantes : 
+3° Les articles L. 411-13 et L. 411-14 sont remplacés par les dispositions suivantes : 
 
-" Les conditions dans lesquelles le réserviste de la police nationale et le volontaire du service volontaire citoyen de la
-police et de la gendarmerie nationales exercent une activité salariée pendant la période d'activité dans la réserve civile de
-la police nationale ou dans le service volontaire citoyen de la police et de la gendarmerie nationales sont fixées par une
-convention conclue entre l'autorité localement compétente et le haut-commissaire de la République en Polynésie française.
-"
+" Les conditions dans lesquelles le réserviste de la police nationale et le réserviste citoyen de la police nationale
+exercent une activité salariée pendant la période d'activité dans la réserve civile de la police nationale ou dans la réserve
+citoyenne de la police nationale sont fixées par une convention conclue entre l'autorité localement compétente et le haut-
+commissaire de la République en Polynésie française. " ; 
 
-; 
-
-4° Pour l'application de l'article L. 433-2, la référence à l'article L. 314-2 du code de l'entrée et du séjour des étrangers
-et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux
-conditions d'entrée et de séjour des étrangers en Polynésie française.
+4° Pour l'application de l'article L. 411-19, la référence à l'article L. 314-2 du code de l'entrée et du séjour des
+étrangers et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2000-372 du 26 avril 2000
+relative aux conditions d'entrée et de séjour des étrangers en Polynésie française.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°55-385 du 3 avril 1955
   - Loi n°66-496 du 11 juillet 1966
   - Ordonnance n°2000-372 du 26 avril 2000 - art. 6
-  - Loi n°2016-987 du 21 juillet 2016
+  - Loi n°2017-86 du 27 janvier 2017
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
 
 _Modifié par_:
 
-  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
+  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 _Cité par_:
 
@@ -11350,43 +11193,33 @@ _Codifié par_:
 
 ###### Article L446-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la 
-loi n° 2016-987 du 21 juillet 2016
-prorogeant l'application de la 
-loi n° 55-385 du 3 avril 1955
-relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, les dispositions suivantes, sous
-réserve des adaptations suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2017-86 du 27 janvier 2017 relative à
+l'égalité et à la citoyenneté, les dispositions suivantes, sous réserve des adaptations suivantes :
 
 1° Lorsqu'ils sont exécutés en Nouvelle-Calédonie, le contrat de droit public des adjoints de sécurité mentionné à l'article
 L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations expresses
 contraires, aux dispositions applicables localement ; 
 
-2° Les 
+2° Les articles L. 411-13 et L. 411-14 sont remplacés par les dispositions suivantes : 
 
-articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6
-sont remplacés par les dispositions suivantes : 
+" Les conditions dans lesquelles le réserviste de la police nationale et le réserviste citoyen de la police nationale
+exercent une activité salariée pendant la période d'activité dans la réserve civile de la police nationale ou dans la réserve
+citoyenne de la police nationale sont fixées par une convention conclue entre l'autorité localement compétente et le haut-
+commissaire de la République en Nouvelle-Calédonie. " ; 
 
-" Les conditions dans lesquelles le réserviste de la police nationale et le volontaire du service volontaire citoyen de la
-police et de la gendarmerie nationales exercent une activité salariée pendant la période d'activité dans la réserve civile de
-la police nationale ou dans le service volontaire citoyen de la police et de la gendarmerie nationales sont fixées par une
-convention conclue entre l'autorité localement compétente et le haut-commissaire de la République en Nouvelle-Calédonie. " 
-
-; 
-
-3° Pour l'application de l'article L. 433-2, la référence à l'article L. 314-2 du code de l'entrée et du séjour des étrangers
-et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux
-conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie.
+3° Pour l'application de l'article L. 411-19, la référence à l'article L. 314-2 du code de l'entrée et du séjour des
+étrangers et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2002-388 du 20 mars 2002
+relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°55-385 du 3 avril 1955
-  - Loi n°2016-987 du 21 juillet 2016
+  - Loi n°2017-86 du 27 janvier 2017
 
 _Modifié par_:
 
-  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
+  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 _Cité par_:
 
@@ -11401,41 +11234,33 @@ _Codifié par_:
 
 ###### Article L447-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la 
-loi n° 2016-987 du 21 juillet 2016
-prorogeant l'application de la 
-loi n° 55-385 du 3 avril 1955
-relative à l'état d'urgence et portant mesures de renforcement de la lutte antiterroriste, les dispositions suivantes, sous
-réserve des adaptations suivantes : 
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2017-86 du 27 janvier 2017 relative à
+l'égalité et à la citoyenneté, les dispositions suivantes, sous réserve des adaptations suivantes : 
 
 1° Lorsqu'ils sont exécutés dans les îles Wallis et Futuna, le contrat de droit public des adjoints de sécurité mentionné à
 l'article L. 411-5 et le contrat d'accompagnement dans l'emploi mentionné à l'article L. 411-6 sont soumis, sauf stipulations
 expresses contraires, aux dispositions applicables localement ; 
 
-2° Les 
+2° Les articles L. 411-13 et L. 411-14 sont remplacés par les dispositions suivantes : 
 
-articles L. 411-13, L. 411-14, L. 433-5 et L. 433-6
-sont remplacés par les dispositions suivantes : 
+" Les conditions dans lesquelles le réserviste de la police nationale et le réserviste citoyen de la police nationale
+exercent une activité salariée pendant la période d'activité dans la réserve civile de la police nationale ou dans la réserve
+citoyenne de la police nationale sont fixées par une convention conclue entre l'autorité localement compétente et
+l'administrateur supérieur des îles Wallis et Futuna. " 
 
-" Les conditions dans lesquelles le réserviste de la police nationale et le volontaire du service volontaire citoyen de la
-police et de la gendarmerie nationales exercent une activité salariée pendant la période d'activité dans la réserve civile de
-la police nationale ou dans le service volontaire citoyen de la police et de la gendarmerie nationales sont fixées par une
-convention conclue entre l'autorité localement compétente et l'administrateur supérieur des îles Wallis et Futuna. " 
-
-3° Pour l'application de l'article L. 433-2, la référence à l'article L. 314-2 du code de l'entrée et du séjour des étrangers
-et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2002-371 du 26 avril 2000 relative aux
-conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna.
+3° Pour l'application de l'article L. 411-19 , la référence à l'article L. 314-2 du code de l'entrée et du séjour des
+étrangers et du droit d'asile est remplacée par la référence à l'article 6 de l'ordonnance n° 2002-371 du 26 avril 2000
+relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°55-385 du 3 avril 1955
-  - Loi n°2016-987 du 21 juillet 2016
+  - Loi n°2017-86 du 27 janvier 2017
 
 _Modifié par_:
 
-  - Loi n°2016-987 du 21 juillet 2016 - art. 21 (V)
+  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 _Cité par_:
 
@@ -18507,15 +18332,19 @@ contribuer à la préparation de la population face aux risques.
 
 Elles sont mises en œuvre par décision motivée de l'autorité de police compétente.
 
+Les réserves communales de sécurité civile font partie de la réserve civique prévue par la loi n° 2017-86 du 27 janvier 2017
+relative à l'égalité et à la citoyenneté. Elles sont régies par les dispositions du présent code et, pour autant qu'ils n'y
+sont pas contraires, par les articles 1er à 5 de la même loi.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2017-86 du 27 janvier 2017 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. L1424-8-1 (V)
+  - Loi n°2017-86 du 27 janvier 2017 - art. 6
 
 _Codifié par_:
 
