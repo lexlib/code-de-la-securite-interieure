@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -80778,7 +80778,16 @@ II.-Les services placés sous l'autorité d'emploi du ministère de la défense,
 renseignement, mentionnés à l'article L. 811-4 sont, sous réserve des dispositions des articles R. 851-1 à R. 851-4, R.
 852-1, R. 852-2 et R. 853-1 à R. 853-3, les suivants : les sections de recherches de la gendarmerie maritime, de la
 gendarmerie de l'air et de la gendarmerie de l'armement au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L.
-811-3.
+811-3. 
+
+III.-Les services placés sous l'autorité du ministère de la justice, autre que les services spécialisés de renseignement,
+mentionnés à l'article L. 811-4 sont, sous réserve des dispositions des articles R. 851-1 à R. 851-4, R. 852-1, R. 852-2 et
+R. 853-1 à R. 853-3, les suivants : sous l'autorité du directeur de l'administration pénitentiaire, le bureau central du
+renseignement pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du
+renseignement pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services
+pénitentiaires d'outre-mer, au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3 et pour le seul exercice
+des missions qui sont assignées à l'administration pénitentiaires envers les personnes qui lui sont confiées par l'autorité
+judiciaire en application de l'article 2 de la loi du 24 novembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -80793,14 +80802,17 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R897-1 (M)
   - Code de la sécurité intérieure - art. R898-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 2
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L811-3
   - Code de la sécurité intérieure - art. L811-4
+  - Code de la sécurité intérieure - art. R851-1 (V)
+  - Code de la sécurité intérieure - art. R852-1 (V)
+  - Code de la sécurité intérieure - art. R853-1 (V)
 
 
 ### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=902></a>
@@ -81052,11 +81064,12 @@ c) A la direction de la sécurité de proximité de l'agglomération de Paris :
 - les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
 titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 _Cité par_:
 
@@ -81066,6 +81079,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R896-1 (M)
   - Code de la sécurité intérieure - art. R897-1 (M)
   - Code de la sécurité intérieure - art. R898-1 (M)
+
+_Modifié par_:
+
+  - Décret n°2017-36 du 16 janvier 2017 - art. 3
 
 _Cite_:
 
@@ -81209,11 +81226,16 @@ c) A la direction de la sécurité de proximité de l'agglomération de Paris :
 - les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
 titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 4
 
 _Cite_:
 
@@ -81328,11 +81350,16 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'une
 apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
 exploiter les renseignements ainsi collectés.
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 5
 
 _Cite_:
 
@@ -81428,11 +81455,16 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'une
 apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
 exploiter les renseignements ainsi collectés.
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-67 du 29 janvier 2016 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 6
 
 _Cite_:
 
@@ -81678,11 +81710,12 @@ c) A la direction de la sécurité de proximité de l'agglomération de Paris :
 - les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
 titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1639 du 11 décembre 2015 - art. 4
 
 _Cité par_:
 
@@ -81692,6 +81725,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R896-1 (M)
   - Code de la sécurité intérieure - art. R897-1 (M)
   - Code de la sécurité intérieure - art. R898-1 (M)
+
+_Modifié par_:
+
+  - Décret n°2017-36 du 16 janvier 2017 - art. 7
 
 _Cite_:
 
@@ -81744,15 +81781,20 @@ individuellement désignés et habilités peuvent, sous la responsabilité du se
 l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
 peuvent pas exploiter les renseignements ainsi collectés.
 
+4° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre de la finalité mentionnée au 4° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2015-1689 du 17 décembre 2015 - art. 4
 
 _Cité par_:
 
   - Décret n°2017-36 du 16 janvier 2017 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-36 du 16 janvier 2017 - art. 8
 
 _Cite_:
 
@@ -81856,11 +81898,12 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'une
 apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
 exploiter les renseignements ainsi collectés.
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
@@ -81870,6 +81913,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R896-1 (M)
   - Code de la sécurité intérieure - art. R897-1 (M)
   - Code de la sécurité intérieure - art. R898-1 (M)
+
+_Modifié par_:
+
+  - Décret n°2017-36 du 16 janvier 2017 - art. 9
 
 _Cite_:
 
@@ -81952,15 +81999,20 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'un 
 présent article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne
 peuvent pas exploiter les renseignements ainsi collectés.
 
+4° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
   - Décret n°2017-36 du 16 janvier 2017 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-36 du 16 janvier 2017 - art. 10
 
 _Cite_:
 
@@ -82084,6 +82136,11 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'une
 apporter leur concours dans la mise en œuvre de la technique mentionnée au A du II du présent article. Ces militaires ne
 peuvent pas exploiter les renseignements ainsi collectés. 
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.  
+
 B.-Pour mettre en place, utiliser ou retirer le dispositif technique mentionné à l'article L. 853-1 dans un véhicule ou dans
 un lieu privé ne constituant pas un lieu d'habitation : 
 
@@ -82167,6 +82224,11 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'une
 apporter leur concours dans la mise en œuvre de la technique mentionnée au B du II du présent article. Ces militaires ne
 peuvent pas exploiter les renseignements ainsi collectés. 
 
+5° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3. 
+
 C.-Pour mettre en place, utiliser ou retirer les dispositifs techniques mentionnés au 2° du I de l'article L. 853-2 dans un
 véhicule ou dans un lieu privé ne constituant pas un lieu d'habitation : 
 
@@ -82234,6 +82296,11 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'un 
 mentionnés aux alinéas précédents, apporter leur concours dans la mise en œuvre de la technique mentionnée au C du II du
 présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés. 
 
+4° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.  
+
 D.-Pour mettre en place, utiliser ou retirer les dispositifs techniques mentionnés aux articles L. 851-5 et L. 853-1 et au 2°
 du I de l'article L. 853-2 dans un lieu d'habitation et pour la seule finalité mentionnée au 4° de l'article L. 811-3 : 
 
@@ -82283,6 +82350,11 @@ Les agents de la cellule d'assistance technique de l'état-major de la direction
 individuellement désignés et habilités peuvent, sous la responsabilité d'un des services de cette direction régionale
 mentionnés à l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au D du II du
 présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés. 
+
+4° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées au 4° de l'article L. 811-3. 
 
 E.-Pour l'utilisation de la technique mentionnée au 1° du I de l'article L. 853-2 hors lieu d'habitation : 
 
@@ -82347,6 +82419,11 @@ individuellement désignés et habilités peuvent, sous la responsabilité d'un 
 mentionnés aux alinéas précédents, apporter leur concours dans la mise en œuvre de la technique mentionnée au E du II du
 présent article. Ces agents ne peuvent pas exploiter les renseignements ainsi collectés. 
 
+4° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.  
+
 F.-Pour l'utilisation de la technique mentionnée au 1° du I de l'article L. 853-2 dans un lieu d'habitation et pour la seule
 finalité mentionnée au 4° de l'article L. 811-3 : 
 
@@ -82398,15 +82475,20 @@ individuellement désignés et habilités peuvent, sous la responsabilité du se
 l'alinéa précédent, apporter leur concours dans la mise en œuvre de la technique mentionnée au F du II du présent article.
 Ces agents ne peuvent pas exploiter les renseignements ainsi collectés.
 
+4° Services placés sous l'autorité du directeur de l'administration pénitentiaire : le bureau central du renseignement
+pénitentiaire au sein de la direction de l'administration pénitentiaire et les cellules interrégionales du renseignement
+pénitentiaire au sein des directions interrégionales des services pénitentiaires et de la mission des services pénitentiaires
+d'outre-mer au titre des finalités mentionnées au 4° de l'article L. 811-3.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
   - Décret n°2017-36 du 16 janvier 2017 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-36 du 16 janvier 2017 - art. 11
 
 _Cite_:
 
@@ -82708,10 +82790,7 @@ R. 811-2
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
-
+Résultant du décret n° 2017-36 du 16 janvier 2017
 </td>
       </tr>
       <tr>
@@ -82753,16 +82832,10 @@ Au titre V
       <tr>
         <td align="left">
 
-R. 851-1 
-
-</td>
+R. 851-1 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
-
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
       </tr>
       <tr>
         <td>R. 851-1-1 </td>
@@ -82770,11 +82843,7 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
       </tr>
       <tr>
         <td>R. 851-2 à R. 851-4 </td>
-        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
-services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
-sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
-
-</td>
+        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
       </tr>
       <tr>
         <td>R. 851-5 à R. 851-10 </td>
@@ -82783,16 +82852,12 @@ sécurité intérieure, pris en application de l'article L. 811-4 du code de la 
       <tr>
         <td align="left">
 
-R. 852-1 et R. 852-2 
+R. 852-1 à R. 852-2 
 
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
-
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
       </tr>
       <tr>
         <td align="left">
@@ -82814,11 +82879,7 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
-
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
       </tr>
       <tr>
         <td>Au titre VII </td>
@@ -82845,8 +82906,7 @@ _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
   - Décret n°2016-725 du 1er juin 2016
-  - Code de la sécurité intérieure
-  - Code de la sécurité intérieure - art. L811-4
+  - Décret n°2017-36 du 16 janvier 2017
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
   - Code de la sécurité intérieure - art. R852-1
@@ -82854,7 +82914,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-725 du 1er juin 2016 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 12
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=919></a>
@@ -82906,9 +82966,7 @@ R. 811-2
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017
 
 </td>
       </tr>
@@ -82952,9 +83010,7 @@ Au titre V
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -82966,9 +83022,7 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
         <td>R. 851-2 à R. 851-4 
 
 </td>
-        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
-services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
-sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -82979,14 +83033,12 @@ sécurité intérieure, pris en application de l'article L. 811-4 du code de la 
       <tr>
         <td align="left">
 
-R. 852-1 et R. 852-2 
+R. 852-1 à R. 852-2 
 
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83010,9 +83062,7 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83040,10 +83090,8 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2015-1639 du 11 décembre 2015
   - Décret n°2016-725 du 1er juin 2016
-  - Code de la sécurité intérieure
-  - Code de la sécurité intérieure - art. L811-4
+  - Décret n°2017-36 du 16 janvier 2017
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
   - Code de la sécurité intérieure - art. R852-1
@@ -83051,7 +83099,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-725 du 1er juin 2016 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 12
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=920></a>
@@ -83103,9 +83151,7 @@ R. 811-2
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017
 
 </td>
       </tr>
@@ -83151,9 +83197,7 @@ R. 851-1
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83165,9 +83209,7 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
         <td>R. 851-2 à R. 851-4 
 
 </td>
-        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
-services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
-sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83182,14 +83224,12 @@ sécurité intérieure, pris en application de l'article L. 811-4 du code de la 
       <tr>
         <td align="left">
 
-R. 852-1 et R. 852-2 
+R. 852-1 à R. 852-2 
 
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83213,11 +83253,7 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
-
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
       </tr>
       <tr>
         <td>Au titre VII </td>
@@ -83243,10 +83279,8 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2015-1639 du 11 décembre 2015
   - Décret n°2016-725 du 1er juin 2016
-  - Code de la sécurité intérieure
-  - Code de la sécurité intérieure - art. L811-4
+  - Décret n°2017-36 du 16 janvier 2017
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
   - Code de la sécurité intérieure - art. R852-1
@@ -83254,7 +83288,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-725 du 1er juin 2016 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 12
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=921></a>
@@ -83306,9 +83340,7 @@ R. 811-2
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017
 
 </td>
       </tr>
@@ -83354,9 +83386,7 @@ R. 851-1
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article l. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83368,9 +83398,7 @@ intérieure, pris en application de l'article l. 811-4 du code de la sécurité 
         <td>R. 851-2 à R. 851-4 
 
 </td>
-        <td>Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les
-services spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la
-sécurité intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+        <td>Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83381,14 +83409,12 @@ sécurité intérieure, pris en application de l'article L. 811-4 du code de la 
       <tr>
         <td align="left">
 
-R. 852-1 et R. 852-2 
+R. 852-1 à R. 852-2 
 
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-36 du 16 janvier 2017 
 
 </td>
       </tr>
@@ -83412,11 +83438,7 @@ II des articles R. 853-1, R. 853-2 et R. 853-3
 </td>
         <td>
 
-Résultant du décret n° 2015-1639 du 11 décembre 2015 relatif à la désignation des services autres que les services
-spécialisés de renseignement, autorisés à recourir aux techniques mentionnées au titre V du livre VIII du code de la sécurité
-intérieure, pris en application de l'article L. 811-4 du code de la sécurité intérieure 
-
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
       </tr>
       <tr>
         <td>Au titre VII </td>
@@ -83442,10 +83464,8 @@ intérieure, pris en application de l'article L. 811-4 du code de la sécurité 
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2015-1639 du 11 décembre 2015
   - Décret n°2016-725 du 1er juin 2016
-  - Code de la sécurité intérieure
-  - Code de la sécurité intérieure - art. L811-4
+  - Décret n°2017-36 du 16 janvier 2017
   - Code de la sécurité intérieure - art. R811-1
   - Code de la sécurité intérieure - art. R811-2
   - Code de la sécurité intérieure - art. R852-1
@@ -83453,7 +83473,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-725 du 1er juin 2016 - art. 2
+  - Décret n°2017-36 du 16 janvier 2017 - art. 12
 
 
 ## Annexes<a id=922></a>
