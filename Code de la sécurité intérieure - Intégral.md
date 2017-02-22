@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-02-01
+Version Consolidée au 2017-02-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -25194,10 +25194,11 @@ _Cite_:
 
 ###### Article R122-24
 
-Par dérogation aux dispositions de l'article R. 122-20, les chefs de cour d'appel dont le ressort couvre le chef-lieu de la
-zone de défense et de sécurité exercent les fonctions d'autorités correspondantes du garde des sceaux, ministre de la
-justice, auprès du préfet de zone de défense et de sécurité. Ils animent et coordonnent la préparation et la mise en œuvre
-des politiques de défense et de sécurité des activités judiciaires et veillent à leur cohérence avec le dispositif zonal.
+Par dérogation aux dispositions de l'article R. 122-20, le garde des sceaux, ministre de la justice, établit par arrêté la
+liste des cours d'appel de zone de défense et de sécurité dont les chefs de cour sont chargés d'exercer les fonctions
+d'autorités correspondantes du ministre auprès du préfet de zone de défense et de sécurité. Par dérogation aux dispositions
+des articles R. 122-21, R. 122-22 et R. 122-25, ces autorités animent et coordonnent la préparation et la mise en œuvre des
+politiques de défense et de sécurité des activités judiciaires et veillent à leur cohérence avec le dispositif zonal.
 
 **Liens relatifs à cet article**
 
@@ -25205,17 +25206,19 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 _Cité par_:
 
   - Décret n°2017-207 du 20 février 2017 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-207 du 20 février 2017 - art. 1
+
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R122-20 (VD)
+  - Code de la sécurité intérieure - art. R122-20 (V)
+  - Code de la sécurité intérieure - art. R122-21 (V)
+  - Code de la sécurité intérieure - art. R122-25 (V)
 
 
 ###### Article R122-25
@@ -28901,25 +28904,42 @@ concernant la défense et la sécurité nationale
     <tr>
       <td align="left" valign="top">
 
-R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
+R. 122-17 à R. 122-23 
 
 </td>
       <td valign="top" align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017  
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2  
+
+</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 R. 123-8, R. 123-10, R. 123-11 et
 
 R. 123-31-1
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
 justice 
@@ -28975,7 +28995,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 58
+  - Décret n°2017-207 du 20 février 2017 - art. 2
 
 _Cité par_:
 
@@ -29370,7 +29390,7 @@ _Modifié par_:
 
 ###### Article R156-2
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles D. 156-4 à R. 156-8, les
+Sont applicables en Nouvelle-Calédonie, sous réserve des  adaptations prévues aux articles D. 156-4 à R. 156-8, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
 colonne de droite du même tableau : 
 
@@ -29456,20 +29476,37 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-
-R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et R. 123-2 
-
-</td>
       <td valign="top" align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+R. 122-17 à R. 122-23 
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2  
+
+</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 R. 123-8, R. 123-10, R. 123-11 et
 
@@ -29478,8 +29515,7 @@ R. 123-31-1
 </td>
       <td align="left" valign="top">
 
-Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
-justice 
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
@@ -29513,7 +29549,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 58
+  - Décret n°2017-207 du 20 février 2017 - art. 2
 
 _Cité par_:
 
@@ -29814,7 +29850,7 @@ DANS LEUR RÉDACTION
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 113-1 à R. 113-2, R. 114-1 
 
@@ -29827,12 +29863,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 114-2, sauf le k du 1° et les n et o du 4° 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
 Conseil national des activités privées de sécurité 
@@ -29840,7 +29876,7 @@ Conseil national des activités privées de sécurité
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 114-3 à R. 114-5 
 
@@ -29853,7 +29889,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 114-6 
 
@@ -29875,22 +29911,35 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-
-R. 122-17 À R. 122-31, sauf son 4°, R. 122-32 À R. 122-35, R. 122-37, R. 123-1 et
-
-R. 123-2 
-
-</td>
       <td valign="top" align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+R. 122-17 à R. 122-23
+
+</td>
+      <td align="left" valign="top">
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017  
+
+</td>
+    </tr>
+    <tr>
+      <td align="center"> R. 122-25 à R. 122-31, sauf son 4°, R. 122-32 à R. 122-35, R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
 
@@ -29934,7 +29983,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 58
+  - Décret n°2017-207 du 20 février 2017 - art. 2
 
 _Cité par_:
 
@@ -30149,7 +30198,7 @@ Au titre Ier
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 R. 113-1 à R. 113-2,
 
@@ -30164,12 +30213,12 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 114-2, sauf le k du 1° et les n et o du 4°
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
 Conseil national des activités privées de sécurité
@@ -30177,12 +30226,12 @@ Conseil national des activités privées de sécurité
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 R. 114-3 à R. 114-5 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
@@ -30210,21 +30259,36 @@ concernant la défense et la sécurité nationale
 </td>
     </tr>
     <tr>
-      <td align="center">R. 122-17 à R. 122-37, R. 123-1 et R. 123-2 </td>
+      <td align="center">R. 122-17 à R. 122-23 </td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="center">
+
+R. 122-24 
+
+</td>
+      <td>Résultant du décret n° 2017-207 du 20 février 2017  
+
+</td>
+    </tr>
+    <tr>
+      <td align="center"> R. 122-25 à R. 122-37, R. 123-1 et R. 123-2</td>
+      <td>Résultant du décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité et de la
 justice 
@@ -30263,7 +30327,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 58
+  - Décret n°2017-207 du 20 février 2017 - art. 3
 
 _Cite_:
 
