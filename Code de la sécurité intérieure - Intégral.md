@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -26133,10 +26133,18 @@ _Créé par_:
 
 ###### Article R*122-54 
 
-Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, le préfet de police a la charge de
-l'ordre public, notamment la prévention des atteintes à la sécurité des personnes et des biens, dans les conditions prévues
-par l'article 73 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des
-services de l'Etat dans les régions et départements.
+Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ainsi que sur les parties de l'emprise
+de l'aérodrome de Paris-Charles de Gaulle situées dans les départements du Val-d'Oise et de Seine-et-Marne, sur les parties
+de l'emprise de l'aérodrome du Bourget situées dans le département du Val-d'Oise et sur les parties de l'emprise de
+l'aérodrome de Paris-Orly situées dans le département de l'Essonne, le préfet de police a la charge de l'ordre public,
+notamment la prévention des atteintes à la sécurité des personnes et des biens, dans les conditions prévues par l'article 73
+du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de
+l'Etat dans les régions et départements.
+
+**Nota:**
+
+Conformément à l'article 11 du décret n° 2017-567 du 19 avril 2017, les dispositions du présent décret, en tant qu'elles
+concernent l'emprise de l'aérodrome de Paris-Orly, entrent en vigueur à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -26148,9 +26156,9 @@ _Codifié par_:
 
   - Décret n°2013-1112 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1112 du 4 décembre 2013 - art.
+  - Décret n°2017-567 du 19 avril 2017 - art. 1
 
 
 ##### Section 5 : Préfet de police des Bouches-du-Rhône<a id=374></a>
