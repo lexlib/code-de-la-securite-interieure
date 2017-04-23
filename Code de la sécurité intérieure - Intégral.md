@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-04-23
+Version Consolidée au 2017-04-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -61344,9 +61344,10 @@ _Cite_:
 Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale ayant la qualité d'officier de police
 judiciaire justifient en cette qualité de l'aptitude professionnelle à être exploitant individuel, dirigeant ou gérant.
 
-Il en est de même des officiers et sous-officiers n'appartenant pas à la gendarmerie nationale et des fonctionnaires civils
-de catégories A et B ayant été affectés dans l'un des services ou l'une des formations mentionnés par arrêté du ministre de
-la défense et ayant servi dans les conditions précisées par cet arrêté.
+Il en est de même des officiers, des sous-officiers ou officiers mariniers n'appartenant pas à la gendarmerie nationale et
+des fonctionnaires civils de catégories A et B ayant été affectés dans l'un des services ou l'une des formations mentionnés
+par arrêté conjoint du ministre de la défense et du ministre de l'intérieur et ayant servi dans les conditions précisées par
+cet arrêté.
 
 Ces mêmes personnes sont réputées justifier de l'aptitude à exercer l'activité de surveillance et de gardiennage, avec
 l'usage d'un chien, si elles détiennent une qualification ou un certificat d'aptitude professionnelle à être agent conducteur
@@ -61354,17 +61355,13 @@ de chiens, délivré par leur administration d'origine.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2005-1122 du 6 septembre 2005 - art. 8 (VT)
-
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2017-606 du 21 avril 2017 - art. 2
 
 
 ##### Sous-section 3 : Dispositions spécifiques aux employés<a id=702></a>
@@ -61443,9 +61440,10 @@ judiciaire, d'agent de police judiciaire ou d'agent de police judiciaire adjoint
 d'agent de police judiciaire adjoint ainsi que les agents de police municipale qui ont la qualité d'agent de police
 judiciaire adjoint justifient en cette qualité de l'aptitude professionnelle à être employé.
 
-Il en est de même des officiers et sous-officiers n'appartenant pas à la gendarmerie nationale et les fonctionnaires civils
-de catégories A et B ayant été affectés dans l'un des services ou l'une des formations mentionnés par arrêté du ministre de
-la défense et ayant servi dans les conditions précisées par cet arrêté.
+Il en est de même des officiers, des sous-officiers ou officiers mariniers et des militaires du rang n'appartenant pas à la
+gendarmerie nationale et des fonctionnaires civils de catégories A, B et C et ouvriers d'Etat ayant été affectés dans l'un
+des services ou l'une des formations mentionnés par un arrêté conjoint du ministre de la défense et du ministre de
+l'intérieur et ayant servi dans les conditions précisées par cet arrêté.
 
 Ces mêmes personnes sont réputées justifier de l'aptitude à exercer l'activité de surveillance et de gardiennage, avec
 l'usage d'un chien, si elles détiennent une qualification ou un certificat d'aptitude professionnelle à être agent conducteur
@@ -61453,17 +61451,41 @@ de chiens, délivré par leur administration d'origine.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2005-1122 du 6 septembre 2005 - art. 13 (VT)
-
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
+_Modifié par_:
+
+  - Décret n°2017-606 du 21 avril 2017 - art. 3
+
+
+###### Article R612-41-1
+
+Les réservistes de la police nationale, de la gendarmerie nationale et des armées et formations rattachées relevant de la
+garde nationale ayant servi en cette qualité pendant une durée minimale de trois ans consécutifs justifient de leur aptitude
+professionnelle à exercer, en tant qu'employé, l'activité mentionnée au 1° de l'article L. 611-1 s'ils ont accompli les
+activités relevant de leur engagement pendant une durée minimale de cent dix jours, dont vingt jours au titre des missions
+opérationnelles, et ont suivi une formation dans des conditions précisées par un arrêté conjoint du ministre de la défense et
+du ministre de l'intérieur. 
+
+Ces mêmes personnes sont réputées justifier de l'aptitude à exercer l'activité de surveillance et de gardiennage, avec
+l'usage d'un chien, si elles détiennent une qualification ou un certificat d'aptitude professionnelle à être agent conducteur
+de chiens, délivré par le ministère aux missions duquel elles contribuent.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2017-606 du 21 avril 2017 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 11 juillet 2017 - art. 1 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L611-1 (V)
 
 
 ###### Article R612-42
@@ -62404,19 +62426,14 @@ de convention avant le 4 avril 2013 ou de révision de la convention plus de dix
 dernière modification, la liste peut être fixée ou modifiée par arrêté du ministre de l'intérieur. Ce dispositif ne
 s'applique que lorsque le stationnement du véhicule blindé de transport de fonds en protection de l'immeuble ou de l'automate
 bancaire est possible. Il entre en vigueur dans les conditions prévues par la convention ou l'arrêté et, au plus tard, dans
-un délai de douze mois à compter de leur signature.
+un délai de douze mois à compter de leur signature. 
+
+4° Soit, pour le seul papier fiduciaire, dans des véhicules banalisés avec un équipage d'au moins deux personnes y compris le
+conducteur, dans les conditions prévues à l'article R. 613-39.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2000-376 du 28 avril 2000 - art. 2, I (VT)
-
 _Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-_Créé par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
@@ -62428,15 +62445,21 @@ _Cité par_:
   - Code de la sécurité intérieure - art. D613-74 (V)
   - Code de la sécurité intérieure - art. R613-28 (VD)
   - Code de la sécurité intérieure - art. R613-30 (VD)
-  - Code de la sécurité intérieure - art. R613-39 (V)
   - Code de la sécurité intérieure - art. R617-4 (V)
   - Code de la sécurité intérieure - art. R645-1 (M)
   - Code de la sécurité intérieure - art. R645-3 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-606 du 21 avril 2017 - art. 4
+
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R613-36 (VD)
-  - Code de la sécurité intérieure - art. R613-47 (VD)
+  - Code de la sécurité intérieure - art. R613-36
+  - Code de la sécurité intérieure - art. R613-39 (V)
+  - Code de la sécurité intérieure - art. R613-40 (V)
+  - Code de la sécurité intérieure - art. R613-41 (V)
+  - Code de la sécurité intérieure - art. R613-47 (V)
 
 
 ###### Article R613-30
@@ -62737,8 +62760,8 @@ _Cité par_:
 Un véhicule banalisé n'est pas nécessairement équipé de blindages. L'entreprise de transport de fonds n'est pas astreinte à y
 faire figurer sa raison sociale. 
 
-Tout véhicule banalisé servant au transport de fonds placés dans les dispositifs mentionnés au 3° de l'article R. 613-29 ou
-servant au transport de bijoux ou de métaux précieux est équipé au moins : 
+Tout véhicule banalisé servant au transport de fonds placés dans les dispositifs mentionnés aux 3° et 4° de l'article R.
+613-29 ou servant au transport de bijoux ou de métaux précieux est équipé au moins : 
 
 1° D'un système de communication et d'un système d'alarme, reliés au centre d'alerte de l'entreprise chargée du transport de
 fonds ; 
@@ -62747,22 +62770,18 @@ fonds ;
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2000-376 du 28 avril 2000 - art. 8 (VT)
-
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2017-606 du 21 avril 2017 - art. 5
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R613-24 (VD)
-  - Code de la sécurité intérieure - art. R613-29 (VD)
+  - Code de la sécurité intérieure - art. R613-29 (V)
   - Code de la sécurité intérieure - art. R613-30 (VD)
   - Code de la sécurité intérieure - art. R613-31 (VD)
   - Code de la sécurité intérieure - art. R645-3 (V)
@@ -63018,31 +63037,28 @@ Aucun dispositif garantissant que les fonds transportés pourront être rendus i
 œuvre sans un agrément délivré, pour une période de cinq ans, par le ministre de l'intérieur après avis de la commission
 technique prévue à l'article R. 613-57. Cet agrément porte sur les caractéristiques techniques et les conditions
 d'utilisation de ces dispositifs. Il est subordonné à la réussite de divers tests dans un laboratoire d'essais reconnu par
-arrêté du ministre de l'intérieur. 
+arrêté du ministre de l'intérieur.
 
 Lors de la demande d'agrément, le demandeur fournit à la commission un échantillon de la substance utilisée pour assurer la
 neutralisation et la traçabilité des billets. Les informations sur la composition de cette substance sont transmises aux
 laboratoires de la police nationale et de la gendarmerie nationale chargés d'analyser les billets maculés après toute attaque
-ou agression, ou leur sont accessibles. 
+ou agression, ou leur sont accessibles.
 
 La commission peut, si elle l'estime nécessaire, inviter le demandeur à faire procéder à des essais complémentaires ou
-procéder à toute investigation supplémentaire. Ces essais ou ces investigations sont à la charge du demandeur. 
+procéder à toute investigation supplémentaire. Ces essais ou ces investigations sont à la charge du demandeur.
 
-Toute modification substantielle des dispositifs ou de leurs caractéristiques techniques donne lieu à un nouvel agrément. 
+Toute modification substantielle des dispositifs ou de leurs caractéristiques techniques donne lieu à un nouvel agrément.
 
 Toute modification substantielle des caractéristiques des billets utilisés lors des tests nécessite un nouvel agrément de ce
-dispositif pour le transport de ce type de billets. 
+dispositif pour le transport de ce type de billets.
 
 Chaque type de sac utilisable par un dispositif doit avoir été vérifié avec les mêmes protocoles de tests et obtenir
-l'agrément dans les mêmes conditions. 
+l'agrément dans les mêmes conditions.
 
 Le silence gardé pendant plus de quatre mois sur la demande d'agrément vaut décision de rejet.
 
-**Nota:**
-
-Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission technique consultative sur les demandes
-d'agrément des dispositifs de nouvelles technologies et de transports de fonds est renouvelée pour une durée de cinq ans à
-compter du 8 juin 2015 (8 juin 2020).
+L'utilisation de dispositifs, à titre expérimental, peut être autorisée, après avis de la commission, selon des modalités
+fixées par arrêté du ministre.
 
 **Liens relatifs à cet article**
 
@@ -63055,20 +63071,20 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 _Cité par_:
 
   - Arrêté du 27 février 2015 (V)
   - Décret n°2015-628 du 5 juin 2015 - art. (V)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Arrêté du 22 juin 2017 - art. 1 (V)
-  - Code de la sécurité intérieure - art. R613-29 (VD)
+  - Code de la sécurité intérieure - art. R613-29 (V)
   - Code de la sécurité intérieure - art. R613-57 (V)
   - Code de la sécurité intérieure - art. R617-4 (V)
   - Code de la sécurité intérieure - art. R645-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-606 du 21 avril 2017 - art. 6
 
 
 ###### Article R613-48
@@ -63240,20 +63256,23 @@ Les dispositifs garantissant que les fonds délivrés ou déposés dans un autom
 leur destination sont soumis à un agrément délivré, pour une période de cinq ans, par le ministre de l'intérieur après avis
 de la commission technique prévue à l'article R. 613-57. Cet agrément porte sur les caractéristiques techniques et les
 conditions d'utilisation de ces dispositifs. Il est subordonné à la réussite de divers tests dans un laboratoire d'essais
-reconnu par arrêté du ministre de l'intérieur. 
+reconnu par arrêté du ministre de l'intérieur.
 
 Lors de la demande d'agrément, le demandeur fournit à la commission un échantillon de la substance utilisée pour assurer la
 neutralisation et la traçabilité des billets. Les informations sur la composition de cette substance sont transmises aux
 laboratoires de la police nationale et de la gendarmerie nationale chargés d'analyser les billets maculés après toute attaque
-ou agression, ou leur sont accessibles. 
+ou agression, ou leur sont accessibles.
 
 La commission peut, si elle l'estime nécessaire, inviter le demandeur à faire procéder à des essais complémentaires ou
-procéder à toute investigation supplémentaire. Ces essais ou ces investigations sont à la charge du demandeur. 
+procéder à toute investigation supplémentaire. Ces essais ou ces investigations sont à la charge du demandeur.
 
 Toute modification substantielle des dispositifs ou de leurs caractéristiques techniques ou des caractéristiques des billets
-utilisés lors des tests nécessite un nouvel agrément. 
+utilisés lors des tests nécessite un nouvel agrément.
 
 Le silence gardé pendant plus de quatre mois sur la demande d'agrément vaut décision de rejet.
+
+L'utilisation de dispositifs, à titre expérimental, peut être autorisée, après avis de la commission, selon des modalités
+fixées par arrêté du ministre.
 
 **Liens relatifs à cet article**
 
@@ -63266,10 +63285,6 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 _Cité par_:
 
   - Arrêté du 27 février 2015 (V)
@@ -63277,6 +63292,10 @@ _Cité par_:
   - Arrêté du 22 juin 2017 - art. 1 (V)
   - Code de la sécurité intérieure - art. D613-75 (V)
   - Code de la sécurité intérieure - art. R613-57 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-606 du 21 avril 2017 - art. 6
 
 
 ###### Article R613-54
@@ -66391,23 +66410,20 @@ _Cite_:
 Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale ayant la qualité d'officier de police
 judiciaire justifient en cette qualité de la qualification professionnelle à être exploitant individuel, dirigeant ou gérant.
 
-Il en est de même des officiers et sous-officiers n'appartenant pas à la gendarmerie nationale et des fonctionnaires civils
-de catégories A et B ayant été affectés dans l'un des services ou l'une des formations mentionnés par arrêté du ministre de
-la défense et ayant servi dans les conditions précisées par cet arrêté.
+IIl en est de même des officiers, des sous-officiers ou officiers mariniers n'appartenant pas à la gendarmerie nationale et
+des fonctionnaires civils de catégories A et B ayant été affectés dans l'un des services ou l'une des formations mentionnés
+par arrêté conjoint du ministre de la défense et du ministre de l'intérieur et ayant servi dans les conditions précisées par
+cet arrêté.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2005-1123 du 6 septembre 2005 - art. 7 (VT)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2017-606 du 21 avril 2017 - art. 2
 
 
 ##### Sous-section 3 : Dispositions spécifiques aux employés<a id=760></a>
@@ -66415,31 +66431,28 @@ _Créé par_:
 ###### Article R622-34
 
 Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale ayant la qualité d'officier de police
-judiciaire, d'agent de police judiciaire ou d'agent de police judiciaire adjoint, en application des 1° et 1° bis de
-l'article 21 du code de procédure pénale, ainsi que les adjoints de sécurité qui ont la qualité d'agent de police judiciaire
-adjoint en application du 1° ter de cet article, justifient en cette qualité de l'aptitude professionnelle à être employé.
+judiciaire, d'agent de police judiciaire ou d'agent de police judiciaire adjoint, en application des 1° et1° bis de l'article
+21 du code de procédure pénale, ainsi que les adjoints de sécurité qui ont la qualité d'agent de police judiciaire adjoint en
+application du 1° ter de cet article, justifient en cette qualité de l'aptitude professionnelle à être employé.
 
-Il en est de même des officiers et sous-officiers n'appartenant pas à la gendarmerie nationale et des fonctionnaires civils
-de catégories A et B ayant été affectés dans l'un des services ou l'une des formations mentionnés par arrêté du ministre de
-la défense et ayant servi dans les conditions précisées par cet arrêté.
+Il en est de même des officiers, des sous-officiers ou officiers mariniers et des militaires du rang n'appartenant pas à la
+gendarmerie nationale et des fonctionnaires civils de catégories A, B et C et ouvriers d'Etat ayant été affectés dans l'un
+des services ou l'une des formations mentionnés par un arrêté conjoint du ministre de la défense et du ministre de
+l'intérieur et ayant servi dans les conditions précisées par cet arrêté.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2005-1123 du 6 septembre 2005 - art. 10 (VT)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2017-606 du 21 avril 2017 - art. 3
 
 _Cite_:
 
-  - Code de procédure pénale - art. 21 (M)
+  - Code de procédure pénale - art. 21
 
 
 ###### Article R622-35
@@ -69466,373 +69479,521 @@ dispositions du présent livre mentionnées dans la colonne de gauche du tableau
 colonne de droite du même tableau : 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">Au titre Ier 
+Au titre Ier
 
 </td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
 R. 611-1 (à l'exception du 1°) et R. 611-2 
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII
+de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 612-1 et R. 612-2
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">R. 612-1 et R. 612-2
+      <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
+privées de sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-3
 
 </td>
-        <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
-privées de sécurité et au Conseil national des activités privées de sécurité
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-3-1 à R. 612-6
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 612-3
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-7 à R. 612-9
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-10 et R. 612-10-1
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 612-3-1 à R. 612-6 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-7 à R. 612-9 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-10 et R. 612-10-1 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-11 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-12 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-13 à R. 612-16 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
-      </tr>
-      <tr>
-        <td>R. 612-17 et R. 612-18
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-11
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-12
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-13 à R. 612-16
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-17 et R. 612-18
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
 R. 612-18-1 
-</td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
-      </tr>
-      <tr>
-        <td>R. 612-19
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
+      <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
+protection des navires</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-19
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 612-20 à R. 612-23 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-24 à R. 612-25 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-26 à R. 612-29 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-31 et R. 612-32 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-33, R. 612-35 à R. 612-42</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
 
-R. 613-1 
+R. 612-20 à R. 612-23
 
 </td>
-        <td align="left">
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-24 à R. 612-25
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-26 à R. 612-29
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-31 et R. 612-32
+
+</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-33, R. 612-35
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-36
+
+</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-37
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-41 et R. 612-41-1
+
+</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-42
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 613-1
+
+</td>
+      <td align="left">
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité 
+Conseil national des activités privées de sécurité
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 613-2 à R. 613-5
+    </tr>
+    <tr>
+      <td>R. 613-2 à R. 613-5</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) et au Conseil national des
+activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-6
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) et au Conseil national
-des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-6
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-7 à R. 613-10
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-7 à R. 613-10
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-11 à R. 613-13
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 613-11 à R. 613-13
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-14 à R. 613-16, R. 613-19, R. 613-24, R. 613-25
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-14 à R. 613-16, R. 613-19, R. 613-24, R. 613-25, R. 613-29, R. 613-30, R. 613-36 à R. 613-49, R. 613-51,
-R. 613-57, R. 613-58
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-29
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-30, R. 613-36 à R. 613-38
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-39
+
+</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-40 à R. 613-46
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-47
+
+</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-48 à R. 613-49, R. 613-51, R. 613-57, R. 613-58
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="left">
+
 R. 614-1 à R. 614-10 
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII
+de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 616-1 à R. 616-14
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 616-1 à R. 616-14 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
-      </tr>
-      <tr>
-        <td align="left">
+      <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
+protection des navires</td>
+    </tr>
+    <tr>
+      <td align="left">
+
 R. 617-1 à R. 617-4 
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII
+de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+Titre II bis
 
 </td>
-      </tr>
-      <tr>
-        <td>Titre II bis
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+R. 625-1 à R. 625-12
 
 </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>R. 625-1 à R. 625-12
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre III
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">Au titre III 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="left">
 R. 631-1 à R. 631-32 
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII
+de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 632-1
 
 </td>
-      </tr>
-      <tr>
-        <td align="left">R. 632-1
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII
+de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-2
 
 </td>
-        <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et
-VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples) 
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-3
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 632-2
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-4
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-5
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 632-3
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-6
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-4
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-7 à R. 632-12
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-5
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-13 et R. 632-14
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-6
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-15
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-7 à R. 632-12
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-16, R. 632-16-1
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-17 à R. 632-23
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 632-13 et R. 632-14
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-15
+      <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
+privées de sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 634-1 à R. 634-3
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-16, R. 632-16-1
+      <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
+privées de sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 634-4
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-17 à R. 632-23
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 634-5
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td align="left">R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 634-6 et R. 634-7
 
 </td>
-        <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
-privées de sécurité et au Conseil national des activités privées de sécurité
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">R. 634-1 à R. 634-3
-
-</td>
-        <td align="left">Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités
-privées de sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-4
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-5
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-6 et R. 634-7
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>
 R. 635-1
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -69841,28 +70002,10 @@ _Cite_:
   - Décret n°2014-1253 du 27 octobre 2014
   - Code de la sécurité intérieure - art. R611-1
   - Code de la sécurité intérieure - art. R611-2
-  - Code de la sécurité intérieure - art. R612-1
   - Code de la sécurité intérieure - art. R612-18-1
-  - Code de la sécurité intérieure - art. R612-19
-  - Code de la sécurité intérieure - art. R612-31
-  - Code de la sécurité intérieure - art. R612-35
-  - Code de la sécurité intérieure - art. R612-4
-  - Code de la sécurité intérieure - art. R612-5
-  - Code de la sécurité intérieure - art. R613-1
-  - Code de la sécurité intérieure - art. R613-19
-  - Code de la sécurité intérieure - art. R613-24
-  - Code de la sécurité intérieure - art. R613-29
-  - Code de la sécurité intérieure - art. R613-36
-  - Code de la sécurité intérieure - art. R613-51
-  - Code de la sécurité intérieure - art. R613-57
   - Code de la sécurité intérieure - art. R614-1
   - Code de la sécurité intérieure - art. R617-1
   - Code de la sécurité intérieure - art. R631-1
-  - Code de la sécurité intérieure - art. R632-1
-  - Code de la sécurité intérieure - art. R633-1
-  - Code de la sécurité intérieure - art. R633-3
-  - Code de la sécurité intérieure - art. R633-6
-  - Code de la sécurité intérieure - art. R634-1
   - Code de la sécurité intérieure - art. R635-1
 
 _Codifié par_:
@@ -69871,7 +70014,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 61
+  - Décret n°2017-606 du 21 avril 2017 - art. 7
 
 
 ###### Article R645-3
@@ -70220,345 +70363,302 @@ _Créé par_:
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 646-3 et R. 646-4, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td valign="middle">Au titre Ier 
-
-</td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td>Au titre Ier</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
 R. 611-1 (à l'exception du 1°) et R. 611-2 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-1 et R. 612-2 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-3 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-3-1 à R. 612-6 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-7 à R. 612-9 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-10 et R. 612-10-1 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-11</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-12</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-13 à R. 612-16 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-17 et R. 612-18 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-1 et R. 612-2</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-3</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-3-1 à R. 612-6</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-7 à R. 612-9</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-10 et R. 612-10-1</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-11</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-12</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-13 à R. 612-16</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-17 et R. 612-18</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité</td>
+    </tr>
+    <tr>
+      <td>
 R. 612-18-1 
 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
-      </tr>
-      <tr>
-        <td>R. 612-19
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 612-20 à R. 612-23
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-24 à R. 612-25
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-26 à R. 612-29
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-31 et R. 612-32
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+      <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
+protection des navires</td>
+    </tr>
+    <tr>
+      <td>R. 612-19</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
 sécurité et au Conseil national des activités privées de sécurité</td>
-      </tr>
-      <tr>
-        <td>R. 612-33, R. 612-35 à R. 612-42
+    </tr>
+    <tr>
+      <td>R. 612-20 à R. 612-23</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-24 à R. 612-25</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-26 à R. 612-29</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-31 et R. 612-32</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-33, R. 612-35</td>
+      <td>
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 613-1
+    </tr>
+    <tr>
+      <td>
+
+R. 612-36
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-2 à R. 613-5
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-37
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 613-6
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-41 et R. 612-41-1
 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-7 à R. 613-10
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-42
 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 613-11 à R. 613-13
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-14 à R. 613-16, R. 613-19, R. 613-41 et R. 613-42
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>R. 613-1</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 613-2 à R. 613-5</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 613-6</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 613-7 à R. 613-10</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 613-11 à R. 613-13</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 613-14 à R. 613-16, R. 613-19, R. 613-41 et R. 613-42</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
 R. 614-1 à R. 614-10 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
 R. 616-1 à R. 616-14
 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
+protection des navires</td>
+    </tr>
+    <tr>
+      <td>
 R. 617-1 à R. 617-3 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>Au titre II bis </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>R. 625-1 à R. 625-12
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>Au titre III </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>Au titre II bis</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 625-1 à R. 625-12</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>Au titre III</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
 R. 631-1 à R. 631-32 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-1
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-2
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-3
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-4
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-5
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-6
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-7 à R. 632-12
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-13 et R. 632-14
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-15
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-16, R. 632-16-1
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-17 à R. 632-23
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-1 à R. 634-3
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-4
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-5
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-6 et R. 634-7
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-1</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-2</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-3</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-4</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-5</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-6</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-7 à R. 632-12</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-13 et R. 632-14</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-15</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-16, R. 632-16-1</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-17 à R. 632-23</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 634-1 à R. 634-3</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 634-4</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 634-5</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 634-6 et R. 634-7</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>
 R. 635-1 
 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -70567,31 +70667,18 @@ _Cite_:
   - Décret n°2014-1253 du 27 octobre 2014
   - Code de la sécurité intérieure - art. R611-1
   - Code de la sécurité intérieure - art. R611-2
-  - Code de la sécurité intérieure - art. R612-1
   - Code de la sécurité intérieure - art. R612-18-1
-  - Code de la sécurité intérieure - art. R612-19
-  - Code de la sécurité intérieure - art. R612-31
-  - Code de la sécurité intérieure - art. R612-4
-  - Code de la sécurité intérieure - art. R612-5
-  - Code de la sécurité intérieure - art. R613-1
-  - Code de la sécurité intérieure - art. R613-19
-  - Code de la sécurité intérieure - art. R613-41
   - Code de la sécurité intérieure - art. R614-1
   - Code de la sécurité intérieure - art. R616-1
   - Code de la sécurité intérieure - art. R617-1
   - Code de la sécurité intérieure - art. R631-1
-  - Code de la sécurité intérieure - art. R632-1
-  - Code de la sécurité intérieure - art. R633-1
-  - Code de la sécurité intérieure - art. R633-3
-  - Code de la sécurité intérieure - art. R633-6
-  - Code de la sécurité intérieure - art. R634-1
   - Code de la sécurité intérieure - art. R635-1
-  - Code de la sécurité intérieure - art. R646-3 (V)
+  - Code de la sécurité intérieure - art. R646-3
   - Code de la sécurité intérieure - art. R646-4
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 61
+  - Décret n°2017-606 du 21 avril 2017 - art. 7
 
 
 ###### Article R646-3
@@ -70806,342 +70893,277 @@ _Cité par_:
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles R. 647-3 et R. 647-4, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td>Au titre Ier </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>
-R. 611-1 (à l'exception du 1°) 1 et R. 611-2 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-1 et R. 612-2 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-3 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-3-1 à R. 612-6 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td>Au titre Ier</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+R. 611-1 (à l'exception du 1°) 1 et R. 611-2</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-1 et R. 612-2</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
 sécurité et au Conseil national des activités privées de sécurité</td>
-      </tr>
-      <tr>
-        <td>R. 612-7 à R. 612-9 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-10 et R. 612-10-1 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-11 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-12 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-13 à R. 612-16 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-17 et R. 612-18 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-18-1 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
-      </tr>
-      <tr>
-        <td>R. 612-19 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
+    </tr>
+    <tr>
+      <td>R. 612-3</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-3-1 à R. 612-6</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-7 à R. 612-9</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-10 et R. 612-10-1</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-11</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-12</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-13 à R. 612-16</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-17 et R. 612-18</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-18-1</td>
+      <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
+protection des navires</td>
+    </tr>
+    <tr>
+      <td>R. 612-19</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-20 à R. 612-23</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-24 à R. 612-25</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-26 à R. 612-29</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 612-31 et R. 612-32</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 612-33, R. 612-35 </td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td>R. 612-36</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>R. 612-37</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>R. 612-41 et R. 612-41-1</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>R. 612-42</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 613-1
 
 </td>
-      </tr>
-      <tr>
-        <td>R. 612-20 à R. 612-23
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-24 à R. 612-25
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 612-26 à R. 612-29
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 612-31 et R. 612-32
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 612-33, R. 612-35 à R. 612-42 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-R. 613-1 
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 613-2 à R. 613-5
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 613-6
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-7 à R. 613-10
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 613-11 à R. 613-13
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 613-14 à R. 613-16, R. 613-19
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 614-1 à R. 614-10  </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 616-1 à R. 616-14 </td>
-        <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
-protection des navires </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 613-2 à R. 613-5</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 613-6</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 613-7 à R. 613-10</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 613-11 à R. 613-13</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 613-14 à R. 613-16, R. 613-19</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 614-1 à R. 614-10</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 616-1 à R. 616-14</td>
+      <td>Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de
+protection des navires</td>
+    </tr>
+    <tr>
+      <td>
 R. 617-1 à R. 617-3 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>Au titre II bis
-
-</td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>R. 625-1 à R. 625-12
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>Au titre III </td>
-        <td> </td>
-      </tr>
-      <tr>
-        <td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>Au titre II bis</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 625-1 à R. 625-12</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>Au titre III</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
 R. 631-1 à R. 631-32 
 </td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-1
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 632-2
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-3
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-4
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-5
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-6
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-7 à R. 632-12
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-13 et R. 632-14
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-15
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 632-16, R. 632-16-1
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-      </tr>
-      <tr>
-        <td>R. 632-17 à R. 632-23
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
-      </tr>
-      <tr>
-        <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-1 à R. 634-3
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-4
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-5
-
-</td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 634-6 et R. 634-7
-
-</td>
-        <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la
-partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 635-1 </td>
-        <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-1</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-2</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-3</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-4</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-5</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-6</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-7 à R. 632-12</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-13 et R. 632-14</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-15</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 632-16, R. 632-16-1</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 632-17 à R. 632-23</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 634-1 à R. 634-3</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 634-4</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 634-5</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+    <tr>
+      <td>R. 634-6 et R. 634-7</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td>R. 635-1</td>
+      <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
+sécurité et au Conseil national des activités privées de sécurité</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -71149,25 +71171,14 @@ _Cite_:
 
   - Décret n°2014-1253 du 27 octobre 2014
   - Code de la sécurité intérieure - art. R611-1
-  - Code de la sécurité intérieure - art. R612-1
-  - Code de la sécurité intérieure - art. R612-31
-  - Code de la sécurité intérieure - art. R612-35
-  - Code de la sécurité intérieure - art. R613-1
-  - Code de la sécurité intérieure - art. R613-19
-  - Code de la sécurité intérieure - art. R614-1
   - Code de la sécurité intérieure - art. R617-1
   - Code de la sécurité intérieure - art. R631-1
-  - Code de la sécurité intérieure - art. R632-1
-  - Code de la sécurité intérieure - art. R633-1
-  - Code de la sécurité intérieure - art. R633-3
-  - Code de la sécurité intérieure - art. R633-6
-  - Code de la sécurité intérieure - art. R634-1
-  - Code de la sécurité intérieure - art. R647-3 (M)
+  - Code de la sécurité intérieure - art. R647-3
   - Code de la sécurité intérieure - art. R647-4
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 61
+  - Décret n°2017-606 du 21 avril 2017 - art. 7
 
 
 ###### Article R647-3
@@ -71322,91 +71333,73 @@ _Cité par_:
 Sont applicables dans les Terres australes et antarctiques françaises en tant qu'elles concernent les entreprises participant
 aux activités mentionnées au 4° de l'article L. 611-1 ainsi que leurs dirigeants, gérants, associés et agents les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
-<table width="680" border="1">
+<table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS applicables 
-
-</th>
+DISPOSITIONS applicables</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td>
 
-R. 611-1 (à l'exception du 1°) et R. 611-2 
-
-</td>
+R. 611-1 (à l'exception du 1°) et R. 611-2</td>
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 612-1 et R. 612-2 
-
-</td>
+      <td>R. 612-1 et R. 612-2</td>
       <td>
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité 
-
-</td>
+Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 612-3 </td>
+      <td>R. 612-3</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 612-3-1 à R. 612-6 </td>
+      <td>R. 612-3-1 à R. 612-6</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 612-7 à R. 612-9
-
-</td>
+      <td>R. 612-7 à R. 612-9</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 612-10 et R. 612-10-1 </td>
+      <td>R. 612-10 et R. 612-10-1</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 612-11 </td>
+      <td>R. 612-11</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) </td>
+réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 612-12 </td>
+      <td>R. 612-12</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 612-13 à R. 612-16
-
-</td>
+      <td>R. 612-13 à R. 612-16</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td>R. 612-17 et R. 612-18 
-
-</td>
+      <td>R. 612-17 et R. 612-18</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
 sécurité
 
@@ -71415,15 +71408,11 @@ sécurité
     <tr>
       <td>
 
-R. 612-18-1 
-
-</td>
+R. 612-18-1</td>
       <td>
 
 Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des
-navires 
-
-</td>
+navires</td>
     </tr>
     <tr>
       <td>R. 612-19
@@ -71435,65 +71424,82 @@ sécurité et au Conseil national des activités privées de sécurité
 </td>
     </tr>
     <tr>
-      <td>R. 612-20 à R. 612-23
-
-</td>
+      <td>R. 612-20 à R. 612-23</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 612-24 à R. 612-25
-
-</td>
+      <td>R. 612-24 à R. 612-25</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 612-26 à R. 612-29
-
-</td>
+      <td>R. 612-26 à R. 612-29</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 612-31 et R. 612-32
-
-</td>
+      <td>R. 612-31 et R. 612-32</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité </td>
-    </tr>
-    <tr>
-      <td>R. 612-33, R. 612-35 à R. 612-42
-
-</td>
-      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
       <td>
 
-R. 616-1 à R. 616-14 
+R. 612-33, R. 612-35
 
 </td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-36
+
+</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-37
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-41
+
+</td>
+      <td>Résultant du décret n° 2017-606 du 21 avril 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 612-42
+
+</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 616-1 à R. 616-14</td>
       <td>
 
 Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des
-navires 
-
-</td>
+navires</td>
     </tr>
     <tr>
       <td>
 
-R. 631-1 à R. 631-32 
-
-</td>
+R. 631-1 à R. 631-32</td>
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td>R. 632-1
@@ -71502,99 +71508,57 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples) 
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 632-2
-
-</td>
+      <td>R. 632-2</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 632-3
-
-</td>
+      <td>R. 632-3</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 632-4
-
-</td>
+      <td>R. 632-4</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 632-5
-
-</td>
+      <td>R. 632-5</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 632-6
-
-</td>
+      <td>R. 632-6</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 632-7 à R. 632-12
-
-</td>
+      <td>R. 632-7 à R. 632-12</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 632-13 et R. 632-14
-
-</td>
+      <td>R. 632-13 et R. 632-14</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 632-15
-
-</td>
+      <td>R. 632-15</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 632-16, R. 632-16-1
-
-</td>
+      <td>R. 632-16, R. 632-16-1</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 632-17 à R. 632-23
-
-</td>
+      <td>R. 632-17 à R. 632-23</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
@@ -71615,37 +71579,24 @@ sécurité et au Conseil national des activités privées de sécurité
 </td>
     </tr>
     <tr>
-      <td>R. 634-4
-
-</td>
+      <td>R. 634-4</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 634-5
-
-</td>
+      <td>R. 634-5</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 634-6 et R. 634-7
-
-</td>
+      <td>R. 634-6 et R. 634-7</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td>
 
 R. 635-1
-
 </td>
       <td>
 
@@ -71661,7 +71612,7 @@ Conseil national des activités privées de sécurité
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 61
+  - Décret n°2017-606 du 21 avril 2017 - art. 7
 
 _Cite_:
 
