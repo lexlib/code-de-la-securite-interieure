@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-05-24
+Version Consolidée au 2017-06-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -84202,11 +84202,15 @@ _Cité par_:
 
 ###### Article R811-1
 
-Les services spécialisés de renseignement sont la direction générale de la sécurité extérieure, la          direction du
-renseignement et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la sécurité
-intérieure, le service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes douanières ” et
-le service à compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers clandestins
-”.
+Les services spécialisés de renseignement sont la direction générale de la sécurité extérieure, la direction du renseignement
+et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la sécurité intérieure, le
+service à compétence nationale dénommé “ direction nationale du renseignement et des enquêtes douanières ” et le service à
+compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers clandestins ”.
+
+La coordination nationale du renseignement et de la lutte contre le terrorisme et, en son sein, le centre national de contre-
+terrorisme, placés sous l'autorité du coordonnateur national du renseignement et de la lutte contre le terrorisme, les
+services spécialisés de renseignement, l'académie du renseignement et l'inspection des services de renseignement forment la
+communauté française du renseignement.
 
 **Liens relatifs à cet article**
 
@@ -84215,6 +84219,7 @@ _Cité par_:
   - Décret n°2014-833 du 24 juillet 2014 - art. 2 (V)
   - Décret n°2017-1095 du 14 juin 2017 (V)
   - Arrêté du 7 août 2017 - art. 4 (V)
+  - Code de la défense. - art. R*1122-8 (V)
   - Code de la sécurité intérieure - art. R895-1 (M)
   - Code de la sécurité intérieure - art. R896-1 (M)
   - Code de la sécurité intérieure - art. R897-1 (M)
@@ -84222,7 +84227,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+  - Décret n°2017-1095 du 14 juin 2017 - art. 2
 
 
 ###### Article R811-2
