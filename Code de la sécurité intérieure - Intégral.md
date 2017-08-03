@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-07-13
+Version Consolidée au 2017-08-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -31543,13 +31543,18 @@ mentionné aux articles R. 236-11 et suivants du présent code ;
 4° Le traitement automatisé de données à caractère personnel dénommé “ Gestion de l'information et prévention des atteintes à
 la sécurité publique ” mentionné aux articles R. 236-21 et suivants du présent code ; 
 
-5° Le fichier des personnes recherchées prévu par le décret n° 2010-569 du 28 mai 2010; 
+5° Le fichier des personnes recherchées prévu par le décret n° 2010-569 du 28 mai 2010 ; 
 
 6° Le traitement automatisé de données à caractère personnel dénommé CRISTINA et mentionné au 1 de l'article 1 du décret du
 15 mai 2007 ; 
 
 7° Le traitement automatisé de données à caractère personnel dénommé FSPRT et mentionné au 12 de l'article 1 du décret du 15
-mai 2007. 
+mai 2007 ; 
+
+8° Le traitement automatisé de données à caractère personnel dénommé GESTEREXT et mentionné au 15 de l'article 1er du décret
+du 15 mai 2007 ; 
+
+9° Le traitement automatisé des données relatives aux objets et véhicules volés ou signalés. 
 
 Seul le sens de l'avis est transmis à l'organisateur.
 
@@ -31562,10 +31567,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L211-11-1
   - Code de la sécurité intérieure - art. R236-1
   - Code de la sécurité intérieure - art. R236-11
-
-_Créé par_:
-
-  - Décret n°2017-587 du 20 avril 2017 - art. 1
+  - Code de la sécurité intérieure - art. R236-21 (V)
 
 _Cité par_:
 
@@ -31574,6 +31576,10 @@ _Cité par_:
   - Décret n°2018-320 du 2 mai 2018 (V)
   - Décret n°2018-320 du 2 mai 2018 - art. 2 (V)
   - Code de la sécurité intérieure - art. R211-33 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1218 du 2 août 2017 - art. 2
 
 
 ###### Article R211-33
@@ -33662,9 +33668,9 @@ _Cité par_:
 
 ###### Article R234-1
 
-Les personnes qui font l'objet d'une enquête administrative en application de l'article R. 114-1 du présent code sont
-informées de ce que cette enquête donne lieu à la consultation des traitements automatisés de données personnelles mentionnés
-à l'article 230-6 du code de procédure pénale. 
+Les personnes qui font l'objet d'une enquête administrative en application des articles L. 114-1, L. 114-2 et L. 211-11-1 du
+présent code sont informées de ce que cette enquête donne lieu à la consultation des traitements automatisés de données
+personnelles mentionnés à l'article 230-6 du code de procédure pénale. 
 
 Lorsque l'enquête administrative qui donne lieu à la consultation fait suite à une demande de décision de l'intéressé, celui-
 ci en est informé dans l'accusé de réception de sa demande prévu aux articles L. 112-3 et L. 112-6 du code des relations
@@ -33674,12 +33680,17 @@ Dans les autres cas, l'intéressé est informé lors de la notification de la d�
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2017-1217 du 2 août 2017 - art. 9
+
 _Cite_:
 
-  - Code de procédure pénale - art. 230-6 (V)
-  - Code de la sécurité intérieure - art. R114-1 (VD)
-  - Code des relations entre le public et l'adminis... - art. L112-3 (V)
-  - Code des relations entre le public et l'adminis... - art. L112-6 (V)
+  - Code de procédure pénale - art. 230-6
+  - Code de la sécurité intérieure - art. L114-1
+  - Code de la sécurité intérieure - art. L211-11-1
+  - Code des relations entre le public et l'administration - art. L112-3
+  - Code des relations entre le public et l'administration - art. L112-6
 
 _Cité par_:
 
@@ -33720,7 +33731,7 @@ _Cité par_:
 
 ###### Article R234-3
 
-I.-Peuvent avoir accès aux traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de
+Peuvent avoir accès aux traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de
 procédure pénale dans les conditions prévues à l'article L. 234-4 du présent code les agents individuellement désignés et
 habilités des services mentionnés aux articles L. 811-2 et L. 811-4 suivants : 
 
@@ -33728,7 +33739,7 @@ habilités des services mentionnés aux articles L. 811-2 et L. 811-4 suivants :
 
 a) La direction générale de la sécurité extérieure ; 
 
-b) La          direction du renseignement et de la sécurité de la défense ; 
+b) La direction du renseignement et de la sécurité de la défense ; 
 
 c) La direction du renseignement militaire ; 
 
@@ -33737,24 +33748,24 @@ d) La direction générale de la sécurité intérieure ;
 e) Le service à compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers
 clandestins ” ; 
 
-f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
+f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
 
-- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
+– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
 
 g) Les services du renseignement territorial de la direction centrale de la sécurité publique placés sous l'autorité du
 directeur général de la police nationale ; 
 
-h) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale :
+h) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
 
-- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ;
+– la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
 
-- la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
+– la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
 
 2° Pour les besoins liés à la protection des intérêts mentionnés au 4° de l'article L. 811-3 : 
 
 a) La direction générale de la sécurité extérieure ; 
 
-b) La          direction du renseignement et de la sécurité de la défense ; 
+b) La direction du renseignement et de la sécurité de la défense ; 
 
 c) La direction du renseignement militaire ; 
 
@@ -33765,42 +33776,42 @@ clandestins ” ;
 
 f) La direction nationale du renseignement et des enquêtes douanières ; 
 
-g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
+g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
 
-- les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
+– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
 
-h) Les services suivants placés sous l'autorité du directeur général de la police nationale :
+h) Les services suivants placés sous l'autorité du directeur général de la police nationale : 
 
-- les services du renseignement territorial de la direction centrale de la sécurité publique ;
+– les services du renseignement territorial de la direction centrale de la sécurité publique ; 
 
-- l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication de la
-direction centrale de la police judiciaire ;
+– l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication de la
+direction centrale de la police judiciaire ; 
 
-- la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
+– la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
 
-- l'unité de coordination de la lutte antiterroriste ; 
+– l'unité de coordination de la lutte antiterroriste ; 
 
-i) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale :
+i) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
 
-- la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ;
+– la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
 
-- la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ;
+– la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
 
-- les sections de recherches de la gendarmerie nationale ; 
+– les sections de recherches de la gendarmerie nationale ; 
 
-j) Les services suivants placés sous l'autorité du préfet de police :
+j) Les services suivants placés sous l'autorité du préfet de police : 
 
-- la sous-direction de la sécurité intérieure de la direction du renseignement ;
+– la sous-direction de la sécurité intérieure de la direction du renseignement ; 
 
-- la sous-direction du renseignement territorial de la direction du renseignement ;
+– la sous-direction du renseignement territorial de la direction du renseignement ; 
 
-- la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ; 
+– la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ; 
 
 3° Pour les besoins liés à la protection des intérêts mentionnés au 5° de l'article L. 811-3 : 
 
 a) La direction générale de la sécurité extérieure ; 
 
-b) La          direction du renseignement et de la sécurité de la défense ; 
+b) La direction du renseignement et de la sécurité de la défense ; 
 
 c) La direction générale de la sécurité intérieure ; 
 
@@ -33810,35 +33821,30 @@ directeur général de la police nationale ;
 e) La sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi placée sous l'autorité du
 directeur général de la gendarmerie nationale ; 
 
-f) Les services suivants placés sous l'autorité du préfet de police :
+f) Les services suivants placés sous l'autorité du préfet de police : 
 
-- la sous-direction de la sécurité intérieure de la direction du renseignement ;
+– la sous-direction de la sécurité intérieure de la direction du renseignement ; 
 
-- la sous-direction du renseignement territorial de la direction du renseignement. 
-
-II.-Seuls peuvent avoir accès aux traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du
-code de procédure pénale sur la base de l'article L. 234-4 du présent code les agents des services mentionnés au I
-individuellement désignés et habilités par le directeur dont ils relèvent. 
-
-L'accès des services aux traitements est limité à la consultation et ne peut donner lieu à aucune interconnexion avec
-d'autres traitements. 
-
-Les dispositions de l'article R. 40-30 du code de procédure pénale sont applicables.
+– la sous-direction du renseignement territorial de la direction du renseignement.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
   - Décret n°2017-1217 du 2 août 2017 (V)
+  - Code de procédure pénale - art. R40-29-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1217 du 2 août 2017 - art. 9
 
 _Cite_:
 
   - Code de procédure pénale - art. 230-6
-  - Code de procédure pénale - art. R40-30
+  - Code de la sécurité intérieure - art. L234-4
+  - Code de la sécurité intérieure - art. L811-2
+  - Code de la sécurité intérieure - art. L811-3
+  - Code de la sécurité intérieure - art. L811-4
 
 
 #### Chapitre VI : Autres traitements automatisés de données personnelles<a id=434></a>
@@ -33849,28 +33855,27 @@ _Cite_:
 
 Le ministre de l'intérieur (direction centrale de la sécurité publique et préfecture de police) est autorisé à mettre en
 œuvre un traitement automatisé de données à caractère personnel dénommé " Enquêtes administratives liées à la sécurité
-publique ", ayant pour finalité de faciliter la réalisation d'enquêtes administratives en application de l'article L. 114-1
-du présent code et de l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la
-sécurité par la conservation des données issues de précédentes enquêtes relatives à la même personne.
+publique ", ayant pour finalité de faciliter la réalisation d'enquêtes administratives en application des articles L. 114-1,
+L. 114-2 et L. 211-11-1 du présent code et de l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de
+programmation relative à la sécurité par la conservation des données issues de précédentes enquêtes relatives à la même
+personne.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°95-73 du 21 janvier 1995 - art. 17-1 (V)
-  - Code de la sécurité intérieure - art. L114-1 (V)
-
-_Anciens textes_:
-
-  - Décret n°2009-1250 du 16 octobre 2009 - art. 1 (VT)
+  - Loi n°95-73 du 21 janvier 1995 - art. 17-1
+  - Code de la sécurité intérieure - art. L114-1
+  - Code de la sécurité intérieure - art. L114-2
+  - Code de la sécurité intérieure - art. L211-11-1
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2017-1216 du 2 août 2017 - art. 1
 
 _Cité par_:
 
@@ -34013,22 +34018,30 @@ _Cite_:
 
 ###### Article R236-6
 
-Dans la limite du besoin d'en connaître, en vue de la réalisation d'enquêtes administratives, sont autorisés à accéder aux
-données mentionnées aux articles R. 236-2 et R. 236-3 : 
+I. – Dans la limite du besoin d'en connaître, en vue de la réalisation d'enquêtes administratives, sont autorisés à accéder
+aux données mentionnées aux articles R. 236-2 et R. 236-3 :
 
 1° Les fonctionnaires relevant du service central du renseignement territorial de la direction centrale de la sécurité
-publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ; 
+publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ;
 
 2° Les fonctionnaires affectés dans les services du renseignement territorial des directions départementales de la sécurité
-publique, individuellement désignés et spécialement habilités par le directeur départemental ; 
+publique, individuellement désignés et spécialement habilités par le directeur départemental ;
 
 3° Les fonctionnaires affectés dans les services de la préfecture de police chargés du renseignement, individuellement
-désignés et spécialement habilités par le préfet de police. 
+désignés et spécialement habilités par le préfet de police.
 
-En outre, peut être destinataire des données mentionnées aux articles R. 236-2 et R. 236-3, dans la limite du besoin d'en
-connaître, tout membre d'une unité de la gendarmerie nationale ou agent d'un service de la police nationale chargé d'une
-enquête administrative, sur demande expresse précisant l'identité du demandeur, l'objet et les motifs de la consultation. Les
-demandes sont agréées par les responsables des services mentionnés aux 1° à 3°.
+II. – Dans la limite du besoin d'en connaître, en vue de la réalisation d'enquêtes administratives, peuvent être
+destinataires des données mentionnées aux articles R. 236-2 et R. 236-3 :
+
+1° Les agents du service à compétence nationale dénommé “ service national des enquêtes administratives de sécurité ”,
+individuellement désignés et spécialement habilités par le directeur général de la police nationale ;
+
+2° Les agents du service à compétence nationale dénommé “ Commandement spécialisé pour la sécurité nucléaire ”,
+individuellement désignés et spécialement habilités par le directeur général de la gendarmerie nationale ;
+
+3° Tout autre agent d'une unité de la gendarmerie nationale ou d'un service de la police nationale, sur demande expresse
+précisant l'identité du demandeur, l'objet et les motifs de la consultation. Les demandes sont agréées par les responsables
+des services mentionnés aux 1°, 2° ou 3° du I.
 
 **Liens relatifs à cet article**
 
@@ -34043,7 +34056,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1216 du 20 octobre 2014 - art. 1
+  - Décret n°2017-1216 du 2 août 2017 - art. 1
 
 _Cite_:
 
@@ -34075,34 +34088,6 @@ _Cite_:
 
   - Code de la sécurité intérieure - art. R236-1 (VD)
   - Code de la sécurité intérieure - art. R236-6 (VD)
-
-
-###### Article R236-8
-
-Le traitement mentionné à l'article R. 236-1 ne fait l'objet d'aucune interconnexion, aucun rapprochement ni aucune forme de
-mise en relation avec d'autres traitements ou fichiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-1250 du 16 octobre 2009 - art. 8 (VT)
-
-_Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-1216 du 2 août 2017 - art. 1
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. R236-1
 
 
 ###### Article R236-9
@@ -34177,25 +34162,21 @@ _Créé par_:
 Le ministre de l'intérieur (direction générale de la police nationale) est autorisé à mettre en œuvre un traitement de
 données à caractère personnel dénommé " Prévention des atteintes à la sécurité publique ", ayant pour finalité de recueillir,
 de conserver et d'analyser les informations qui concernent des personnes dont l'activité individuelle ou collective indique
-qu'elles peuvent porter atteinte à la sécurité publique. 
+qu'elles peuvent porter atteinte à la sécurité publique.
 
 Ce traitement a notamment pour finalité de recueillir, de conserver et d'analyser les informations qui concernent les
-personnes susceptibles d'être impliquées dans des actions de violence collectives, en particulier en milieu urbain ou à
-l'occasion de manifestations sportives.
+personnes susceptibles de prendre part à des activités terroristes ou d'être impliquées dans des actions de violence
+collectives, en particulier en milieu urbain ou à l'occasion de manifestations sportives.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-1249 du 16 octobre 2009 - art. 1 (VT)
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2017-1216 du 2 août 2017 - art. 2
 
 _Cité par_:
 
@@ -34382,30 +34363,34 @@ _Cité par_:
 
 ###### Article R236-16
 
-Dans la limite du besoin d'en connaître, y compris pour des enquêtes administratives prévues par l'article L. 114-1 du
-présent code et par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la
-sécurité, sont autorisés à accéder aux données mentionnées aux articles R. 236-12 et R. 236-13 : 
+I.-Dans la limite du besoin d'en connaître, y compris pour des enquêtes administratives prévues par les articles L. 114-1, L.
+114-2 et L. 211-11-1 du présent code et par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de
+programmation relative à la sécurité, sont autorisés à accéder aux données mentionnées aux articles R. 236-12 et R. 236-13 : 
 
-1° Les fonctionnaires relevant du service central du renseignement territorial de la direction centrale de la sécurité
-publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ; 
+1° Les agents relevant du service central du renseignement territorial de la direction centrale de la sécurité publique,
+individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ; 
 
-2° Les fonctionnaires des directions départementales de la sécurité publique affectés dans les    services du renseignement
-territorial, individuellement désignés et spécialement habilités par le directeur départemental ; 
+2° Les agents des directions départementales de la sécurité publique affectés dans les services du renseignement territorial,
+individuellement désignés et spécialement habilités par le directeur départemental ; 
 
-3° Les fonctionnaires de la préfecture de police affectés dans les services chargés du renseignement, individuellement
-désignés et spécialement habilités par le préfet de police ; 
+3° Les agents de la préfecture de police affectés dans les services chargés du renseignement, individuellement désignés et
+spécialement habilités par le préfet de police ; 
 
 4° Le référent national mentionné à l'article R. 236-15 et ses adjoints. 
 
-Les fonctionnaires des groupes spécialisés dans la lutte contre les violences urbaines ou les phénomènes de bandes,
-individuellement désignés et spécialement habilités par le directeur départemental de la sécurité publique ou par le préfet
-de police, sont autorisés à accéder aux données mentionnées aux articles R. 236-12 et R. 236-13 relevant de la finalité
-mentionnée au deuxième alinéa de l'article R. 236-11. 
+II.-Dans la limite du besoin d'en connaître, en vue de la réalisation d'enquêtes administratives, peuvent être destinataires
+des données mentionnées aux articles R. 236-12 et R. 236-13 : 
 
-En outre, peut être destinataire des données mentionnées aux articles R. 236-12 et R. 236-13, dans la limite du besoin d'en
-connaître, tout autre membre d'une unité de la gendarmerie nationale ou agent d'un service de la police nationale, sur
-demande expresse précisant l'identité du demandeur, l'objet et les motifs de la consultation. Les demandes sont agréées par
-les responsables des services mentionnés aux 1° à 3°.
+1° Les agents du service à compétence nationale dénommé “ service national des enquêtes administratives de sécurité ”,
+individuellement désignés et spécialement habilités par le directeur général de la police nationale ; 
+
+2° Les agents du service à compétence nationale dénommé “ Commandement spécialisé pour la sécurité nucléaire ”,
+individuellement désignés et spécialement habilités par le directeur général de la gendarmerie nationale. 
+
+III.-Dans la limite du besoin d'en connaître, peut être destinataire des données mentionnées aux articles R. 236-12 et R.
+236-13 tout autre agent d'une unité de la gendarmerie nationale ou d'un service de la police nationale, sur demande expresse
+précisant l'identité du demandeur, l'objet et les motifs de la consultation. Les demandes sont agréées par le responsable de
+service concerné, mentionné aux 1°, 2° ou 3° du I.
 
 **Liens relatifs à cet article**
 
@@ -34413,7 +34398,8 @@ _Cite_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 17-1
   - Code de la sécurité intérieure - art. L114-1
-  - Code de la sécurité intérieure - art. R236-11
+  - Code de la sécurité intérieure - art. L114-2
+  - Code de la sécurité intérieure - art. L211-11-1
   - Code de la sécurité intérieure - art. R236-12
   - Code de la sécurité intérieure - art. R236-15
 
@@ -34431,7 +34417,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1216 du 20 octobre 2014 - art. 1
+  - Décret n°2017-1216 du 2 août 2017 - art. 2
 
 
 ###### Article R236-17
@@ -34459,34 +34445,6 @@ _Cite_:
 
   - Code de la sécurité intérieure - art. R236-11 (VD)
   - Code de la sécurité intérieure - art. R236-16 (VD)
-
-
-###### Article R236-18
-
-Le traitement mentionné à l'article R. 236-11 ne fait l'objet d'aucune interconnexion, aucun rapprochement ni aucune forme de
-mise en relation avec d'autres traitements ou fichiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2009-1249 du 16 octobre 2009 - art. 8 (VT)
-
-_Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-1216 du 2 août 2017 - art. 2
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. R236-11
 
 
 ###### Article R236-19
@@ -34741,39 +34699,48 @@ _Cité par_:
 
 ###### Article R236-26
 
-Dans la limite du besoin d'en connaître, y compris pour des enquêtes administratives prévues par l'article L. 114-1, sont
-autorisés à accéder aux données enregistrées dans le traitement mentionné à l'article R. 236-21 : 
+I. – Dans la limite du besoin d'en connaître, y compris pour des enquêtes administratives prévues par les articles L. 114-1,
+L. 114-2 et L. 211-11-1 sont autorisés à accéder aux données enregistrées dans le traitement mentionné à l'article R.
+236-21 : 
 
 1° Les personnels de la gendarmerie nationale individuellement désignés et spécialement habilités ; 
 
 2° Le référent national et ses adjoints institués par l'article R. 236-15 et dont les compétences s'exercent à l'égard du
-traitement mentionné à l'article R. 236-11 dans les conditions définies à l'article R. 236-15. 
+traitement mentionné à l'article R. 236-21 dans les conditions définies à l'article R. 236-15. 
 
-En outre, peut être destinataire de ces données, dans la limite du besoin d'en connaître, tout autre membre d'une unité de la
-gendarmerie nationale ou agent d'un service de la police nationale, sur demande expresse précisant l'identité du demandeur,
-l'objet et les motifs de la consultation. Les demandes sont agréées par les commandants de groupement, les commandants de
-région ou le directeur général de la gendarmerie nationale.
+II. – Dans la limite du besoin d'en connaître, en vue de la réalisation d'enquêtes administratives, peuvent être
+destinataires des données mentionnées aux articles R. 236-22 et R. 236-23 : 
+
+1° Les agents du service à compétence nationale dénommé “ service national des enquêtes administratives de sécurité ”,
+individuellement désignés et spécialement habilités par le directeur général de la police nationale ; 
+
+2° Les agents du service à compétence nationale dénommé “ Commandement spécialisé pour la sécurité nucléaire ”,
+individuellement désignés et spécialement habilités par le directeur général de la gendarmerie nationale. 
+
+III. – Dans la limite du besoin d'en connaître, peut être destinataire des données mentionnées aux articles R. 236-22 et R.
+236-23 tout autre agent d'une unité de la gendarmerie nationale ou d'un service de la police nationale, sur demande expresse
+précisant l'identité du demandeur ainsi que l'objet et les motifs de la consultation. Les demandes sont agréées par les
+commandants de groupement, les commandants de région ou le directeur général de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2011-340 du 29 mars 2011 - art. 6 (VT)
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2017-1216 du 2 août 2017 - art. 3
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L114-1 (V)
-  - Code de la sécurité intérieure - art. R236-11 (VD)
-  - Code de la sécurité intérieure - art. R236-15 (VD)
-  - Code de la sécurité intérieure - art. R236-21 (VD)
+  - Code de la sécurité intérieure - art. L114-1
+  - Code de la sécurité intérieure - art. L114-2
+  - Code de la sécurité intérieure - art. L211-11-1
+  - Code de la sécurité intérieure - art. R236-11
+  - Code de la sécurité intérieure - art. R236-15
+  - Code de la sécurité intérieure - art. R236-21
+  - Code de la sécurité intérieure - art. R236-22 (V)
 
 _Cité par_:
 
@@ -34805,34 +34772,6 @@ _Cite_:
 
   - Code de la sécurité intérieure - art. R236-21 (VD)
   - Code de la sécurité intérieure - art. R236-26 (VD)
-
-
-###### Article R236-28
-
-Le traitement mentionné à l'article R. 236-21 ne fait l'objet d'aucune interconnexion, aucun rapprochement ni aucune forme de
-mise en relation avec d'autres traitements ou fichiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2011-340 du 29 mars 2011 - art. 8 (VT)
-
-_Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-1216 du 2 août 2017 - art. 3
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. R236-21
 
 
 ###### Article R236-29
@@ -37585,76 +37524,80 @@ _Cite_:
 ###### Article R285-1
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR RÉDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier 
+Au titre Ier
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8 </td>
+      <td align="center">R. 211-2 à R. 211-8</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
+R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="left">R. 211-32 à R. 211-34 </td>
+      <td align="center">R. 211-32</td>
+      <td align="left">Résultant du décret n° 2017-1218 du 2 août 2017</td>
+    </tr>
+    <tr>
+      <td align="center">R. 211-33 et R. 211-34</td>
       <td align="left">Résultant du décret n° 2017-587 du 20 avril 2017 pris pour l'application de l'article L. 211-11-1 du
 code de la sécurité intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des
-grands événements </td>
+grands événements</td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3 </td>
+      <td align="center">R. 214-1 à R. 214-3</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II 
+Au titre II
 
 </td>
       <td align="center">
@@ -37662,47 +37605,47 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1 
+R. 222-1
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 223-2 
+R. 223-2
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 à R. 224-6 
+R. 224-1 à R. 224-6
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger 
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5 
+R. 225-1 à R. 225-5
 
 </td>
       <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
@@ -37710,13 +37653,13 @@ R. 225-1 à R. 225-5
     <tr>
       <td align="center">
 
-Au titre III 
+Au titre III
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 232-1 à R. 232-5-1 </td>
+      <td align="center">R. 232-1 à R. 232-5-1</td>
       <td align="center">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
@@ -37727,7 +37670,7 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
     <tr>
       <td align="left">
 
-R. 232-12 et R. 232-13 
+R. 232-12 et R. 232-13
 
 </td>
       <td align="left">
@@ -37740,20 +37683,20 @@ dénommé système API-PNR France pris pour l'application de l'article L. 232-7 
     <tr>
       <td align="left">
 
-R. 232-14 et R. 232-15 
+R. 232-14 et R. 232-15
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure 
+relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 232-16 à R. 232-18 
+R. 232-16 à R. 232-18
 
 </td>
       <td align="left">
@@ -37766,84 +37709,244 @@ dénommé système API-PNR France pris pour l'application de l'article L. 232-7 
     <tr>
       <td align="left">
 
-R. 232-19 
+R. 232-19
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger 
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1 </td>
+      <td align="center">R. 234-1</td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-1217 du 2 août 2017
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-2 
+R. 234-2
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3 
+R. 234-3
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
-services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
-234-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-1217 du 2 août 2017
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-1 à R. 236-45 
+R. 236-1
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-1216 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-1 à R. 236-53 
+R. 236-2 à R. 236-5
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
-d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
-territorial 
+Résultant du décret n° 2013-1113 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV 
+R. 236-6
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-7
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-8
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-9 à R. 236-10
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-11
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-12 à R. 236-15
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-16
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 236-17</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-18</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-19 à R. 236-25
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-26
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-27
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-28
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-29 à R. 236-45
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-46 à R. 236-53
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2016-1045 du 29 juillet 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV
 
 </td>
       <td>
@@ -37851,15 +37954,15 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7 
+R. 241-1 à R. 241-7
 
 </td>
-      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016</td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V 
+Au titre V
 
 </td>
       <td align="center">
@@ -37867,34 +37970,34 @@ Au titre V
     <tr>
       <td align="left">
 
-R. 251-1 et R. 251-2 
+R. 251-1 et R. 251-2
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12 
+R. 251-3 à R. 251-12
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure 
+la sécurité intérieure
 
-(Décrets en Conseil d'Etat et décrets simples) 
+(Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4 
+R. 252-2 à R. 253-4
 
 </td>
       <td align="left">
@@ -37916,16 +38019,14 @@ _Cite_:
   - Décret n°2014-901 du 18 août 2014
   - Décret n°2014-1095 du 26 septembre 2014
   - Décret n°2014-1253 du 27 octobre 2014
+  - Décret n°2014-1641 du 26 décembre 2014 (V)
   - Décret n°2015-26 du 14 janvier 2015
   - Décret n°2015-1328 du 21 octobre 2015
-  - Décret n°2015-1807 du 28 décembre 2015
   - Décret n°2016-1045 du 29 juillet 2016
-  - Décret n°2017-587 du 20 avril 2017
-  - Code de la sécurité intérieure - art. L211-11-1
+  - Décret n°2017-587 du 20 avril 2017 (V)
+  - Décret n°2017-1216 du 2 août 2017 (V)
+  - Décret n°2017-1218 du 2 août 2017 (V)
   - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. L234-4
-  - Code de la sécurité intérieure - art. L811-2
-  - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R232-14
   - Code de la sécurité intérieure - art. R232-15
 
@@ -37935,7 +38036,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-587 du 20 avril 2017 - art. 2
+  - Décret n°2017-1217 du 2 août 2017 - art. 10
+  - Décret n°2017-1216 du 2 août 2017 - art. 4
+  - Décret n°2017-1218 du 2 août 2017 - art. 3
 
 _Cité par_:
 
@@ -38045,18 +38148,18 @@ _Cite_:
 ###### Article R286-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR RÉDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier 
+Au titre Ier
 
 </td>
       <td align="center">
@@ -38064,61 +38167,65 @@ Au titre Ier
     <tr>
       <td align="left">
 
-R. 211-2 à R. 211-8 
+R. 211-2 à R. 211-8
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
+R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-32 à R. 211-34 </td>
+      <td align="center">R. 211-32</td>
+      <td align="left">Résultant du décret n° 2017-1218 du 2 août 2017</td>
+    </tr>
+    <tr>
+      <td align="center">R. 211-33 et R. 211-34</td>
       <td align="left">Résultant du décret n° 2017-587 du 20 avril 2017 pris pour l'application de l'article L. 211-11-1 du
 code de la sécurité intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des
-grands événements. </td>
+grands événements</td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3 </td>
+      <td align="center">R. 214-1 à R. 214-3</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II 
+Au titre II
 
 </td>
       <td align="center">
@@ -38126,43 +38233,43 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1 
+R. 222-1
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2 </td>
+      <td align="center">R. 223-2</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 à R. 224-6 
+R. 224-1 à R. 224-6
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger 
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5 
+R. 225-1 à R. 225-5
 
 </td>
       <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
@@ -38170,7 +38277,7 @@ R. 225-1 à R. 225-5
     <tr>
       <td align="center">
 
-Au titre III 
+Au titre III
 
 </td>
       <td align="center">
@@ -38178,7 +38285,7 @@ Au titre III
     <tr>
       <td align="left">
 
-R. 232-1 à R. 232-5-1 
+R. 232-1 à R. 232-5-1
 
 </td>
       <td align="left">
@@ -38191,7 +38298,7 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
     <tr>
       <td align="left">
 
-R. 232-12 et R. 232-13 
+R. 232-12 et R. 232-13
 
 </td>
       <td align="left">
@@ -38204,20 +38311,20 @@ dénommé " système API-PNR France " pris pour l'application de l'article L. 23
     <tr>
       <td align="left">
 
-R. 232-14 et R. 232-15 
+R. 232-14 et R. 232-15
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure 
+relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 232-16 à R. 232-18 
+R. 232-16 à R. 232-18
 
 </td>
       <td align="left">
@@ -38230,84 +38337,198 @@ dénommé système API-PNR France pris pour l'application de l'article L. 232-7 
     <tr>
       <td align="left">
 
-R. 232-19 
+R. 232-19
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger 
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1 </td>
+      <td align="center">R. 234-1</td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-1217 du 2 août 2017
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-2 
+R. 234-2
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3 
+R. 234-3
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
-services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
-234-4 du code de la sécurité intérieure 
+Résultant du décret n° 2017-1217 du 2 août 2017
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-1 à R. 236-45 
+R. 236-1
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-1216 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-1 à R. 236-53 
+R. 236-2 à R. 236-5
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
-d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
-territorial 
+Résultant du décret n° 2013-1113 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV 
+R. 236-6
+
+</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-7
+
+</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-8
+
+</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-9 à R. 236-10
+
+</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-11
+
+</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-12 à R. 236-15
+
+</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-16
+
+</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-17
+
+</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-18
+
+</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-19 à R. 236-25
+
+</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-26
+
+</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-27
+
+</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-28
+
+</td>
+      <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-29 à R. 236-45
+
+</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-46 à R. 236-53
+
+</td>
+      <td align="left">Résultant du décret n° 2016-1045 du 29 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV
 
 </td>
       <td>
@@ -38315,15 +38536,15 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7 
+R. 241-1 à R. 241-7
 
 </td>
-      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016</td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V 
+Au titre V
 
 </td>
       <td align="center">
@@ -38331,34 +38552,34 @@ Au titre V
     <tr>
       <td align="center">
 
-R. 251-1 et R. 251-2 
+R. 251-1 et R. 251-2
 
 </td>
       <td align="center">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12 
+R. 251-3 à R. 251-12
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure 
+la sécurité intérieure
 
-(Décrets en Conseil d'Etat et décrets simples) 
+(Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4 
+R. 252-2 à R. 253-4
 
 </td>
       <td align="left">
@@ -38380,21 +38601,22 @@ _Cite_:
   - Décret n°2014-901 du 18 août 2014
   - Décret n°2014-1095 du 26 septembre 2014
   - Décret n°2014-1253 du 27 octobre 2014
+  - Décret n°2014-1641 du 26 décembre 2014 (V)
   - Décret n°2015-26 du 14 janvier 2015
   - Décret n°2015-1328 du 21 octobre 2015
-  - Décret n°2015-1807 du 28 décembre 2015
   - Décret n°2016-1045 du 29 juillet 2016
   - Décret n°2017-587 du 20 avril 2017 (V)
+  - Décret n°2017-1216 du 2 août 2017
+  - Décret n°2017-1218 du 2 août 2017 (V)
   - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. L234-4
-  - Code de la sécurité intérieure - art. L811-2
-  - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R232-14
   - Code de la sécurité intérieure - art. R232-15
 
 _Modifié par_:
 
-  - Décret n°2017-587 du 20 avril 2017 - art. 2
+  - Décret n°2017-1217 du 2 août 2017 - art. 10
+  - Décret n°2017-1216 du 2 août 2017 - art. 4
+  - Décret n°2017-1218 du 2 août 2017 - art. 3
 
 _Cité par_:
 
@@ -38502,119 +38724,103 @@ _Cite_:
 ###### Article R287-1
 
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du
-tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES 
-
-</th>
-      <th>DANS LEUR RÉDACTION 
-
-</th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier 
+Au titre Ier
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8 
-
-</td>
+      <td align="center">R. 211-2 à R. 211-8</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
-
-</td>
+      <td align="center">R. 211-11 à R. 211-16, R. 211-18 et R. 211-21</td>
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
+R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3 
-
-</td>
+      <td align="center">R. 214-1 à R. 214-3</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II 
+Au titre II
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 222-1
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2 
-
-</td>
+      <td align="center">R. 223-2</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 224-1 à R. 224-6 
+R. 224-1 à R. 224-6
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2015-26 du 14 janvier 2015relatif à l'interdiction de sortie du territoire des ressortissants français
-projetant de participer à des activités terroristes à l'étranger 
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
@@ -38624,153 +38830,317 @@ projetant de participer à des activités terroristes à l'étranger
 R. 225-1 à R. 225-5
 
 </td>
-      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 
-
-</td>
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III 
+Au titre III
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 232-1 à R. 232-5-1 
+R. 232-1 à R. 232-5-1
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 232-12 et R. 232-13 
+R. 232-12 et R. 232-13
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 232-14 et R. 232-15
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure 
+relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 232-16 à R. 232-18 
+R. 232-16 à R. 232-18
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 232-19 
+R. 232-19
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2015-26 du 14 janvier 2015relatif à l'interdiction de sortie du territoire des ressortissants français
-projetant de participer à des activités terroristes à l'étranger 
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1 
-
-</td>
+      <td align="center">R. 234-1</td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-1217 du 2 août 2017
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 R. 234-2
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 R. 234-3
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
-services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
-234-4 du code de la sécurité intérieure
+Résultant du décret n° 2017-1217 du 2 août 2017
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 236-1 à R. 236-45
+R. 236-1
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 236-1 à R. 236-53 
+R. 236-2 à R. 236-5
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
-d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
-territorial
+Résultant du décret n° 2013-1113 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV 
+R. 236-6
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-7
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-8
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-9 à R. 236-10
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-11
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-12 à R. 236-15
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-16
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-17
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-18
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-19 à R. 236-25
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-26
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-27
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-28
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-29 à R. 236-45
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-46 à R. 236-53
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2016-1045 du 29 juillet 2016
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV
 
 </td>
       <td>
@@ -38781,52 +39151,48 @@ Au titre IV
 R. 241-1 à R. 241-7
 
 </td>
-      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016</td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V 
+Au titre V
 
 </td>
       <td align="center">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 251-1 et R. 251-2
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 251-1 et R. 251-2 
-
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
+R. 251-3 à R. 251-12
 
 </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-R. 251-3 à R. 251-12 
-
-</td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure 
-
-(Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 252-2 à R. 253-4 
+R. 252-2 à R. 253-4
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -38841,18 +39207,13 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 _Cite_:
 
   - Décret n°2010-569 du 28 mai 2010 - art. 5
-  - Décret n°2013-1113 du 4 décembre 2013
   - Décret n°2014-901 du 18 août 2014
   - Décret n°2014-1095 du 26 septembre 2014
   - Décret n°2014-1253 du 27 octobre 2014
   - Décret n°2015-26 du 14 janvier 2015
   - Décret n°2015-1328 du 21 octobre 2015
-  - Décret n°2015-1807 du 28 décembre 2015
   - Décret n°2016-1045 du 29 juillet 2016
   - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. L234-4
-  - Code de la sécurité intérieure - art. L811-2
-  - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R232-14
   - Code de la sécurité intérieure - art. R232-15
 
@@ -38862,7 +39223,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1860 du 23 décembre 2016 - art. 2
+  - Décret n°2017-1217 du 2 août 2017 - art. 10
+  - Décret n°2017-1216 du 2 août 2017 - art. 4
 
 _Cité par_:
 
@@ -38977,119 +39339,103 @@ _Cite_:
 ###### Article R288-1
 
 Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la
-colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES 
-
-</th>
-      <th>DANS LEUR RÉDACTION 
-
-</th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier 
+Au titre Ier
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8 
-
-</td>
+      <td align="center">R. 211-2 à R. 211-8</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
 
 </td>
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-27 à R. 211-30 
-
-</td>
+      <td align="center">R. 211-27 à R. 211-30</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3 
-
-</td>
+      <td align="center">R. 214-1 à R. 214-3</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II 
+Au titre II
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 222-1
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168
+Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale 
+concernant la défense et la sécurité nationale
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2 
-
-</td>
+      <td align="center">R. 223-2</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 224-1 à R. 224-6 
+R. 224-1 à R. 224-6
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
-Résultant du décret n° 2015-26 du 14 janvier 2015relatif à l'interdiction de sortie du territoire des ressortissants français
-projetant de participer à des activités terroristes à l'étranger 
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
@@ -39099,168 +39445,329 @@ projetant de participer à des activités terroristes à l'étranger
 R. 225-1 à R. 225-5
 
 </td>
-      <td> Résultant du décret n° 2016-1269 du 28 septembre 2016 
-
-</td>
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III 
+Au titre III
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 232-1 à R. 232-5-1 
+R. 232-1 à R. 232-5-1
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 232-12 et R. 232-13 
+R. 232-12 et R. 232-13
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 232-14 et R. 232-15 
+R. 232-14 et R. 232-15
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure 
+relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 R. 232-16 à R. 232-18
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé "système API-PNR France" pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 232-19 
-
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2015-26 du 14 janvier 2015relatif à l'interdiction de sortie du territoire des ressortissants français
-projetant de participer à des activités terroristes à l'étranger 
+R. 232-19
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 234-3 
-
-</td>
-      <td valign="top" align="left">
-
-Résultant du décret n° 2015-1807 du 28 décembre 2015 relatif à l'accès au traitement d'antécédents judiciaires des agents des
-services mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure, pris en application de l'article L.
-234-4 du code de la sécurité intérieure
+Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
+français projetant de participer à des activités terroristes à l'étranger
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 236-1 à R. 236-45 
+      <td align="left">
+
+R. 234-3
 
 </td>
+      <td align="left">
+
+Résultant du décret n° 2017-1217 du 2 août 2017
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 236-1</td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2017-1216 du 2 août 2017
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Articles R. 236-1 à R. 236-53
+R. 236-2 à R. 236-5
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2016-1045 du 29 juillet 2016 relatif à la mise en œuvre de traitements de conservation, de gestion et
-d'exploitation électroniques des documents des services du ministère de l'intérieur chargés des missions de renseignement
-territorial
+Résultant du décret n° 2013-1113 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V 
+R. 236-6
 
 </td>
-      <td align="center">
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
 
 </td>
     </tr>
+    <tr>
+      <td align="center">
+
+R. 236-7
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-8
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-9 à R. 236-10
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-11
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-12 à R. 236-15
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-16
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-17
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-18
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-19 à R. 236-25
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-26
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-27
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-28
+
+</td>
+      <td>Résultant du décret n° 2017-1216 du 2 août 2017</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-29 à R. 236-45
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-46 à R. 236-53
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2016-1045 du 29 juillet 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre V
+
+</td>
+      <td align="center">
+    </td></tr>
     <tr>
       <td>
 
-R. 251-1 
+R. 251-1
 
 </td>
       <td>
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12 
+R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure 
-
-(Décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-R. 252-2 à R. 253-4 
+R. 252-2 à R. 253-4
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -39281,12 +39788,10 @@ _Cite_:
   - Décret n°2014-1253 du 27 octobre 2014
   - Décret n°2015-26 du 14 janvier 2015
   - Décret n°2015-1328 du 21 octobre 2015
-  - Décret n°2015-1807 du 28 décembre 2015
   - Décret n°2016-1045 du 29 juillet 2016
+  - Décret n°2017-1216 du 2 août 2017
   - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. L234-4
   - Code de la sécurité intérieure - art. L811-2
-  - Code de la sécurité intérieure - art. L811-4
   - Code de la sécurité intérieure - art. R232-14
   - Code de la sécurité intérieure - art. R232-15
 
@@ -39296,7 +39801,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1269 du 28 septembre 2016 - art. 2
+  - Décret n°2017-1217 du 2 août 2017 - art. 10
+  - Décret n°2017-1216 du 2 août 2017 - art. 4
 
 _Cité par_:
 
@@ -85760,8 +86266,8 @@ suivants :
 2° Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 aux fichiers
 d'informations nominatives mis en œuvre par la direction générale de la sécurité extérieure ; 
 
-3° Décret autorisant la mise en œuvre par la          direction du renseignement et de la sécurité de la défense d'un
-traitement automatisé de données à caractère personnel dénommé SIREX ; 
+3° Décret autorisant la mise en œuvre par la direction du renseignement et de la sécurité de la défense d'un traitement
+automatisé de données à caractère personnel dénommé SIREX ; 
 
 4° Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 au fichier d'informations
 nominatives mis en œuvre par la direction du renseignement militaire ; 
@@ -85771,22 +86277,26 @@ nominatives mis en œuvre par la direction du renseignement militaire ;
 6° Décret n° 2010-569 du 28 mai 2010 portant création du fichier des personnes recherchées, pour les seules données
 intéressant la sûreté de l'Etat mentionnées au 8° du III de l'article 2 de ce décret ; 
 
-7° Article R. 231-4 du code de la sécurité intérieure, pour les seules données mentionnées au 2° de l'article R. 231-7 du
-même code ; 
+7° Le 1° de l'article R. 231-3 du code de la sécurité intérieure, pour les seules données mentionnées au 3° de l'article R.
+231-8 du même code ; 
 
 8° Arrêté relatif à la création d'un système de traitement automatisé de données à caractère personnel dénommé STARTRAC mis
 en œuvre par le service à compétence nationale TRACFIN, pour les seules données intéressant la sûreté de l'Etat ; 
 
 9° Décret portant création au profit de la direction nationale du renseignement et des enquêtes douanières d'un traitement
-automatisé de données à caractère personnel dénommé BCR-DNRED.
+automatisé de données à caractère personnel dénommé BCR-DNRED ; 
+
+10° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé GESTEREXT.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 31
+  - Loi n°78-17 du 6 janvier 1978 - art. 31 (V)
   - Décret n°2010-569 du 28 mai 2010
-  - Code de la sécurité intérieure
+  - Code de la sécurité intérieure - art. L841-2
+  - Code de la sécurité intérieure - art. R231-3
+  - Code de la sécurité intérieure - art. R231-8
 
 _Cité par_:
 
@@ -85799,7 +86309,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+  - Décret n°2017-1218 du 2 août 2017 - art. 2
 
 
 ### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=947></a>
@@ -87620,8 +88130,7 @@ Au titre Ier</td>
     <tr>
       <td align="left">
 
-R. 811-1 
-</td>
+R. 811-1 </td>
       <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
@@ -87629,12 +88138,10 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
     <tr>
       <td align="left">
 
-R. 811-2 
-</td>
+R. 811-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>Au titre II</td>
@@ -87642,11 +88149,11 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 821-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>Au titre IV</td>
@@ -87654,9 +88161,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 841-2</td>
-      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
-l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés</td>
+      <td>Résultant du décret n° 2017-1218 du 2 août 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87674,7 +88179,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-1-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 851-2 à R. 851-4</td>
@@ -87682,13 +88187,12 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 852-1 à R. 852-2 
-</td>
+R. 852-1 à R. 852-2 </td>
       <td>
 
 Résultant du décret n° 2017-36 du 16 janvier 2017</td>
@@ -87699,7 +88203,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
 I des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+Résultant du décret n° 2015-1185 du 28 septembre 2015portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -87727,7 +88231,7 @@ R. 855-1
     </td></tr>
     <tr>
       <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 872-1 à R. 872-6</td>
@@ -87735,7 +88239,7 @@ R. 855-1
     </tr>
     <tr>
       <td>R. 873-1 et R. 873-2</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
   </tbody>
 </table>
@@ -87745,16 +88249,14 @@ R. 855-1
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2016-725 du 1er juin 2016
+  - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
-  - Code de la sécurité intérieure - art. R811-1
-  - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R852-1
-  - Code de la sécurité intérieure - art. R853-1
+  - Décret n°2017-749 du 3 mai 2017
+  - Décret n°2017-1218 du 2 août 2017
 
 _Modifié par_:
 
-  - Décret n°2017-749 du 3 mai 2017 - art. 2
+  - Décret n°2017-1218 du 2 août 2017 - art. 3
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=961></a>
@@ -87783,8 +88285,7 @@ Au titre Ier</td>
     <tr>
       <td align="left">
 
-R. 811-1 
-</td>
+R. 811-1 </td>
       <td>
 
 Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
@@ -87792,13 +88293,10 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
     <tr>
       <td align="left">
 
-R. 811-2 
-</td>
+R. 811-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017
-
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>Au titre II</td>
@@ -87806,11 +88304,11 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 821-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>Au titre IV</td>
@@ -87818,9 +88316,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 841-2</td>
-      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
-l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés</td>
+      <td>Résultant du décret n° 2017-1218 du 2 août 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87836,7 +88332,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-1-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 851-2 à R. 851-4</td>
@@ -87844,16 +88340,15 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 852-1 à R. 852-2 
-</td>
+R. 852-1 à R. 852-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87861,7 +88356,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 I des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+Résultant du décret n° 2015-1185 du 28 septembre 2015portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -87869,7 +88364,7 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 II des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>Au titre V BIS</td>
@@ -87885,7 +88380,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 872-1 à R. 872-6</td>
@@ -87903,16 +88398,14 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2016-725 du 1er juin 2016
+  - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
-  - Code de la sécurité intérieure - art. R811-1
-  - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R852-1
-  - Code de la sécurité intérieure - art. R853-1
+  - Décret n°2017-749 du 3 mai 2017
+  - Décret n°2017-1218 du 2 août 2017
 
 _Modifié par_:
 
-  - Décret n°2017-749 du 3 mai 2017 - art. 2
+  - Décret n°2017-1218 du 2 août 2017 - art. 3
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=962></a>
@@ -87941,21 +88434,18 @@ Au titre Ier</td>
     <tr>
       <td align="left">
 
-R. 811-1 
-</td>
+R. 811-1 </td>
       <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+Résultant du décret n° 2015-1185 du 28 septembre 2015portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 811-2 
-</td>
+R. 811-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>Au titre II</td>
@@ -87963,7 +88453,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 821-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 823-1 et R. 823-2</td>
@@ -87975,9 +88465,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 841-2</td>
-      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
-l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés</td>
+      <td>Résultant du décret n° 2017-1218 du 2 août 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87995,7 +88483,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-1-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 851-2 à R. 851-4</td>
@@ -88003,16 +88491,15 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 852-1 à R. 852-2 
-</td>
+R. 852-1 à R. 852-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88020,7 +88507,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 I des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+Résultant du décret n° 2015-1185 du 28 septembre 2015portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -88044,7 +88531,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </td></tr>
     <tr>
       <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 872-1 à R. 872-6</td>
@@ -88062,16 +88549,14 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2016-725 du 1er juin 2016
+  - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
-  - Code de la sécurité intérieure - art. R811-1
-  - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R852-1
-  - Code de la sécurité intérieure - art. R853-1
+  - Décret n°2017-749 du 3 mai 2017
+  - Décret n°2017-1218 du 2 août 2017
 
 _Modifié par_:
 
-  - Décret n°2017-749 du 3 mai 2017 - art. 2
+  - Décret n°2017-1218 du 2 août 2017 - art. 3
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=963></a>
@@ -88100,22 +88585,18 @@ Au titre Ier</td>
     <tr>
       <td align="left">
 
-R. 811-1 
-</td>
+R. 811-1 </td>
       <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+Résultant du décret n° 2015-1185 du 28 septembre 2015portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 811-2 
-</td>
+R. 811-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017
-
-</td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>Au titre II</td>
@@ -88123,11 +88604,11 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 821-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>Au titre IV</td>
@@ -88135,9 +88616,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017
     </td></tr>
     <tr>
       <td>R. 841-2</td>
-      <td>Résultant du décret n° 2016-725 du 1er juin 2016 modifiant le décret n° 2007-914 du 15 mai 2007 pris pour
-l'application du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés</td>
+      <td>Résultant du décret n° 2017-1218 du 2 août 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88155,7 +88634,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-1-1</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 851-2 à R. 851-4</td>
@@ -88163,13 +88642,12 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 852-1 à R. 852-2 
-</td>
+R. 852-1 à R. 852-2 </td>
       <td>
 
 Résultant du décret n° 2017-36 du 16 janvier 2017</td>
@@ -88180,7 +88658,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
 I des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+Résultant du décret n° 2015-1185 du 28 septembre 2015portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -88204,7 +88682,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </td></tr>
     <tr>
       <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 872-1 à R. 872-6</td>
@@ -88222,16 +88700,14 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
 _Cite_:
 
   - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2016-725 du 1er juin 2016
+  - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
-  - Code de la sécurité intérieure - art. R811-1
-  - Code de la sécurité intérieure - art. R811-2
-  - Code de la sécurité intérieure - art. R852-1
-  - Code de la sécurité intérieure - art. R853-1
+  - Décret n°2017-749 du 3 mai 2017
+  - Décret n°2017-1218 du 2 août 2017
 
 _Modifié par_:
 
-  - Décret n°2017-749 du 3 mai 2017 - art. 2
+  - Décret n°2017-1218 du 2 août 2017 - art. 3
 
 
 ## Annexes<a id=964></a>
