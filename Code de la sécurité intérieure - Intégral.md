@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-08-06
+Version Consolidée au 2017-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -24565,6 +24565,10 @@ d) D'exploiter des postes d'enregistrement des paris relatifs aux courses de che
 
 e) De faire courir des lévriers de course ;
 
+f) D'exploiter des postes d'enregistrement de jeux de loterie ;
+
+g) D'exploiter des postes d'enregistrement de jeux de pronostics sportifs ;
+
 2° Agrément :
 
 a) Des directeurs et des membres des comités de direction des casinos autorisés ainsi que des personnes employées dans les
@@ -24592,12 +24596,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-914 du 9 mai 2017 - art. 1 (V)
+  - Décret n°2017-1306 du 25 août 2017 - art. 1
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L321-5 (V)
-  - Code de la sécurité intérieure - art. R114-1 (VD)
+  - Code de la sécurité intérieure - art. L321-5
+  - Code de la sécurité intérieure - art. R114-1
 
 
 ###### Article R114-4
