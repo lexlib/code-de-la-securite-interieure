@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-10-31
+Version Consolidée au 2017-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -23718,21 +23718,24 @@ _Anciens textes_:
 
 ###### Article L851-2
 
-I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seuls besoins de la prévention du
+I. - Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seuls besoins de la prévention du
 terrorisme, peut être individuellement autorisé le recueil en temps réel, sur les réseaux des opérateurs et des personnes
 mentionnés à l'article L. 851-1, des informations ou documents mentionnés au même article L. 851-1 relatifs à une personne
-préalablement identifiée susceptible d'être en lien avec une menace. Lorsqu'il existe des raisons sérieuses de penser qu'une
-ou plusieurs personnes appartenant à l'entourage de la personne concernée par l'autorisation sont susceptibles de fournir des
-informations au titre de la finalité qui motive l'autorisation, celle-ci peut être également accordée individuellement pour
-chacune de ces personnes. 
+préalablement identifiée susceptible d'être en lien avec une menace.
 
-II.-L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
+II. - L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
+
+**Nota:**
+
+Décision n° 2017-648 QPC du 4 août 2017 (NOR: CSCX1723050S), Article 1 : La seconde phrase du paragraphe I de l'article L.
+851-2 du code de la sécurité intérieure dans sa rédaction résultant de la loi n° 2016-987 du 21 juillet 2016 est contraire à
+la Constitution.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-987 du 21 juillet 2016 - art. 15
+  - Décision n°2017-648 QPC du 4 août 2017 - art. 1, v. init.
 
 _Cite_:
 
