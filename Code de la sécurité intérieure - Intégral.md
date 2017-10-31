@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-11-01
+Version Consolidée au 2017-11-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -23383,29 +23383,32 @@ _Anciens textes_:
 
 ###### Article L851-2
 
-I. - Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seuls besoins de la prévention du
+I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seuls besoins de la prévention du
 terrorisme, peut être individuellement autorisé le recueil en temps réel, sur les réseaux des opérateurs et des personnes
 mentionnés à l'article L. 851-1, des informations ou documents mentionnés au même article L. 851-1 relatifs à une personne
-préalablement identifiée susceptible d'être en lien avec une menace.
+préalablement identifiée susceptible d'être en lien avec une menace. Lorsqu'il existe des raisons sérieuses de penser qu'une
+ou plusieurs personnes appartenant à l'entourage de la personne concernée par l'autorisation sont susceptibles de fournir des
+informations au titre de la finalité qui motive l'autorisation, celle-ci peut être également accordée individuellement pour
+chacune de ces personnes. 
 
-II. - L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
+I bis.-Le nombre maximal des autorisations délivrées en application du présent article en vigueur simultanément est arrêté
+par le Premier ministre, après avis de la Commission nationale de contrôle des techniques de renseignement. La décision
+fixant ce contingent et sa répartition entre les ministres mentionnés au premier alinéa de l'article L. 821-2 ainsi que le
+nombre d'autorisations d'interception délivrées sont portés à la connaissance de la commission. 
 
-**Nota:**
-
-Décision n° 2017-648 QPC du 4 août 2017 (NOR: CSCX1723050S), Article 1 : La seconde phrase du paragraphe I de l'article L.
-851-2 du code de la sécurité intérieure dans sa rédaction résultant de la loi n° 2016-987 du 21 juillet 2016 est contraire à
-la Constitution.
+II.-L'article L. 821-5 n'est pas applicable à une autorisation délivrée en application du présent article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décision n°2017-648 QPC du 4 août 2017 - art. 1, v. init.
+  - Loi n°2017-1510 du 30 octobre 2017 - art. 15 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L821-5 (V)
-  - Code de la sécurité intérieure - art. L851-1 (V)
+  - Code de la sécurité intérieure - art. L821-2 (V)
+  - Code de la sécurité intérieure - art. L821-5
+  - Code de la sécurité intérieure - art. L851-1
 
 _Cité par_:
 
