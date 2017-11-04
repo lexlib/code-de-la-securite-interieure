@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-11-01 00:00:01 +0100
+Version Consolidée au 2017-11-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -32769,7 +32769,8 @@ Le récépissé valant justification de l'identité prévu à l'article L. 224-1
 
 5° La nationalité ; 
 
-6° Le domicile ou la résidence de l'intéressé ou, le cas échéant, sa commune de rattachement ; 
+6° Le domicile ou la résidence de l'intéressé ou, le cas échéant, le lieu où il a fait élection de domicile dans les
+conditions prévues à l'article L. 264-1 du code de l'action sociale et des familles ; 
 
 7° L'autorité d'établissement du récépissé et ses dates d'établissement et d'expiration ; 
 
@@ -32783,17 +32784,18 @@ Il comporte également la photographie et la signature du titulaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-26 du 14 janvier 2015 - art. 1
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 7
 
 _Cite_:
 
+  - Code de l'action sociale et des familles - art. L264-1
   - Code de la sécurité intérieure - art. L224-1
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. R224-2 (M)
+  - Code de la sécurité intérieure - art. R224-2 (V)
   - Code de la sécurité intérieure - art. R224-4 (V)
   - Code de la sécurité intérieure - art. R285-1 (M)
   - Code de la sécurité intérieure - art. R286-1 (M)
@@ -32803,9 +32805,9 @@ _Cité par_:
 
 ###### Article R224-2
 
-Le récépissé est établi par le préfet du département dans lequel se situe le domicile, la résidence ou la commune de
-rattachement de la personne concernée ou, le cas échéant, par le préfet du département dans lequel elle séjourne. A Paris, le
-récépissé est établi par le préfet de police. 
+Le récépissé est établi par le préfet du département dans lequel se situe le domicile, la résidence ou le lieu d'élection de
+domicile, au sens de l'article L. 264-1 du code de l'action sociale et des familles, de la personne concernée ou, le cas
+échéant, par le préfet du département dans lequel elle séjourne. A Paris, le récépissé est établi par le préfet de police. 
 
 La carte nationale d'identité et le passeport invalidés sont restitués à l'autorité mentionnée au premier alinéa ou, le cas
 échéant, aux services de police ou de gendarmerie. Lors de cette restitution, la personne concernée obtient la remise du
@@ -32820,13 +32822,14 @@ restitution de l'ancien récépissé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-26 du 14 janvier 2015 - art. 1
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 7
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R224-1
+  - Code de l'action sociale et des familles - art. L264-1 (V)
+  - Code de la sécurité intérieure - art. R224-1 (V)
 
 _Cité par_:
 
@@ -38566,15 +38569,18 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="left">
 
-R. 224-1 à R. 224-6
+R. 224-1 et R. 224-2
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger
+Résultant du décret n° 2017-1522 du 2 novembre 2017
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 224-3 à R. 224-6</td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
     </tr>
     <tr>
       <td>
@@ -38953,13 +38959,13 @@ _Cite_:
   - Décret n°2014-901 du 18 août 2014
   - Décret n°2014-1095 du 26 septembre 2014
   - Décret n°2014-1253 du 27 octobre 2014
-  - Décret n°2014-1641 du 26 décembre 2014 (V)
+  - Décret n°2014-1641 du 26 décembre 2014
   - Décret n°2015-26 du 14 janvier 2015
   - Décret n°2015-1328 du 21 octobre 2015
   - Décret n°2016-1045 du 29 juillet 2016
-  - Décret n°2017-587 du 20 avril 2017 (V)
-  - Décret n°2017-1216 du 2 août 2017 (V)
-  - Décret n°2017-1218 du 2 août 2017 (V)
+  - Décret n°2017-587 du 20 avril 2017
+  - Décret n°2017-1216 du 2 août 2017
+  - Décret n°2017-1218 du 2 août 2017
   - Code de la sécurité intérieure - art. L232-7
   - Code de la sécurité intérieure - art. R232-14
   - Code de la sécurité intérieure - art. R232-15
@@ -38970,47 +38976,48 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1217 du 2 août 2017 - art. 10
-  - Décret n°2017-1216 du 2 août 2017 - art. 4
-  - Décret n°2017-1218 du 2 août 2017 - art. 3
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cité par_:
 
   - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
   - Code de la sécurité intérieure - art. D285-2 (VD)
-  - Code de la sécurité intérieure - art. R285-3 (VD)
+  - Code de la sécurité intérieure - art. R285-3 (V)
 
 
 ###### Article R285-3
 
-Pour l'application des dispositions énumérées aux articles R. 285-1 et D. 285-2 : 
+Pour l'application des dispositions énumérées aux articles R. 285-1 et D. 285-2 :
 
-1° La référence au département est remplacée par la référence à la Polynésie française ; 
+1° La référence au département est remplacée par la référence à la Polynésie française ;
 
 2° Les références au préfet de département, au représentant de l'Etat dans le département et au préfet de région sont
-remplacées par la référence au haut-commissaire de la République en Polynésie française ; 
+remplacées par la référence au haut-commissaire de la République en Polynésie française ;
 
 3° La référence au préfet de zone de défense et de sécurité est remplacée par la référence au haut fonctionnaire de défense
-et de sécurité ; 
+et de sécurité ;
 
 4° La référence au commandant de groupement de gendarmerie départementale est remplacée par la référence au commandant de la
-gendarmerie pour la Polynésie française ; 
+gendarmerie pour la Polynésie française ;
 
 5° La référence au directeur départemental de la sécurité publique est remplacée par la référence au directeur de la sécurité
-publique ; 
+publique ;
 
 6° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de
-vidéoprotection ; 
+vidéoprotection ;
 
 7° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D.
-331-1 du code du sport, " sont supprimés ; 
+331-1 du code du sport, " sont supprimés ;
 
-8° A l'article R. 236-16, le mot : " départemental " est supprimé ; 
+7° bis Aux articles R. 224-1 et R. 224-2, la référence à l'article L. 264-1 du code de l'action sociale et des familles est
+remplacée par la référence à la réglementation applicable localement ;
 
-9° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Polynésie française " ; 
+8° A l'article R. 236-16, le mot : " départemental " est supprimé ;
+
+9° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Polynésie française " ;
 
 10° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme
-consulaire local territorialement compétents " ; 
+consulaire local territorialement compétents " ;
 
 11° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
 Journal officiel de la Polynésie française ".
@@ -39023,7 +39030,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-130 du 5 février 2015 - art. 3
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cite_:
 
@@ -39033,7 +39040,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R251-7
   - Code de la sécurité intérieure - art. R251-8
   - Code de la sécurité intérieure - art. R252-10
-  - Code de la sécurité intérieure - art. R285-1
+  - Code de la sécurité intérieure - art. R285-1 (M)
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=475></a>
@@ -39191,17 +39198,18 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="left">
 
-R. 224-1 à R. 224-6
+R. 224-1 et R. 224-2
 
 </td>
       <td align="left">
 
-Résultant du 
-décret n° 2015-26 du 14 janvier 2015 
-relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
-terroristes à l'étranger
+Résultant du décret n° 2017-1522 du 2 novembre 2017
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 224-3 à R. 224-6</td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
     </tr>
     <tr>
       <td>
@@ -39558,59 +39566,60 @@ _Cite_:
   - Décret n°2014-901 du 18 août 2014
   - Décret n°2014-1095 du 26 septembre 2014
   - Décret n°2014-1253 du 27 octobre 2014
-  - Décret n°2014-1641 du 26 décembre 2014 (V)
+  - Décret n°2014-1641 du 26 décembre 2014
   - Décret n°2015-26 du 14 janvier 2015
   - Décret n°2015-1328 du 21 octobre 2015
   - Décret n°2016-1045 du 29 juillet 2016
-  - Décret n°2017-587 du 20 avril 2017 (V)
+  - Décret n°2017-587 du 20 avril 2017
   - Décret n°2017-1216 du 2 août 2017
-  - Décret n°2017-1218 du 2 août 2017 (V)
+  - Décret n°2017-1218 du 2 août 2017
   - Code de la sécurité intérieure - art. L232-7
   - Code de la sécurité intérieure - art. R232-14
   - Code de la sécurité intérieure - art. R232-15
 
 _Modifié par_:
 
-  - Décret n°2017-1217 du 2 août 2017 - art. 10
-  - Décret n°2017-1216 du 2 août 2017 - art. 4
-  - Décret n°2017-1218 du 2 août 2017 - art. 3
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cité par_:
 
   - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
-  - Code de la sécurité intérieure - art. R286-3 (VD)
+  - Code de la sécurité intérieure - art. R286-3 (V)
 
 
 ###### Article R286-3
 
-Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286-2 : 
+Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286-2 :
 
-1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ; 
+1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
 2° Les références au préfet de département, au représentant de l'Etat dans le département et au préfet de région sont
-remplacées par la référence au haut-commissaire de la République en Nouvelle-Calédonie ; 
+remplacées par la référence au haut-commissaire de la République en Nouvelle-Calédonie ;
 
 3° La référence au préfet de zone de défense et de sécurité est remplacée par la référence au haut fonctionnaire de défense
-et de sécurité ; 
+et de sécurité ;
 
 4° La référence au commandant de groupement de gendarmerie départementale est remplacée par la référence au commandant de la
-gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ; 
+gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
 5° La référence au directeur départemental de la sécurité publique est remplacée par la référence au directeur de la sécurité
-publique ; 
+publique ;
 
 6° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de
-vidéoprotection ; 
+vidéoprotection ;
 
 7° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D.
-331-1 du code du sport, " sont supprimés ; 
+331-1 du code du sport, " sont supprimés ;
 
-8° A l'article R. 236-16, le mot : " départemental " est supprimé ; 
+7° bis Aux articles R. 224-1 et R. 224-2, la référence à l'article L. 264-1 du code de l'action sociale et des familles est
+remplacée par la référence à la réglementation applicable localement ;
 
-9° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Nouvelle-Calédonie " ; 
+8° A l'article R. 236-16, le mot : " départemental " est supprimé ;
+
+9° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Nouvelle-Calédonie " ;
 
 10° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme
-consulaire local territorialement compétents " ; 
+consulaire local territorialement compétents " ;
 
 11° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
 Journal officiel de la Nouvelle-Calédonie ".
@@ -39623,7 +39632,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-130 du 5 février 2015 - art. 3
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cite_:
 
@@ -39632,7 +39641,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R251-7
   - Code de la sécurité intérieure - art. R251-8
   - Code de la sécurité intérieure - art. R252-10
-  - Code de la sécurité intérieure - art. R286-1
+  - Code de la sécurité intérieure - art. R286-1 (M)
 
 
 #### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=476></a>
@@ -39772,17 +39781,18 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="left">
 
-R. 224-1 à R. 224-6
+R. 224-1 et R. 224-2
 
 </td>
       <td align="left">
 
-Résultant du 
-décret n° 2015-26 du 14 janvier 2015 
-relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
-terroristes à l'étranger
+Résultant du décret n° 2017-1522 du 2 novembre 2017
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 224-3 à R. 224-6</td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
     </tr>
     <tr>
       <td>
@@ -39910,7 +39920,7 @@ R. 236-1
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1216 du 2 août 2017  
+Résultant du décret n° 2017-1216 du 2 août 2017
 
 </td>
     </tr>
@@ -40190,53 +40200,55 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1217 du 2 août 2017 - art. 10
-  - Décret n°2017-1216 du 2 août 2017 - art. 4
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cité par_:
 
   - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
-  - Code de la sécurité intérieure - art. R287-3 (VD)
+  - Code de la sécurité intérieure - art. R287-3 (V)
 
 
 ###### Article R287-3
 
-Pour l'application des dispositions énumérées aux articles R. 287-1 et D. 287-2 : 
+Pour l'application des dispositions énumérées aux articles R. 287-1 et D. 287-2 :
 
-1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ; 
+1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
 
 2° Les références au préfet de département, au représentant de l'Etat dans le département et au préfet de région sont
-remplacées par la référence à l'administrateur supérieur des îles Wallis et Futuna ; 
+remplacées par la référence à l'administrateur supérieur des îles Wallis et Futuna ;
 
 3° La référence au préfet de zone de défense et de sécurité est remplacée par la référence au haut fonctionnaire de défense
-et de sécurité ; 
+et de sécurité ;
 
 4° La référence au commandant de groupement de gendarmerie départementale est remplacée par la référence au commandant de la
-gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ; 
+gendarmerie pour la Nouvelle-Calédonie et les îles Wallis et Futuna ;
 
-5° La référence au maire est remplacée par la référence au chef de la circonscription territoriale ; 
+5° La référence au maire est remplacée par la référence au chef de la circonscription territoriale ;
 
-6° Les références à la commune et à la mairie sont remplacées par la référence à la circonscription ; 
+6° Les références à la commune et à la mairie sont remplacées par la référence à la circonscription ;
 
 7° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de
-vidéoprotection ; 
+vidéoprotection ;
 
-8° Les références aux dispositions du titre Ier du livre III du présent code sont supprimées ; 
+8° Les références aux dispositions du titre Ier du livre III du présent code sont supprimées ;
 
 9° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D.
-331-1 du code du sport, " sont supprimés ; 
+331-1 du code du sport, " sont supprimés ;
+
+9° bis Aux articles R. 224-1 et R. 224-2, la référence à l'article L. 264-1 du code de l'action sociale et des familles est
+remplacée par la référence à la réglementation applicable localement ;
 
 10° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " Dans les îles Wallis et
-Futuna " ; 
+Futuna " ;
 
-11° L'article R. 251-8 est ainsi modifié : 
+11° L'article R. 251-8 est ainsi modifié :
 
-a) Le 2° est ainsi rédigé : 
+a) Le 2° est ainsi rédigé :
 
-" 2° Un chef de circonscription désigné par le représentant de l'Etat ; " ; 
+" 2° Un chef de circonscription désigné par le représentant de l'Etat ; " ;
 
 b) Au 3°, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme consulaire local
-territorialement compétents " ; 
+territorialement compétents " ;
 
 12° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
 Journal officiel du territoire des îles Wallis et Futuna ".
@@ -40249,7 +40261,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cite_:
 
@@ -40257,7 +40269,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R251-7
   - Code de la sécurité intérieure - art. R251-8
   - Code de la sécurité intérieure - art. R252-10
-  - Code de la sécurité intérieure - art. R287-1 (VD)
+  - Code de la sécurité intérieure - art. R287-1 (M)
 
 
 #### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=477></a>
@@ -40397,17 +40409,18 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="left">
 
-R. 224-1 à R. 224-6
+R. 224-1 et R. 224-2
 
 </td>
       <td align="left">
 
-Résultant du 
-décret n° 2015-26 du 14 janvier 2015 
-relatif à l'interdiction de sortie du territoire des ressortissants français projetant de participer à des activités
-terroristes à l'étranger
+Résultant du décret n° 2017-1522 du 2 novembre 2017
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 224-3 à R. 224-6</td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
     </tr>
     <tr>
       <td>
@@ -40774,39 +40787,41 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1217 du 2 août 2017 - art. 10
-  - Décret n°2017-1216 du 2 août 2017 - art. 4
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cité par_:
 
   - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
   - Code de la sécurité intérieure - art. D288-2 (VD)
-  - Code de la sécurité intérieure - art. R288-3 (VD)
+  - Code de la sécurité intérieure - art. R288-3 (V)
 
 
 ###### Article R288-3
 
-Pour l'application des dispositions énumérées aux articles R. 288-1 et D. 288-2 : 
+Pour l'application des dispositions énumérées aux articles R. 288-1 et D. 288-2 :
 
-1° La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ; 
+1° La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ;
 
 2° Les références au préfet de département, au représentant de l'Etat dans le département et au préfet de région sont
-remplacées par la référence à l'administrateur supérieur des Terres australes et antarctiques françaises ; 
+remplacées par la référence à l'administrateur supérieur des Terres australes et antarctiques françaises ;
 
 3° La référence au préfet de zone de défense et de sécurité est remplacée par la référence au haut fonctionnaire de défense
-et de sécurité ; 
+et de sécurité ;
 
-4° Les références à la commune et à la mairie sont remplacées par la référence au district ; 
+4° Les références à la commune et à la mairie sont remplacées par la référence au district ;
 
-5° La référence au maire est remplacée par la référence au chef de district ; 
+5° La référence au maire est remplacée par la référence au chef de district ;
 
 6° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de
-vidéoprotection ; 
+vidéoprotection ;
 
-7° Les références aux dispositions du titre Ier du livre III du présent code sont supprimées ; 
+7° Les références aux dispositions du titre Ier du livre III du présent code sont supprimées ;
+
+7° bis Aux articles R. 224-1 et R. 224-2, la référence à l'article L. 264-1 du code de l'action sociale et des familles est
+remplacée par la référence à la réglementation applicable localement ;
 
 8° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " Dans les Terres australes et
-antarctiques françaises " ; 
+antarctiques françaises " ;
 
 9° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : "
 Journal officiel des Terres australes et antarctiques françaises ".
@@ -40815,13 +40830,13 @@ Journal officiel des Terres australes et antarctiques françaises ".
 
 _Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. R251-7
   - Code de la sécurité intérieure - art. R252-10
-  - Code de la sécurité intérieure - art. R288-1
+  - Code de la sécurité intérieure - art. R288-1 (M)
 
 
 ## LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES<a id=478></a>
@@ -41718,8 +41733,8 @@ _Cité par_:
 
 ###### Article R312-2
 
-Les autorisations mentionnées aux articlesR. 312-26, R. 312-27,R. 312-30,R. 312-37 à R. 312-40,R. 312-44etR. 312-65sont
-délivrées, dans chaque cas, par les autorités suivantes :
+Les autorisations mentionnées aux articles R. 312-26, R. 312-27, R. 312-30, R. 312-37 à R. 312-40, R. 312-44 et R. 312-65
+sont délivrées, dans chaque cas, par les autorités suivantes :
 
 1° (abrogé)
 
@@ -41733,8 +41748,9 @@ siège de l'entreprise ou du théâtre national ;
 4° Pour les autorisations mentionnées aux 1° et 2° de l'article R. 312-40, par le préfet du département du lieu de domicile
 ou du siège de l'association ;
 
-5° Pour les autorisations mentionnées à l'article R. 312-44, par le préfet du département de la commune de rattachement ou,
-en cas d'implantation supérieure à trois mois, du lieu d'implantation de la manifestation ;
+5° Pour les autorisations mentionnées à l'article R. 312-44, par le préfet du département du lieu d'élection de domicile, au
+sens de l'article L. 264-1 du code de l'action sociale et des familles, ou, en cas d'implantation supérieure à trois mois, du
+lieu d'implantation de la manifestation ;
 
 6° Pour les autorisations mentionnées aux articles R. 312-39 et R. 312-65, par le préfet du département du lieu de domicile ;
 
@@ -41754,7 +41770,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 3
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 7
 
 _Cité par_:
 
@@ -52647,7 +52663,7 @@ DISPOSITIONS APPLICABLES</th>
 DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Au titre Ier</td>
     </tr>
@@ -52673,7 +52689,7 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
 R. 312-2</td>
       <td align="justify">
 
-Résultant du décret n° 2017-909 du 9 mai 2017</td>
+Résultant du décret n° 2017-1522 du 2 novembre 2017</td>
     </tr>
     <tr>
       <td align="justify">
@@ -53164,7 +53180,7 @@ R. 317-14</td>
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Au titre III</td>
     </tr>
@@ -53200,11 +53216,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 30
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. R344-3 (M)
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 
 ###### Article R344-2
@@ -55111,7 +55123,7 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
 R. 312-2</td>
       <td align="justify">
 
-Résultant du décret n° 2017-909 du 9 mai 2017</td>
+Résultant du décret n° 2017-1522 du 2 novembre 2017</td>
     </tr>
     <tr>
       <td align="justify">
@@ -55625,7 +55637,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 30
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cite_:
 
@@ -55641,7 +55653,7 @@ _Cite_:
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R345-3 (V)
-  - Code de la sécurité intérieure - art. R345-4 (M)
+  - Code de la sécurité intérieure - art. R345-4 (VD)
 
 
 ###### Article R345-2
@@ -89553,7 +89565,8 @@ Article 10
 Le responsable des forces de sécurité de l'Etat et le responsable de la police municipale, ou leurs représentants, se
 réunissent périodiquement pour échanger toutes informations utiles relatives à l'ordre, la sécurité et la tranquillité
 publics dans la commune, en vue de l'organisation matérielle des missions prévues par la présente convention. L'ordre du jour
-de ces réunions est adressé au procureur de la République qui y participe ou s'y fait représenter s'il l'estime nécessaire. 
+de ces réunions est adressé au procureur de la République qui y participe ou s'y fait représenter s'il l'estime nécessaire.
+Lors de ces réunions, il sera systématiquement fait un état des résultats enregistrés en matière de sécurité routière. 
 
 Ces réunions sont organisées selon les modalités suivantes (à compléter en ce qui concerne la fréquence, les lieux et autres
 modalités, en particulier celles relatives à l'information ou à la participation du maire et du représentant de l'Etat) :
@@ -89587,7 +89600,9 @@ les forces de sécurité de l'Etat.
 
 Article 13 
 
-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par les articles L.
+Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale ainsi que celles
+concernant la sécurité routière notamment celles relatives aux vérifications des droits à conduire, aux conduites avec alcool
+ou après usage de stupéfiants ou encore aux vérifications liées à la personne ou au véhicule prévues par les articles L.
 221-2, 
 L. 223-5, 
 L. 224-16, L. 224-17, L. 224-18, 
@@ -89621,8 +89636,8 @@ disposition (à préciser) ;
 
 Elles veilleront ainsi à la transmission réciproque des données ainsi que des éléments de contexte concourant à
 l'amélioration du service dans le strict respect de leurs prérogatives, de leurs missions propres et des règles qui encadrent
-la communication des données. Dans ce cadre, elles partageront les informations utiles, notamment dans les domaines suivants
-(à préciser) ; 
+la communication des données. Dans ce cadre, elles partageront les informations utiles, notamment en matière d'accidentalité
+et de sécurité routière ainsi que dans les domaines suivants (à préciser) ; 
 
 3° De la communication opérationnelle, par le prêt exceptionnel de matériel radio permettant l'accueil de la police
 municipale sur les réseaux Rubis ou Acropol afin d'échanger des informations opérationnelles au moyen d'une communication
@@ -89644,9 +89659,21 @@ préciser) ;
 
 6° De la prévention des violences urbaines et de la coordination des actions en situation de crise ; 
 
-7° De la sécurité routière, par l'élaboration conjointe d'une stratégie locale de contrôle s'inscrivant dans le respect des
-instructions du préfet et du procureur de la République ainsi que par la définition conjointe des besoins et des réponses
-apportées en matière de fourrière automobile (à préciser) ; 
+7° De la sécurité routière, par l'élaboration conjointe d'actions de prévention en direction de publics considérés comme
+vulnérables et d'une stratégie locale de contrôle, dans le respect des instructions du préfet et du procureur de la
+République. Elles peuvent utilement s'appuyer sur les documents d'analyse de l'accidentalité routière enregistrée sur le
+territoire de la commune et transmis par les observatoires départementaux de sécurité routière. La stratégie de contrôle
+intègre pleinement les nouvelles capacités de contrôle offertes aux polices municipales par l'accès au système
+d'immatriculation des véhicules et au système national des permis de conduire ainsi que les évolutions législatives
+permettant une coopération renforcée dans le domaine de la lutte contre l'insécurité routière. Les dispositifs de
+vidéoprotection peuvent également participer à la lutte contre l'insécurité routière par la mise en œuvre des dispositions du
+4° de l'article L. 251-2 du code de la sécurité intérieure et de ses textes d'application. 
+
+Cette stratégie de contrôle s'attache également à définir de manière conjointe les besoins et les réponses à apporter en
+matière de fourrière automobile notamment au regard des dispositions du code de la route permettant le contrôle du permis de
+conduire et de l'attestation d'assurance des véhicules ainsi que leur immobilisation et mise en fourrière à la suite
+d'infractions pour lesquelles la peine complémentaire de confiscation ou de confiscation obligatoire du véhicule est encourue
+(à préciser) ; 
 
 8° De la prévention, par la précision du rôle de chaque service dans les opérations destinées à assurer la tranquillité
 pendant les périodes de vacances, à lutter contre les hold-up, à protéger les personnes vulnérables, ou dans les relations
@@ -89703,30 +89730,27 @@ précisées en liaison avec l'Association des maires de France.
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
-  - Code de procédure pénale - art. 21-2 (V)
-  - Code de procédure pénale - art. 78-6 (V)
-  - Code de la route. - art. L221-2 (V)
-  - Code de la route. - art. L223-5 (V)
-  - Code de la route. - art. L224-16 (V)
-  - Code de la route. - art. L231-2 (V)
-  - Code de la route. - art. L233-1 (V)
-  - Code de la route. - art. L234-1 (V)
-  - Code de la route. - art. L235-2 (V)
-  - Code de la sécurité intérieure - art. L512-4 (V)
-  - Code de la sécurité intérieure - art. R512-5 (VD)
+  - Loi n°78-17 du 6 janvier 1978
+  - Code de procédure pénale - art. 21-2
+  - Code de procédure pénale - art. 78-6
+  - Code de la route. - art. L221-2
+  - Code de la route. - art. L223-5
+  - Code de la route. - art. L224-16
+  - Code de la route. - art. L231-2
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L235-2
+  - Code de la sécurité intérieure - art. L251-2 (VT)
+  - Code de la sécurité intérieure - art. L512-4
+  - Code de la sécurité intérieure - art. R512-5
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. Annexe IV-I (VT)
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 9
 
 
 ###### Article Annexe 2
@@ -89856,7 +89880,8 @@ des communes membres de l'établissement public de coopération intercommunale, 
 périodiquement pour échanger toutes informations utiles relatives à l'ordre, la sécurité et la tranquillité publics dans
 chacune des communes membres de l'établissement public de coopération intercommunale, en vue de l'organisation matérielle des
 missions prévues par la présente convention. L'ordre du jour de ces réunions est adressé au procureur (ou aux procureurs) de
-la République qui y participe (nt) ou s'y fait (font) représenter s'il (s) l'estime (nt) nécessaire. 
+la République qui y participe (nt) ou s'y fait (font) représenter s'il (s) l'estime (nt) nécessaire. Lors de ces réunions, il
+sera systématiquement fait un état des résultats enregistrés en matière de sécurité routière. 
 
 Ces réunions sont organisées selon les modalités suivantes (à compléter en ce qui concerne la fréquence, les lieux et autres
 modalités, en particulier celles relatives à l'information ou à la participation des maires et du représentant [ou des
@@ -89897,7 +89922,9 @@ l'Etat.
 
 Article 13 
 
-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par les articles L.
+Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale ainsi que celles
+concernant la sécurité routière notamment celles relatives aux vérifications des droits à conduire, aux conduites avec alcool
+ou après usage de stupéfiants ou encore aux vérifications liées à la personne ou au véhicule prévues par les articles L.
 221-2, L. 223-5, L. 224-16, L. 224-17, L. 224-18, L. 231-2, L. 233-1, L. 233-2, L. 234-1 à L. 234-9 et L. 235-2 du code de la
 route, les agents de police municipale des communes membres de l'établissement public de coopération intercommunale doivent
 pouvoir joindre à tout moment un officier de police judiciaire territorialement compétent. A cette fin, le responsable (ou
@@ -89930,8 +89957,8 @@ disposition (à préciser) ;
 
 Elles veilleront ainsi à la transmission réciproque des données ainsi que des éléments de contexte concourant à
 l'amélioration du service dans le strict respect de leurs prérogatives, de leurs missions propres et des règles qui encadrent
-la communication des données. Dans ce cadre, elles partageront ainsi les informations utiles, notamment dans les domaines
-suivants (à préciser) ; 
+la communication des données. Dans ce cadre, elles partageront ainsi les informations utiles, notamment en matière
+d'accidentalité et de sécurité routière ainsi que dans les domaines suivants (à préciser) ; 
 
 3° De la communication opérationnelle, par le prêt exceptionnel de matériel radio permettant l'accueil de la police
 municipale sur les réseaux " Rubis " ou " Acropol " afin d'échanger des informations opérationnelles au moyen d'une
@@ -89953,9 +89980,21 @@ concrètes d'engagement de ces missions (à préciser) ;
 
 6° De la prévention des violences urbaines et de la coordination des actions en situation de crise ; 
 
-7° De la sécurité routière, par l'élaboration conjointe d'une stratégie locale de contrôle s'inscrivant dans le respect des
-instructions du préfet (ou des préfets) et du procureur (ou des procureurs) de la République ainsi que par la définition
-conjointe des besoins et des réponses apportées en matière de fourrière automobile (à préciser) ; 
+7° De la sécurité routière, par l'élaboration conjointe d'actions de prévention en direction de publics considérés comme
+vulnérables et d'une stratégie locale de contrôle, dans le respect des instructions du préfet et du procureur de la
+République. Elles peuvent utilement s'appuyer sur les documents d'analyse de l'accidentalité routière enregistrée sur le
+territoire de la commune et transmis par les observatoires départementaux de sécurité routière. La stratégie de contrôle
+intègre pleinement les nouvelles capacités de contrôle offertes aux polices municipales par l'accès au système
+d'immatriculation des véhicules et au système national des permis de conduire ainsi que les évolutions législatives
+permettant une coopération renforcée dans le domaine de la lutte contre l'insécurité routière. Les dispositifs de
+vidéoprotection peuvent également participer à la lutte contre l'insécurité routière par la mise en œuvre des dispositions du
+4° de l'article L. 251-2 du code de la sécurité intérieure et de ses textes d'application. 
+
+Cette stratégie de contrôle s'attache également à définir de manière conjointe les besoins et les réponses à apporter en
+matière de fourrière automobile notamment au regard des dispositions du code de la route permettant le contrôle du permis de
+conduire et de l'attestation d'assurance des véhicules ainsi que leur immobilisation et mise en fourrière à la suite
+d'infractions pour lesquelles la peine complémentaire de confiscation ou de confiscation obligatoire du véhicule est encourue
+(à préciser) ; 
 
 8° De la prévention, par la précision du rôle de chaque service dans les opérations destinées à assurer la tranquillité
 pendant les périodes de vacances, à lutter contre les hold-up, à protéger les personnes vulnérables, ou dans les relations
@@ -90015,30 +90054,27 @@ précisées en liaison avec l'Association des maires de France.
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
-  - Code de procédure pénale - art. 21-2 (V)
-  - Code de procédure pénale - art. 78-6 (V)
-  - Code de la route. - art. L221-2 (V)
-  - Code de la route. - art. L223-5 (V)
-  - Code de la route. - art. L224-16 (V)
-  - Code de la route. - art. L231-2 (V)
-  - Code de la route. - art. L233-1 (V)
-  - Code de la route. - art. L234-1 (V)
-  - Code de la route. - art. L235-2 (V)
-  - Code de la sécurité intérieure - art. L512-5 (V)
-  - Code de la sécurité intérieure - art. R512-5 (VD)
+  - Loi n°78-17 du 6 janvier 1978
+  - Code de procédure pénale - art. 21-2
+  - Code de procédure pénale - art. 78-6
+  - Code de la route. - art. L221-2
+  - Code de la route. - art. L223-5
+  - Code de la route. - art. L224-16
+  - Code de la route. - art. L231-2
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L235-2
+  - Code de la sécurité intérieure - art. L251-2 (VT)
+  - Code de la sécurité intérieure - art. L512-5
+  - Code de la sécurité intérieure - art. R512-5
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. Annexe IV-II (VT)
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 9
 
 
 ###### Article Annexe 3
