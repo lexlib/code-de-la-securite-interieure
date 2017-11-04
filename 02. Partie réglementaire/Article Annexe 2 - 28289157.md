@@ -125,7 +125,8 @@ des communes membres de l'établissement public de coopération intercommunale, 
 périodiquement pour échanger toutes informations utiles relatives à l'ordre, la sécurité et la tranquillité publics dans
 chacune des communes membres de l'établissement public de coopération intercommunale, en vue de l'organisation matérielle des
 missions prévues par la présente convention. L'ordre du jour de ces réunions est adressé au procureur (ou aux procureurs) de
-la République qui y participe (nt) ou s'y fait (font) représenter s'il (s) l'estime (nt) nécessaire. 
+la République qui y participe (nt) ou s'y fait (font) représenter s'il (s) l'estime (nt) nécessaire. Lors de ces réunions, il
+sera systématiquement fait un état des résultats enregistrés en matière de sécurité routière. 
 
 Ces réunions sont organisées selon les modalités suivantes (à compléter en ce qui concerne la fréquence, les lieux et autres
 modalités, en particulier celles relatives à l'information ou à la participation des maires et du représentant [ou des
@@ -166,7 +167,9 @@ l'Etat.
 
 Article 13 
 
-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par les articles L.
+Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale ainsi que celles
+concernant la sécurité routière notamment celles relatives aux vérifications des droits à conduire, aux conduites avec alcool
+ou après usage de stupéfiants ou encore aux vérifications liées à la personne ou au véhicule prévues par les articles L.
 221-2, L. 223-5, L. 224-16, L. 224-17, L. 224-18, L. 231-2, L. 233-1, L. 233-2, L. 234-1 à L. 234-9 et L. 235-2 du code de la
 route, les agents de police municipale des communes membres de l'établissement public de coopération intercommunale doivent
 pouvoir joindre à tout moment un officier de police judiciaire territorialement compétent. A cette fin, le responsable (ou
@@ -199,8 +202,8 @@ disposition (à préciser) ;
 
 Elles veilleront ainsi à la transmission réciproque des données ainsi que des éléments de contexte concourant à
 l'amélioration du service dans le strict respect de leurs prérogatives, de leurs missions propres et des règles qui encadrent
-la communication des données. Dans ce cadre, elles partageront ainsi les informations utiles, notamment dans les domaines
-suivants (à préciser) ; 
+la communication des données. Dans ce cadre, elles partageront ainsi les informations utiles, notamment en matière
+d'accidentalité et de sécurité routière ainsi que dans les domaines suivants (à préciser) ; 
 
 3° De la communication opérationnelle, par le prêt exceptionnel de matériel radio permettant l'accueil de la police
 municipale sur les réseaux " Rubis " ou " Acropol " afin d'échanger des informations opérationnelles au moyen d'une
@@ -222,9 +225,21 @@ concrètes d'engagement de ces missions (à préciser) ;
 
 6° De la prévention des violences urbaines et de la coordination des actions en situation de crise ; 
 
-7° De la sécurité routière, par l'élaboration conjointe d'une stratégie locale de contrôle s'inscrivant dans le respect des
-instructions du préfet (ou des préfets) et du procureur (ou des procureurs) de la République ainsi que par la définition
-conjointe des besoins et des réponses apportées en matière de fourrière automobile (à préciser) ; 
+7° De la sécurité routière, par l'élaboration conjointe d'actions de prévention en direction de publics considérés comme
+vulnérables et d'une stratégie locale de contrôle, dans le respect des instructions du préfet et du procureur de la
+République. Elles peuvent utilement s'appuyer sur les documents d'analyse de l'accidentalité routière enregistrée sur le
+territoire de la commune et transmis par les observatoires départementaux de sécurité routière. La stratégie de contrôle
+intègre pleinement les nouvelles capacités de contrôle offertes aux polices municipales par l'accès au système
+d'immatriculation des véhicules et au système national des permis de conduire ainsi que les évolutions législatives
+permettant une coopération renforcée dans le domaine de la lutte contre l'insécurité routière. Les dispositifs de
+vidéoprotection peuvent également participer à la lutte contre l'insécurité routière par la mise en œuvre des dispositions du
+4° de l'article L. 251-2 du code de la sécurité intérieure et de ses textes d'application. 
+
+Cette stratégie de contrôle s'attache également à définir de manière conjointe les besoins et les réponses à apporter en
+matière de fourrière automobile notamment au regard des dispositions du code de la route permettant le contrôle du permis de
+conduire et de l'attestation d'assurance des véhicules ainsi que leur immobilisation et mise en fourrière à la suite
+d'infractions pour lesquelles la peine complémentaire de confiscation ou de confiscation obligatoire du véhicule est encourue
+(à préciser) ; 
 
 8° De la prévention, par la précision du rôle de chaque service dans les opérations destinées à assurer la tranquillité
 pendant les périodes de vacances, à lutter contre les hold-up, à protéger les personnes vulnérables, ou dans les relations
@@ -284,27 +299,24 @@ précisées en liaison avec l'Association des maires de France.
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
-  - Code de procédure pénale - art. 21-2 (V)
-  - Code de procédure pénale - art. 78-6 (V)
-  - Code de la route. - art. L221-2 (V)
-  - Code de la route. - art. L223-5 (V)
-  - Code de la route. - art. L224-16 (V)
-  - Code de la route. - art. L231-2 (V)
-  - Code de la route. - art. L233-1 (V)
-  - Code de la route. - art. L234-1 (V)
-  - Code de la route. - art. L235-2 (V)
-  - Code de la sécurité intérieure - art. L512-5 (V)
-  - Code de la sécurité intérieure - art. R512-5 (VD)
+  - Loi n°78-17 du 6 janvier 1978
+  - Code de procédure pénale - art. 21-2
+  - Code de procédure pénale - art. 78-6
+  - Code de la route. - art. L221-2
+  - Code de la route. - art. L223-5
+  - Code de la route. - art. L224-16
+  - Code de la route. - art. L231-2
+  - Code de la route. - art. L233-1
+  - Code de la route. - art. L234-1
+  - Code de la route. - art. L235-2
+  - Code de la sécurité intérieure - art. L251-2 (VT)
+  - Code de la sécurité intérieure - art. L512-5
+  - Code de la sécurité intérieure - art. R512-5
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. Annexe IV-II (VT)
+  - Décret n°2017-1523 du 3 novembre 2017 - art. 9
