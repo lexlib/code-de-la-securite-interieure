@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-11-05
+Version Consolidée au 2017-11-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -80019,27 +80019,32 @@ _Créé par_:
 ###### Article R723-20
 
 Les sergents de sapeurs-pompiers volontaires qui ont accompli six années dans leur grade et qui ont acquis les compétences
-correspondant aux formations définies par arrêté du ministre chargé de la sécurité civile peuvent être nommés adjudant.
-Toutefois, cette durée est ramenée à deux ans lorsque l'intéressé exerce les fonctions de chef de centre ou d'adjoint au chef
-de centre.
+correspondant aux formations définies par arrêté du ministre chargé de la sécurité civile peuvent être nommés adjudant. 
+
+Pour assurer la bonne organisation des secours, le conseil d'administration du service départemental d'incendie et de secours
+peut décider, après avis du comité consultatif départemental des sapeurs-pompiers volontaires institué à l'article R. 1424-23
+du code général des collectivités territoriales, de réduire la durée prévue à l'alinéa précédent, dans la limite de deux
+ans. 
+
+Cette durée est ramenée à deux ans lorsque l'intéressé exerce les fonctions de chef de centre ou d'adjoint au chef de centre.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2013-412 du 17 mai 2013 - art. 19 (VT)
-
-_Cité par_:
-
-  - Arrêté du 6 juin 2013 - art. 19 (VD)
 
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Cité par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Arrêté du 6 juin 2013 - art. 19 (VD)
+
+_Modifié par_:
+
+  - Décret n°2017-1610 du 27 novembre 2017 - art. 1
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. R1424-23
 
 
 ###### Article R723-21
@@ -81059,39 +81064,35 @@ _Cite_:
 
 Tout sapeur-pompier volontaire qui a accompli au moins vingt ans d'activité en cette qualité est nommé sapeur-pompier
 volontaire honoraire dans le grade immédiatement supérieur à celui qu'il détient au moment de sa cessation définitive
-d'activité. 
+d'activité.
 
 Par une décision motivée de l'autorité de gestion, l'honorariat peut être accordé dans le grade détenu pour un motif tiré de
 la qualité des services rendus. Il ne peut être accordé dans le cas d'une résiliation d'office de l'engagement pour motif
-disciplinaire prononcée dans les conditions prévues à l'article R. 723-40. 
+disciplinaire prononcée dans les conditions prévues à l'article R. 723-40.
 
 En outre, les anciens sous-officiers de sapeurs-pompiers volontaires chefs de corps ou chefs de centre d'incendie et de
-secours peuvent être nommés dans les mêmes conditions lieutenant honoraire de sapeurs-pompiers volontaires. 
+secours peuvent être nommés dans les mêmes conditions lieutenant honoraire de sapeurs-pompiers volontaires.
 
-La nomination d'un sapeur-pompier volontaire à l'honorariat intervient dans un délai de six mois à compter de la date de
-cessation d'activité. 
+La nomination d'un sapeur-pompier volontaire à l'honorariat intervient dans un délai de douze mois à compter de la date de
+cessation d'activité.
 
 L'honorariat confère le droit de porter dans les cérémonies publiques mentionnées à l'article R. 723-36 et dans les réunions
 de corps l'uniforme du grade concerné.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2013-412 du 17 mai 2013 - art. 58 (VT)
-
 _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2017-1610 du 27 novembre 2017 - art. 1
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R723-36 (VD)
-  - Code de la sécurité intérieure - art. R723-40 (VD)
+  - Code de la sécurité intérieure - art. R723-36
+  - Code de la sécurité intérieure - art. R723-40
 
 _Cité par_:
 
@@ -81486,33 +81487,29 @@ centre ou du groupement intéressé.
 La composition et les modalités de désignation et de fonctionnement des comités de centre ou intercentres sont définies dans
 le règlement intérieur du corps départemental.
 
-Les avis favorables du comité de centre ou intercentres concernant l'engagement de sapeurs-pompiers volontaires sont transmis
-pour information au comité consultatif départemental des sapeurs-pompiers volontaires.
+Les avis du comité de centre ou intercentres concernant l'engagement, le renouvellement d'engagement, les propositions de
+changements de grade des sapeurs-pompiers volontaires sont transmis pour information au comité consultatif départemental des
+sapeurs-pompiers volontaires.
 
-Les refus d'engagement et de renouvellement d'engagement, les propositions de changement de grade et les dossiers de
-validation de l'expérience des sapeurs-pompiers volontaires sont transmis au comité consultatif départemental des sapeurs-
-pompiers volontaires pour avis avant décision de l'autorité de gestion.
+Les dossiers de validation des acquis de l'expérience des sapeurs-pompiers volontaires sont transmis au comité consultatif
+départemental des sapeurs-pompiers volontaires pour avis avant décision de l'autorité de gestion.
 
 Les maires des communes relevant du centre d'incendie et de secours ou leur représentant sont invités à assister aux réunions
 du comité de centre ou intercentres.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2013-412 du 17 mai 2013 - art. 62 (VT)
-
 _Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-_Créé par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 _Cité par_:
 
   - Arrêté du 29 mars 2016 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1610 du 27 novembre 2017 - art. 1
 
 
 ##### Paragraphe 4 : Comité consultatif communal ou intercommunal de sapeurs-pompiers volontaires<a id=874></a>
