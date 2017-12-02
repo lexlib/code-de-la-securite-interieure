@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-12-01
+Version Consolidée au 2017-12-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -59633,56 +59633,48 @@ _Créé par_:
 
 ###### Article R413-32
 
-Le conseil d'administration comprend, outre son président, seize membres : 
+Le conseil d'administration comprend, outre son président, seize membres :
 
-1° Neuf représentants de l'Etat, membres de droit : 
+1° Neuf représentants de l'Etat, membres de droit :
 
-a) Le directeur général de la police nationale ; 
+a) Le secrétaire général du ministère de l'intérieur ;
 
-b) Le directeur des affaires criminelles et des grâces ; 
+b) Le directeur général de la police nationale ;
 
-c) Le directeur des services judiciaires ; 
+c) Le directeur des affaires criminelles et des grâces ;
 
-d) Le directeur général de la gendarmerie nationale ; 
+d) Le directeur des services judiciaires ;
 
-e) Le directeur central de la police judiciaire ; 
+e) Le directeur général de la gendarmerie nationale ;
 
-f) Le directeur central de la sécurité publique ; 
+f) Le directeur central de la police judiciaire ;
 
-g) Le directeur des ressources et des compétences de la police nationale ; 
+g) Le directeur central de la sécurité publique ;
 
-h) Le directeur de l'évaluation de la performance et des affaires financières et immobilières du ministère de l'intérieur ; 
+h) Le directeur des ressources et des compétences de la police nationale ;
 
-i) Le préfet de police ; 
+i) Le préfet de police ;
 
-2° Deux personnalités qualifiées : 
+2° Deux personnalités qualifiées :
 
-a) Une sur proposition du garde des sceaux, ministre de la justice ; 
+a) Une sur proposition du garde des sceaux, ministre de la justice ;
 
-b) Une sur proposition du ministre de l'intérieur ; 
+b) Une sur proposition du ministre de l'intérieur ;
 
-3° Cinq représentants du personnel en fonction à l'institut : 
+3° Cinq représentants du personnel en fonction à l'institut :
 
-a) Un représentant des directeurs et directeurs adjoints de laboratoire de police scientifique ; 
+a) Un représentant des directeurs et directeurs adjoints de laboratoire de police scientifique ;
 
-b) Un représentant des personnels actifs de la police nationale ; 
+b) Un représentant des personnels actifs de la police nationale ;
 
-c) Deux représentants des personnels scientifiques de la police nationale ; 
+c) Deux représentants des personnels scientifiques de la police nationale ;
 
-d) Un représentant des personnels autres que ceux mentionnés aux a, b et c du 3° du présent article. 
+d) Un représentant des personnels autres que ceux mentionnés aux a, b et c du 3° du présent article.
 
 Le président du conseil d'administration est nommé par décret sur proposition conjointe du garde des sceaux, ministre de la
 justice, et du ministre de l'intérieur pour une durée de trois ans renouvelable une fois. En cas d'empêchement, d'absence ou
 de vacance du poste, sa suppléance est assurée par la personnalité qualifiée proposée par le ministre de l'intérieur et
 mentionnée au b du 2° du présent article.
-
-**Nota:**
-
-Conformément à l'article 11 du décret n° 2016-389 du 30 mars 2016, les présentes dispositions entrent en vigueur le premier
-jour du mois qui suit celui de sa publication. Toutefois, les dispositions du 3° de l'article R. 413-32 du code de la
-sécurité intérieure relatives aux représentants du personnel siégeant au conseil d'administration et au conseil scientifique
-de l'institut entrent en vigueur le premier jour du huitième mois qui suit celui de sa publication. Jusqu'à cette date, les
-représentants des personnels élus restent membres de l'instance à laquelle ils appartiennent.
 
 **Liens relatifs à cet article**
 
@@ -59700,7 +59692,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-389 du 30 mars 2016 - art. 3
+  - Décret n°2017-1641 du 30 novembre 2017 - art. 4
 
 
 ###### Article R413-33
@@ -59966,16 +59958,13 @@ a) Le directeur général de la recherche et de l'innovation au ministère charg
 
 b) Les directeurs des laboratoires de l'établissement ;
 
-c) Le sous-directeur chargé de la police technique et scientifique de la direction centrale de la police judiciaire ;
+c) Le chef du service central de la police technique et scientifique ;
 
-d) Le chef du service central d'identité judiciaire de la sous-direction de la police technique et scientifique de la
-direction centrale de la police judiciaire ;
+d) Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ;
 
-e) Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ;
+e) Le directeur du laboratoire central de la préfecture de police ;
 
-f) Le directeur du laboratoire central de la préfecture de police ;
-
-g) Deux représentants des personnels scientifiques et un représentant des autres personnels, en fonction à l'institut et élus
+f) Deux représentants des personnels scientifiques et un représentant des autres personnels, en fonction à l'institut et élus
 pour une durée de trois ans ;
 
 Les membres de droit autres que ceux mentionnés au g ci-dessus peuvent se faire représenter ;
@@ -60026,7 +60015,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-389 du 30 mars 2016 - art. 9
+  - Décret n°2017-1641 du 30 novembre 2017 - art. 4
 
 
 ###### Article R413-43
