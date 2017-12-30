@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2017-12-23
+Version Consolidée au 2017-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -325,7 +325,7 @@ Version Consolidée au 2017-12-23
         - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L767-1 à L767-2)](#322)
         - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L768-1 à L768-2)](#323)
     - [LIVRE VIII : DU RENSEIGNEMENT (art. L801-1 à L898-1)](#324)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L811-1 à L811-5)](#325)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L811-1 à L811-4)](#325)
       - [TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. L821-1 à L822-4)](#326)
         - [Chapitre Ier : De l'autorisation de mise en œuvre (art. L821-1 à L821-8)](#327)
         - [Chapitre II : Des renseignements collectés (art. L822-1 à L822-4)](#328)
@@ -23006,38 +23006,6 @@ _Modifié par_:
 _Cite_:
 
   - Code de la sécurité intérieure - art. L811-3
-
-
-###### Article L811-5
-
-Les mesures prises par les pouvoirs publics pour assurer, aux seules fins de défense des intérêts nationaux, la surveillance
-et le contrôle des transmissions empruntant la voie hertzienne ne sont pas soumises aux dispositions du présent livre, ni à
-celles de la sous-section 2 de la section 3 du chapitre Ier du titre III du livre Ier du code de procédure pénale.
-
-**Nota:**
-
-Dans sa décision n° 2016-590 QPC du 21 octobre 2016 (NOR: CSCX1630577S), le Conseil constitutionnel a déclaré contraires à la
-Constitution l'article L. 811-5 du code de la sécurité intérieure, dans sa rédaction issue de la loi n° 2015-912 du 24
-juillet 2015 relative au renseignement. La déclaration d'inconstitutionnalité prend effet à compter du 31 décembre 2017 dans
-les conditions prévues aux paragraphes 11 et 12.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-912 du 24 juillet 2015 - art. 11
-
-_Abrogé par_:
-
-  - Décision n°2016-590 QPC du 21 octobre 2016 - art. 1, v. init.
-
-_Anciens textes_:
-
-  - Code de la sécurité intérieure - art. L241-3 (T)
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L871-2 (V)
 
 
 ### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=326></a>
