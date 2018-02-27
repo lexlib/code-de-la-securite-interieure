@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-02-01
+Version Consolidée au 2018-02-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -11059,9 +11059,9 @@ _Codifié par_:
 
 ###### Article L344-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2018-133 du 26 février 2018 portant
+diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité, les dispositions
+suivantes : 
 
 1° Le titre Ier ; 
 
@@ -11078,7 +11078,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
 
 _Cite_:
 
@@ -11086,6 +11086,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L322-2-1
   - Code de la sécurité intérieure - art. L322-7
   - Code de la sécurité intérieure - art. L323-1
+  - Code de la sécurité intérieure - art. L324-2
   - Code de la sécurité intérieure - art. L324-3
   - Code de la sécurité intérieure - art. L332-1
   - Code de la sécurité intérieure - art. L333-1
@@ -11093,7 +11094,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L344-2 (VD)
+  - Code de la sécurité intérieure - art. L344-2 (V)
 
 
 ###### Article L344-2
@@ -11116,7 +11117,7 @@ fédération sportive territoriale, en application des dispositions applicables 
 du ministre chargé des sports au titre de l'article L. 131-14 du code du sport ”, sont insérés les mots : " ou par une
 fédération sportive territoriale, en application des dispositions applicables localement ” ; 
 
-3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
+3° quater Au second alinéa de l'article L. 313-7, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
 remplacés par les mots : " dispositions applicables localement ” ; 
 
 4° Le 2° de l'article L. 324-4 est supprimé.
@@ -11125,15 +11126,16 @@ remplacés par les mots : " dispositions applicables localement ” ;
 
 _Modifié par_:
 
-  - Ordonnance n°2013-519 du 20 juin 2013 - art. 3
+  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L312-4 (V)
-  - Code de la sécurité intérieure - art. L313-4 (V)
-  - Code de la sécurité intérieure - art. L317-9-1 (V)
-  - Code de la sécurité intérieure - art. L324-4 (V)
-  - Code de la sécurité intérieure - art. L344-1
+  - Code de la sécurité intérieure - art. L312-1
+  - Code de la sécurité intérieure - art. L312-4
+  - Code de la sécurité intérieure - art. L313-7
+  - Code de la sécurité intérieure - art. L317-9-1
+  - Code de la sécurité intérieure - art. L324-4
+  - Code de la sécurité intérieure - art. L344-1 (V)
 
 
 ###### Article L344-3
@@ -11219,11 +11221,11 @@ _Codifié par_:
 
 ###### Article L345-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale, les dispositions suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2018-133 du 26 février 2018 portant
+diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité, les dispositions
+suivantes :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
 2° Au titre II : les articles L. 321-5, L. 322-1 à L. 324-9.
 
@@ -11231,7 +11233,7 @@ procédure pénale, les dispositions suivantes :
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
 
 _Cite_:
 
@@ -11240,7 +11242,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L345-2 (VD)
+  - Code de la sécurité intérieure - art. L345-2 (V)
 
 _Codifié par_:
 
@@ -11267,7 +11269,7 @@ fédération sportive territoriale, en application des dispositions applicables 
 du ministre chargé des sports au titre de l'article L. 131-14 du code du sport ”, sont insérés les mots : " ou par une
 fédération sportive territoriale, en application des dispositions applicables localement ” ; 
 
-3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
+3° quater Au second alinéa de l'article L. 313-7, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont
 remplacés par les mots : " dispositions applicables localement ” ; 
 
 4° Le 2° de l'article L. 324-4 est supprimé.
@@ -11280,38 +11282,38 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-519 du 20 juin 2013 - art. 3
+  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L312-1 (V)
-  - Code de la sécurité intérieure - art. L312-4 (V)
-  - Code de la sécurité intérieure - art. L313-4 (V)
-  - Code de la sécurité intérieure - art. L317-9-1 (V)
+  - Code de la sécurité intérieure - art. L312-1
+  - Code de la sécurité intérieure - art. L312-4
+  - Code de la sécurité intérieure - art. L313-7
+  - Code de la sécurité intérieure - art. L317-9-1
   - Code de la sécurité intérieure - art. L324-4
-  - Code de la sécurité intérieure - art. L345-1
+  - Code de la sécurité intérieure - art. L345-1 (V)
 
 
 ###### Article L345-2-1
 
-Un  décret en Conseil d'Etat fixe le nombre maximal d'armes relevant de la  catégorie C et du 1° de la catégorie D qu'une
-même personne physique  peut détenir simultanément.
+Un décret en Conseil d'Etat fixe le nombre maximal d'armes relevant de la catégorie C qu'une même personne physique peut
+détenir simultanément.
 
-Lorsque le nombre total d'armes de ce type  détenues par une personne physique lors de l'entrée en vigueur du décret  pris en
-application du premier alinéa excède le maximum fixé par ce  décret :
+Lorsque le nombre total d'armes de ce type détenues par une personne physique lors de l'entrée en vigueur du décret pris en
+application du premier alinéa excède le maximum fixé par ce décret :
 
-1° Celles acquises après le 7 novembre 2013  sont remises, cédées ou détruites, à concurrence de l'excédent, dans un  délai
-de trois mois au plus fixé par le décret et dont le point de  départ est la publication de ce décret ;
+1° Celles acquises après le 7 novembre 2013 sont remises, cédées ou détruites, à concurrence de l'excédent, dans un délai de
+trois mois au plus fixé par le décret et dont le point de départ est la publication de ce décret ;
 
-2° Si, nonobstant l'application du 1°, le  nombre de ces armes détenues par une même personne physique excède  encore le
-maximum, cette personne dispose de deux ans, à compter de la  publication de ce décret, pour les remettre, les céder ou les
-détruire, à  concurrence de l'excédent.
+2° Si, nonobstant l'application du 1°, le nombre de ces armes détenues par une même personne physique excède encore le
+maximum, cette personne dispose de deux ans, à compter de la publication de ce décret, pour les remettre, les céder ou les
+détruire, à concurrence de l'excédent.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 52
+  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
 
 
 ###### Article L345-3
@@ -11385,9 +11387,8 @@ _Codifié par_:
 
 ###### Article L346-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
-contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale, les dispositions suivantes : 
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2018-133 du 26 février 2018 portant diverses
+dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité, les dispositions suivantes : 
 
 1° Le titre Ier ; 
 
@@ -11400,27 +11401,27 @@ _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Cite_:
-
-  - Loi n°2016-731 du 3 juin 2016 (V)
-  - Code de la sécurité intérieure - art. L321-3 (V)
-  - Code de la sécurité intérieure - art. L322-1 (V)
-  - Code de la sécurité intérieure - art. L322-4 (V)
-  - Code de la sécurité intérieure - art. L322-7 (V)
-  - Code de la sécurité intérieure - art. L323-1 (V)
-  - Code de la sécurité intérieure - art. L324-1 (V)
-  - Code de la sécurité intérieure - art. L324-2 (V)
-  - Code de la sécurité intérieure - art. L324-3 (V)
-  - Code de la sécurité intérieure - art. L324-9 (V)
-
-_Modifié par_:
-
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 _Cité par_:
 
   - Décret n°2017-914 du 9 mai 2017 (V)
   - Code de la sécurité intérieure - art. L346-2 (V)
+
+_Cite_:
+
+  - Loi n°2018-133 du 26 février 2018
+  - Code de la sécurité intérieure - art. L321-3
+  - Code de la sécurité intérieure - art. L322-1
+  - Code de la sécurité intérieure - art. L322-4
+  - Code de la sécurité intérieure - art. L322-7
+  - Code de la sécurité intérieure - art. L323-1
+  - Code de la sécurité intérieure - art. L324-1
+  - Code de la sécurité intérieure - art. L324-2
+  - Code de la sécurité intérieure - art. L324-3
+  - Code de la sécurité intérieure - art. L324-9
+
+_Modifié par_:
+
+  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
 
 
 ###### Article L346-2
@@ -11498,18 +11499,18 @@ _Cite_:
 ###### Article L347-1
 
 Les dispositions du titre Ier du présent livre sont applicables dans les Terres australes et antarctiques françaises, dans
-leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et
-leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
+leur rédaction résultant de la loi n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de
+l'Union européenne dans le domaine de la sécurité.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2016-731 du 3 juin 2016
+  - Loi n°2018-133 du 26 février 2018
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
 
 _Cité par_:
 
