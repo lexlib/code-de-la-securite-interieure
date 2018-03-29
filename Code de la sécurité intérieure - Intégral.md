@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-03-10
+Version Consolidée au 2018-03-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -4853,24 +4853,23 @@ Le ministre de l'intérieur peut, après en avoir informé le procureur de la R�
 République territorialement compétent, faire obligation à toute personne mentionnée à l'article L. 228-1, y compris lorsqu'il
 est fait application des articles L. 228-2 à L. 228-4, de ne pas se trouver en relation directe ou indirecte avec certaines
 personnes, nommément désignées, dont il existe des raisons sérieuses de penser que leur comportement constitue une menace
-pour la sécurité publique. 
+pour la sécurité publique.
 
 L'obligation mentionnée au premier alinéa du présent article est prononcée pour une durée maximale de six mois à compter de
 la notification de la décision du ministre. Au-delà d'une durée cumulée de six mois, le renouvellement est subordonné à
 l'existence d'éléments nouveaux ou complémentaires. La durée totale cumulée de l'obligation prévue au premier alinéa du
 présent article ne peut excéder douze mois. L'obligation est levée dès que les conditions prévues à l'article L. 228-1 ne
-sont plus satisfaites. 
+sont plus satisfaites.
 
 Toute décision de renouvellement est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. Si
 la personne concernée saisit le juge administratif d'une demande présentée sur le fondement de l'article L. 521-2 du code de
 justice administrative dans un délai de quarante-huit heures à compter de la notification de la décision, la mesure ne peut
-entrer en vigueur avant que le juge ait statué sur la demande. 
+entrer en vigueur avant que le juge ait statué sur la demande.
 
 La personne soumise à l'obligation mentionnée au premier alinéa du présent article peut, dans un délai de deux mois à compter
 de la notification de la décision ou à compter de la notification de chaque renouvellement, demander au tribunal
-administratif l'annulation de cette décision. Le tribunal administratif statue dans un délai de quatre mois à compter de sa
-saisine. Ces recours s'exercent sans préjudice des procédures ouvertes aux articles L. 521-1 et L. 521-2 du code de justice
-administrative.
+administratif l'annulation de cette décision. Ces recours s'exercent sans préjudice des procédures ouvertes aux articles L.
+521-1 et L. 521-2 du code de justice administrative.
 
 **Nota:**
 
@@ -4912,9 +4911,9 @@ mars 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
+  - Décision n°2017-695 QPC du 29 mars 2018 - art. 2, v. init.
 
 _Cite_:
 
@@ -4988,13 +4987,13 @@ _Cité par_:
 
 Sur saisine motivée du représentant de l'Etat dans le département ou, à Paris, du préfet de police, le juge des libertés et
 de la détention du tribunal de grande instance de Paris peut, par une ordonnance écrite et motivée et après avis du procureur
-de la République de Paris, autoriser la visite d'un lieu ainsi que la saisie des documents, objets ou données qui s'y
-trouvent, aux seules fins de prévenir la commission d'actes de terrorisme et lorsqu'il existe des raisons sérieuses de penser
-qu'un lieu est fréquenté par une personne dont le comportement constitue une menace d'une particulière gravité pour la
-sécurité et l'ordre publics et qui soit entre en relation de manière habituelle avec des personnes ou des organisations
-incitant, facilitant ou participant à des actes de terrorisme, soit soutient, diffuse, lorsque cette diffusion s'accompagne
-d'une manifestation d'adhésion à l'idéologie exprimée, ou adhère à des thèses incitant à la commission d'actes de terrorisme
-ou faisant l'apologie de tels actes.
+de la République de Paris, autoriser la visite d'un lieu ainsi que la saisie données qui s'y trouvent, aux seules fins de
+prévenir la commission d'actes de terrorisme et lorsqu'il existe des raisons sérieuses de penser qu'un lieu est fréquenté par
+une personne dont le comportement constitue une menace d'une particulière gravité pour la sécurité et l'ordre publics et qui
+soit entre en relation de manière habituelle avec des personnes ou des organisations incitant, facilitant ou participant à
+des actes de terrorisme, soit soutient, diffuse, lorsque cette diffusion s'accompagne d'une manifestation d'adhésion à
+l'idéologie exprimée, ou adhère à des thèses incitant à la commission d'actes de terrorisme ou faisant l'apologie de tels
+actes.
 
 Ces opérations ne peuvent concerner les lieux affectés à l'exercice d'un mandat parlementaire ou à l'activité professionnelle
 des avocats, des magistrats ou des journalistes et les domiciles des personnes concernées.
@@ -5038,9 +5037,9 @@ _Cité par_:
   - Décret n°2004-374 du 29 avril 2004 - art. 73 (V)
   - Code de la sécurité intérieure - art. L229-2 (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 4
+  - Décision n°2017-695 QPC du 29 mars 2018 - art. 2, v. init.
 
 
 ###### Article L229-2
@@ -5155,12 +5154,12 @@ _Cité par_:
 
 ###### Article L229-4
 
-I.-Lorsqu'elle est susceptible de fournir des renseignements sur les objets, documents et données présents sur le lieu de la
-visite ayant un lien avec la finalité de prévention de la commission d'actes de terrorisme ayant justifié la visite, la
-personne pour laquelle il existe des raisons sérieuses de penser que son comportement constitue une menace d'une particulière
-gravité pour la sécurité et l'ordre publics peut, après information sans délai du juge des libertés et de la détention du
-tribunal de grande instance de Paris, être retenue sur place par l'officier de police judiciaire pendant le temps strictement
-nécessaire au déroulement des opérations.
+I.-Lorsqu'elle est susceptible de fournir des renseignements sur les données présents sur le lieu de la visite ayant un lien
+avec la finalité de prévention de la commission d'actes de terrorisme ayant justifié la visite, la personne pour laquelle il
+existe des raisons sérieuses de penser que son comportement constitue une menace d'une particulière gravité pour la sécurité
+et l'ordre publics peut, après information sans délai du juge des libertés et de la détention du tribunal de grande instance
+de Paris, être retenue sur place par l'officier de police judiciaire pendant le temps strictement nécessaire au déroulement
+des opérations.
 
 La retenue ne peut excéder quatre heures à compter du début de la visite et le juge des libertés et de la détention peut y
 mettre fin à tout moment.
@@ -5220,48 +5219,47 @@ du 29 mars 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 4
+  - Décision n°2017-695 QPC du 29 mars 2018 - art. 2, v. init.
 
 
 ###### Article L229-5
 
-I.-Aux seules fins de prévenir la commission d'actes de terrorisme, si la visite révèle l'existence de documents, objets ou
-données relatifs à la menace d'une particulière gravité pour la sécurité et l'ordre publics que constitue le comportement de
-la personne concernée, il peut être procédé à leur saisie ainsi qu'à celle des données contenues dans tout système
-informatique ou équipement terminal présent sur les lieux de la visite soit par leur copie, soit par la saisie de leur
-support lorsque la copie ne peut être réalisée ou achevée pendant le temps de la visite. 
+I.-Aux seules fins de prévenir la commission d'actes de terrorisme, si la visite révèle l'existence de données relatifs à la
+menace d'une particulière gravité pour la sécurité et l'ordre publics que constitue le comportement de la personne concernée,
+il peut être procédé à leur saisie ainsi qu'à celle des données contenues dans tout système informatique ou équipement
+terminal présent sur les lieux de la visite soit par leur copie, soit par la saisie de leur support lorsque la copie ne peut
+être réalisée ou achevée pendant le temps de la visite.
 
 La copie des données ou la saisie des systèmes informatiques ou des équipements terminaux est réalisée en présence de
 l'officier de police judiciaire. Le procès-verbal mentionné à l'article L. 229-2 indique les motifs de la saisie et dresse
-l'inventaire des objets, documents ou données saisis. Copie en est remise aux personnes mentionnées au troisième alinéa du
-même article L. 229-2 ainsi qu'au juge ayant délivré l'autorisation. Les éléments saisis sont conservés sous la
-responsabilité du chef du service ayant procédé à la visite. A compter de la saisie, nul n'y a accès avant l'autorisation du
-juge. 
+l'inventaire des données saisis. Copie en est remise aux personnes mentionnées au troisième alinéa du même article L. 229-2
+ainsi qu'au juge ayant délivré l'autorisation. Les éléments saisis sont conservés sous la responsabilité du chef du service
+ayant procédé à la visite. A compter de la saisie, nul n'y a accès avant l'autorisation du juge.
 
 II.-Dès la fin de la visite, l'autorité administrative peut demander au juge des libertés et de la détention du tribunal de
 grande instance de Paris d'autoriser l'exploitation des données saisies. Au vu des éléments révélés par la visite, le juge
 statue dans un délai de quarante-huit heures à compter de sa saisine sur la régularité de la saisie et sur la demande de
 l'autorité administrative. Sont exclus de l'autorisation les éléments dépourvus de tout lien avec la finalité de prévention
-de la commission d'actes de terrorisme ayant justifié la visite. 
+de la commission d'actes de terrorisme ayant justifié la visite.
 
 L'ordonnance est notifiée par lettre recommandée avec demande d'avis de réception. La notification est réputée faite à la
 date de réception figurant sur l'avis. A défaut de réception, il est procédé à la signification de l'ordonnance par acte
-d'huissier de justice. 
+d'huissier de justice.
 
 L'acte de notification comporte mention des voies et délais de recours contre l'ordonnance ayant autorisé l'exploitation des
-données saisies. 
+données saisies.
 
 L'ordonnance autorisant l'exploitation des données saisies peut faire l'objet, dans un délai de quarante-huit heures, d'un
 appel devant le premier président de la cour d'appel de Paris selon les modalités mentionnées aux trois premiers alinéas du I
-de l'article L. 229-3. Le premier président statue dans un délai de quarante-huit heures. 
+de l'article L. 229-3. Le premier président statue dans un délai de quarante-huit heures.
 
 L'ordonnance du premier président de la cour d'appel de Paris est susceptible d'un pourvoi en cassation selon les règles
-prévues par le code de procédure pénale. Le délai de pourvoi en cassation est de quinze jours. 
+prévues par le code de procédure pénale. Le délai de pourvoi en cassation est de quinze jours.
 
 En cas de décision de refus devenue irrévocable, les données copiées sont détruites et les supports saisis sont restitués,
-dans l'état dans lequel ils ont été saisis, à leur propriétaire. 
+dans l'état dans lequel ils ont été saisis, à leur propriétaire.
 
 Pendant le temps strictement nécessaire à leur exploitation autorisée selon la procédure mentionnée au présent article, les
 données et les supports saisis sont conservés sous la responsabilité du chef du service ayant procédé à la visite et à la
@@ -5269,7 +5267,7 @@ saisie. Les systèmes informatiques ou équipements terminaux sont restitués à
 été procédé à la copie des données qu'ils contiennent, à l'issue d'un délai maximal de quinze jours à compter de la date de
 leur saisie ou de la date à laquelle le juge, saisi dans ce délai, a autorisé l'exploitation des données qu'ils contiennent.
 Les données copiées sont détruites à l'expiration d'un délai maximal de trois mois à compter de la date de la visite ou de la
-date à laquelle le juge, saisi dans ce délai, en a autorisé l'exploitation. 
+date à laquelle le juge, saisi dans ce délai, en a autorisé l'exploitation.
 
 En cas de difficulté dans l'accès aux données contenues dans les supports saisis ou dans l'exploitation des données copiées,
 lorsque cela est nécessaire, les délais prévus à l'avant-dernier alinéa du présent II peuvent être prorogés, pour la même
@@ -5300,9 +5298,9 @@ la date de publication de la décision du Conseil constitutionnel, soit à compt
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 4
+  - Décision n°2017-695 QPC du 29 mars 2018 - art. 2, v. init.
 
 _Cite_:
 
