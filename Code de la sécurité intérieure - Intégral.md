@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-05-05
+Version Consolidée au 2018-05-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -29448,8 +29448,8 @@ _Cite_:
 A Paris, les attributions du conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre
 la drogue, les dérives sectaires et les violences faites aux femmes mentionné à l'article D. 132-5 et celles du conseil local
 de sécurité et de prévention de la délinquance mentionné à l'article D. 132-7 sont exercées par un conseil parisien de
-sécurité et de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les
-violences faites aux femmes placé auprès du préfet de police.
+sécurité et de prévention de la délinquance et de lutte contre la drogue, les dérives sectaires et les violences faites aux
+femmes placé auprès du préfet de police.
 
 Ce conseil est présidé conjointement par le préfet de police, le maire de Paris et le procureur de la République près le
 tribunal de grande instance de Paris. Le maire et le procureur de la République sont consultés sur sa composition.
@@ -29473,11 +29473,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-618 du 25 avril 2017 - art. 10
+  - Décret n°2018-329 du 3 mai 2018 - art. 9
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. D132-15 (VD)
+  - Code de la sécurité intérieure - art. D132-15 (V)
 
 _Cite_:
 
@@ -29488,11 +29488,11 @@ _Cite_:
 ###### Article D132-15
 
 Un plan de prévention de la délinquance fixe les priorités de l'Etat en matière de prévention de la délinquance à Paris, dans
-le respect des orientations nationales définies par le comité interministériel de prévention de la délinquance. 
+le respect des orientations nationales définies par le comité interministériel de prévention de la délinquance.
 
 Ce plan est arrêté par le préfet de Paris et le préfet de police après avis du conseil parisien de sécurité et de prévention
-de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes
-mentionné à l'article D. 132-14. 
+de la délinquance et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes mentionné à
+l'article D. 132-14.
 
 Il est transmis au maire de Paris.
 
@@ -29502,9 +29502,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2018-329 du 3 mai 2018 - art. 9
 
 _Anciens textes_:
 
@@ -29512,7 +29512,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. D132-14 (VD)
+  - Code de la sécurité intérieure - art. D132-14 (V)
 
 
 ##### Section 7 : Dispositions particulières au département des Bouches-du-Rhône<a id=402></a>
