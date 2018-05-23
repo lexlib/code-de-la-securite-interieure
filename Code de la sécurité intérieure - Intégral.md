@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-05-06
+Version Consolidée au 2018-05-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -91244,7 +91244,10 @@ automatisé de données à caractère personnel dénommé BCR-DNRED ;
 10° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé GESTEREXT ;
 
 11° Décret autorisant la mise en œuvre par la direction du renseignement militaire d'un traitement automatisé de données à
-caractère personnel dénommé “ BIOPEX ”.
+caractère personnel dénommé “ BIOPEX ” ;
+
+12° Décret autorisant la mise en œuvre par le commandement de la Légion étrangère d'un traitement automatisé de données à
+caractère personnel dénommé “ LEGATO ”.
 
 **Liens relatifs à cet article**
 
@@ -91270,7 +91273,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1231 du 4 août 2017 - art. 2
+  - Décret n°2018-378 du 22 mai 2018 - art. 2
 
 
 ### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=973></a>
@@ -93122,7 +93125,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 841-2 </td>
-      <td>Résultant du décret n° 2017-1231 du 4 août 2017</td>
+      <td>Résultant du décret n° 2018-378 du 22 mai 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -93213,15 +93216,11 @@ _Cite_:
   - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
   - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2017-1231 du 4 août 2017 (V)
+  - Décret n°2018-378 du 22 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2017-1231 du 4 août 2017 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2017-1231 du 4 août 2017, v. init.
+  - Décret n°2018-378 du 22 mai 2018 - art. 2
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=987></a>
@@ -93281,7 +93280,11 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 841-2 </td>
-      <td>Résultant du décret n° 2017-1231 du 4 août 2017</td>
+      <td>
+
+Résultant du décret n° 2018-378 du 22 mai 2018 
+
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -93366,15 +93369,11 @@ _Cite_:
   - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
   - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2017-1231 du 4 août 2017 (V)
+  - Décret n°2018-378 du 22 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2017-1231 du 4 août 2017 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2017-1231 du 4 août 2017, v. init.
+  - Décret n°2018-378 du 22 mai 2018 - art. 2
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=988></a>
@@ -93434,7 +93433,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017  </td>
     </td></tr>
     <tr>
       <td>R. 841-2 </td>
-      <td>Résultant du décret n° 2017-1231 du 4 août 2017</td>
+      <td>Résultant du décret n° 2018-378 du 22 mai 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -93521,15 +93520,11 @@ _Cite_:
   - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
   - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2017-1231 du 4 août 2017 (V)
+  - Décret n°2018-378 du 22 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2017-1231 du 4 août 2017 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2017-1231 du 4 août 2017, v. init.
+  - Décret n°2018-378 du 22 mai 2018 - art. 2
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=989></a>
@@ -93589,7 +93584,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 841-2 </td>
-      <td>Résultant du décret n° 2017-1231 du 4 août 2017</td>
+      <td>Résultant du décret n° 2018-378 du 22 mai 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -93676,15 +93671,11 @@ _Cite_:
   - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
   - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2017-1231 du 4 août 2017 (V)
+  - Décret n°2018-378 du 22 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2017-1231 du 4 août 2017 - art. 2
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2017-1231 du 4 août 2017, v. init.
+  - Décret n°2018-378 du 22 mai 2018 - art. 2
 
 
 ## Annexes<a id=990></a>
