@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-05-26
+Version Consolidée au 2018-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -25258,6 +25258,8 @@ l) Des agents de surveillance de Paris ;
 
 m) Des agents du Conseil national des activités privées de sécurité ;
 
+n) Des agents de l'Autorité de sûreté nucléaire ;
+
 4° Agrément :
 
 a) Des agents de police municipale ;
@@ -25334,7 +25336,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-384 du 23 mai 2018 - art. 29
+  - Décret n°2018-434 du 4 juin 2018 - art. 28
 
 
 ###### Article R114-3
@@ -25459,29 +25461,34 @@ _Cité par_:
 ###### Article R114-5
 
 Peuvent donner lieu aux enquêtes mentionnées à l'article R. 114-1 les autorisations ou agréments suivants relatifs à des
-matériels, produits ou activités présentant un danger pour la sécurité publique : 
+matériels, produits ou activités présentant un danger pour la sécurité publique :
 
-1° Fabrication, commerce, acquisition, détention, importation et exportation de matériels de guerre, armes et munitions ; 
+1° Fabrication, commerce, acquisition, détention, importation et exportation de matériels de guerre, armes et munitions ;
 
 2° Port d'armes, autorisations prévues aux articles R. 613-16-1, 
-R. 613-23-2 ; 
+R. 613-23-2 ;
 
-3° Production, importation, exportation, commerce, emploi, transport et conservation des poudres et substances explosives ; 
+3° Production, importation, exportation, commerce, emploi, transport et conservation des poudres et substances explosives ;
 
-4° Elaboration, détention, transfert, utilisation, importation, exportation et transport de matières nucléaires ; 
+4° Elaboration, détention, transfert, utilisation, importation, exportation et transport de matières nucléaires ;
 
 5° Fabrication, importation, détention, exposition, offre, location ou vente d'appareils mentionnés à l'article 226-3 du code
-pénal ; 
+pénal ;
 
 6° Création d'un aérodrome ou d'une hélisurface privés ou utilisation d'une hélisurface, d'une hydrosurface ou d'une bande
-d'envol occasionnelle ; 
+d'envol occasionnelle ;
 
-7° Prise de vue aérienne au titre d'une des procédures prévues à l'article D. 133-10 du code de l'aviation civile ; 
+7° Prise de vue aérienne au titre d'une des procédures prévues à l'article D. 133-10 du code de l'aviation civile ;
 
 8° Fabrication, transformation et mise à disposition des tiers, à titre onéreux ou gratuit, de substances susceptibles d'être
 utilisées pour la fabrication illicite de stupéfiants ou de substances psychotropes, mentionnées à l'article 1er de la loi n°
 96-542 du 19 juin 1996 relative au contrôle de la fabrication et du commerce de certaines substances susceptibles d'être
-utilisées pour la fabrication illicite de stupéfiants ou de substances psychotropes.
+utilisées pour la fabrication illicite de stupéfiants ou de substances psychotropes ;
+
+9° Exercice d'une activité nucléaire en application de l'article L. 1333-8 ou de l'article L. 1333-9 du code de la santé
+publique ou accès à certaines catégories de sources de rayonnements ionisants, convoyage de ces sources ou accès aux
+informations portant sur les moyens et mesures de protection mise en œuvre contre les actes de malveillance, en application
+de l'article L. 1333-11 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -25490,7 +25497,7 @@ _Cite_:
   - Loi n°96-542 du 19 juin 1996 - art. 1
   - Code pénal - art. 226-3
   - Code de l'aviation civile - art. D133-10
-  - Code de la sécurité intérieure - art. R114-1 (V)
+  - Code de la sécurité intérieure - art. R114-1
   - Code de la sécurité intérieure - art. R613-16-1
   - Code de la sécurité intérieure - art. R613-23-2
 
@@ -25498,13 +25505,13 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2018-141 du 27 février 2018 - art. 1
+  - Décret n°2018-434 du 4 juin 2018 - art. 29
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. R114-6 (V)
+  - Code de la sécurité intérieure - art. R114-6 (M)
 
 
 ###### Article R114-6
@@ -30345,25 +30352,30 @@ R. 114-2, sauf le k du 1° et le o du 4°
 </td>
       <td>
 
-Résultant du décret n° 2017-438 du 29 mars 2017
+Résultant du décret n° 2018-434 du 4 juin 2018
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 114-3 et R. 114-4</td>
+R. 114-3</td>
       <td>
 
-Résultant du décret n° 2013-1113 du 4 décembre 2013</td>
+Résultant du décret n° 2017-1306 du 25 août 2017</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-4</td>
+      <td>
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td align="center">
 
 R. 114-5</td>
-      <td>
-
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td>Résultant du décret n° 2018-434 du 4 juin 2018</td>
     </tr>
     <tr>
       <td>
@@ -30373,7 +30385,7 @@ R. 114-6 à R. 114-6-6
 </td>
       <td>
 
-Résultant du  décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018
 
 </td>
     </tr>
@@ -30479,15 +30491,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-141 du 27 février 2018 - art. 4
+  - Décret n°2018-434 du 4 juin 2018 - art. 33
 
 
 ###### Article R155-5
 
-Pour l'application en Polynésie française des dispositions mentionnées à l'article R. 155-2 : 
+Pour l'application en Polynésie française des dispositions mentionnées à l'article R. 155-2 :
 
 1° Au j du 4° de l'article R. 114-2, le mot : " L. 5332-6 " est remplacé par les mots : " 71-VII de la loi n° 2001-1062 du 15
-novembre 2001 relative à la sécurité quotidienne " ; 
+novembre 2001 relative à la sécurité quotidienne " ;
+
+1° bis Au 9° de l'article R. 114-5, les mots : ", en application de l'article L. 1333-11 du code de la santé publique" sont
+remplacés par les mots : "en application des dispositions en vigueur localement"
 
 2° A l'article R. 131-1, après les mots : " dans les conditions prévues au chapitre IV du titre Ier du livre II de la
 deuxième partie du code général des collectivités territoriales " sont insérés les mots : ", dans leur rédaction applicable
@@ -30497,18 +30512,18 @@ en Polynésie française ".
 
 _Cite_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)
-  - Code de la sécurité intérieure - art. R114-2 (VD)
-  - Code de la sécurité intérieure - art. R131-1 (VD)
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 71
+  - Code de la sécurité intérieure - art. R114-2
+  - Code de la sécurité intérieure - art. R131-1
   - Code de la sécurité intérieure - art. R155-2 (VD)
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2018-434 du 4 juin 2018 - art. 33
 
 
 ###### Article R155-6
@@ -30896,7 +30911,8 @@ Résultant du décret n° 2013-1113 du 4 décembre 2013
     </tr>
     <tr>
       <td align="center">R. 114-1</td>
-      <td>Résultant du décret n° 2018-141 du 27 février 2018</td>
+      <td>Résultant du décret n° 2018-141 du 27 février 2018
+</td>
     </tr>
     <tr>
       <td>
@@ -30906,18 +30922,22 @@ R. 114-2, sauf le k du 1° et le o du 4°
 </td>
       <td>
 
-Résultant du décret n° 2017-438 du 29 mars 2017
+Résultant du décret n° 2018-434 du 4 juin 2018
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 114-3 et R. 114-4</td>
+R. 114-3</td>
       <td>
 
-Résultant du décret n° 2013-1113 du 4 décembre 2013
-</td>
+Résultant du décret n° 2017-1306 du 25 août 2017</td>
+    </tr>
+    <tr>
+      <td align="center"> R. 114-4</td>
+      <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
+code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td align="center">
@@ -30925,8 +30945,7 @@ Résultant du décret n° 2013-1113 du 4 décembre 2013
 R. 114-5</td>
       <td>
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017
-</td>
+Résultant du décret n° 2018-434 du 4 juin 2018</td>
     </tr>
     <tr>
       <td>
@@ -31027,30 +31046,35 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-141 du 27 février 2018 - art. 4
+  - Décret n°2018-434 du 4 juin 2018 - art. 33
 
 
 ###### Article R156-5
 
-Pour l'application en Nouvelle-Calédonie, au j du 4° de l'article R. 114-2, le mot : " L. 5332-6 " est remplacé par les
-mots : " 71-VII de la loi n° 2001-1062 du 15 novembre 2001 relative à la sécurité quotidienne ".
+Pour l'application en Nouvelle-Calédonie des dispositions mentionnées à l'article R. 156-2 :
+
+1° Au j du 4° de l'article R. 114-2, le mot : “L. 5332-6” est remplacé par les mots : “71-VII de la loi n° 2001-1062 du 15
+novembre 2001 relative à la sécurité quotidienne” ;
+
+2° Au 9° de l'article R. 114-5, les mots : “, en application de l'article L. 1333-11 du code de la santé publique” sont
+remplacés par les mots : “en application des dispositions en vigueur localement”
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 71 (V)
-  - Code de la sécurité intérieure - art. R114-2 (VD)
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 71
+  - Code de la sécurité intérieure - art. R114-2
 
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 _Cité par_:
+
+  - Décret n°2018-434 du 4 juin 2018 - art. 33
+
+_Modifié par_:
 
   - Décret n°2018-434 du 4 juin 2018 - art. 33
 
@@ -31331,7 +31355,8 @@ Résultant du décret n° 2013-1113 du 4 décembre 2013
     </tr>
     <tr>
       <td align="center">R. 114-1</td>
-      <td align="left">Résultant du décret n° 2018-141 du 27 février 2018</td>
+      <td align="left">Résultant du décret n° 2018-141 du 27 février 2018
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -31341,20 +31366,26 @@ R. 114-2, sauf le k du 1° et le o du 4°
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-438 du 29 mars 2017
+Résultant du décret n° 2018-434 du 4 juin 2018
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 114-3 et R. 114-4
+R. 114-3
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2013-1113 du 4 décembre 2013
-</td>
+Résultant du décret n° 2017-1306 du 25 août 2017</td>
+    </tr>
+    <tr>
+      <td align="center">R.114-4</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td align="center">
@@ -31362,8 +31393,7 @@ Résultant du décret n° 2013-1113 du 4 décembre 2013
 R. 114-5</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017
-</td>
+Résultant du décret n° 2018-434 du 4 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -31468,7 +31498,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-141 du 27 février 2018 - art. 4
+  - Décret n°2018-434 du 4 juin 2018 - art. 33
 
 
 ###### Article R157-5
@@ -31695,23 +31725,30 @@ R. 114-2, sauf le k du 1° et les n et o du 4°
 </td>
       <td align="left">
 
-Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité
+Résultant du décret 2018-434 du 4 juin 2018
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 114-3 à R. 114-5
+R. 114-3
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2013-1113relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la
-sécurité intérieure(Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2017-1306 du 25 août 2017
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R.114-4</td>
+      <td align="left">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-5</td>
+      <td align="left">Résultant du décret n° 2018-434 du 4 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -31721,7 +31758,7 @@ R. 114-6 à R. 114-6-6
 </td>
       <td align="left">
 
-Résultant du  décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018
 
 </td>
     </tr>
@@ -31802,11 +31839,11 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Modifié par_:
-
-  - Décret n°2018-141 du 27 février 2018 - art. 4
-
 _Cité par_:
+
+  - Décret n°2018-434 du 4 juin 2018 - art. 33
+
+_Modifié par_:
 
   - Décret n°2018-434 du 4 juin 2018 - art. 33
 
