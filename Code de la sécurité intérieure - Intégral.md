@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-07-01
+Version Consolidée au 2018-07-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -382,7 +382,7 @@ Version Consolidée au 2018-07-01
             - [Sous-section 7 : Dispositions particulières  à la zone de défense et de sécurité de Paris (art. R*122-39 à R*122-44)](#379)
             - [Sous-section 8 : Dispositions particulières  à la zone de défense et de sécurité Sud (art. R*122-45 à R122-47)](#380)
           - [Section 3 : Préfet de département (art. R*122-52)](#381)
-          - [Section 4 : Préfet de police (art. R*122-53 à R*122-54 )](#382)
+          - [Section 4 : Préfet de police (art. R*122-53 à R*122-54)](#382)
           - [Section 5 : Préfet de police des Bouches-du-Rhône (art. R*122-55)](#383)
           - [Section 6 : Comité départemental de sécurité (art. D122-56 à D122-58)](#384)
         - [Chapitre III : Etablissements publics (art. R123-1 à R123-31-1)](#385)
@@ -27674,12 +27674,12 @@ _Cité par_:
 ###### Article R122-36
 
 En cas d'absence ou d'empêchement du préfet de zone de défense et de sécurité, sa suppléance est exercée par le préfet
-délégué pour la défense et la sécurité ou, si tel n'est pas le cas, par l'un des préfets de région de la zone de défense et
-de sécurité, désigné par arrêté du préfet de zone de défense et de sécurité.
+délégué pour la défense et la sécurité ou, à défaut, par l'un des préfets de département de la zone de défense et de
+sécurité, désigné par arrêté du préfet de zone de défense et de sécurité.
 
 En cas d'absence momentanée du poste de préfet de zone de défense et de sécurité, l'intérim est assuré par le préfet délégué
-pour la défense et la sécurité ou, à défaut, par le préfet de région du rang le plus élevé en fonctions dans la zone de
-défense et de sécurité.
+pour la défense et la sécurité ou, à défaut, par le préfet de département hors classe le plus ancien dans le grade ou, à
+défaut, le préfet de département le plus ancien dans le grade, en fonctions dans la zone de défense et de sécurité.
 
 **Liens relatifs à cet article**
 
@@ -27687,9 +27687,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2018-583 du 6 juillet 2018 - art. 10
 
 _Anciens textes_:
 
@@ -27838,17 +27838,20 @@ général pour l'administration de la préfecture de police ", au d, les mots : 
 publique du chef-lieu de la zone de défense et de sécurité, coordonnateur zonal de la sécurité publique " par les mots : "
 Des directeurs des services actifs de police de la préfecture de police " et au f, les mots : " chef de l'état-major
 interministériel de zone de défense et de sécurité " par les mots : " chef d'état-major du secrétariat général de la zone de
-défense et de sécurité ".
+défense et de sécurité " et pour celle du troisième alinéa de l'article R. 122-37, les mots : “ Le directeur départemental de
+la sécurité publique du chef-lieu de zone de défense et de sécurité ” sont remplacés par les mots : “ Les directeurs des
+services actifs de police de la préfecture de police, chacun au titre de ses attributions ”.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-296 du 6 mars 2014 - art. 8
+  - Décret n°2018-583 du 6 juillet 2018 - art. 3
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. R*122-5
+  - Code de la sécurité intérieure - art. R122-37
 
 
 ###### Article R*122-42
@@ -27870,6 +27873,20 @@ _Créé par_:
 _Anciens textes_:
 
   - Code de la défense. - art. R*1311-29, VI (VT)
+
+
+###### Article R*122-42-1
+
+Le préfet de police, préfet de la zone de défense et de sécurité de Paris, coordonne l'action des préfets de département de
+l'Essonne, de Seine-et-Marne, du Val-d'Oise et des Yvelines dans l'orientation de l'intervention des services de la police
+nationale et des unités de la gendarmerie nationale dans le domaine de la sécurité des personnes et des biens dans les
+transports en commun de voyageurs par voie routière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-583 du 6 juillet 2018 - art. 4
 
 
 ###### Article R*122-43
@@ -28155,20 +28172,13 @@ _Créé par_:
   - Décret n°2013-1112 du 4 décembre 2013 - art.
 
 
-###### Article R*122-54 
+###### Article R*122-54
 
-Dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ainsi que sur les parties de l'emprise
-de l'aérodrome de Paris-Charles de Gaulle situées dans les départements du Val-d'Oise et de Seine-et-Marne, sur les parties
-de l'emprise de l'aérodrome du Bourget situées dans le département du Val-d'Oise et sur les parties de l'emprise de
-l'aérodrome de Paris-Orly situées dans le département de l'Essonne, le préfet de police a la charge de l'ordre public,
-notamment la prévention des atteintes à la sécurité des personnes et des biens, dans les conditions prévues par l'article 73
-du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de
-l'Etat dans les régions et départements.
-
-**Nota:**
-
-Conformément à l'article 11 du décret n° 2017-567 du 19 avril 2017, les dispositions du présent décret, en tant qu'elles
-concernent l'emprise de l'aérodrome de Paris-Orly, entrent en vigueur à compter du 1er janvier 2018.
+Le préfet de police a la charge de l'ordre public, notamment la prévention des atteintes à la sécurité des personnes et des
+biens, dans les conditions prévues par l'article 73 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets,
+à l'organisation et à l'action des services de l'Etat dans les régions et départements, dans les départements des Hauts-de-
+Seine, de la Seine-Saint-Denis et du Val-de-Marne ainsi que dans les conditions prévues à l'article 73-1 du même décret sur
+les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly.
 
 **Liens relatifs à cet article**
 
@@ -28182,7 +28192,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-567 du 19 avril 2017 - art. 1
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
 ##### Section 5 : Préfet de police des Bouches-du-Rhône<a id=383></a>
@@ -32874,9 +32884,10 @@ _Créé par_:
 ###### Article R211-1
 
 Les compétences dévolues au représentant de l'Etat dans le département par les articles L. 211-1 à L. 211-4 sont exercées,
-dans le département des Bouches-du-Rhône par le préfet de police des Bouches-du-Rhône. 
+dans le département des Bouches-du-Rhône par le préfet de police des Bouches-du-Rhône, et sur les emprises des aérodromes de
+Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de police.
 
-La déclaration prévue à l'article L. 211-1 est faite auprès de cette autorité.
+La déclaration prévue à l'article L. 211-1 est faite auprès de ces autorités.
 
 **Liens relatifs à cet article**
 
@@ -32884,13 +32895,13 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L211-1 (V)
+  - Code de la sécurité intérieure - art. L211-1
 
 
 ##### Section 2 : Rassemblements festifs à caractère musical<a id=418></a>
@@ -33130,7 +33141,8 @@ _Cité par_:
 
 ###### Article R211-9
 
-A Paris, les compétences dévolues au préfet de département par la présente section sont exercées par le préfet de police.
+A Paris, ou sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, les compétences
+dévolues au préfet de département par la présente section sont exercées par le préfet de police.
 
 Dans le département des Bouches-du-Rhône, ces compétences sont exercées par le préfet de police des Bouches-du-Rhône.
 
@@ -33148,7 +33160,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-134 du 17 février 2014 - art. 6
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
 ##### Section 3 : Attroupements<a id=419></a>
@@ -33575,13 +33587,14 @@ _Cité par_:
 ###### Article R211-21-1
 
 Les attributions dévolues au représentant de l'Etat dans le département dans le cadre de la présente section sont exercées,
-dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly par le préfet de police, et, dans
+le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
 ##### Section 4 : Manifestations sportives, récréatives  ou culturelles à but lucratif<a id=420></a>
@@ -33590,11 +33603,12 @@ _Créé par_:
 
 Les organisateurs de manifestations sportives, récréatives ou culturelles à but lucratif dont le public et le personnel qui
 concourt à la réalisation de la manifestation peuvent atteindre plus de 1 500 personnes, soit d'après le nombre de places
-assises, soit d'après la surface qui leur est réservée, sont tenus d'en faire la déclaration au maire, à Paris, au préfet de
-police et, dans le département des Bouches-du-Rhône, au préfet de police des Bouches-du-Rhône. 
+assises, soit d'après la surface qui leur est réservée, sont tenus d'en faire la déclaration au maire, à Paris, ou sur les
+emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly au préfet de police et, dans le
+département des Bouches-du-Rhône, au préfet de police des Bouches-du-Rhône.
 
 La déclaration peut être souscrite pour une seule ou pour plusieurs manifestations dont la programmation est établie à
-l'avance. 
+l'avance.
 
 La déclaration est faite un an au plus et, sauf urgence motivée, un mois au moins avant la date de la manifestation.
 
@@ -33610,7 +33624,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art. 9
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cité par_:
 
@@ -34200,7 +34214,8 @@ _Cite_:
 ###### Article R223-1
 
 Les attributions dévolues au représentant de l'Etat dans le département par les articles L. 223-2, L. 223-4 à L. 223-6 et L.
-223-8 sont exercées par le préfet de département et, dans le département des Bouches-du-Rhône, par le préfet de police des
+223-8 sont exercées par le préfet de département, et, sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le
+Bourget et Paris-Orly par le préfet de police, et, dans le département des Bouches-du-Rhône, par le préfet de police des
 Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
@@ -34209,15 +34224,15 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L223-2 (V)
-  - Code de la sécurité intérieure - art. L223-4 (V)
-  - Code de la sécurité intérieure - art. L223-8 (V)
+  - Code de la sécurité intérieure - art. L223-2
+  - Code de la sécurité intérieure - art. L223-4
+  - Code de la sécurité intérieure - art. L223-8
 
 
 ###### Article R223-2
@@ -38829,8 +38844,9 @@ _Créé par_:
 
 ###### Article R252-1
 
-Les attributions dévolues au représentant de l'Etat dans le département dans le cadre du présent titre sont exercées, à
-Paris, par le préfet de police et, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+Les attributions dévolues au représentant de l'Etat dans le département dans le cadre du présent titre sont exercées, à Paris
+et sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de police et,
+dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
 
@@ -38838,16 +38854,17 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
 ###### Article R252-2
 
 La demande d'autorisation préalable à l'installation d'un système de vidéoprotection est déposée à la préfecture du
-département du lieu d'implantation ou, à Paris, à la préfecture de police et, dans le département des Bouches-du-Rhône, à la
-préfecture de police des Bouches-du-Rhône.
+département du lieu d'implantation ou, à Paris et sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le
+Bourget et Paris-Orly, à la préfecture de police et, dans le département des Bouches-du-Rhône, à la préfecture de police des
+Bouches-du-Rhône.
 
 En cas de système comportant des caméras installées sur le territoire de plusieurs départements, la demande est déposée à la
 préfecture du département du siège social du demandeur ou, si le siège social du demandeur est situé à Paris, à la préfecture
@@ -38863,9 +38880,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cité par_:
 
@@ -54373,8 +54390,9 @@ _Cite_:
 ###### Article R332-1
 
 Les missions de police administrative dévolues au représentant de l'Etat en application de l'article L. 332-1 sont exercées
-par le préfet de département, à Paris, par le préfet de police, et, dans le département des Bouches-du-Rhône, par le préfet
-de police des Bouches-du-Rhône.
+par le préfet de département, à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-
+Marne, ainsi que sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de
+police, et, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
 
@@ -54386,13 +54404,13 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L332-1 (V)
+  - Code de la sécurité intérieure - art. L332-1
 
 _Cité par_:
 
@@ -54404,8 +54422,9 @@ _Cité par_:
 ###### Article R333-1
 
 Les missions de police administrative dévolues au représentant de l'Etat en application de l'article L. 333-1 sont exercées
-par le préfet de département, à Paris, par le préfet de police, et dans le département des Bouches-du-Rhône, par le préfet de
-police des Bouches-du-Rhône.
+par le préfet de département, à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-
+Marne, ainsi que sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de
+police, et dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
 
@@ -54417,13 +54436,13 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L333-1 (V)
+  - Code de la sécurité intérieure - art. L333-1
 
 _Cité par_:
 
@@ -65406,21 +65425,21 @@ _Cite_:
 ###### Article R512-8
 
 Le projet de convention prévue à l'article L. 511-1 est soumis à l'approbation du représentant de l'Etat dans le département
-en vue notamment de s'assurer de sa conformité aux conventions de coordination des interventions de la police municipale et
-des forces de sécurité de l'Etat et au contrat d'objectif départemental de sûreté dans les transports collectifs. Si les
-communes intéressées se trouvent dans plusieurs départements, le projet de convention fait l'objet d'une approbation
-conjointe par les représentants de l'Etat dans ces départements. 
+ou, dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, du préfet de police en
+vue notamment de s'assurer de sa conformité aux conventions de coordination des interventions de la police municipale et des
+forces de sécurité de l'Etat et au contrat d'objectif départemental de sûreté dans les transports collectifs. Si les communes
+intéressées se trouvent dans plusieurs départements, le projet de convention fait l'objet d'une approbation conjointe par les
+représentants de l'Etat dans ces départements.
 
-La convention est signée par l'ensemble des maires des communes intéressées, après délibération de leurs conseils
-municipaux. 
+La convention est signée par l'ensemble des maires des communes intéressées, après délibération de leurs conseils municipaux.
 
 La convention peut être dénoncée après un préavis de trois mois.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1616 du 28 novembre 2016 - art. 1
+  - Décret n°2018-583 du 6 juillet 2018 - art. 4
 
 _Cite_:
 
@@ -68663,19 +68682,20 @@ _Cité par_:
 Pour l'application des dispositions du dernier alinéa de l'article L. 612-20, est compétent pour retirer la carte
 professionnelle de l'agent le préfet du département sur le territoire duquel les nécessités tenant à l'ordre public se
 manifestent ou, respectivement, le préfet de police ou le préfet de police des Bouches-du-Rhône lorsque celles-ci se
-manifestent à Paris ou dans le département des Bouches-du-Rhône.
+manifestent à Paris ou sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, ou dans le
+département des Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1415 du 28 novembre 2014 - art. 2
 
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code de la sécurité intérieure - art. R645-1 (M)
   - Code de la sécurité intérieure - art. R646-1 (M)
+
+_Modifié par_:
+
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
@@ -69794,8 +69814,9 @@ _Cite_:
 L'autorisation d'acquisition et de détention d'armes de la catégorie B est délivrée au bénéficiaire de l'autorisation
 d'exercice prévue à l'article L. 612-9 ou à une entreprise visée à l'article L. 612-25, lorsqu'il emploie les agents
 mentionnés aux II, III, IV et V de l'article R. 613-3, par le préfet du département dans lequel se trouve l'établissement où
-les armes sont conservées et, dans le cas où l'établissement est situé à Paris, par le préfet de police, et, dans le cas où
-l'établissement est situé dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+les armes sont conservées et, dans le cas où l'établissement est situé à Paris ou sur les emprises des aérodromes de Paris-
+Charles de Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de police, et, dans le cas où l'établissement est situé dans
+le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 Délivrée pour une durée maximale de cinq ans renouvelable, cette autorisation peut être rapportée à tout moment pour des
 motifs d'ordre public ou de sécurité des personnes. Dans ce cas, ou lorsque l'entreprise ne dispose plus de l'autorisation
@@ -69808,9 +69829,9 @@ par arme. Le nombre de munitions d'entraînement pouvant être acquises est fix�
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 7
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cité par_:
 
@@ -70007,8 +70028,9 @@ _Cité par_:
 ###### Article R613-5
 
 La surveillance des biens par un ou plusieurs gardiens postés ou circulant sur la voie publique est soumise à autorisation
-préalable du préfet de département ou, à Paris, du préfet de police, et, dans le département des Bouches-du-Rhône, du préfet
-de police des Bouches-du-Rhône.
+préalable du préfet de département ou, à Paris ou sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le
+Bourget et Paris-Orly, du préfet de police, et, dans le département des Bouches-du-Rhône, du préfet de police des Bouches-du-
+Rhône.
 
 La demande en est faite, sur requête écrite de son client, par l'entreprise chargée de cette surveillance.
 
@@ -70022,13 +70044,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-**Liens**:
-
-  - DEPLACE: Décret n°2017-1844 du 29 décembre 2017 - art. 13
-
 _Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 8
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cité par_:
 
@@ -70043,13 +70061,13 @@ _Cité par_:
 
 Les employés exerçant une activité de surveillance ou de gardiennage mentionnée au 1° de l'article L. 611-1 dans une
 entreprise ou dans un service interne d'entreprise mentionné à l'article L. 612-25 doivent avoir été habilités par leur
-employeur, puis agréés par le préfet de département ou, à Paris, par le préfet de police, et, dans le département des
-Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône, pour procéder aux palpations de sécurité prévues à l'article
-L. 613-2. 
+employeur, puis agréés par le préfet de département ou, à Paris ou sur les emprises des aérodromes de Paris-Charles de
+Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de police, et, dans le département des Bouches-du-Rhône, par le préfet
+de police des Bouches-du-Rhône, pour procéder aux palpations de sécurité prévues à l'article L. 613-2.
 
 Pour procéder aux palpations de sécurité ainsi qu'à l'inspection visuelle des bagages à main et à leur fouille dans les
 conditions prévues à l'article L. 613-3, ces employés doivent avoir été habilités par leur employeur et agréés par la
-commission  locale d'agrément et de contrôle.
+commission locale d'agrément et de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -70065,9 +70083,9 @@ _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2017-1844 du 29 décembre 2017 - art. 13
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
@@ -70325,40 +70343,41 @@ _Cité par_:
 
 I.-Les agents de surveillance et de gardiennage d'une entreprise exerçant l'activité mentionnée au 1° de l'article L. 611-1,
 lorsque son client en fait la demande, ou ceux d'une entreprise mentionnée à l'article L. 612-25, peuvent être autorisés à
-utiliser les armes de la catégorie D mentionnées au I de l'article R. 613-3. 
+utiliser les armes de la catégorie D mentionnées au I de l'article R. 613-3.
 
-L'autorisation est délivrée par le préfet du département du lieu d'exercice de la mission, ou, à Paris, le préfet de police
-et, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, pour l'exercice d'une mission. Le
-silence gardé par le préfet vaut décision de rejet. 
+L'autorisation est délivrée par le préfet du département du lieu d'exercice de la mission, ou, à Paris ou sur les emprises
+des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, le préfet de police et, dans le département des
+Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, pour l'exercice d'une mission. Le silence gardé par le préfet
+vaut décision de rejet.
 
-Le dossier de demande d'autorisation comprend : 
+Le dossier de demande d'autorisation comprend :
 
-1° Le descriptif de la mission et le type des armes remises aux agents ; 
+1° Le descriptif de la mission et le type des armes remises aux agents ;
 
 2° Une attestation de contrat liant l'entreprise et son client, ou, le cas échéant, l'autorisation d'exercice délivrée à
-l'entreprise mentionnée à l'article L. 612-25 ; 
+l'entreprise mentionnée à l'article L. 612-25 ;
 
 3° Le cas échéant, une copie de la requête écrite de son client demandant à ce que les armes mentionnées au I de l'article R.
 613-3 soient remises aux agents exerçant la mission et une note justifiant de la nécessité du port des armes de la catégorie
-D au regard des risques d'agression que la mission fait peser sur les agents ; 
+D au regard des risques d'agression que la mission fait peser sur les agents ;
 
 4° Pour chaque agent employé par l'entreprise et concerné par la mission, une copie d'un titre d'identité en cours de
 validité, le numéro de carte professionnelle permettant l'exercice de l'activité avec l'usage des armes de la catégorie D, un
 certificat médical datant de moins d'un mois attestant que l'état de santé physique et psychique de l'agent n'est pas
 incompatible avec le port d'une de ces armes ainsi que les justificatifs de la formation initiale et d'entraînement au
-maniement des armes dans les conditions fixées aux articles R. 612-37 et R. 612-38 ; 
+maniement des armes dans les conditions fixées aux articles R. 612-37 et R. 612-38 ;
 
 5° La justification de l'installation d'un équipement permettant la conservation des armes dans les conditions fixées au
-deuxième alinéa de l'article R. 613-3-4 ; 
+deuxième alinéa de l'article R. 613-3-4 ;
 
 6° Le cas échéant, lorsqu'il est envisagé que la surveillance puisse se faire depuis la voie publique dans les conditions
-prévues aux articles L. 613-1 et R. 613-5, la justification de la nécessité de cette modalité de surveillance. 
+prévues aux articles L. 613-1 et R. 613-5, la justification de la nécessité de cette modalité de surveillance.
 
 L'autorisation est délivrée pour une durée qui ne peut excéder un an, renouvelable dans les mêmes conditions. Elle précise le
-lieu d'exercice de la mission, sa durée, le nom des agents y participant et les types d'armes dont ils peuvent être équipés. 
+lieu d'exercice de la mission, sa durée, le nom des agents y participant et les types d'armes dont ils peuvent être équipés.
 
 Une copie de cette autorisation est transmise au directeur du Conseil national des activités privées de sécurité ainsi qu'au
-maire de la commune où est exercée la mission. 
+maire de la commune où est exercée la mission.
 
 II.-Toute modification, suppression ou adjonction affectant l'un des éléments du dossier de demande d'autorisation mentionnés
 au I fait l'objet d'une déclaration dans un délai de quinze jours auprès du préfet compétent ainsi qu'au directeur du Conseil
@@ -70366,9 +70385,9 @@ national des activités privées de sécurité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 14
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
@@ -70622,37 +70641,41 @@ _Cite_:
 ###### Article R613-23-2
 
 I.-L'autorisation mentionnée à l'article L. 613-7-1 est délivrée par le préfet du département du lieu d'exercice de la
-mission ou, à Paris, par le préfet de police et, dans le département des Bouches-du-Rhône, par le préfet de police des
-Bouches-du-Rhône. Lorsque la mission est exercée dans des véhicules de transport public de personnes, l'autorisation est
-délivrée par le préfet du département dans lequel les agents montent à bord du véhicule de transport. Le silence gardé par le
-préfet pendant quatre mois vaut décision de rejet. 
+mission. Lorsque la mission est exercée dans des véhicules de transport public de personnes, l'autorisation est délivrée par
+le préfet du département dans lequel les agents montent à bord du véhicule de transport. Le silence gardé par le préfet
+pendant quatre mois vaut décision de rejet.
 
-Cette autorisation est sollicitée par l'entreprise chargée de la surveillance, sur requête écrite de son client. 
+Cette autorisation est sollicitée par l'entreprise chargée de la surveillance, sur requête écrite de son client.
 
-Le dossier de demande d'autorisation comprend : 
+Les compétences mentionnées à l'alinéa précédent sont exercées à Paris ou sur les emprises des aérodromes de Paris-Charles de
+Gaulle, Paris-Le Bourget et Paris-Orly ainsi que dans les transports en commun de voyageurs par voie ferrée de la région
+d'Ile-de-France, par le préfet de police et, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-
+du-Rhône.
+
+Le dossier de demande d'autorisation comprend :
 
 1° Une copie de la promesse de contrat ou, en cas de marché public, une lettre d'engagement sous condition, relative à la
 prestation de surveillance armée entre l'entreprise et son client, ou, le cas échéant, l'autorisation délivrée à l'entreprise
-mentionnée à l'article L. 612-25 ; 
+mentionnée à l'article L. 612-25 ;
 
 2° Une copie de la requête mentionnée au deuxième alinéa et une note justifiant de la nécessité de la mission de surveillance
 armée au regard des circonstances exposant les agents en charge de la mission ou les personnes se trouvant dans les lieux
-surveillés à un risque exceptionnel d'atteinte à leur vie ; 
+surveillés à un risque exceptionnel d'atteinte à leur vie ;
 
-3° Une copie de l'autorisation d'exercice mentionnée à l'article L. 612-9 ; 
+3° Une copie de l'autorisation d'exercice mentionnée à l'article L. 612-9 ;
 
 4° Pour chaque agent employé par l'entreprise et concerné par la mission, une copie d'un titre d'identité en cours de
 validité, le numéro de carte professionnelle permettant l'exercice de l'activité de surveillance armée, un certificat médical
 datant de moins d'un mois attestant que l'état de santé physique et psychique de l'agent n'est pas incompatible avec le port
 d'une arme ainsi que les justificatifs de la formation initiale et d'entraînement au maniement des armes mentionnées au II de
-l'article R. 613-3 dont le port est sollicité, dans les conditions fixées aux articles R. 612-37 et R. 612-38 ; 
+l'article R. 613-3 dont le port est sollicité, dans les conditions fixées aux articles R. 612-37 et R. 612-38 ;
 
 5° Une note présentant les conditions de transport des armes et de leur conservation sur les lieux surveillés, pendant la
 durée de la mission, accompagnée, le cas échéant, d'un justificatif de l'installation, dans les locaux à surveiller, d'un
-équipement mentionné à l'article R. 613-23-11. 
+équipement mentionné à l'article R. 613-23-11.
 
 Lorsqu'il est envisagé que la surveillance puisse se faire depuis la voie publique dans les conditions prévues aux articles
-L. 613-1 et R. 613-5, le dossier justifie de la nécessité de cette modalité de surveillance. 
+L. 613-1 et R. 613-5, le dossier justifie de la nécessité de cette modalité de surveillance.
 
 II.-Toute modification, suppression ou adjonction affectant l'un des éléments du dossier de demande d'autorisation mentionnés
 au I fait l'objet d'une déclaration dans un délai d'un mois auprès du préfet compétent ainsi qu'au directeur du Conseil
@@ -70660,9 +70683,9 @@ national des activités privées de sécurité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 13
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cite_:
 
@@ -70670,9 +70693,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L612-9
   - Code de la sécurité intérieure - art. L613-1
   - Code de la sécurité intérieure - art. L613-7-1
-  - Code de la sécurité intérieure - art. R612-37 (V)
+  - Code de la sécurité intérieure - art. R612-37
   - Code de la sécurité intérieure - art. R613-3
-  - Code de la sécurité intérieure - art. R613-5
+  - Code de la sécurité intérieure - art. R613-5 (V)
 
 _Cité par_:
 
@@ -70857,20 +70880,21 @@ mentionnée à l'article L. 612-9, et dans des coffres-forts ou des armoires for
 sécurisée ou dans des chambres fortes comportant une porte blindée et dont les ouvertures sont protégées par des barreaux ou
 des volets métalliques. L'accès au lieu de conservation des armes est réservé aux personnes chargées de l'exécution de la
 mission et à la personne mentionnée au 3° de l'article R. 612-6-1. Les agents mentionnés aux articles L. 611-2 et L. 634-1
-peuvent également y avoir accès pour l'exercice de leur mission de contrôle des activités de surveillance armée. 
+peuvent également y avoir accès pour l'exercice de leur mission de contrôle des activités de surveillance armée.
 
-Le préfet du département du lieu d'exercice de la mission, ou, à Paris, le préfet de police et, dans le département des
-Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, peut imposer à tout moment la conservation des armes par le
-donneur d'ordre ou s'y opposer. L'autorisation prévue à l'article L. 613-7-1 en fait mention. 
+Le préfet du département du lieu d'exercice de la mission, ou, à Paris ou sur les emprises des aérodromes de Paris-Charles de
+Gaulle, Paris-Le Bourget et Paris-Orly, le préfet de police et, dans le département des Bouches-du-Rhône, le préfet de police
+des Bouches-du-Rhône, peut imposer à tout moment la conservation des armes par le donneur d'ordre ou s'y opposer.
+L'autorisation prévue à l'article L. 613-7-1 en fait mention.
 
 Le lieu de conservation est doté des équipements permettant le respect des règles de dépôt des armes mentionnées par l'arrêté
 prévu à l'article R. 613-3-6.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 13
+  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cité par_:
 
