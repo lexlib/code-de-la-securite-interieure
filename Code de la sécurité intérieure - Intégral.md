@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-07-08
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -12296,14 +12296,15 @@ rurales et périurbaines, ainsi que sur les voies de communication.
 Elle contribue à la mission de renseignement et d'information des autorités publiques, à la lutte contre le terrorisme, ainsi
 qu'à la protection des populations.
 
-L'ensemble de ses missions civiles s'exécute sur toute l'étendue du territoire national, hors de celui-ci en application des
-engagements internationaux de la France.
+L'ensemble de ses missions civiles s'exécute sur toute l'étendue du territoire national, ainsi qu'en haute mer à bord des
+navires battant pavillon français. Hors de ces cas, elles s'exécutent en application des engagements internationaux de la
+France.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2018-607 du 13 juillet 2018 - art. 42
 
 _Anciens textes_:
 
@@ -24186,83 +24187,120 @@ _Cité par_:
 
 Dans les conditions prévues au présent chapitre, peut être autorisée, aux seules fins de défense et de promotion des intérêts
 fondamentaux de la Nation mentionnés à l'article L. 811-3, la surveillance des communications qui sont émises ou reçues à
-l'étranger. 
+l'étranger.
 
 Cette surveillance, qu'elle porte sur des correspondances ou sur des données de connexion, est exclusivement régie par le
-présent chapitre. 
+présent chapitre.
 
 Les mesures prises à ce titre ne peuvent avoir pour objet d'assurer la surveillance individuelle des communications de
 personnes utilisant des numéros d'abonnement ou des identifiants techniques rattachables au territoire national, à
 l'exception du cas où ces personnes communiquent depuis l'étranger et, soit faisaient l'objet d'une autorisation
 d'interception de sécurité, délivrée en application de l'article L. 852-1, à la date à laquelle elles ont quitté le
 territoire national, soit sont identifiées comme présentant une menace au regard des intérêts fondamentaux de la Nation
-mentionnés à l'article L. 811-3. 
+mentionnés à l'article L. 811-3.
 
-Sous réserve des dispositions particulières du troisième alinéa du présent article, lorsqu'il apparaît que des communications
-électroniques interceptées sont échangées entre des personnes ou des équipements utilisant des numéros d'abonnement ou des
-identifiants techniques rattachables au territoire national, y compris lorsque ces communications transitent par des
-équipements non rattachables à ce territoire, celles-ci sont instantanément détruites.
+Les autorisations prévues aux articles L. 851-1, L. 851-2 et au I de l'article L. 852-1 peuvent valoir, lorsque la décision
+d'autorisation le prévoit, autorisation d'exploitation des communications, ou des seules données de connexion, interceptées
+dans le cadre de la mise en œuvre de mesures de surveillance des communications internationales, dans la limite de la portée
+de ces autorisations et dans le respect des garanties qui les entourent.
+
+Sous réserve des dispositions particulières des troisième et quatrième alinéas du présent article ainsi que du V de l'article
+L. 854-2, lorsqu'il apparaît que des communications électroniques interceptées sont échangées entre des personnes ou des
+équipements utilisant des numéros d'abonnement ou des identifiants techniques rattachables au territoire national, y compris
+lorsque ces communications transitent par des équipements non rattachables à ce territoire, celles-ci sont instantanément
+détruites.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1556 du 30 novembre 2015 - art. 1
+  - Loi n°2018-607 du 13 juillet 2018 - art. 37
+
+_Cité par_:
+
+  - Code de la défense. - art. L2371-2 (V)
+  - Code de la sécurité intérieure - art. L854-9 (V)
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L811-3
   - Code de la sécurité intérieure - art. L852-1
 
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L854-9 (V)
-
 
 ###### Article L854-2
 
 I.-Le Premier ministre désigne, par une décision motivée, les réseaux de communications électroniques sur lesquels il
-autorise l'interception des communications émises ou reçues à l'étranger, dans les limites fixées à l'article L. 854-1. 
+autorise l'interception des communications émises ou reçues à l'étranger, dans les limites fixées à l'article L. 854-1.
 
 II.-Sur demande motivée des ministres ou de leurs délégués mentionnés au premier alinéa de l'article L. 821-2, le Premier
 ministre ou l'une des personnes déléguées mentionnées à l'article L. 821-4 peut autoriser l'exploitation non individualisée
-des données de connexion interceptées. 
+des données de connexion interceptées.
 
-L'autorisation désigne : 
+L'autorisation désigne :
 
-1° La ou les finalités poursuivies parmi celles mentionnées à l'article L. 811-3 ; 
+1° La ou les finalités poursuivies parmi celles mentionnées à l'article L. 811-3 ;
 
-2° Le ou les motifs des mesures ; 
+2° Le ou les motifs des mesures ;
 
-3° Le ou les services mentionnés à l'article L. 811-2 en charge de cette exploitation ; 
+3° Le ou les services mentionnés à l'article L. 811-2 en charge de cette exploitation ;
 
-4° Le type de traitements automatisés pouvant être mis en œuvre, en précisant leur objet. 
+4° Le type de traitements automatisés pouvant être mis en œuvre, en précisant leur objet.
 
 L'autorisation, renouvelable dans les mêmes conditions que celles prévues au présent II, est délivrée pour une durée maximale
-d'un an. 
+d'un an.
 
 III.-Sur demande motivée des ministres ou de leurs délégués mentionnés au premier alinéa de l'article L. 821-2, le Premier
-ministre ou l'un de ses délégués peut également délivrer une autorisation d'exploitation de communications, ou de seules
-données de connexion, interceptées. 
+ministre ou l'un de ses délégués peut également, après avis de la Commission nationale de contrôle des techniques de
+renseignement, délivrer une autorisation d'exploitation de communications, ou de seules données de connexion, interceptées.
 
-L'autorisation désigne : 
+L'autorisation désigne :
 
-1° La ou les finalités poursuivies parmi celles mentionnées à l'article L. 811-3 ; 
+1° La ou les finalités poursuivies parmi celles mentionnées à l'article L. 811-3 ;
 
-2° Le ou les motifs des mesures ; 
+2° Le ou les motifs des mesures ;
 
-3° Les zones géographiques ou les organisations, groupes de personnes ou personnes concernés ; 
+3° Les zones géographiques ou les organisations, groupes de personnes ou personnes concernés ;
 
-4° Le ou les services mentionnés à l'article L. 811-2 en charge de cette exploitation. 
+4° Le ou les services mentionnés à l'article L. 811-2 en charge de cette exploitation.
 
 L'autorisation, renouvelable dans les mêmes conditions que celles prévues au présent III, est délivrée pour une durée
 maximale de quatre mois.
 
+IV.-L'autorisation prévue au III vaut autorisation d'effectuer au sein des données de connexion interceptées des
+vérifications ponctuelles aux seules fins de détecter une menace pour les intérêts fondamentaux de la Nation liée aux
+relations entre des numéros d'abonnement ou des identifiants techniques rattachables au territoire français et des zones
+géographiques, organisations ou personnes mentionnés au 3° du même III.
+
+A la seule fin de détecter, de manière urgente, une menace terroriste, cette vérification ponctuelle peut porter sur les
+communications de numéros d'abonnement ou d'identifiants techniques rattachables au territoire national. Ces numéros et
+identifiants sont immédiatement communiqués au Premier ministre et à la Commission nationale de contrôle des techniques de
+renseignement, pour les besoins du contrôle prévu à l'article L. 854-9.
+
+Des vérifications ponctuelles peuvent également être mises en œuvre pour détecter sur les communications d'identifiants
+techniques rattachables au territoire national, à des fins d'analyse technique, des éléments de cyberattaques susceptibles de
+porter atteinte aux intérêts fondamentaux de la Nation mentionnés au 1° de l'article L. 811-3.
+
+Lorsque les vérifications ponctuelles mentionnées au présent IV font apparaître la nécessité d'une surveillance,
+l'exploitation des communications ou des seules données de connexion interceptées ne peut être poursuivie que sur le
+fondement d'une autorisation obtenue en application des chapitres Ier ou II du présent titre ou du V du présent article, dans
+le respect des règles qui leur sont propres.
+
+V.-Par dérogation au troisième alinéa de l'article L. 854-1 et pour la défense ou la promotion des finalités mentionnées aux
+1°, 2°, 4°, 6° et 7° de l'article L. 811-3, le Premier ministre ou l'un de ses délégués peut, dans les conditions prévues au
+III du présent article, délivrer une autorisation d'exploitation de communications ou de seules données de connexion
+interceptées, de numéros d'abonnement ou d'identifiants techniques rattachables au territoire national dont l'utilisateur
+communique depuis ce territoire.
+
+Le nombre maximal des autorisations d'exploitation, en vigueur simultanément et portant sur des correspondances, est arrêté
+par le Premier ministre, après avis de la Commission nationale de contrôle des techniques de renseignement. La décision
+fixant ce contingent et sa répartition entre les ministres mentionnés au premier alinéa de l'article L. 821-2 sont portées à
+la connaissance de la commission.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1556 du 30 novembre 2015 - art. 1
+  - Loi n°2018-607 du 13 juillet 2018 - art. 37
 
 _Cite_:
 
@@ -24273,7 +24311,7 @@ _Cite_:
 _Cité par_:
 
   - Code de la sécurité intérieure - art. L854-7 (V)
-  - Code de la sécurité intérieure - art. L854-9 (M)
+  - Code de la sécurité intérieure - art. L854-9 (V)
 
 
 ###### Article L854-3
@@ -24294,19 +24332,20 @@ _Cite_:
 
 ###### Article L854-4
 
-L'interception et l'exploitation des communications en application du présent chapitre font l'objet de dispositifs de
-traçabilité organisés par le Premier ministre après avis de la Commission nationale de contrôle des techniques de
-renseignement. Le Premier ministre définit les modalités de la centralisation des renseignements collectés.
+L'interception et l'exploitation des communications en application du présent chapitre ainsi que la vérification ponctuelle
+mentionnée au IV de l'article L. 854-2 ainsi que la vérification ponctuelle mentionnée au IV de l'article L. 854-2 font
+l'objet de dispositifs de traçabilité organisés par le Premier ministre après avis de la Commission nationale de contrôle des
+techniques de renseignement. Le Premier ministre définit les modalités de la centralisation des renseignements collectés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1556 du 30 novembre 2015 - art. 1
+  - Loi n°2018-607 du 13 juillet 2018 - art. 37
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L854-9 (M)
+  - Code de la sécurité intérieure - art. L854-9 (V)
 
 
 ###### Article L854-5
@@ -24420,29 +24459,33 @@ _Cité par_:
 
 ###### Article L854-9
 
-La Commission nationale de contrôle des techniques de renseignement reçoit communication de toutes les décisions et
+La Commission nationale de contrôle des techniques de renseignement émet un avis sur les demandes mentionnées aux III et V de
+l'article L. 854-2 dans les délais prévus à l'article L. 821-3. Elle reçoit communication de toutes les décisions et
 autorisations mentionnées à l'article L. 854-2. Elle dispose d'un accès permanent, complet et direct aux dispositifs de
 traçabilité mentionnés à l'article L. 854-4, aux renseignements collectés, aux transcriptions et extractions réalisées ainsi
 qu'aux relevés mentionnés à l'article L. 854-6. A sa demande, elle peut contrôler les dispositifs techniques nécessaires à
 l'exécution des décisions et des autorisations. Si la surveillance des personnes mentionnées au troisième alinéa de l'article
 L. 854-1 n'a pas déjà fait l'objet d'une autorisation spécifique, leur identité est portée sans délai à la connaissance de la
-commission. 
+commission.
 
-La commission peut solliciter du Premier ministre tous les éléments nécessaires à l'accomplissement de ses missions. 
+La commission peut solliciter du Premier ministre tous les éléments nécessaires à l'accomplissement de ses missions.
 
-L'article L. 833-3 est applicable aux contrôles effectués par la commission en application du présent article. 
+L'article L. 833-3 est applicable aux contrôles effectués par la commission en application du présent article.
 
-De sa propre initiative ou sur réclamation de toute personne souhaitant vérifier qu'aucune mesure de surveillance n'est
-irrégulièrement mise en œuvre à son égard, la commission s'assure que les mesures mises en œuvre au titre du présent chapitre
-respectent les conditions qu'il fixe ainsi que celles définies par les textes pris pour son application et par les décisions
-et autorisations du Premier ministre ou de ses délégués. Elle notifie à l'auteur de la réclamation qu'il a été procédé aux
-vérifications nécessaires, sans confirmer ni infirmer la mise en œuvre de mesures de surveillance. 
+De sa propre initiative ou sur réclamation de toute personne souhaitant vérifier qu'aucune mesure de surveillance ou de
+vérification ponctuelle n'est irrégulièrement mise en œuvre à son égard, la commission s'assure que les mesures mises en
+œuvre au titre du présent chapitre respectent les conditions qu'il fixe ainsi que celles définies par les textes pris pour
+son application et par les décisions et autorisations du Premier ministre ou de ses délégués. Elle notifie à l'auteur de la
+réclamation qu'il a été procédé aux vérifications nécessaires, sans confirmer ni infirmer la mise en œuvre de mesures de
+surveillance ou de vérification ponctuelle.
 
 Lorsqu'elle constate un manquement au présent chapitre, la commission adresse au Premier ministre une recommandation tendant
 à ce que le manquement cesse et que les renseignements collectés soient, le cas échéant, détruits. Lorsque le Premier
 ministre ne donne pas suite à cette recommandation ou que les suites qui y sont données sont estimées insuffisantes, le
 Conseil d'Etat, statuant dans les conditions prévues au chapitre III bis du titre VII du livre VII du code de justice
-administrative, peut être saisi par le président ou par au moins trois membres de la commission. 
+administrative, peut être saisi par le président ou par au moins trois membres de la commission. Toutefois, toute personne
+souhaitant vérifier qu'elle n'a pas fait l'objet d'une surveillance irrégulière au titre du V de l'article L. 854-2 du
+présent code peut saisir le Conseil d'Etat du recours prévu au 1° de l'article L. 841-1.
 
 La commission peut adresser à tout moment au Premier ministre les recommandations et les observations qu'elle juge
 nécessaires au titre du contrôle qu'elle exerce sur l'application du présent chapitre.
@@ -24455,17 +24498,17 @@ _Cité par_:
   - Code de justice administrative - art. R773-34-1 (V)
   - Code de justice administrative - art. R773-7 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1556 du 30 novembre 2015 - art. 1
+  - Loi n°2018-607 du 13 juillet 2018 - art. 37
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L833-3
-  - Code de la sécurité intérieure - art. L854-1 (V)
+  - Code de la sécurité intérieure - art. L854-1
   - Code de la sécurité intérieure - art. L854-2 (V)
   - Code de la sécurité intérieure - art. L854-4 (V)
-  - Code de la sécurité intérieure - art. L854-6 (V)
+  - Code de la sécurité intérieure - art. L854-6
 
 
 #### Chapitre V : Des mesures de surveillance de certaines communications hertziennes<a id=339></a>
@@ -25073,8 +25116,9 @@ _Cite_:
 
 ###### Article L895-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de laloi n° 2017-1510 du 30 octobre 2017 renforçant la
-sécurité intérieure et la lutte contre le terrorisme, les dispositions suivantes du présent livre VIII : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de  la loi                  n° 2018-607 du 13 juillet
+2018 du relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la
+défense, les dispositions suivantes du présent livre VIII : 
 
 1° Les titres Ier à VI ; 
 
@@ -25090,7 +25134,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 
 ###### Article L895-2
@@ -25119,8 +25163,9 @@ _Cite_:
 
 ###### Article L896-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de laloi n° 2017-1510 du 30 octobre 2017 renforçant la
-sécurité intérieure et la lutte contre le terrorisme, les dispositions suivantes du présent livre VIII : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de  la loi                  n° 2018-607 du 13 juillet
+2018 du relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la
+défense, les dispositions suivantes du présent livre VIII : 
 
 1° Les titres Ier à VI ; 
 
@@ -25136,7 +25181,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 
 ###### Article L896-2
@@ -25165,8 +25210,9 @@ _Cite_:
 
 ###### Article L897-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de laloi n° 2017-1510 du 30 octobre 2017 renforçant la
-sécurité intérieure et la lutte contre le terrorisme, les titres Ier à VIII du présent livre VIII.
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de  la loi                  n° 2018-607 du 13 juillet 2018
+du relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense,
+les titres Ier à VIII du présent livre VIII.
 
 **Liens relatifs à cet article**
 
@@ -25176,7 +25222,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 
 ###### Article L897-2
@@ -25205,20 +25251,20 @@ _Cite_:
 
 ###### Article L898-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de laloi n° 2017-1510 du
-30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme, les titres Ier à VIII du présent livre
-VIII, sous réserve des adaptations suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de  la loi
+n° 2018-607 du 13 juillet 2018 du relative à la programmation militaire pour les années 2019 à 2025 et portant diverses
+dispositions intéressant la défense, les titres Ier à VIII du présent livre VIII, sous réserve des  adaptations suivantes : 
 
-1°Au début de l'article L. 871-3, les mots : " Dans le cadre des attributions qui lui sont conférées par le livre II du code
-des postes et des communications électroniques, "sont supprimés ; 
+1°  Au début de l'article L. 871-3,  les mots : " Dans le cadre des attributions qui lui sont conférées par le livre II du
+code des postes et des communications électroniques, "  sont supprimés  ; 
 
-2° L'article L. 871-5 est ainsi rédigé : 
+2° L' article L. 871-5 est ainsi rédigé : 
 
-" Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications
+"  Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications
 électroniques et le secret des correspondances que doivent respecter les opérateurs ainsi que les membres de leur personnel
 ne sont opposables ni aux juridictions compétentes pour ordonner des interceptions en application de l'article 100 du code de
 procédure pénale, ni au ministre chargé des communications électroniques, dans l'exercice des prérogatives qui leur sont
-dévolues au présent titre."
+dévolues au présent titre.  "
 
 **Liens relatifs à cet article**
 
@@ -25230,7 +25276,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 
 # Partie réglementaire<a id=352></a>
