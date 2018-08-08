@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-08-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -439,12 +439,12 @@ Version Consolidée au 2018-08-06
           - [Section 1 : Dispositions générales (art. R231-1 à R231-3)](#436)
           - [Section 2 : Système informatique national du système  d'information Schengen dénommé " N-SIS II " (art. R231-5 à R231-13)](#437)
           - [Section 3 : L'office N-SIS II et le bureau national Sirene (art. R231-14 à R231-16)](#438)
-        - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. R232-1 à R232-19)](#439)
+        - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. R232-1 à R232-23)](#439)
           - [Section 1 : Transmission des données (art. R232-1 à R232-1-1)](#440)
           - [Section 2 : Sanctions (art. R232-2 à R232-5-1)](#441)
           - [Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE " (art. R232-6 à R232-11)](#442)
-          - [Section 4 : Le traitement de données à caractère personnel "système API-PNR France" (art. R232-12 à R232-18)](#443)
-          - [Section 5 : Interdiction de transport (art. R232-19)](#444)
+          - [Section 4 : Le traitement de données à caractère personnel "système API-PNR France" (art. R232-12 à R232-22)](#443)
+          - [Section 5 : Interdiction de transport (art. R232-23)](#444)
         - [Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives (art. R234-1 à R234-3)](#445)
         - [Chapitre VI : Autres traitements automatisés de données personnelles (art. R236-1 à R236-53)](#446)
           - [Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique" (art. R236-1 à R236-10)](#447)
@@ -35185,7 +35185,7 @@ données relatives aux personnes ou aux véhicules, embarcations, aéronefs et c
 d'infractions pénales ou pour la prévention de menaces pour la sécurité publique : 
 
 1° Lorsque des indices réels laissent supposer que la personne concernée commet ou a l'intention de commettre une des
-infractions mentionnées à l'article 695-23 du code de procédure pénale ; 
+infractions mentionnées à l'article 694-32 du code de procédure pénale ; 
 
 2° Lorsque l'appréciation globale portée sur la personne, en particulier au regard des infractions pénales commises
 jusqu'alors, laisse supposer qu'elle commettra également à l'avenir une des infractions mentionnées au 1° ; 
@@ -35206,12 +35206,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1956 du 28 décembre 2016 - art. 11
+  - Décret n°2018-714 du 3 août 2018 - art. 11
 
 _Cite_:
 
-  - Code de procédure pénale - art. 695-23 (VT)
-  - Code de la sécurité intérieure - art. R231-3 (V)
+  - Code de procédure pénale - art. 694-32
+  - Code de la sécurité intérieure - art. R231-3
 
 _Cité par_:
 
@@ -35533,33 +35533,40 @@ _Cite_:
 
 ###### Article R232-1-1
 
-Les données de réservation mentionnées au I, a, de l'article R. 232-14 sont transmises par les transporteurs aériens une
-première fois quarante-huit heures avant le départ du vol et une seconde fois à la clôture du vol, par envoi électronique
-sécurisé, à l'unité de gestion visée au VI de l'article L. 232-7, soit dans l'un des formats prévus à l'annexe 9 de la
-convention de Chicago, soit par tout autre mode de transfert agréé par l'unité de gestion. Les données d'enregistrement
-mentionnées au I, b, de l'article R. 232-14 sont transmises par les transporteurs aériens à la clôture du vol, par envoi
-électronique sécurisé, à l'unité de gestion visée au VI de l'article L. 232-7, soit dans l'un des formats prévus à l'annexe 9
-de la convention de Chicago, soit par tout autre mode de transfert agréé par l'unité de gestion.
+I. – Les données de réservation mentionnées au a du I de l'article R. 232-14 sont transmises par les transporteurs aériens et
+les agences de voyage et opérateurs de voyage ou de séjour affrétant tout ou partie d'un aéronef une première fois quarante-
+huit heures avant le départ du vol et une seconde fois immédiatement après la clôture du vol, par envoi électronique
+sécurisé, à l'unité de gestion visée au VI de l'article L. 232-7, dans l'un des formats prévus par la décision d'exécution
+(UE) 2017/759 de la Commission européenne du 28 avril 2017 sur les protocoles communs et formats de données devant être
+utilisés par les transporteurs aériens lors d'un transfert de données PNR aux unités d'information passagers. Les
+transporteurs aériens et, le cas échéant, les agences de voyage et opérateurs de voyage ou de séjour affrétant tout ou partie
+d'un aéronef peuvent limiter le second envoi aux mises à jour des données transférées lors du premier envoi. Les données
+d'enregistrement et d'embarquement mentionnées au b du I de l'article R. 232-14 sont transmises par les transporteurs aériens
+à la clôture du vol, par envoi électronique sécurisé, à l'unité de gestion mentionnée au VI de l'article L. 232-7, dans l'un
+des formats prévus par la décision d'exécution précitée. 
 
-**Nota:**
-
-Aux termes du décret n° 2014-1095 du 26 septembre 2014, article 3, les transporteurs aériens se conforment aux obligations
-prévues au 1° de l'article 2 à compter du 1er janvier 2015.
+II. – Par dérogation, lorsque l'accès à des données de réservation et à des données d'enregistrement et d'embarquement est
+nécessaire pour répondre à une menace précise et réelle liée à une des infractions mentionnées au I de l'article L. 232-7, à
+l'exception des atteintes aux intérêts fondamentaux de la Nation, les transporteurs aériens transfèrent ces données, au cas
+par cas, en dehors des créneaux mentionnés au I du présent article, à la demande de l'Unité Information Passagers, sur
+sollicitation des autorités mentionnées à l'article R. 232-15.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 2
 
 _Cité par_:
 
   - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
   - Code de la sécurité intérieure - art. R232-5-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 1
+
 _Cite_:
 
   - Code de la sécurité intérieure - art. L232-7
+  - Code de la sécurité intérieure - art. R232-14 (V)
+  - Code de la sécurité intérieure - art. R232-15 (M)
 
 
 ##### Section 2 : Sanctions<a id=441></a>
@@ -35684,35 +35691,40 @@ _Créé par_:
 
 ###### Article R232-5-1
 
-I.-En cas de méconnaissance par un transporteur aérien des obligations fixées à l'article R. 232-1-1, l'amende et la
-procédure prévues par l'article L. 232-5 s'appliquent à son égard. 
+I. – En cas de méconnaissance par un transporteur aérien ou par une agence de voyage ou un opérateur de voyage ou de séjour
+affrétant tout ou partie d'un aéronef des obligations fixées à l'article R. 232-1-1, l'amende et la procédure prévues par
+l'article L. 232-5 s'appliquent à son égard, sous réserve des dispositions particulières du présent article. 
 
-II.-Le procès-verbal mentionné à l'article L. 232-5 comprend le nom de l'entreprise de transport et les références du vol ou
-du voyage au titre duquel la responsabilité de l'entreprise de transport est susceptible d'être engagée. Il précise, pour
-chaque vol ou voyage, les obligations définies méconnues par l'entreprise de transport. Il comporte également, le cas
-échéant, les observations de celle-ci. 
+II. – Le procès-verbal mentionné à l'article L. 232-5 comprend le nom de l'entreprise et les références du vol ou du voyage
+au titre duquel la responsabilité de l'entreprise est susceptible d'être engagée. Il précise, pour chaque vol ou voyage, les
+obligations définies méconnues par l'entreprise. Il comporte également, le cas échéant, les observations de celle-ci. 
 
 Il est signé par le directeur de l'UIP ou son adjoint. 
 
-III.-Le directeur de l'UIP notifie à l'entreprise de transport, par lettre recommandée avec demande d'avis de réception, le
-projet de sanction prévu par l'article L. 232-5. Pendant le délai d'un mois prévu par le même article pour produire ses
-observations, l'entreprise peut se faire délivrer copie à ses frais de tout ou partie de la procédure. 
+III. – Le directeur de l'UIP notifie à l'entreprise, par lettre recommandée avec demande d'avis de réception, le projet de
+sanction prévu par l'article L. 232-5. Pendant le délai d'un mois prévu par le même article pour produire ses observations,
+l'entreprise peut se faire délivrer copie à ses frais de tout ou partie de la procédure. 
 
-IV.-En cas de sanction, l'amende est recouvrée dans les conditions prévues pour les créances de l'Etat.
+IV. – Le directeur de l'UIP arrête la décision mentionnée à l'article L. 232-5, après l'expiration du délai fixé, au vu des
+observations qui ont pu être produites. La décision écrite et motivée est notifiée à l'entreprise par lettre recommandée avec
+demande d'avis de réception. 
+
+V. – En cas de sanction, l'amende est recouvrée dans les conditions prévues pour les créances de l'Etat.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 2
 
 _Cité par_:
 
   - Décret n°2014-1566 du 22 décembre 2014 - art. 4 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 2
+
 _Cite_:
 
   - Code de la sécurité intérieure - art. L232-5
+  - Code de la sécurité intérieure - art. R232-1-1
 
 
 ##### Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE "<a id=442></a>
@@ -35946,19 +35958,15 @@ _Cité par_:
 
 ###### Article R232-12
 
-Pour les finalités prévues à l'article L. 232-7 du présent code, un traitement automatisé de données à caractère personnel
-dénommé " API-PNR France " est mis en œuvre par les ministres de l'intérieur, de la défense, chargé des transports et chargé
-des douanes. 
+Pour les finalités prévues au I de l'article L. 232-7 du présent code, un traitement automatisé de données à caractère
+personnel dénommé " API-PNR France " est mis en œuvre par les ministres de l'intérieur, de la défense, chargé des transports
+et chargé des douanes.
 
-Ce traitement est confié à l'unité de gestion chargée de la collecte des données prévue au VI de l'article 232-7 du présent
-code. Ce service à compétence nationale dénommé " Unité Information Passagers " (UIP) est rattaché au ministre chargé des
-douanes. Sa création et son organisation sont fixées par décret.
+Ce traitement est confié à l'unité de gestion chargée de la collecte des données prévue au VI de l'article L. 232-7 du
+présent code. Ce service à compétence nationale dénommé " Unité Information Passagers " (UIP) est rattaché au ministre chargé
+des douanes. Sa création et son organisation sont fixées par décret.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
 
 _Cité par_:
 
@@ -35971,6 +35979,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R287-1 (M)
   - Code de la sécurité intérieure - art. R288-1 (M)
 
+_Modifié par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 3
+
 _Cite_:
 
   - Code de la sécurité intérieure - art. L232-7
@@ -35978,40 +35990,83 @@ _Cite_:
 
 ###### Article R232-13
 
-L'Unité Information Passagers est responsable de la collecte des données des passagers visées aux a et b de l'article R.
-232-14 transmises par les transporteurs aériens, de leur conservation, de leur traitement ainsi que de la transmission de ces
-données ou des résultats de leur traitement aux unités et services mentionnés à l'article R. 232-15. 
+I.-L'Unité Information Passagers est responsable de la collecte des données des passagers aériens mentionnées aux a et b du I
+de l'article R. 232-14 transmises par les transporteurs aériens et les agences de voyage et opérateurs de voyage ou de séjour
+affrétant tout ou partie d'un aéronef, de leur conservation, de leur traitement, de la transmission de ces données ou des
+résultats de leur traitement aux autorités mentionnées à l'article R. 232-15 et à Europol ainsi que de l'échange de ces
+données ou des résultats de leur traitement avec les Unités Information Passagers des autres Etats membres de l'Union
+européenne. 
+
+Les résultats du traitement s'entendent au sens de la présente section comme la mise en relation des données des passagers
+aériens collectées par l'Unité Information Passagers avec les traitements de données à caractère personnel cités au b du II
+de l'article R. 232-14. 
 
 Seuls les personnels affectés au sein de l'Unité Information Passagers, individuellement désignés et spécialement habilités
-par le directeur de cette unité, ont accès aux données à caractère personnel et aux informations enregistrées dans le
-traitement mentionné à l'article R. 232-12 du présent code. 
+par le directeur de cette unité, et le délégué à la protection des données ont accès aux données à caractère personnel et aux
+informations enregistrées dans le traitement mentionné à l'article R. 232-12. 
 
-Ces personnels répondent aux requêtes formulées par les unités et services mentionnés à l'article R. 232-15 après avoir
-vérifié la conformité de ces demandes au regard des attributions légales des unités et services concernés dans le cadre des
-finalités visées à l'article susmentionné. 
+II. – Les données des passagers aériens sont traitées par les personnels affectés au sein de l'Unité Information Passagers
+exclusivement afin de réaliser une évaluation des passagers aériens avant leur arrivée prévue sur le territoire national ou
+leur départ prévu de celui-ci, afin d'identifier les personnes pour lesquelles un examen plus approfondi est nécessaire au
+regard des finalités du traitement par les autorités mentionnées à l'article R. 232-15 et, le cas échéant, par Europol dans
+les conditions prévues à l'article R. 232-18. 
 
-Chaque requête précise la période de temps demandée et peut porter sur les éléments suivants : une ou plusieurs zones
-géographiques, un ou plusieurs vols, une ou plusieurs personnes, une ou des catégories de données.
+Afin de réaliser cette évaluation, les données des passagers aériens : 
+
+1° Sont mises en relation avec les traitements mentionnés au b du II de l'article R. 232-14 ; 
+
+2° Peuvent faire l'objet d'une analyse au regard de critères préétablis, sur sollicitation des autorités mentionnées à
+l'article R. 232-15. 
+
+Ces critères sont définis en coopération avec les autorités mentionnées à l'article R. 232-15. Ils doivent être ciblés,
+proportionnés, spécifiques aux infractions et non discriminatoires. Ils ne peuvent être fondés sur des données à caractère
+personnel qui font apparaître, directement ou indirectement, la prétendue origine raciale ou ethnique, les opinions
+politiques, philosophiques ou religieuses ou l'appartenance syndicale ou celles qui sont relatives à la santé, à la vie
+sexuelle ou à l'orientation sexuelle des personnes. Ils sont régulièrement mis à jour ou redéfinis. 
+
+Toute concordance positive obtenue à la suite de l'évaluation réalisée au titre du présent article est réexaminée
+individuellement par des moyens non automatisés avant transmission. 
+
+III. – Les personnels affectés au sein de l'Unité Information Passagers répondent au cas par cas aux requêtes, formulées par
+les autorités mentionnées aux articles R. 232-15 et R. 232-16, visant à ce que les données des passagers aériens et le
+résultat du traitement dont elles font l'objet leur soient communiqués. Ils vérifient au préalable la conformité de ces
+demandes au regard des attributions légales des autorités mentionnées à l'article R. 232-15 dans le cadre des finalités
+mentionnées au I de l'article L. 232-7 et au regard des attributions légales des autorités mentionnées à l'article R. 232-16
+dans le cadre de la prévention et la détection des infractions terroristes et des infractions mentionnées à l'annexe II de la
+directive (UE) 2016/681 du Parlement européen et du Conseil du 27 avril 2016 relative à l'utilisation des données des
+dossiers passagers (PNR) pour la prévention et la détection des infractions terroristes et des formes graves de criminalité,
+ainsi que pour les enquêtes et les poursuites en la matière. 
+
+Chaque requête : est motivée et précise la période de temps demandée et peut porter sur les éléments suivants : une ou
+plusieurs zones géographiques, un ou plusieurs vols, une ou plusieurs personnes, une ou des catégories de données.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
 
 _Cité par_:
 
   - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (M)
   - Code de la sécurité intérieure - art. R232-14 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 4
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L232-7
+  - Code de la sécurité intérieure - art. R232-12
+  - Code de la sécurité intérieure - art. R232-15
+  - Code de la sécurité intérieure - art. R232-16
+  - Code de la sécurité intérieure - art. R232-18
+
 
 ###### Article R232-14
 
-I.-Les données à caractère personnel et informations relatives aux passagers aériens transmises par les transporteurs
-aériens, visées au II de l'article L. 232-7 et enregistrées dans le traitement prévu à l'article R. 232-12 du présent code
-sont les suivantes : 
+I. – Les données à caractère personnel et informations transmises en application du II de l'article L. 232-7 et enregistrées
+dans le traitement prévu à l'article R. 232-12 sont les suivantes : 
 
-a) En ce qui concerne les données de réservation : 
+a) En ce qui concerne les données de réservation des passagers aériens transmises par les transporteurs aériens et les
+agences de voyage et opérateurs de voyage ou de séjour affrétant tout ou partie d'un aéronef : 
 
 1° Code repère du dossier passager ; 
 
@@ -36035,12 +36090,17 @@ a) En ce qui concerne les données de réservation :
 
 11° Indications concernant la scission/ division du dossier passager ; 
 
-12° Toute autre information, à l'exclusion des données à caractère personnel visées au second alinéa du I de l'article L.
-232-7 du code de la sécurité intérieure ; 
+11° bis Toutes les informations disponibles sur les mineurs non accompagnés de moins de 18 ans, telles que le nom et le sexe,
+son âge, la ou les langues parlées, le nom et les coordonnées de la personne présente au départ et son lien avec le mineur,
+le nom et les coordonnées de la personne présente à l'arrivée et son lien avec le mineur, l'agent présent au départ et à
+l'arrivée ; 
+
+12° Remarques générales, à l'exclusion des données à caractère personnel mentionnées au troisième alinéa du I de l'article L.
+232-7 ; 
 
 13° Etablissement des billets (numéro du billet, date d'émission, allers simples, décomposition tarifaire) ; 
 
-14° Numéro du siège ; 
+14° Numéro du siège et autres informations concernant le siège ; 
 
 15° Informations sur le partage de code ; 
 
@@ -36048,11 +36108,12 @@ a) En ce qui concerne les données de réservation :
 
 17° Nombre et autres noms de voyageurs figurant dans le dossier passager ; 
 
-18° Tout renseignement préalable sur les passagers (API) qui a été collecté ; 
+18° Tout renseignement préalable sur les passagers données (API) qui a été collecté ; 
 
-19° Historique complet des modifications des données PNR énumérées aux points 1 à 18 ; 
+19° Historique complet des modifications des données de réservation énumérées aux points 1 à 18 ; 
 
-b) En ce qui concerne les données d'enregistrement et d'embarquement : 
+b) En ce qui concerne les données d'enregistrement et d'embarquement des passagers aériens transmises par les transporteurs
+aériens : 
 
 1° Code repère du dossier passager ; 
 
@@ -36074,7 +36135,7 @@ b) En ce qui concerne les données d'enregistrement et d'embarquement :
 
 10° Date d'expiration du document de voyage ; 
 
-11° Statut de la personne embarquée (membre d'équipage, passager : toute information sur les correspondances) ; 
+11° Statut de la personne embarquée (passager : toute information sur les correspondances) ; 
 
 12° Nombre, poids et identification des bagages ; 
 
@@ -36086,7 +36147,7 @@ b) En ce qui concerne les données d'enregistrement et d'embarquement :
 
 16° Numéro d'identification du passager ; 
 
-II.-Sont également enregistrés dans le traitement : 
+II. – Sont également enregistrés dans le traitement : 
 
 a) Afin de permettre la mise en relation des données mentionnées au I avec celles du fichier des personnes recherchées, une
 copie partielle et actualisée de ce dernier constituée des seuls signalements correspondant aux besoins exclusifs des
@@ -36094,17 +36155,25 @@ missions confiées aux agents de l'Unité Information Passagers ; cette copie, c
 traitement API-PNR, n'est pas accessible aux agents de cette unité ; 
 
 b) Pendant une durée maximale de 24 heures, les fiches des traitements de données suivants dont la mise en relation avec les
-données mentionnées au I s'est révélée positive : la copie partielle du fichier des personnes recherchées mentionnée au a, le
-système d'information Schengen de deuxième génération (SIS II), le fichier des objets et des véhicules signalés, le système
-informatisé concourant au dispositif de lutte contre les fraudes et le fichier des documents de voyage volés et perdus
-d'Interpol ; 
+données mentionnées au I s'est révélée positive, aux seules fins d'exploitation de ces fiches par les autorités mentionnées à
+l'article R. 232-15 : la copie partielle du fichier des personnes recherchées mentionnée au a, le système d'information
+Schengen de deuxième génération (SIS II), le fichier des objets et des véhicules signalés, le système informatisé concourant
+au dispositif de lutte contre les fraudes et le fichier des documents de voyage volés et perdus d'Interpol ; 
 
-c) Les résultats issus de la mise en relation des données mentionnées au I avec les traitements cités au b ci-dessus ; 
+c) Pendant une durée maximale de 96 heures, les résultats issus de la mise en relation des données mentionnées au I avec les
+traitements cités au b du présent II ainsi que les résultats issus de l'analyse des données mentionnées au I au regard des
+critères mentionnés au II de l'article R. 232-13, aux seules fins d'informer les autorités mentionnées à l'article R. 232-15
+et aux 1° et 4° de l'article R. 232-16 de l'existence d'une concordance positive obtenue à la suite de l'évaluation
+mentionnée au II de l'article R. 232-13 ; 
 
-d) La catégorie et le numéro des fiches contenues dans les traitements susvisés qui, après vérification, ont permis la
-prévention ou la constatation d'une des infractions visée au I de l'article L. 232-7 du code de sécurité intérieure ; 
+d) Les résultats mentionnés au c révélant, à la suite d'un réexamen individuel, une concordance négative, tant que les
+données mentionnées au I sont conservées en application de l'article R. 232-20 et afin d'éviter de nouvelles concordances
+positives ; 
 
-e) Les réponses aux requêtes formulées par les unités et services mentionnés à l'article R. 232-15.
+e) La catégorie et le numéro des fiches contenues dans les traitements cités au b du présent II qui, après vérification, ont
+permis la prévention ou la constatation d'une des infractions mentionnées au I de l'article L. 232-7 ; 
+
+f) Les réponses aux requêtes formulées par les autorités mentionnées aux articles R. 232-15 et R. 232-16.
 
 **Liens relatifs à cet article**
 
@@ -36115,6 +36184,7 @@ _Cité par_:
   - Décret n°2015-1328 du 21 octobre 2015 (V)
   - Décret n°2016-1523 du 10 novembre 2016 - art. 1
   - Décret n°2018-714 du 3 août 2018 - art. 12
+  - Code de la sécurité intérieure - art. R232-1-1 (V)
   - Code de la sécurité intérieure - art. R232-13 (V)
   - Code de la sécurité intérieure - art. R232-20 (V)
   - Code de la sécurité intérieure - art. R232-21 (V)
@@ -36125,25 +36195,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1328 du 21 octobre 2015 - art. 2
+  - Décret n°2018-714 du 3 août 2018 - art. 5
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. R232-15 (M)
+  - Code de la sécurité intérieure - art. R232-12
+  - Code de la sécurité intérieure - art. R232-15
+  - Code de la sécurité intérieure - art. R232-16
 
 
 ###### Article R232-15
 
 Peuvent être destinataires des données à caractère personnel et informations enregistrées dans le traitement, dans le cadre
-de leurs attributions légales et dans la limite du besoin d'en connaître : 
+de leurs attributions légales et dans la limite du besoin d'en connaître :
 
-I.-Au titre de la prévention et de la constatation des actes de terrorisme, du rassemblement des preuves de ces actes et de
-la recherche de leurs auteurs : 
+I. – Au titre de la prévention et de la constatation des actes de terrorisme, du rassemblement des preuves de ces actes et de
+la recherche de leurs auteurs :
 
-Les agents de la police nationale, de la direction générale de la sécurité intérieure et les militaires de la gendarmerie
+1° Les agents de la police nationale, de la direction générale de la sécurité intérieure et les militaires de la gendarmerie
 nationale individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein
-des services ci-après : 
+des services ci-après :
 
 a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses :
 
@@ -36155,15 +36227,12 @@ a) Services habilités à formuler des requêtes à l'UIP et à être destinatai
 
 - la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
 
-- la sous-direction chargée de la lutte contre le terrorisme et les extrémismes à potentialités violentes de la direction du
-renseignement de la préfecture de police ;
-
 - l'état-major de la direction régionale de la police judiciaire de Paris ;
 
-- la section antiterroriste de la brigade criminelle de la police judiciaire de Paris ;
+- la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ;
 
 - le bureau de la lutte antiterroriste de la sous-direction de la police judiciaire de la direction générale de la
-gendarmerie nationale ; 
+gendarmerie nationale ;
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
 aéroportuaires :
@@ -36172,44 +36241,64 @@ aéroportuaires :
 
 - les directions et services de la police aux frontières des aéroports ;
 
-- les permanences des directions départementales de la sécurité publique sur le territoire desquelles existe une plate-forme
-aéroportuaire sur laquelle elles exercent l'autorité de police générale en aérogare ;
+- les salles d'information et de commandement des directions départementales de la sécurité publique sur le territoire
+desquelles existe une plate-forme aéroportuaire sur laquelle elles exercent l'autorité de police générale en aérogare ;
 
 - les centres opérationnels et de renseignement des groupements de gendarmerie sur le territoire desquels existe une plate-
 forme aéroportuaire sur laquelle la gendarmerie exerce l'autorité de police générale en aérogare ;
 
 - le centre de renseignement opérationnel de la gendarmerie ;
 
-- les unités de la gendarmerie des transports aériens. 
+- les unités de la gendarmerie des transports aériens.
 
-II.-Au titre de la prévention des actes de terrorisme : 
+2° Aux seules fins de la répression des actes de terrorisme, les agents du service national de la douane judiciaire,
+individuellement désignés et spécialement habilités par leur chef de service.
 
-1° Les agents des douanes individuellement désignés et spécialement habilités par le directeur général des douanes, affectés
-au sein des services ci-après : 
+II. – Au titre de la prévention des actes de terrorisme :
+
+1° Les agents de la direction générale de la sécurité extérieure, individuellement désignés et spécialement habilités par
+leur directeur ;
+
+2° Les agents de la direction du renseignement et de la sécurité de la défense, individuellement désignés et spécialement
+habilités par leur directeur ;
+
+3° Les agents de la direction du renseignement militaire, individuellement désignés et spécialement habilités par leur
+directeur ;
+
+4° Les agents des douanes individuellement désignés et spécialement habilités par le directeur général des douanes, affectés
+au sein des services ci-après :
 
 a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses :
 
 - la cellule chargée de la lutte antiterroriste au sein de la direction nationale du renseignement et des enquêtes
-douanières ; 
+douanières ;
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
 aéroportuaires :
 
 - les services centraux et territoriaux de la direction générale des douanes et droits indirects chargés de la lutte contre
-la fraude dans les transports internationaux ; 
+la fraude dans les transports internationaux ;
 
-2° Les agents individuellement désignés et spécialement habilités par le directeur du service à compétence nationale dénommé
-" traitement du renseignement et action contre les circuits financiers clandestins ". 
+5° Les agents individuellement désignés et spécialement habilités par le directeur du service à compétence nationale dénommé
+" traitement du renseignement et action contre les circuits financiers clandestins " ;
 
-3° Les agents, individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés
-dans les services du renseignement territorial. 
+6° Les agents, individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés
+dans les services du renseignement territorial ;
 
-III.-Au titre de la prévention et de la constatation des infractions mentionnées à l'article 695-23 du code de procédure
-pénale, du rassemblement des preuves de ces infractions et de la recherche de leurs auteurs : 
+7° Les agents, individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés à
+la sous-direction de l'anticipation opérationnelle de la direction générale de la gendarmerie nationale ;
+
+8° Les agents individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés
+dans les services de la direction du renseignement de la préfecture de police.
+
+III. – Au titre de la prévention, de la constatation, du rassemblement des preuves et de la recherche des auteurs des
+infractions mentionnées à l'annexe II de la directive (UE) 2016/681 du Parlement européen et du Conseil du 27 avril 2016
+relative à l'utilisation des données des dossiers passagers (PNR) pour la prévention et la détection des infractions
+terroristes et des formes graves de criminalité, ainsi que pour les enquêtes et les poursuites en la matière :
 
 1° Les agents de la police nationale, de la direction générale de la sécurité intérieure et les militaires de la gendarmerie
 nationale individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein
-des services ci-après : 
+des services ci-après :
 
 a) Services habilités à formuler des requêtes à l'UIP et à être destinataires des réponses :
 
@@ -36240,25 +36329,22 @@ a) Services habilités à formuler des requêtes à l'UIP et à être destinatai
 - l'état-major de la gendarmerie des transports aériens ;
 
 - les services territoriaux de premier niveau de la police nationale et de la gendarmerie nationale, pour le seul exercice
-des missions de police judiciaire dont ils sont saisis au titre de la répression des infractions mentionnées à l'article
-695-23 du code de procédure pénale ;
+des missions de police judiciaire dont ils sont saisis au titre de la répression des infractions mentionnées à l'annexe II de
+la directive précitée ;
 
-- aux seules fins de prévention, les services du renseignement territorial ; 
+- aux seules fins de prévention, les services de la direction du renseignement de la préfecture de police ;
+
+- aux seules fins de prévention, les services du renseignement territorial ;
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
 aéroportuaires :
 
-- les services visés au b du I du présent article ; 
+- les services visés au b du I du présent article ;
 
 2° Les agents des douanes individuellement désignés et spécialement habilités par le directeur général des douanes, affectés
-au sein des services ci-après désignés : 
+au sein des services ci-après désignés :
 
 a) Services habilités à formuler des requêtes à l'UIP et à en recevoir les réponses :
-
-- les services centraux de la direction générale des douanes et droits indirects ;
-
-- les services ci-après désignés lorsqu'ils sont en charge de la lutte contre la fraude dans les transports internationaux,
-en métropole et outre-mer :
 
 - la direction nationale du renseignement et des enquêtes douanières ;
 
@@ -36271,62 +36357,41 @@ internationaux ;
 
 - les brigades des douanes chargées de la lutte contre la fraude dans les aéroports internationaux ;
 
-- le service national de la douane judiciaire ; 
+- le service national de la douane judiciaire ;
 
 b) Services habilités à être destinataires des données et informations nécessitant une intervention sur les plates-formes
 aéroportuaires :
 
 - les services centraux de la direction générale des douanes et droits indirects ;
 
-- les services ci-après désignés lorsqu'ils sont en charge de la lutte contre la fraude dans les transports internationaux,
-en métropole et outre-mer :
+- les centres opérationnels de liaison interservices ;
 
-- les centres de liaison interservices ;
-
-- les cellules de coordination des aéroports ; 
+- les cellules de coordination des aéroports ;
 
 3° Les agents individuellement désignés et spécialement habilités par le directeur du service à compétence nationale dénommé
-" traitement du renseignement et action contre les circuits financiers clandestins ". 
+" traitement du renseignement et action contre les circuits financiers clandestins ".
 
-IV.-Au titre de la prévention et de la constatation des atteintes aux intérêts fondamentaux de la Nation, du rassemblement
-des preuves de ces atteintes et de la recherche de leurs auteurs : 
+4° Aux seules fins de prévention, les agents de la direction générale de la sécurité extérieure, individuellement désignés et
+spécialement habilités par leur directeur.
+
+IV. – Au titre de la prévention et de la constatation des atteintes aux intérêts fondamentaux de la Nation, du rassemblement
+des preuves de ces atteintes et de la recherche de leurs auteurs :
 
 Les agents individuellement désignés et spécialement habilités par le directeur général de la sécurité intérieure, affectés
-au sein de cette direction. 
+au sein de cette direction.
 
-V.-Au titre de la prévention des actes terroristes et des atteintes aux intérêts fondamentaux de la Nation : 
+V. – Au titre de la prévention des atteintes aux intérêts fondamentaux de la Nation :
 
-1° Les agents de la direction générale de la sécurité extérieure, individuellement désignés et spécialement habilités
-affectés au sein :
+1° Les agents de la direction générale de la sécurité extérieure, individuellement désignés et spécialement habilités par
+leur directeur ;
 
-- de la direction du renseignement ;
+2° Les agents de la direction du renseignement et de la sécurité de la défense, individuellement désignés et spécialement
+habilités par leur directeur ;
 
-- de la direction des opérations ;
+3° Les agents de la direction du renseignement militaire individuellement désignés et spécialement habilités par leur
+directeur.
 
-- de la direction technique ;
-
-- des services directement rattachés au directeur général ; 
-
-2° Les agents de la          direction du renseignement et de la sécurité de la défense, individuellement désignés et
-spécialement habilités, affectés au sein :
-
-- de la sous-direction de la contre-ingérence ;
-
-- de la sous-direction des centres nationaux d'expertises ;
-
-- des directions zonales de protection et de sécurité de la défense ;
-
-- de la direction de la sécurité économique en zone de défense et de sécurité de Paris ; 
-
-3° Les agents de la direction du renseignement militaire individuellement désignés et spécialement habilités :
-
-- de la sous-direction des opérations ;
-
-- de la sous-direction de l'exploitation ;
-
-- des unités rattachées au directeur du renseignement militaire. 
-
-VI.-En cas de menace grave et d'urgence avérée et pour les seuls besoins de la prévention des actes de terrorisme et des
+VI. – En cas de menace grave et d'urgence avérée et pour les seuls besoins de la prévention des actes de terrorisme et des
 atteintes aux intérêts fondamentaux de la Nation, le directeur de l'Unité Information Passagers, son adjoint ou un agent
 individuellement désigné et spécialement habilité peut autoriser, après demande motivée et vérification que les conditions de
 la visualisation sont respectées, les agents individuellement désignés et spécialement habilités par le directeur général
@@ -36335,15 +36400,13 @@ de l'ensemble des données collectées au sein du traitement dénommé " API-PNR
 
 - la direction générale de la sécurité extérieure ;
 
-- la direction générale de la sécurité intérieure. 
+- la direction générale de la sécurité intérieure.
 
-VII.-Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols concernés,
-pour les besoins de la prévention des seuls crimes et délits suivants et mentionnés à l'article 695-23 du code de procédure
-pénale :
+VII. – Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols
+concernés, pour les besoins de la prévention du terrorisme et des seuls crimes et délits suivants et mentionnés à l'annexe II
+de la directive précitée :
 
 - participation à une organisation criminelle ;
-
-- terrorisme ;
 
 - traite des êtres humains ;
 
@@ -36353,8 +36416,7 @@ pénale :
 
 - trafic illicite d'armes, de munitions et d'explosifs ;
 
-- fraude y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du
-26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ;
+- fraude y compris la fraude portant atteinte aux intérêts financiers de l'Union européenne ;
 
 - blanchiment du produit du crime ou du délit ;
 
@@ -36373,16 +36435,21 @@ d'espèces et d'essences végétales menacées ;
 
 - falsification de documents administratifs et trafic de faux ;
 
-- falsification de moyens de paiement ;
-
 - trafic illicite de substances hormonales et autres facteurs de croissance ;
 
-- trafic illicite de matières nucléaires et radioactives. 
+- trafic illicite de matières nucléaires et radioactives.
 
-Sont destinataires, selon les modalités prévues au VI, pendant une période maximale de vingt jours ouvrés et pour une
-destination ou une provenance déterminée, de l'ensemble des données collectées au sein du traitement : 
+Sont destinataires, selon les modalités prévues au VI et dans le cadre de leurs attributions respectives, pendant une période
+maximale de vingt-huit jours et pour une destination ou une provenance déterminée, de l'ensemble des données collectées au
+sein du traitement :
 
-Les agents de la police nationale et les militaires de la gendarmerie nationale, individuellement désignés et spécialement
+1° Les agents de la direction générale de la sécurité intérieure, individuellement désignés et spécialement habilités par
+leur directeur ;
+
+2° Les agents de la direction générale de la sécurité extérieure, individuellement désignés et spécialement habilités par
+leur directeur ;
+
+3° Les agents de la police nationale et les militaires de la gendarmerie nationale, individuellement désignés et spécialement
 habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein :
 
 - des services et office centraux de la direction centrale de la police aux frontières ;
@@ -36391,17 +36458,16 @@ habilités par l'autorité hiérarchique dont ils relèvent, affectés au sein :
 
 - de la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
 
-- du service central de renseignement criminel de la gendarmerie nationale. 
+- du service central de renseignement criminel de la gendarmerie nationale.
 
-VIII.-Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols concernés
-pour les besoins de la prévention des seuls crimes et délits suivants :
+VIII. – Aux fins de définir ou d'actualiser les critères et les éléments de recherche relatifs aux passagers des vols
+concernés pour les besoins de la prévention des seuls crimes et délits suivants :
 
 - trafic illicite de stupéfiants et de substances psychotropes ;
 
 - trafic illicite d'armes, de munitions et d'explosifs ;
 
-- fraude y compris fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26
-juillet 1995 relative à la protection des intérêts financiers des Communautés européennes ;
+- fraude y compris fraude portant atteinte aux intérêts financiers de l'Union européenne ;
 
 - blanchiment du produit du crime ou du délit ;
 
@@ -36414,19 +36480,22 @@ d'espèces et d'essences végétales menacées ;
 
 - contrefaçon et piratage de produits ;
 
-- falsification de moyens de paiement ;
-
 - trafic illicite de substances hormonales et autres facteurs de croissance ;
 
-- trafic illicite de matières nucléaires et radioactives ; et
+- trafic illicite de matières nucléaires et radioactives.
 
-- délits douaniers connexes aux délits mentionnés par l'article 695-23 du code de procédure pénale. 
+Sont destinataires, selon les modalités prévues au VI et dans le cadre de leurs attributions respectives, pendant une période
+maximale de vingt-huit jours et pour une destination ou une provenance déterminée, de l'ensemble des données collectées au
+sein du traitement :
 
-Sont destinataires, selon les modalités prévues au VI, pendant une période maximale de vingt jours ouvrés et pour une
-destination ou une provenance déterminée, de l'ensemble des données collectées au sein du traitement : 
+1° Les agents de la direction générale de la sécurité intérieure, individuellement désignés et spécialement habilités par
+leur directeur ;
 
-Les agents des douanes, individuellement désignés et spécialement habilités par le directeur général des douanes affectés au
-sein :
+2° Les agents de la direction générale de la sécurité extérieure, individuellement désignés et spécialement habilités par
+leur directeur ;
+
+3° Les agents des douanes, individuellement désignés et spécialement habilités par le directeur général des douanes affectés
+au sein :
 
 - de la direction du renseignement douanier ;
 
@@ -36444,6 +36513,7 @@ _Cité par_:
   - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
   - Décret n°2016-1523 du 10 novembre 2016 - art. 1
   - Décret n°2018-714 du 3 août 2018 - art. 12
+  - Code de la sécurité intérieure - art. R232-1-1 (V)
   - Code de la sécurité intérieure - art. R232-13 (V)
   - Code de la sécurité intérieure - art. R232-14 (V)
   - Code de la sécurité intérieure - art. R232-20 (V)
@@ -36455,7 +36525,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+  - Décret n°2018-714 du 3 août 2018 - art. 6
 
 _Cite_:
 
@@ -36464,43 +36534,31 @@ _Cite_:
 
 ###### Article R232-16
 
-Les données à caractère personnel et les informations mentionnées à l'article R. 232-14 sont conservées cinq ans à compter de
-leur réception dans le système. 
+Peuvent également être destinataires des données à caractère personnel et informations enregistrées dans le traitement, au
+titre de la prévention et de la constatation des actes de terrorisme et des infractions mentionnées à l'annexe II de la
+directive (UE) 2016/681 du Parlement européen et du Conseil du 27 avril 2016 précitée, du rassemblement des preuves de ces
+actes et de la recherche de leurs auteurs, dans le cadre de leurs attributions et dans la limite du besoin d'en connaître :
 
-II.-A l'expiration d'un délai de deux ans à compter de leur collecte, les données susceptibles de révéler l'identité des
-passagers sont conservées mais ne peuvent plus être communiquées aux agents appartenant aux services mentionnés à l'article
-R. 232-15. 
+1° Les Unités Information Passagers des Etats membres de l'Union européenne, dans les conditions prévues au I de l'article R.
+232-17 ;
 
-Ces données sont : 
+2° Les autorités des Etats membres de l'Union européenne compétentes en matière de prévention ou de détection des infractions
+mentionnées au I de l'article L. 232-7 ainsi que d'enquêtes ou de poursuites en la matière, dans les conditions prévues au II
+de l'article R. 232-17 ;
 
-- les noms, prénoms du passager ainsi que, le cas échéant, celui des autres passagers mentionnés dans le dossier passager
-voyageant avec lui ; 
+3° L'Agence de l'Union européenne pour la coopération des services répressifs (Europol) et les agents affectés à l'unité
+nationale Europol de la division des relations internationales de la direction centrale de la police judiciaire,
+individuellement désignés et spécialement habilités par l'autorité hiérarchique dont ils relèvent, à l'exception des
+infractions mentionnées aux points 23,24 et 26 de l'annexe II de la directive précitée et dans les conditions prévues à
+l'article R. 232-18 ;
 
-- l'adresse et les coordonnées du passager ; 
-
-- tous les moyens de paiement utilisés par celui-ci qui permettent de l'identifier ; 
-
-- les informations " grand voyageur " qui permettent de l'identifier ; 
-
-- toute information préalable sur le passager (données API) permettant de l'identifier. 
-
-III.-Ce n'est que sur demande motivée et après autorisation expresse du directeur de l'Unité Information Passagers ou en cas
-d'absence, de son adjoint ou de la personne désignée à cet effet, que les agents appartenant aux services susmentionnés
-pourront être destinataires des données mentionnées au II présent article. 
-
-IV.-Si les données de réservation transférées par les transporteurs aériens comportent des données à caractère personnel
-autres que celles énumérées à l'article R. 232-14, notamment des données à caractère personnel visées au second alinéa de
-l'article L. 232-7 du code de la sécurité intérieure, l'Unité d'Information Passagers les efface sans délai.
+4° Les autorités compétentes d'Etats non membres de l'Union européenne, dans les conditions prévues à l'article R. 232-19.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-714 du 3 août 2018 - art. 7
+  - Décret n°2018-714 du 3 août 2018 - art. 8
 
 _Cite_:
 
@@ -36518,29 +36576,53 @@ _Nouveaux textes_:
 
 ###### Article R232-17
 
-Toutes les demandes et opérations effectuées sur le traitement font l'objet d'enregistrements comprenant l'identifiant : 
+I. – L'Unité Information Passagers transmet, par tout moyen adapté et sécurisé, des données à caractère personnel et
+informations enregistrées dans le “ système API-PNR France ” ou, après consultation des autorités mentionnées à l'article R.
+232-15, le résultat du traitement de ces données aux Unités Information Passagers des autres Etats membres de l'Union
+européenne dans les conditions suivantes et aux seules fins prévues au I de l'article L. 232-7, à l'exception des atteintes
+aux intérêts fondamentaux de la Nation :
 
-- de l'agent à l'origine de la demande ; 
+1° Lorsqu'une personne a été identifiée à la suite de l'évaluation mentionnée au II de l'article R. 232-13, l'Unité
+Information Passagers transmet les données et informations pertinentes et nécessaires ou le résultat du traitement de ces
+données aux Unités Information Passagers des autres Etats membres de l'Union européenne concernées. Lorsque l'Unité
+Information Passagers est destinataire de tels éléments de la part des autres Unités Information Passagers, elle les transmet
+aux autorités mentionnées à l'article R. 232-15 ;
 
-- de l'agent ayant validé la demande ; 
+2° Lorsque l'Unité Information Passagers est saisie par l'Unité Information Passagers d'un autre Etat membre de l'Union
+européenne d'une demande motivée de transmission de données à caractère personnel et informations enregistrées dans le “
+système API-PNR France ” et non encore dépersonnalisées au titre du II de l'article R. 232-20 ainsi que, si nécessaire, le
+résultat du traitement de ces données si celui-ci a été réalisé en vertu du II de l'article R. 232-13. Si les données
+requises ont été dépersonnalisées au titre du II de l'article R. 232-20, l'Unité Information Passagers ne transmet
+l'intégralité de ces données que lorsqu'il existe des motifs raisonnables de croire que cela est nécessaire à l'une des fins
+mentionnées au I du présent article et dans les conditions fixées au III de l'article R. 232-20. L'Unité Information
+Passagers transmet ces données et informations dès que possible ;
 
-- de celui ayant validé les résultats et les ayant transmis. 
+3° Lorsque l'Unité Information Passagers d'un Etat membre de l'Union européenne demande à l'Unité Information Passagers
+qu'elle obtienne, tout ou partie des données et informations relatives aux passagers auprès des transporteurs aériens et les
+lui communique, sous réserve que les conditions prévues au II de l'article R. 232-1-1 soient remplies.
 
-Ces informations ainsi que la date et l'heure de ces opérations sont conservées cinq ans.
+L'Unité Information Passagers nationale peut adresser des demandes aux Unités Information Passagers des autres Etats membres
+de l'Union européenne dans les conditions prévues aux 2° et 3°.
+
+II. – L'Unité Information Passagers peut être saisie directement par les seules autorités compétentes d'un autre Etat membre
+de l'Union européenne, dont la liste est publiée au Journal officiel de l'Union européenne, par tout moyen adapté et
+sécurisé, d'une demande motivée de transmission de données à caractère personnel et informations enregistrées dans le “
+système API-PNR France ”, uniquement lorsque cela est nécessaire au regard de l'urgence de la situation et dans les
+conditions fixées au 2° du I.
+
+Dans les mêmes conditions, celles des autorités mentionnées à l'article R. 232-15 qui figurent sur la liste publiée au
+Journal officiel de l'Union européenne peuvent adresser des demandes aux Unités Information Passagers des autres Etats
+membres de l'Union européenne. Une copie de la demande est adressée à l'Unité Information Passagers.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
 
 _Cité par_:
 
   - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-714 du 3 août 2018 - art. 7
+  - Décret n°2018-714 du 3 août 2018 - art. 8
 
 _Nouveaux textes_:
 
@@ -36549,15 +36631,16 @@ _Nouveaux textes_:
 
 ###### Article R232-18
 
-I.-Conformément au dernier alinéa de l'article 41 de la loi du 6 janvier 1978 susvisée, les droits d'accès et de
-rectification des données mentionnées à l'article R. 232-14 s'exercent directement auprès du directeur de l'Unité Information
-Passagers ou de son adjoint. Par exception, ces droits s'exercent auprès de la Commission nationale de l'informatique et des
-libertés pour la mention " connu " ou " inconnu " au fichier des personnes recherchées, dans le système d'information
-Schengen de deuxième génération, le fichier des objets et des véhicules signalés, le système informatisé concourant au
-dispositif de lutte contre les fraudes et le fichier des documents de voyage volés et perdus d'Interpol. Cette exception
-s'applique également aux résultats des requêtes formulées par les unités et services visées à l'article R. 232-15. 
+L'Unité Information Passagers peut transmettre à Europol, à sa demande et au cas par cas, des données à caractère personnel
+et informations enregistrées dans le “ système API-PNR France ” ou, après consultation des autorités mentionnées à l'article
+R. 232-15, le résultat du traitement de ces données en vue de prévenir ou de détecter une infraction mentionnée au I de
+l'article L. 232-7, à l'exception des atteintes aux intérêts fondamentaux de la Nation et des infractions mentionnées aux
+points 23,24 et 26 de l'annexe II de la directive (UE) 2016/681 du Parlement européen et du Conseil du 27 avril 2016 précitée
+et dans les conditions prévues par le règlement (UE) 2016/794 du Parlement européen et du Conseil du 11 mai 2016 relatif à
+l'Agence de l'Union européenne pour la coopération des services répressifs (Europol).
 
-II.-Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
+La demande d'Europol est motivée et effectuée par voie électronique par l'intermédiaire de l'unité nationale Europol de la
+division des relations internationales de la direction centrale de la police judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -36565,29 +36648,34 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 41
 
-_Créé par_:
-
-  - Décret n°2014-1095 du 26 septembre 2014 - art. 1
-
 _Cité par_:
 
   - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
   - Code de la sécurité intérieure - art. R232-13 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-714 du 3 août 2018 - art. 7
+  - Décret n°2018-714 du 3 août 2018 - art. 8
 
 _Nouveaux textes_:
 
   - Code de la sécurité intérieure - art. R232-22 (V)
 
 
-##### Section 5 : Interdiction de transport<a id=444></a>
-
 ###### Article R232-19
 
-L'autorité administrative mentionnée à l'article L. 232-8 est le ministre de l'intérieur.
+I. – Les données à caractère personnel et les informations enregistrées dans le “ système API-PNR France ”, ainsi que le
+résultat du traitement de ces données, peuvent être transférées, au cas par cas et par tout moyen adapté et sécurisé, par
+l'Unité Information Passagers ou par les autorités mentionnées à l'article R. 232-15 à des Etats non membres de l'Union
+européenne, dans les conditions fixées aux articles 70-25 à 70-27 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
+l'informatique, aux fichiers et aux libertés, pour les seules finalités prévues au I de l'article L. 232-7, à l'exception des
+atteintes aux intérêts fondamentaux de la Nation, et sous réserve que les conditions prévues au 2° du I de l'article R.
+232-17 soient remplies et, pour les transferts de données dont l'autorisation préalable ne peut pas être obtenue en temps
+utile, que ces transferts soient nécessaires pour répondre à une menace précise et réelle liée à une infraction terroriste ou
+à une forme grave de criminalité dans un Etat membre de l'Union européenne ou un Etat non membre de l'Union européenne.
+
+II. – Le délégué à la protection des données de l'Unité Information Passagers est informé de tous les transferts effectués en
+application du I.
 
 **Liens relatifs à cet article**
 
@@ -36599,13 +36687,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R287-1 (M)
   - Code de la sécurité intérieure - art. R288-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-26 du 14 janvier 2015 - art. 2
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-714 du 3 août 2018 - art. 7
+  - Décret n°2018-714 du 3 août 2018 - art. 8
 
 _Cite_:
 
@@ -36614,6 +36698,180 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la sécurité intérieure - art. R232-23 (V)
+
+
+###### Article R232-20
+
+I. – Les données à caractère personnel et les informations mentionnées à l'article R. 232-14 sont conservées cinq ans à
+compter de leur transfert à l'Unité Information Passagers. 
+
+II. – A l'expiration d'un délai de six mois à compter de leur transfert à l'Unité Information Passagers, les données
+susceptibles de révéler directement l'identité des passagers aériens sont conservées mais ne peuvent plus être communiquées
+aux agents appartenant aux autorités mentionnées à l'article R. 232-15. 
+
+Ces données sont :
+
+- les noms, prénoms du passager ainsi que, le cas échéant, celui des autres passagers mentionnés dans le dossier passager
+voyageant avec lui ;
+
+- l'adresse et les coordonnées du passager ;
+
+- tous les moyens de paiement utilisés par celui-ci qui permettent de l'identifier directement, y compris l'adresse de
+facturation ;
+
+- les informations " grand voyageur " qui permettent de l'identifier ;
+
+- les remarques générales qui permettent d'identifier directement le passager ;
+
+- toute information préalable sur le passager (données API) permettant de l'identifier directement. 
+
+III. – Ce n'est que sur demande motivée, lorsqu'il existe des motifs raisonnables de croire que leur communication est
+nécessaire à l'atteinte de l'une des finalités définies au I de l'article L. 232-7, et après autorisation expresse du
+directeur de l'Unité Information Passagers ou en cas d'absence, de son adjoint ou de la personne désignée à cet effet, que
+les agents appartenant aux autorités susmentionnées pourront être destinataires des données mentionnées au II du présent
+article. Le délégué à la protection des données de l'Unité Information Passagers est tenu informé de toute communication
+effectuée en application du présent paragraphe, à l'exclusion de celle relative aux atteintes aux intérêts fondamentaux de la
+Nation, et veille à leur légalité au regard des conditions susmentionnées. 
+
+IV. – Si les données de réservation transférées par les transporteurs aériens et par les agences de voyage et opérateurs de
+voyage ou de séjour affrétant tout ou partie d'un aéronef comportent des données à caractère personnel autres que celles
+énumérées à l'article R. 232-14, notamment des données à caractère personnel mentionnées au troisième alinéa de l'article L.
+232-7, l'Unité d'Information Passagers les efface sans délai et de façon définitive dès leur réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 7
+
+_Modifié par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 9
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L232-7
+  - Code de la sécurité intérieure - art. R232-14
+  - Code de la sécurité intérieure - art. R232-15
+
+_Anciens textes_:
+
+  - Code de la sécurité intérieure - art. R232-16 (T)
+
+
+###### Article R232-21
+
+Toutes opérations, notamment la collecte, la consultation, la communication et l'effacement des données à caractère personnel
+et des informations mentionnées à l'article R. 232-14, effectuées sur le traitement font l'objet d'enregistrements
+comprenant :
+
+- les demandes formulées par les autorités compétentes et les Unités Information Passagers des autres Etats membres de
+l'Union européenne ;
+
+- les demandes et les transferts vers des Etats non membres de l'Union européenne ;
+
+- la finalité de la demande, de la communication et de la consultation ;
+
+- la date et l'heure de ces opérations ;
+
+- l'identifiant de l'agent à l'origine de la demande ;
+
+- l'identifiant de l'agent ayant validé la demande ;
+
+- l'identifiant de celui ayant validé les résultats et les ayant transmis. 
+
+Sont également enregistrés dans un registre les noms et coordonnées des agents de l'Unité Information Passagers chargés du
+traitement des données et informations mentionnées à l'article R. 232-14 ainsi que leur niveau d'autorisation d'accès. 
+
+Ces informations sont utilisées uniquement à des fins de vérification, d'autocontrôle, de garantie de l'intégrité et de la
+sécurité des données ou d'audit. 
+
+Ces informations sont mises à la disposition de la Commission nationale de l'informatique et des libertés, à sa demande. 
+
+Ces informations sont conservées pendant cinq ans.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 10
+
+_Créé par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 7
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R232-14
+
+_Anciens textes_:
+
+  - Code de la sécurité intérieure - art. R232-17 (T)
+
+
+###### Article R232-22
+
+I. – Conformément aux articles  70-19  et  70-20  de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique,
+aux fichiers et aux libertés, les droits d'accès, de rectification et d'effacement des données mentionnées à l'article R.
+232-14 s'exercent directement auprès du directeur de l'Unité Information Passagers ou de son adjoint. 
+
+En application du I de l'article 70-21 de la même loi, le directeur de l'Unité Information Passager peut, aux fins de
+protéger la sécurité publique ou la sécurité nationale ou d'éviter de nuire à la prévention et la constatation des
+infractions mentionnées au I de l'article L. 232-7, du rassemblement des preuves de ces atteintes et de la recherche de leurs
+auteurs, refuser le droit d'accès et ne pas informer la personne concernée du refus de rectifier, d'effacer ou de limiter les
+données à caractère personnel relatives à la mention “ connu ” ou “ inconnu ” au fichier des personnes recherchées, dans le
+système d'information Schengen de deuxième génération, le fichier des objets et des véhicules signalés, le système
+informatisé concourant au dispositif de lutte contre les fraudes et le fichier des documents de voyage volés et perdus
+d'Interpol et aux résultats des requêtes formulées par les autorités énumérées aux articles R. 232-15 et R. 232-16. La
+personne concernée par ces restrictions exerce ses droits auprès de la Commission nationale de l'informatique et des libertés
+en application de l'article 70-22 de la même loi. 
+
+II. – Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement. 
+
+III. – Lorsqu'une violation de données à caractère personnel est susceptible d'entraîner un risque élevé pour la protection
+des données à caractère personnel ou d'affecter négativement la vie privée de la personne concernée, l'Unité Information
+Passagers notifie cette violation à la personne concernée et à la Commission nationale de l'informatique et des libertés dans
+les conditions et sous réserve des restrictions prévues à l' article 70-16 de la loi du 6 janvier 1978 précitée .
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 70-16
+  - Loi n°78-17 du 6 janvier 1978 - art. 70-19
+  - Loi n°78-17 du 6 janvier 1978 - art. 70-20
+  - Code de la sécurité intérieure - art. L232-7
+  - Code de la sécurité intérieure - art. R232-15
+  - 
+
+_Modifié par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 10
+
+_Créé par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 7
+
+_Anciens textes_:
+
+  - Code de la sécurité intérieure - art. R232-18 (T)
+
+
+##### Section 5 : Interdiction de transport<a id=444></a>
+
+###### Article R232-23
+
+L'autorité administrative mentionnée à l'article L. 232-8 est le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-714 du 3 août 2018 - art. 7
+
+_Anciens textes_:
+
+  - Code de la sécurité intérieure - art. R232-19 (T)
 
 
 #### Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives<a id=445></a>
@@ -40553,80 +40811,80 @@ _Cite_:
 ###### Article R285-1
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8</td>
+      <td align="center">R. 211-2 à R. 211-8 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-32</td>
-      <td align="left">Résultant du décret n° 2017-1218 du 2 août 2017</td>
+      <td align="left">
+
+R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+
+</td>
     </tr>
     <tr>
-      <td align="center">R. 211-33 et R. 211-34</td>
+      <td align="center">R. 211-32 </td>
+      <td align="left">Résultant du décret n° 2017-1218 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 211-33 et R. 211-34 </td>
       <td align="left">Résultant du décret n° 2017-587 du 20 avril 2017 pris pour l'application de l'article L. 211-11-1 du
 code de la sécurité intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des
-grands événements</td>
+grands événements </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -40634,355 +40892,326 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 223-2
+R. 223-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1522 du 2 novembre 2017
+Résultant du décret n° 2017-1522 du 2 novembre 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
-      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
-      <td>Résultant du  décret n° 2016-1269 du 28 septembre 2016 </td>
+      <td>Résultant du  décret n° 2016-1269 du 28 septembre 2016  </td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
-      <td>Résultant du décret n° 2018-167 du 7 mars 2018</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
+      <td>Résultant du décret n° 2018-167 du 7 mars 2018 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 232-1 à R. 232-5-1</td>
+      <td align="center">R. 232-1 </td>
       <td align="center">
 
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+Résultant du décret n° 2014-1095 du 26 septembre 2014 
 
 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 232-12 et R. 232-13
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
-
-</td>
+      <td align="center">R. 232-1-1 </td>
+      <td>Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-2 à R. 232-5 </td>
+      <td>Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-5-1 </td>
+      <td>Résultant du décret n° 2018-714 du 3 août 2018 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 232-14 et R. 232-15
+R. 232-12 à R. 232-23 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 232-16 à R. 232-18
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-19
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">R. 234-1</td>
+      <td align="center">R. 234-1 </td>
       <td align="center">
 
-Résultant du décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-2
+R. 234-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1217 du 2 août 2017
+Résultant du décret n° 2017-1217 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-1
+R. 236-1 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2017-1216 du 2 août 2017 
+Résultant du  décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-2 à R. 236-5 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-R. 236-6
-
-</td>
-      <td align="left">
-
-Résultant du  décret n° 2017-1216 du 2 août 2017 
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-7
+R. 236-6 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
+Résultant du  décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-8
+R. 236-7 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2017-1216 du 2 août 2017 
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-8 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
+Résultant du  décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-9 à R. 236-10 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2017-1216 du 2 août 2017 
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-11 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
+Résultant du  décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-12 à R. 236-15 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2017-1216 du 2 août 2017 
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 236-17</td>
-      <td align="left">Résultant du décret n° 2013-1113</td>
-    </tr>
-    <tr>
       <td align="center">
 
-R. 236-18</td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-R. 236-19 à R. 236-25
+R. 236-16 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
+Résultant du  décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
+      <td align="center">R. 236-17 </td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
+    </tr>
+    <tr>
       <td align="center">
 
-R. 236-26
+R. 236-18 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-19 à R. 236-25 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2017-1216 du 2 août 2017 
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-26 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
+Résultant du  décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-27 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2017-1216 du 2 août 2017 
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-28 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
+Résultant du  décret n° 2017-1216 du 2 août 2017  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-29 à R. 236-45 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2016-1045 du 29 juillet 2016 
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV
+R. 236-46 à R. 236-53 
+
+</td>
+      <td align="left">
+
+Résultant du  décret n° 2016-1045 du 29 juillet 2016  
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au titre IV 
 
 </td>
       <td>
@@ -40990,15 +41219,15 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7
+R. 241-1 à R. 241-7 
 
 </td>
-      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016</td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -41006,34 +41235,34 @@ Au titre V
     <tr>
       <td align="left">
 
-R. 251-1 et R. 251-2
+R. 251-1 et R. 251-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure
+la sécurité intérieure 
 
-(Décrets en Conseil d'Etat et décrets simples)
+(Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -41058,7 +41287,6 @@ _Cite_:
   - Décret n°2014-1253 du 27 octobre 2014
   - Décret n°2014-1641 du 26 décembre 2014
   - Décret n°2015-26 du 14 janvier 2015
-  - Décret n°2015-1328 du 21 octobre 2015
   - Décret n°2016-1045 du 29 juillet 2016
   - Décret n°2016-1269 du 28 septembre 2016
   - Décret n°2016-1860 du 23 décembre 2016
@@ -41067,12 +41295,9 @@ _Cite_:
   - Décret n°2017-1218 du 2 août 2017
   - Décret n°2017-1522 du 2 novembre 2017
   - Décret n°2018-141 du 27 février 2018
+  - Décret n°2018-167 du 7 mars 2018
+  - Décret n°2018-714 du 3 août 2018
   - Code de la sécurité intérieure - art. L211-11-1
-  - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. R232-14
-  - Code de la sécurité intérieure - art. R232-15
-  - dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure
-  - dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure
 
 _Codifié par_:
 
@@ -41080,7 +41305,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
+  - Décret n°2018-714 du 3 août 2018 - art. 12
 
 _Cité par_:
 
@@ -41193,18 +41418,18 @@ _Cite_:
 ###### Article R286-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
@@ -41212,65 +41437,65 @@ Au titre Ier
     <tr>
       <td align="left">
 
-R. 211-2 à R. 211-8
+R. 211-2 à R. 211-8 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
+R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
       <td align="left">
 
 Résultant du  décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-32</td>
-      <td align="left">Résultant du décret n° 2017-1218 du 2 août 2017</td>
+      <td align="center">R. 211-32 </td>
+      <td align="left">Résultant du décret n° 2017-1218 du 2 août 2017 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-33 et R. 211-34</td>
+      <td align="center">R. 211-33 et R. 211-34 </td>
       <td align="left">Résultant du décret n° 2017-587 du 20 avril 2017 pris pour l'application de l'article L. 211-11-1 du
 code de la sécurité intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des
-grands événements</td>
+grands événements </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -41278,309 +41503,268 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2</td>
+      <td align="center">R. 223-2 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1522 du 2 novembre 2017
+Résultant du décret n° 2017-1522 du 2 novembre 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
-      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
-      <td>Résultant du  décret n° 2016-1269 du 28 septembre 2016 </td>
+      <td>Résultant du  décret n° 2016-1269 du 28 septembre 2016  </td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
-      <td>Résultant du décret n° 2018-167 du 7 mars 2018</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
+      <td>Résultant du décret n° 2018-167 du 7 mars 2018 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
+      <td align="center">R. 232-1 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-1-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-2 à R. 232-5 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-5-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-12 à R. 232-23 </td>
       <td align="left">
 
-R. 232-1 à R. 232-5-1
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 232-12 et R. 232-13
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-14 et R. 232-15
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-16 à R. 232-18
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé système API-PNR France pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-19
-
-</td>
-      <td align="left">
-
-Résultant du  décret n° 2015-26 du 14 janvier 2015 relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">R. 234-1</td>
+      <td align="center">R. 234-1 </td>
       <td align="center">
 
-Résultant du décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-2
+R. 234-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1217 du 2 août 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 236-1
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2017-1216 du 2 août 2017
+Résultant du décret n° 2017-1217 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-1 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2013-1113 
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 236-2 à R. 236-5 
+
+</td>
+      <td align="left">
+
+Résultant du  décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-6
+R. 236-6 
 
 </td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-7
+R. 236-7 
 
 </td>
-      <td align="left">Résultant du  décret n° 2013-1113 </td>
+      <td align="left">Résultant du  décret n° 2013-1113  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-8
+R. 236-8 
 
 </td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-9 à R. 236-10 
 
 </td>
-      <td align="left">Résultant du  décret n° 2013-1113 </td>
+      <td align="left">Résultant du  décret n° 2013-1113  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-11 
 
 </td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-12 à R. 236-15 
 
 </td>
-      <td align="left">Résultant du  décret n° 2013-1113 </td>
+      <td align="left">Résultant du  décret n° 2013-1113  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-16 
 
 </td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-17
+R. 236-17 
 
 </td>
-      <td align="left">Résultant du décret n° 2013-1113</td>
+      <td align="left">Résultant du décret n° 2013-1113 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-18
+R. 236-18 
 
 </td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-19 à R. 236-25
+R. 236-19 à R. 236-25 
 
 </td>
-      <td align="left">Résultant du  décret n° 2013-1113 </td>
+      <td align="left">Résultant du  décret n° 2013-1113  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-26
+R. 236-26 
 
 </td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-27 
 
 </td>
-      <td align="left">Résultant du  décret n° 2013-1113 </td>
+      <td align="left">Résultant du  décret n° 2013-1113  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-28 
 
 </td>
-      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017 </td>
+      <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-29 à R. 236-45 
 
 </td>
-      <td align="left">Résultant du  décret n° 2013-1113 </td>
+      <td align="left">Résultant du  décret n° 2013-1113  </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-46 à R. 236-53 
 
 </td>
-      <td align="left">Résultant du  décret n° 2016-1045 du 29 juillet 2016 </td>
+      <td align="left">Résultant du  décret n° 2016-1045 du 29 juillet 2016  </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV
+Au titre IV 
 
 </td>
       <td>
@@ -41588,15 +41772,15 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7
+R. 241-1 à R. 241-7 
 
 </td>
-      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016</td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -41604,34 +41788,34 @@ Au titre V
     <tr>
       <td align="center">
 
-R. 251-1 et R. 251-2
+R. 251-1 et R. 251-2 
 
 </td>
       <td align="center">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure
+la sécurité intérieure 
 
-(Décrets en Conseil d'Etat et décrets simples)
+(Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -41656,7 +41840,6 @@ _Cite_:
   - Décret n°2014-1253 du 27 octobre 2014
   - Décret n°2014-1641 du 26 décembre 2014
   - Décret n°2015-26 du 14 janvier 2015
-  - Décret n°2015-1328 du 21 octobre 2015
   - Décret n°2016-1045 du 29 juillet 2016
   - Décret n°2016-1269 du 28 septembre 2016
   - Décret n°2016-1860 du 23 décembre 2016
@@ -41665,16 +41848,13 @@ _Cite_:
   - Décret n°2017-1218 du 2 août 2017
   - Décret n°2017-1522 du 2 novembre 2017
   - Décret n°2018-141 du 27 février 2018
+  - Décret n°2018-167 du 7 mars 2018
+  - Décret n°2018-714 du 3 août 2018
   - Code de la sécurité intérieure - art. L211-11-1
-  - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. R232-14
-  - Code de la sécurité intérieure - art. R232-15
-  - dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure
-  - dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure
 
 _Modifié par_:
 
-  - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
+  - Décret n°2018-714 du 3 août 2018 - art. 12
 
 _Cité par_:
 
@@ -41785,66 +41965,66 @@ _Cite_:
 ###### Article R287-1
 
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du
-tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8</td>
+      <td align="center">R. 211-2 à R. 211-8 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-11 à R. 211-16, R. 211-18 et R. 211-21</td>
+      <td align="center">R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 </td>
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31
+R. 211-22 à R. 211-25 et R. 211-27 à R. 211-31 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -41852,58 +42032,58 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2</td>
+      <td align="center">R. 223-2 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1522 du 2 novembre 2017
+Résultant du décret n° 2017-1522 du 2 novembre 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
-      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
       <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
-      <td>Résultant du décret n° 2018-167 du 7 mars 2018</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
+      <td>Résultant du décret n° 2018-167 du 7 mars 2018 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
@@ -41911,118 +42091,81 @@ Au titre III
     <tr>
       <td align="left">
 
-R. 232-1 à R. 232-5-1
+R. 232-1 
 
 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-1-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-2 à R. 232-5 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-5-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-12 à R. 232-23 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 232-12 et R. 232-13
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-14 et R. 232-15
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-16 à R. 232-18
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-19
-
-</td>
-      <td align="left">
-
-Résultant du  décret n° 2015-26 du 14 janvier 2015  relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">R. 234-1</td>
+      <td align="center">R. 234-1 </td>
       <td align="center">
 
-Résultant du décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-2
+R. 234-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1217 du 2 août 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 236-1
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2017-1216 du 2 août 2017
+Résultant du décret n° 2017-1217 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-1 
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 236-2 à R. 236-5 
 
 </td>
       <td align="left">
@@ -42034,7 +42177,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-6
+R. 236-6 
 
 </td>
       <td align="left">
@@ -42046,7 +42189,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-7
+R. 236-7 
 
 </td>
       <td align="left">
@@ -42058,7 +42201,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-8
+R. 236-8 
 
 </td>
       <td align="left">
@@ -42070,7 +42213,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-9 à R. 236-10 
 
 </td>
       <td align="left">
@@ -42082,7 +42225,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-11 
 
 </td>
       <td align="left">
@@ -42094,7 +42237,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-12 à R. 236-15 
 
 </td>
       <td align="left">
@@ -42106,7 +42249,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-16 
 
 </td>
       <td align="left">
@@ -42116,17 +42259,17 @@ Résultant du décret n° 2017-1216 du 2 août 2017 </td>
     <tr>
       <td align="center">
 
-R. 236-17
+R. 236-17 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2013-1113</td>
+Résultant du décret n° 2013-1113 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-18
+R. 236-18 
 
 </td>
       <td align="left">
@@ -42136,7 +42279,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017 </td>
     <tr>
       <td align="center">
 
-R. 236-19 à R. 236-25
+R. 236-19 à R. 236-25 
 
 </td>
       <td align="left">
@@ -42148,7 +42291,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-26
+R. 236-26 
 
 </td>
       <td align="left">
@@ -42160,7 +42303,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-27 
 
 </td>
       <td align="left">
@@ -42172,7 +42315,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-28 
 
 </td>
       <td align="left">
@@ -42184,7 +42327,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-29 à R. 236-45 
 
 </td>
       <td align="left">
@@ -42196,19 +42339,19 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-46 à R. 236-53 
 
 </td>
       <td align="left">
 
-Résultant du  décret n° 2016-1045 du 29 juillet 2016 
+Résultant du décret n° 2016-1045 du 29 juillet 2016 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV
+Au titre IV 
 
 </td>
       <td>
@@ -42216,15 +42359,15 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7
+R. 241-1 à R. 241-7 
 
 </td>
-      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016</td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -42232,32 +42375,32 @@ Au titre V
     <tr>
       <td align="left">
 
-R. 251-1 et R. 251-2
+R. 251-1 et R. 251-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -42274,16 +42417,20 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 _Cite_:
 
-  - Décret n°2010-569 du 28 mai 2010 - art. 5
+  - Décret n°2013-1113 du 4 décembre 2013
   - Décret n°2014-901 du 18 août 2014
   - Décret n°2014-1095 du 26 septembre 2014
   - Décret n°2014-1253 du 27 octobre 2014
+  - Décret n°2014-1641 du 26 décembre 2014
   - Décret n°2015-26 du 14 janvier 2015
-  - Décret n°2015-1328 du 21 octobre 2015
   - Décret n°2016-1045 du 29 juillet 2016
-  - Code de la sécurité intérieure - art. L232-7
-  - Code de la sécurité intérieure - art. R232-14
-  - Code de la sécurité intérieure - art. R232-15
+  - Décret n°2016-1860 du 23 décembre 2016
+  - Décret n°2017-1216 du 2 août 2017
+  - Décret n°2017-1217 du 2 août 2017
+  - Décret n°2017-1522 du 2 novembre 2017
+  - Décret n°2018-141 du 27 février 2018
+  - Décret n°2018-167 du 7 mars 2018
+  - Décret n°2018-714 du 3 août 2018
 
 _Codifié par_:
 
@@ -42291,7 +42438,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
+  - Décret n°2018-714 du 3 août 2018 - art. 12
 
 _Cité par_:
 
@@ -42409,66 +42556,66 @@ _Cite_:
 ###### Article R288-1
 
 Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la
-colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8</td>
+      <td align="center">R. 211-2 à R. 211-8 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-27 à R. 211-30</td>
+      <td align="center">R. 211-27 à R. 211-30 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -42476,151 +42623,115 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2</td>
+      <td align="center">R. 223-2 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1522 du 2 novembre 2017
+Résultant du décret n° 2017-1522 du 2 novembre 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
-      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
-      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 
+</td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
-      <td>Résultant du décret n° 2018-167 du 7 mars 2018</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
+      <td>Résultant du décret n° 2018-167 du 7 mars 2018 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
+      <td align="center">R. 232-1 </td>
       <td align="left">
 
-R. 232-1 à R. 232-5-1
+Résultant du décret n° 2014-1095 du 26 septembre 2014 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-1-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-2 à R. 232-5 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-5-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-12 à R. 232-23 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 232-12 et R. 232-13
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
+Résultant du décret n° 2017-1217 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 232-14 et R. 232-15
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2015-1328 du 21 octobre 2015 portant modification de l'article 5 du décret n° 2010-569 du 28 mai 2010
-relatif au fichier des personnes recherchées et des articles R. 232-14 et R. 232-15 du code de la sécurité intérieure
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-16 à R. 232-18
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1095 du 26 septembre 2014 portant création d'un traitement de données à caractère personnel
-dénommé " système API-PNR France " pris pour l'application de l'article L. 232-7 du code de la sécurité intérieure 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 232-19
-
-</td>
-      <td align="left">
-
-Résultant du  décret n° 2015-26 du 14 janvier 2015  relatif à l'interdiction de sortie du territoire des ressortissants
-français projetant de participer à des activités terroristes à l'étranger
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 234-3
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2017-1217 du 2 août 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">R. 236-1</td>
+      <td align="center">R. 236-1 </td>
       <td align="center">
 
-Résultant du décret n° 2017-1216 du 2 août 2017
+Résultant du décret n° 2017-1216 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-2 à R. 236-5 
 
 </td>
       <td align="left">
@@ -42632,7 +42743,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-6
+R. 236-6 
 
 </td>
       <td align="left">
@@ -42644,7 +42755,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-7
+R. 236-7 
 
 </td>
       <td align="left">
@@ -42656,7 +42767,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-8
+R. 236-8 
 
 </td>
       <td align="left">
@@ -42668,7 +42779,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-9 à R. 236-10 
 
 </td>
       <td align="left">
@@ -42680,7 +42791,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-11 
 
 </td>
       <td align="left">
@@ -42692,7 +42803,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-12 à R. 236-15 
 
 </td>
       <td align="left">
@@ -42704,7 +42815,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-16 
 
 </td>
       <td align="left">
@@ -42716,7 +42827,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-17
+R. 236-17 
 
 </td>
       <td align="left">
@@ -42728,7 +42839,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-18
+R. 236-18 
 
 </td>
       <td align="left">
@@ -42740,7 +42851,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-19 à R. 236-25
+R. 236-19 à R. 236-25 
 
 </td>
       <td align="left">
@@ -42752,7 +42863,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-26
+R. 236-26 
 
 </td>
       <td align="left">
@@ -42764,7 +42875,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-27 
 
 </td>
       <td align="left">
@@ -42776,15 +42887,15 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-28 
 
 </td>
-      <td>Résultant du décret n° 2017-1216 du 2 août 2017</td>
+      <td>Résultant du décret n° 2017-1216 du 2 août 2017 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-29 à R. 236-45 
 
 </td>
       <td align="left">
@@ -42796,7 +42907,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-46 à R. 236-53 
 
 </td>
       <td align="left">
@@ -42808,7 +42919,7 @@ Résultant du décret n° 2016-1045 du 29 juillet 2016
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -42816,32 +42927,32 @@ Au titre V
     <tr>
       <td>
 
-R. 251-1
+R. 251-1 
 
 </td>
       <td>
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12
+R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -42858,19 +42969,19 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 _Cite_:
 
-  - Décret n°2010-569 du 28 mai 2010 - art. 5
   - Décret n°2013-1113 du 4 décembre 2013
   - Décret n°2014-901 du 18 août 2014
   - Décret n°2014-1095 du 26 septembre 2014
   - Décret n°2014-1253 du 27 octobre 2014
+  - Décret n°2014-1641 du 26 décembre 2014
   - Décret n°2015-26 du 14 janvier 2015
-  - Décret n°2015-1328 du 21 octobre 2015
   - Décret n°2016-1045 du 29 juillet 2016
   - Décret n°2017-1216 du 2 août 2017
-  - Code de la sécurité intérieure - art. L232-7
+  - Décret n°2017-1217 du 2 août 2017
+  - Décret n°2017-1522 du 2 novembre 2017
+  - Décret n°2018-167 du 7 mars 2018
+  - Décret n°2018-714 du 3 août 2018
   - Code de la sécurité intérieure - art. L811-2
-  - Code de la sécurité intérieure - art. R232-14
-  - Code de la sécurité intérieure - art. R232-15
 
 _Codifié par_:
 
@@ -42878,7 +42989,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-167 du 7 mars 2018 - art. 9 (V)
+  - Décret n°2018-714 du 3 août 2018 - art. 12
 
 _Cité par_:
 
