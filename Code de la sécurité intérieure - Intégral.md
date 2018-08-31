@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-08-01 00:00:01 +0200
+Version Consolidée au 2018-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -8072,29 +8072,6 @@ _Cité par_:
   - Code de la défense. - art. L2339-4-1 (VD)
   - Code de la sécurité intérieure - art. L317-3-1 (VD)
   - Code de la sécurité intérieure - art. L317-4-1 (V)
-
-
-###### Article L312-4-3
-
-Sont interdites :
-
-1° L'acquisition ou la détention de plusieurs armes de la catégorie A ou B par un seul individu, sauf dans les cas prévus par
-décret en Conseil d'Etat ;
-
-2° L'acquisition ou la détention de plus de cinquante cartouches par arme de la catégorie A ou B, sauf dans les cas prévus
-par décret en Conseil d'Etat.
-
-**Nota:**
-
-Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
-compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018. Le décret n° 2018-542 du 26 juin
-2018 a fixé cette date au 1er août 2018.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 
 ###### Article L312-5
