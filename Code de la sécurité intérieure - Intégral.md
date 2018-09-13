@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-03-10
+Version Consolidée au 2018-09-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -99,7 +99,7 @@ Version Consolidée au 2018-03-10
             - [Sous-section 1 : Remise d'une arme à l'autorité administrative (art. L312-7 à L312-10)](#96)
             - [Sous-section 2 : Dessaisissement (art. L312-11 à L312-15)](#97)
           - [Section 4 : Fichiers (art. L312-16 à L312-17)](#98)
-        - [Chapitre III : Fabrication et commerce (art. L313-2 à L313-5)](#99)
+        - [Chapitre III : Fabrication et commerce (art. L313-2 à L313-7)](#99)
         - [Chapitre IV : Conservation, perte et transfert de propriété (art. L314-1 à L314-4)](#100)
         - [Chapitre V : Port et transport (art. L315-1 à L315-2)](#101)
         - [Chapitre VII : Dispositions pénales (art. L317-1 à L317-12)](#102)
@@ -7323,35 +7323,40 @@ _Codifié par_:
 ###### Article L311-2
 
 Conformément aux dispositions de l'article L. 2331-1 du code de la défense, les matériels de guerre, armes, munitions et
-éléments désignés par le présent titre sont classés dans les catégories suivantes : 
+éléments désignés par le présent titre sont classés dans les catégories suivantes :
 
 1° Catégorie A : matériels de guerre et armes interdits à l'acquisition et à la détention, sous réserve des dispositions des
-articles L. 312-1 à L. 312-4-3 du présent code. 
+articles L. 312-1 à L. 312-4-3 du présent code.
 
 Cette catégorie comprend :
 
 - A1 : les armes et éléments d'armes interdits à l'acquisition et à la détention ;
 
 - A2 : les armes relevant des matériels de guerre, les matériels destinés à porter ou à utiliser au combat les armes à feu,
-les matériels de protection contre les gaz de combat ; 
+les matériels de protection contre les gaz de combat ;
 
-2° Catégorie B : armes soumises à autorisation pour l'acquisition et la détention ; 
+2° Catégorie B : armes soumises à autorisation pour l'acquisition et la détention ;
 
-3° Catégorie C : armes soumises à déclaration pour l'acquisition et la détention ; 
+3° Catégorie C : armes soumises à déclaration pour l'acquisition et la détention ;
 
-4° Catégorie D : armes soumises à enregistrement et armes et matériels dont l'acquisition et la détention sont libres. 
+4° Catégorie D : armes et matériels dont l'acquisition et la détention sont libres.
 
 Un décret en Conseil d'Etat détermine les matériels, armes, munitions, éléments essentiels, accessoires et opérations
 industrielles compris dans chacune de ces catégories ainsi que les conditions de leur acquisition et de leur détention. Il
-fixe les modalités de délivrance des autorisations ainsi que celles d'établissement des déclarations ou des enregistrements. 
+fixe les modalités de délivrance des autorisations ainsi que celles d'établissement des déclarations.
 
 En vue de préserver la sécurité et l'ordre publics, le classement prévu aux 1° à 4° est fondé sur la dangerosité des
 matériels et des armes. Pour les armes à feu, la dangerosité s'apprécie en particulier en fonction des modalités de
 répétition du tir ainsi que du nombre de coups tirés sans qu'il soit nécessaire de procéder à un réapprovisionnement de
-l'arme. 
+l'arme.
 
 Par dérogation à l'alinéa précédent, les armes utilisant des munitions de certains calibres fixés par décret en Conseil
 d'Etat sont classées par la seule référence à ce calibre.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -7374,11 +7379,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 16
 
 _Cite_:
 
-  - Code de la défense. - art. L2331-1
+  - Code de la défense. - art. L2331-1 (VD)
   - Code de la sécurité intérieure - art. L312-1
 
 
@@ -7423,14 +7428,19 @@ _Cité par_:
 
 ###### Article L311-4
 
-Les armes et matériels historiques et de collection ainsi que leurs reproductions mentionnés à l'article L. 311-3 sont
-classés en catégorie D.
+Les armes et matériels historiques et de collection mentionnés aux 1°, 2°, 5° et 6° de l'article L. 311-3 sont classés en
+catégorie D ; ceux mentionnés aux 3° et 4° du même article L. 311-3 sont classés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 16
 
 _Cite_:
 
@@ -7485,21 +7495,22 @@ _Cite_:
 L'acquisition et la détention des matériels de guerre, armes et éléments d'armes relevant de la catégorie A sont interdites,
 sauf pour les besoins de la défense nationale et de la sécurité publique. Un décret en Conseil d'Etat définit les conditions
 dans lesquelles l'Etat, pour les besoins autres que ceux de la défense nationale et de la sécurité publique, les
-collectivités territoriales et les organismes d'intérêt général ou à vocation culturelle, historique ou scientifique peuvent
-être autorisés à acquérir et à détenir des matériels de guerre, armes et éléments d'armes de catégorie A. Il fixe également
-les conditions dans lesquelles certains matériels de guerre peuvent être acquis et détenus à fin de collection,
-professionnelle ou sportive par des personnes, sous réserve des engagements internationaux en vigueur et des exigences de
-l'ordre et de la sécurité publics.
+collectivités territoriales et les organismes d'intérêt général ou à vocation culturelle, historique ou scientifique ainsi
+que, pour des activités professionnelles ou sportives, des personnes peuvent être autorisés à acquérir et à détenir des
+matériels de guerre, armes et éléments d'armes de catégorie A. Il fixe également les conditions dans lesquelles des personnes
+peuvent acquérir et détenir, à des fins de collection, des matériels de guerre. Ces dérogations sont accordées sous réserve
+des engagements internationaux en vigueur et des exigences de l'ordre et de la sécurité publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Modifié par_:
-
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
 
 _Cité par_:
 
@@ -7508,11 +7519,14 @@ _Cité par_:
   - Code de la défense. - art. L2339-16 (VD)
   - Code de la sécurité intérieure - art. R312-20 (VD)
 
+_Modifié par_:
+
+  - Loi n°2018-133 du 26 février 2018 - art. 17
+
 
 ###### Article L312-3
 
-Sont interdites d'acquisition et de détention d'armes des catégories B et C et d'armes de catégorie D soumises à
-enregistrement : 
+Sont interdites d'acquisition et de détention d'armes des catégories A, B et C :
 
 1° Les personnes dont le bulletin n° 2 du casier judiciaire comporte une mention de condamnation pour l'une des infractions
 suivantes :
@@ -7607,25 +7621,35 @@ code ;
 L. 2339-2, L. 2339-3 et L. 2339-4 du code de la défense ainsi qu'aux articles L. 317-1-1, L. 317-2 et L. 317-3-1 du présent
 code ;
 
-- acquisition, cession ou détention sans déclaration ou enregistrement d'armes ou de matériels de catégorie C ou d'armes de
-catégorie D ou de leurs munitions prévues aux articles L. 317-4-1 et L. 317-7 du présent code ;
+- acquisition, cession ou détention sans déclaration d'armes ou de matériels de catégorie C ou de leurs munitions prévues à
+l'article L. 317-4-1 ;
+
+- détention d'un dépôt d'armes ou de munitions de catégorie C ou de certaines armes de catégorie D prévue à l'article L.
+317-7 ;
 
 - acquisition ou détention d'armes ou de munitions en violation d'une interdiction prévue à l'article L. 317-5 du présent
 code ;
 
 - obstacle à la saisie d'armes ou de munitions prévu à l'article L. 317-6 du présent code ;
 
-- port, transport et expéditions d'armes de catégorie C ou d'armes de catégorie D soumises à enregistrement sans motif
-légitime prévus aux articles L. 317-8 et L. 317-9 du présent code ;
+- port, transport et expéditions d'armes de catégorie C ou d'armes de catégorie D sans motif légitime prévus aux articles L.
+317-8 et L. 317-9 du présent code ;
+
+- le délit prévu à l'article L. 317-10-1 ;
 
 - importation sans autorisation des matériels des catégories A, B, C ou d'armes de catégorie D énumérées par un décret en
 Conseil d'État prévue à la section 5 du chapitre IX du titre III du livre III de la deuxième partie du code de la défense ;
 
 - fabrication, vente, exportation, sans autorisation, d'un engin ou produit explosif ou incendiaire, port ou transport
-d'artifices non détonants prévus aux articles L. 2353-4 à L. 2353-13 du même code ; 
+d'artifices non détonants prévus aux articles L. 2353-4 à L. 2353-13 du même code ;
 
 2° Les personnes condamnées à une peine d'interdiction de détenir ou de porter une arme soumise à autorisation ou condamnées
 à la confiscation d'une ou de plusieurs armes dont elles sont propriétaires ou dont elles ont la libre disposition.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -7635,62 +7659,62 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 23
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cite_:
 
-  - Code pénal - art. 221-1 (V)
-  - Code pénal - art. 222-1 (V)
-  - Code pénal - art. 222-15 (V)
-  - Code pénal - art. 222-15-1 (V)
-  - Code pénal - art. 222-17 (V)
-  - Code pénal - art. 222-22 (V)
-  - Code pénal - art. 222-32 (V)
-  - Code pénal - art. 222-33 (V)
-  - Code pénal - art. 222-33-2 (V)
-  - Code pénal - art. 222-33-3 (V)
-  - Code pénal - art. 222-34 (V)
-  - Code pénal - art. 222-52 (V)
-  - Code pénal - art. 222-7 (V)
-  - Code pénal - art. 224-1 (V)
-  - Code pénal - art. 224-6 (V)
-  - Code pénal - art. 225-12-1 (V)
-  - Code pénal - art. 225-12-5 (V)
-  - Code pénal - art. 225-12-8 (V)
-  - Code pénal - art. 225-14-1 (V)
-  - Code pénal - art. 225-14-2 (V)
-  - Code pénal - art. 225-4-1 (V)
-  - Code pénal - art. 225-5 (V)
-  - Code pénal - art. 311-1 (V)
-  - Code pénal - art. 312-1 (V)
-  - Code pénal - art. 312-12-1 (V)
-  - Code pénal - art. 321-1 (V)
-  - Code pénal - art. 322-1 (V)
-  - Code pénal - art. 322-12 (V)
-  - Code pénal - art. 322-5 (V)
-  - Code pénal - art. 324-1 (V)
-  - Code pénal - art. 421-1 (V)
-  - Code pénal - art. 431-1 (V)
-  - Code pénal - art. 431-10 (V)
-  - Code pénal - art. 431-13 (V)
-  - Code pénal - art. 431-24 (V)
-  - Code pénal - art. 431-5 (V)
-  - Code pénal - art. 433-8 (V)
-  - Code pénal - art. 450-1 (V)
-  - Code de la défense. - art. L2339-2 (M)
-  - Code de la défense. - art. L2339-3 (M)
-  - Code de la défense. - art. L2339-4 (M)
-  - Code de la défense. - art. L2353-4 (V)
-  - Code de la sécurité intérieure - art. L317-1-1 (V)
-  - Code de la sécurité intérieure - art. L317-4-1 (V)
-  - Code de la sécurité intérieure - art. L317-6 (V)
-  - Code de la sécurité intérieure - art. L317-8 (V)
+  - Code pénal - art. 221-1
+  - Code pénal - art. 222-1
+  - Code pénal - art. 222-15
+  - Code pénal - art. 222-15-1
+  - Code pénal - art. 222-17
+  - Code pénal - art. 222-22
+  - Code pénal - art. 222-32
+  - Code pénal - art. 222-33
+  - Code pénal - art. 222-33-2
+  - Code pénal - art. 222-33-3
+  - Code pénal - art. 222-34
+  - Code pénal - art. 222-52
+  - Code pénal - art. 222-7
+  - Code pénal - art. 224-1
+  - Code pénal - art. 224-6
+  - Code pénal - art. 225-12-1
+  - Code pénal - art. 225-12-5
+  - Code pénal - art. 225-12-8
+  - Code pénal - art. 225-14-1
+  - Code pénal - art. 225-14-2
+  - Code pénal - art. 225-4-1
+  - Code pénal - art. 225-5
+  - Code pénal - art. 311-1
+  - Code pénal - art. 312-1
+  - Code pénal - art. 312-12-1
+  - Code pénal - art. 321-1
+  - Code pénal - art. 322-1
+  - Code pénal - art. 322-12
+  - Code pénal - art. 322-5
+  - Code pénal - art. 324-1
+  - Code pénal - art. 421-1
+  - Code pénal - art. 431-1
+  - Code pénal - art. 431-10
+  - Code pénal - art. 431-13
+  - Code pénal - art. 431-24
+  - Code pénal - art. 431-5
+  - Code pénal - art. 433-8
+  - Code pénal - art. 450-1
+  - Code de la défense. - art. L2339-2
+  - Code de la défense. - art. L2339-3
+  - Code de la défense. - art. L2339-4 (VD)
+  - Code de la défense. - art. L2353-4
+  - Code de la sécurité intérieure - art. L317-1-1
+  - Code de la sécurité intérieure - art. L317-4-1 (VD)
+  - Code de la sécurité intérieure - art. L317-6 (VD)
+  - Code de la sécurité intérieure - art. L317-8
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L312-16 (V)
+  - Code de la sécurité intérieure - art. L312-16 (VD)
   - Code de la sécurité intérieure - art. L312-6-1 (V)
-  - Code de la sécurité intérieure - art. L312-6-2 (V)
+  - Code de la sécurité intérieure - art. L312-6-2 (VD)
   - Code de la sécurité intérieure - art. L317-5 (V)
   - Code de la sécurité intérieure - art. L613-7-2 (V)
   - Code de la sécurité intérieure - art. R312-21 (VD)
@@ -7699,46 +7723,51 @@ _Cité par_:
 
 ###### Article L312-3-1
 
-L'autorité administrative peut interdire l'acquisition et la détention des armes des catégories B et C et des armes de
-catégorie D soumises à enregistrement aux personnes dont le comportement laisse craindre une utilisation de ces armes
-dangereuse pour elles-mêmes ou pour autrui.
+L'autorité administrative peut interdire l'acquisition et la détention des armes des catégories A, B et C aux personnes dont
+le comportement laisse craindre une utilisation de ces armes dangereuse pour elles-mêmes ou pour autrui.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 23
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L312-16 (V)
+  - Code de la sécurité intérieure - art. L312-16 (VD)
 
 
 ###### Article L312-4
 
-L'acquisition et la détention des armes, éléments d'armes et de munitions de catégorie B sont soumises à autorisation dans
-des conditions définies par un décret en Conseil d'Etat. Lorsque l'autorisation est délivrée pour la pratique du tir sportif,
-ce décret prévoit notamment la présentation de la copie d'une licence de tir en cours de validité délivrée par une fédération
-sportive ayant reçu délégation du ministre chargé des sports au titre de l'article L. 131-14 du code du sport. 
+L'acquisition et la détention des armes, éléments d'armes et de munitions de catégorie A ou B sont soumises à autorisation
+dans des conditions définies par un décret en Conseil d'Etat. Lorsque l'autorisation est délivrée pour la pratique du tir
+sportif, ce décret prévoit notamment la présentation de la copie d'une licence de tir en cours de validité délivrée par une
+fédération sportive ayant reçu délégation du ministre chargé des sports au titre de l'article L. 131-14 du code du sport.
 
-Nul ne peut acquérir et détenir légalement des matériels ou des armes, éléments d'armes et munitions classés en catégorie B
-s'il ne peut produire un certificat médical datant de moins d'un mois, attestant de manière circonstanciée d'un état de santé
-physique et psychique compatible avec l'acquisition et la détention d'une arme et établi dans les conditions fixées à
-l'article L. 312-6 du présent code. 
+Nul ne peut acquérir et détenir légalement des matériels ou des armes, éléments d'armes et munitions classés en catégorie A
+ou B s'il ne peut produire un certificat médical datant de moins d'un mois, attestant de manière circonstanciée d'un état de
+santé physique et psychique compatible avec l'acquisition et la détention d'une arme et établi dans les conditions fixées à
+l'article L. 312-6 du présent code.
 
-Quiconque devient propriétaire par voie successorale ou testamentaire d'une arme de catégorie B, sans être autorisé à la
+Quiconque devient propriétaire par voie successorale ou testamentaire d'une arme de catégorie A ou B, sans être autorisé à la
 détenir, doit s'en défaire dans un délai de trois mois à compter de la mise en possession, dans les conditions prévues à
 l'article L. 314-2.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 23
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cite_:
 
@@ -7792,60 +7821,43 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R316-5 (V)
 
 
-###### Article L312-4-2
-
-L'acquisition et la détention des armes de catégorie D sont libres. 
-
-Un décret en Conseil d'Etat peut toutefois soumettre l'acquisition de certaines d'entre elles à des obligations particulières
-de nature à garantir leur traçabilité, compte tenu de leurs caractéristiques techniques, de leur valeur patrimoniale ou de
-leur utilisation dans le cadre de la pratique d'une activité sportive ou de loisirs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
-
-_Abrogé par_:
-
-  - Loi n°2018-133 du 26 février 2018 - art. 17
-
-_Cité par_:
-
-  - Code de la défense. - art. L2339-4 (VD)
-  - Code de la défense. - art. L2339-4-1 (VD)
-  - Code de la sécurité intérieure - art. L317-3-1 (VD)
-  - Code de la sécurité intérieure - art. L317-4-1 (V)
-
-
 ###### Article L312-4-3
 
-Sont interdites : 
+Sont interdites :
 
-1° L'acquisition ou la détention de plusieurs armes de la catégorie B par un seul individu, sauf dans les cas prévus par
-décret en Conseil d'Etat ; 
+1° L'acquisition ou la détention de plusieurs armes de la catégorie A ou B par un seul individu, sauf dans les cas prévus par
+décret en Conseil d'Etat ;
 
-2° L'acquisition ou la détention de plus de cinquante cartouches par arme de la catégorie B, sauf dans les cas prévus par
-décret en Conseil d'Etat.
+2° L'acquisition ou la détention de plus de cinquante cartouches par arme de la catégorie A ou B, sauf dans les cas prévus
+par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 
 ###### Article L312-5
 
 Dans les ventes publiques, seules peuvent se porter acquéreurs des matériels de guerre, armes et munitions et de leurs
-éléments des catégories A et B ainsi que des armes de catégorie D figurant sur une liste établie par un décret en Conseil
-d'Etat les personnes physiques ou morales qui peuvent régulièrement acquérir et détenir des matériels et armes de ces
-différentes catégories en application des sections 1 et 2 du présent chapitre, de l'article L. 313-3 du présent code et de
-l'article L. 2332-1 du code de la défense. 
+éléments des catégories A, B et C les personnes physiques ou morales qui peuvent régulièrement acquérir et détenir des
+matériels et armes de ces différentes catégories en application des sections 1 et 2 du présent chapitre, de l'article L.
+313-3 du présent code et de l'article L. 2332-1 du code de la défense.
 
-La vente de ces mêmes matériels par les brocanteurs est interdite. 
+La vente de ces mêmes matériels par les brocanteurs est interdite.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -7855,12 +7867,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cite_:
 
   - Code de la défense. - art. L2332-1
-  - Code de la sécurité intérieure - art. L313-3
+  - Code de la sécurité intérieure - art. L313-3 (VD)
 
 _Cité par_:
 
@@ -8133,14 +8145,19 @@ _Cite_:
 ###### Article L312-11
 
 Sans préjudice des dispositions de la sous-section 1, le représentant de l'Etat dans le département peut, pour des raisons
-d'ordre public ou de sécurité des personnes, ordonner à tout détenteur d'une arme des catégories B, C et D de s'en dessaisir.
+d'ordre public ou de sécurité des personnes, ordonner à tout détenteur d'une arme de toute catégorie de s'en dessaisir.
 
 Le dessaisissement consiste soit à vendre l'arme à une personne qui fabrique ou fait commerce des armes, mentionnée à
 l'article L. 2332-1 du code de la défense, ou à un tiers remplissant les conditions légales d'acquisition et de détention,
-soit à la neutraliser, soit à la remettre à l'Etat. Un décret en Conseil d'Etat détermine les modalités du dessaisissement.
+soit à la remettre à l'Etat. Un décret en Conseil d'Etat détermine les modalités du dessaisissement.
 
 Sauf urgence, la procédure est contradictoire. Le représentant de l'Etat dans le département fixe le délai au terme duquel le
 détenteur doit s'être dessaisi de son arme.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8159,7 +8176,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cite_:
 
@@ -8209,7 +8226,7 @@ _Cité par_:
 ###### Article L312-13
 
 Il est interdit aux personnes ayant fait l'objet de la procédure prévue à la présente sous-section d'acquérir ou de détenir
-des armes des catégories B, C et D.
+des armes de toute catégorie.
 
 Le représentant de l'Etat dans le département peut cependant décider de limiter cette interdiction à certaines catégories ou
 à certains types d'armes.
@@ -8217,6 +8234,11 @@ Le représentant de l'Etat dans le département peut cependant décider de limit
 Cette interdiction est levée par le représentant de l'Etat dans le département s'il apparaît que l'acquisition ou la
 détention d'armes par la personne concernée n'est plus de nature à porter atteinte à l'ordre public ou à la sécurité des
 personnes.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8226,7 +8248,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cité par_:
 
@@ -8252,19 +8274,24 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 ###### Article L312-16
 
-Un fichier national automatisé nominatif recense : 
+Un fichier national automatisé nominatif recense :
 
-1° Les personnes interdites d'acquisition et de détention d'armes en application des articles L. 312-10 et L. 312-13 ; 
+1° Les personnes interdites d'acquisition et de détention d'armes en application des articles L. 312-10 et L. 312-13 ;
 
-2° Les personnes interdites d'acquisition et de détention d'armes des catégories B et C et des armes de catégorie D soumises
-à enregistrement en application de l'article L. 312-3 ; 
+2° Les personnes interdites d'acquisition et de détention d'armes des catégories A, B et C en application de l'article L.
+312-3 ;
 
-3° Les personnes interdites d'acquisition et de détention d'armes des catégories B et C et des armes de catégorie D soumises
-à enregistrement en application de l'article L. 312-3-1. 
+3° Les personnes interdites d'acquisition et de détention d'armes des catégories A, B et C en application de l'article L.
+312-3-1.
 
 Les modalités d'application du présent article, y compris la nature des informations enregistrées, la durée de leur
 conservation ainsi que les autorités et les personnes qui y ont accès, sont déterminées par décret en Conseil d'Etat pris
 après avis de la Commission nationale de l'informatique et des libertés.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8278,13 +8305,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 23
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L312-10
-  - Code de la sécurité intérieure - art. L312-3 (V)
-  - Code de la sécurité intérieure - art. L312-3-1 (V)
+  - Code de la sécurité intérieure - art. L312-3 (VD)
+  - Code de la sécurité intérieure - art. L312-3-1 (VD)
 
 
 ###### Article L312-17
@@ -8355,8 +8382,8 @@ _Codifié par_:
 ###### Article L313-3
 
 L'ouverture de tout local destiné au commerce de détail des armes et munitions, ou de leurs éléments essentiels, des
-catégories C ou D énumérés  par décret en Conseil d'Etat est soumise à autorisation. Celle-ci est délivrée par le
-représentant de l'Etat dans le département où est situé ce local, ou, à Paris, par le préfet de police, après avis du maire.
+catégories C ou D énumérés par décret en Conseil d'Etat est soumise à autorisation. Celle-ci est délivrée par le représentant
+de l'Etat dans le département où est situé ce local, ou, à Paris, par le préfet de police, après avis du maire.
 
 Cette autorisation est refusée si la protection de ce local contre le risque de vol ou d'intrusion est insuffisante. Elle
 peut, en outre, être refusée s'il apparaît que l'exploitation de ce local présente, notamment du fait de sa localisation, un
@@ -8369,7 +8396,10 @@ publics ou que sa protection contre le risque de vol ou d'intrusion est insuffis
 peut être décidée qu'après une mise en demeure, adressée à l'exploitant, de faire effectuer les travaux permettant d'assurer
 une protection suffisante de cet établissement contre le risque de vol ou d'intrusion.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8399,7 +8429,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 18
 
 
 ###### Article L313-4
@@ -8409,12 +8439,12 @@ que des armes de catégorie D énumérées par décret en Conseil d'Etat ne peut
 premier et troisième alinéas de l'article L. 313-3. 
 
 Les dispositions du premier alinéa ne sont pas applicables aux ventes organisées en application du code du domaine de l'Etat
-et aux ventes aux enchères publiques. 
+et aux ventes aux enchères publiques.
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles, à titre exceptionnel, les personnes satisfaisant aux
-prescriptions de l'article L. 2332-1 du code de la défense et des articles L. 313-2 et L. 313-3 du présent code peuvent
-participer aux manifestations commerciales et aux salons professionnels déclarés en application des articles L. 762-1 et L.
-762-2 du code de commerce.
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8424,13 +8454,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 18
 
 _Cite_:
 
-  - Code de commerce - art. L762-1
-  - Code de la défense. - art. L2332-1
-  - Code de la sécurité intérieure - art. L313-2
+  - Code de la sécurité intérieure - art. L313-3
 
 _Cité par_:
 
@@ -8443,14 +8471,22 @@ _Cité par_:
 
 ###### Article L313-5
 
-Les matériels, armes ou leurs éléments essentiels des catégories A, B, C ainsi que des armes de catégorie D énumérées par
-décret en Conseil d'Etat, qui, par dérogation aux dispositions du premier alinéa de l'article L. 313-4, sont acquis par
-correspondance, à distance ou directement entre particuliers ne peuvent être livrés que dans les locaux mentionnés aux
-premier et troisième alinéas de l'article L. 313-3. Un décret en Conseil d'Etat énumère les armes de catégories B, C et D et
-leurs éléments essentiels ainsi que les munitions de toute catégorie qui, par dérogation au premier alinéa de l'article L.
-313-4, peuvent être directement livrés à l'acquéreur dans le cadre d'une vente par correspondance ou à distance. 
+Les matériels, armes, munitions ou leurs éléments essentiels des catégories A, B et C ainsi que les armes et munitions de
+catégorie D énumérées par décret en Conseil d'Etat acquis, par dérogation au premier alinéa de l'article L. 313-4, entre
+particuliers, directement ou à distance, ne peuvent être livrés que dans les locaux mentionnés aux premier et dernier alinéas
+de l'article L. 313-3, aux fins de vérification de l'identité de l'acquéreur ainsi que des pièces mentionnées à l'article L.
+312-4-1 ou, le cas échéant, de l'autorisation d'acquisition et de détention de l'acquéreur mentionnée à l'article L. 312-4. 
 
-Ce même décret fixe les conditions dans lesquelles sont réalisées ces expéditions.
+La transaction est réputée parfaite à compter de la remise effective à l'acquéreur. 
+
+Si la transaction a été faite dans le cadre des activités mentionnées à l'article L. 313-2, ces matériels, armes, munitions
+ou éléments essentiels acquis, par dérogation au premier alinéa de l'article L. 313-4, par correspondance ou à distance,
+peuvent être livrés directement à l'acquéreur.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8460,16 +8496,78 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 18
 
 _Cite_:
 
+  - Code de la sécurité intérieure - art. L312-4
+  - Code de la sécurité intérieure - art. L312-4-1
+  - Code de la sécurité intérieure - art. L313-2
   - Code de la sécurité intérieure - art. L313-3
   - Code de la sécurité intérieure - art. L313-4
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R313-23 (VD)
+
+
+###### Article L313-6
+
+Les personnes physiques ou morales autorisées à exercer les activités mentionnées à l'article L. 313-2 peuvent refuser de
+conclure toute transaction visant à acquérir des armes, des munitions ou leurs éléments essentiels dès lors qu'il est
+raisonnable de considérer que cette transaction présente un caractère suspect, en raison notamment de son échelle ou de sa
+nature. 
+
+Toute tentative de transaction suspecte fait l'objet d'un signalement auprès d'un service désigné par décision du ministre de
+l'intérieur.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-133 du 26 février 2018 - art. 18
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L313-2
+
+
+###### Article L313-7
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre. 
+
+Il détermine les conditions dans lesquelles, à titre exceptionnel, les personnes satisfaisant aux prescriptions de l'article
+L. 2332-1 du code de la défense et des articles L. 313-2 et L. 313-3 du présent code peuvent participer aux manifestations
+commerciales et aux salons professionnels déclarés en application des articles L. 762-1 et L. 762-2 du code de commerce.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-133 du 26 février 2018 - art. 18
+
+_Cite_:
+
+  - Code de commerce - art. L762-1
+  - Code de commerce - art. L762-2
+  - Code de la défense. - art. L2332-1
+  - Code de la sécurité intérieure - art. L313-2
+  - Code de la sécurité intérieure - art. L313-3
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L344-2 (V)
+  - Code de la sécurité intérieure - art. L345-2 (V)
 
 
 #### Chapitre IV : Conservation, perte et transfert de propriété<a id=100></a>
@@ -8497,11 +8595,16 @@ _Modifié par_:
 
 ###### Article L314-2
 
-Une arme de catégorie B ne peut être cédée par un particulier à un autre que dans le cas où le cessionnaire est autorisé à la
-détenir dans les conditions fixées aux articles L. 312-1 à L. 312-4-3. 
+Une arme de catégorie A ou B ne peut être cédée par un particulier à un autre que dans le cas où le cessionnaire est autorisé
+à la détenir dans les conditions fixées aux articles L. 312-1 à L. 312-4-3.
 
-Dans tous les cas, les transferts d'armes ou de munitions de la catégorie B sont opérés suivant des formes définies par
+Dans tous les cas, les transferts d'armes ou de munitions de la catégorie A ou B sont opérés suivant des formes définies par
 décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8511,7 +8614,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 17
 
 _Cite_:
 
@@ -8527,16 +8630,20 @@ _Cité par_:
 
 ###### Article L314-2-1
 
-Toute cession entre particuliers d'une arme de catégorie C ou de catégorie D soumises à enregistrement donne lieu à
-l'établissement et au dépôt d'une déclaration dans les conditions définies à l'article L. 312-4-1 ou, le cas échéant, à un
-enregistrement, dans un délai d'un mois, auprès du représentant de l'Etat dans le département du lieu de son domicile ou, à
-Paris, du préfet de police.
+Toute cession entre particuliers d'une arme de catégorie C donne lieu à l'établissement et au dépôt d'une déclaration dans
+les conditions définies à l'article L. 312-4-1 dans un délai d'un mois, auprès du représentant de l'Etat dans le département
+du lieu de son domicile ou, à Paris, du préfet de police.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 19
 
 _Cite_:
 
@@ -8602,14 +8709,19 @@ _Codifié par_:
 
 ###### Article L315-1
 
-Le port des armes catégories A, B, ainsi que des armes de la catégorie D figurant sur une liste fixée par un décret en
-Conseil d'Etat  ou d'éléments essentiels des armes des catégories A et B ou de munitions correspondantes est interdit ainsi
-que leur transport sans motif légitime.
+Le port des armes des catégories A, B et C, ainsi que des armes de la catégorie D figurant sur une liste fixée par un décret
+en Conseil d'Etat ou d'éléments essentiels des armes de ces mêmes catégories ou de munitions correspondantes est interdit
+ainsi que leur transport sans motif légitime.
 
 Les fonctionnaires et agents des administrations publiques exposés par leurs fonctions à des risques d'agression, ainsi que
 les personnels auxquels est confiée une mission de gardiennage et qui ont été préalablement agréés à cet effet par le
 représentant de l'Etat dans le département, ou, à Paris, par le préfet de police, peuvent être autorisés à s'armer pendant
 l'exercice de leurs fonctions, dans les conditions définies par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8619,7 +8731,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 19
 
 _Cité par_:
 
@@ -8858,21 +8970,24 @@ _Cite_:
 
 Est punie de trois ans d'emprisonnement et de 45 000 € d'amende la cession, à quelque titre que ce soit, par un fabricant ou
 commerçant, détenteur de l'une des autorisations mentionnées à l'article L. 313-3, d'une ou plusieurs armes ou munitions des
-catégories A, B, C ainsi que d'une ou plusieurs armes ou munitions de catégorie D mentionnées au second alinéa de l'article
-L. 312-4-2, en violation des articles L. 312-1 à L. 312-4-3 ou de l'article L. 314-3. 
+catégories A, B ou C, en violation des articles L. 312-1 à L. 312-4-3 ou de l'article L. 314-3.
 
 Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 20
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L312-1
-  - Code de la sécurité intérieure - art. L312-4-2
   - Code de la sécurité intérieure - art. L313-3
   - Code de la sécurité intérieure - art. L314-3
 
@@ -8884,64 +8999,68 @@ _Cité par_:
 ###### Article L317-3-2
 
 Est punie de six mois d'emprisonnement et de 7 500 € d'amende toute personne titulaire de l'une des autorisations de
-fabrication ou de commerce d'armes et de munitions mentionnées à l'article L. 313-3 qui : 
+fabrication ou de commerce d'armes et de munitions mentionnées à l'article L. 313-3 qui :
 
 1° Ne tient pas à jour le registre spécial dans lequel sont enregistrés, dans des conditions fixées par décret en Conseil
-d'Etat, les matériels mis en fabrication, en réparation, en transformation, achetés, vendus, loués ou détruits ; 
+d'Etat, les matériels mis en fabrication, en réparation, en transformation, achetés, vendus, loués ou détruits ;
 
 2° Dans le cas d'opérations d'intermédiation, ne tient pas à jour le registre spécial dans lequel sont enregistrés, dans des
 conditions fixées par le même décret en Conseil d'Etat, le nom des entreprises mises en relation ou des autres participants à
-l'opération d'intermédiation ainsi que le contenu de ces opérations ; 
+l'opération d'intermédiation ainsi que le contenu de ces opérations ;
 
 3° En cas de cessation d'activité, ne dépose pas auprès de l'autorité administrative compétente les registres spéciaux
 mentionnés aux 1° et 2° ou n'en assure pas la conservation pendant un délai et dans des conditions fixés par le même décret
-en Conseil d'Etat ; 
+en Conseil d'Etat ;
 
 4° Cède à un autre commerçant ou fabricant autorisé un matériel, une arme, un élément essentiel ou des munitions des
-catégories A, B ou C ou une arme, un élément essentiel ou des munitions de catégorie D mentionnés au second alinéa de
-l'article L. 312-4-1, sans accomplir les formalités déterminées par le même décret en Conseil d'Etat ; 
+catégories A, B ou C sans accomplir les formalités déterminées par le même décret en Conseil d'Etat ;
 
 5° Vend par correspondance des matériels, armes, munitions et leurs éléments essentiels sans avoir reçu et conservé les
 documents nécessaires à leur inscription sur le registre spécial mentionné au 1° du présent article.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 20
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L312-4-1
   - Code de la sécurité intérieure - art. L313-3
 
 
 ###### Article L317-4-1
 
 Sont punies de deux ans d'emprisonnement et de 30 000 € d'amende l'acquisition, la cession ou la détention d'une ou de
-plusieurs armes de la catégorie C en l'absence de la déclaration prévue à l'article L. 312-4-1 ou à l'article L. 314-2-1. 
-
-Sont punies d'un an d'emprisonnement et de 15 000 € d'amende l'acquisition, la cession ou la détention d'une ou de plusieurs
-armes de catégorie D en violation des obligations particulières mentionnées au second alinéa de l'article L. 312-4-2.
+plusieurs armes de la catégorie C en l'absence de la déclaration prévue à l'article L. 312-4-1 ou à l'article L. 314-2-1.
 
 Les peines sont portées à sept ans d'emprisonnement et à 100 000 € d'amende lorsque l'infraction est commise en bande
 organisée.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 20
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L312-3 (V)
+  - Code de la sécurité intérieure - art. L312-3 (VD)
   - Code de la sécurité intérieure - art. L317-10-1 (VD)
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L312-4-1
-  - Code de la sécurité intérieure - art. L312-4-2 (V)
   - Code de la sécurité intérieure - art. L314-2-1
 
 
@@ -8973,9 +9092,12 @@ _Cité par_:
 ###### Article L317-6
 
 Est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait de mettre obstacle à la saisie prévue par les articles
-L. 312-8 et L. 312-12. 
+L. 312-8 et L. 312-12.
 
-La tentative du délit prévu à l'alinéa précédent est punie des mêmes peines.
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8985,7 +9107,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-518 du 20 juin 2013 - art. 1
+  - Loi n°2018-133 du 26 février 2018 - art. 20
 
 _Cite_:
 
@@ -8994,7 +9116,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L312-3 (V)
+  - Code de la sécurité intérieure - art. L312-3 (VD)
   - Code de la sécurité intérieure - art. L317-10-1 (VD)
 
 
@@ -9177,6 +9299,29 @@ _Modifié par_:
 _Cite_:
 
   - Code pénal - art. 131-26
+
+
+###### Article L317-10-1
+
+La tentative des délits prévus aux articles L. 317-4-1, L. 317-5 et L. 317-6 est punie des mêmes peines que celles prévues
+pour chacun de ces délits.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-133 du 26 février 2018 - art. 20
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L317-4-1
+  - Code de la sécurité intérieure - art. L317-5
+  - Code de la sécurité intérieure - art. L317-6
 
 
 ###### Article L317-11
