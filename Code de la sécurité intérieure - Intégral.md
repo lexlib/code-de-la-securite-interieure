@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-08-09
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -4689,55 +4689,27 @@ obligations prévues aux 1° à 3° du présent article ne peut excéder douze m
 prévues à l'article L. 228-1 ne sont plus satisfaites.
 
 Toute décision de renouvellement des obligations prévues aux 1° à 3° du présent article est notifiée à la personne concernée
-au plus tard cinq jours avant son entrée en vigueur. Si la personne concernée saisit le juge administratif d'une demande
-présentée sur le fondement de l'article L. 521-2 du code de justice administrative dans un délai de quarante-huit heures à
-compter de la notification de la décision, la mesure ne peut entrer en vigueur avant que le juge ait statué sur la demande.
+au plus tard cinq jours avant son entrée en vigueur. La personne concernée peut demander au président du tribunal
+administratif ou au magistrat qu'il délègue l'annulation de la décision dans un délai de quarante-huit heures à compter de sa
+notification. Il est statué sur la légalité de la décision au plus tard dans un délai de soixante-douze heures à compter de
+la saisine du tribunal. Dans ce cas, la mesure ne peut entrer en vigueur avant que le juge ait statué sur la demande.
 
-La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, à compter de la notification de la décision
-ou à compter de la notification de chaque renouvellement, demander au tribunal administratif l'annulation de cette décision.
-Ces recours s'exercent sans préjudice des procédures prévues aux articles L. 521-1 et L. 521-2 du code de justice
-administrative.
+L'audience est publique. Elle se déroule sans conclusions du rapporteur public. Lorsque la présence du requérant à l'audience
+est susceptible de méconnaître les obligations résultant de la mesure de surveillance, le requérant peut solliciter un sauf-
+conduit pour s'y rendre. Le sauf-conduit n'est pas délivré si le déplacement du requérant constitue une menace pour la
+sécurité et l'ordre publics.
+
+La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, dans un délai de deux mois à compter de la
+notification de la décision ou à compter de la notification de chaque renouvellement lorsqu'il n'a pas été fait préalablement
+usage de la faculté prévue au sixième alinéa, demander au tribunal administratif l'annulation de cette décision. Le tribunal
+administratif statue dans un délai de quinze jours à compter de sa saisine. Ces recours, dont les modalités sont fixées au
+chapitre III ter du titre VII du livre VII du code de justice administrative, s'exercent sans préjudice des procédures
+prévues au sixième alinéa du présent article ainsi qu'aux articles L. 521-1 et L. 521-2 du même code.
 
 **Nota:**
 
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
-
-Conformément à la décision n° 2017-691 QPC du 16 février 2018,
-
-Article 1er : Sont contraires à la Constitution :
-
-- les mots " sur le fondement de l' article L. 521-2 du code de justice administrative " figurant à la deuxième phrase de
-l'avant-dernier alinéa de l'article L. 228-2 du code de la sécurité intérieure, dans sa rédaction issue de la loi n°
-2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme ;
-
-- les mots " dans un délai d'un mois " figurant à la première phrase du dernier alinéa du même article, dans cette même
-rédaction ;
-
-- la deuxième phrase du même alinéa, dans cette même rédaction.
-
-Article 2 : Sous les réserves énoncées aux paragraphes 17 et 18, le reste de l’article L. 228-2 du code de la sécurité
-intérieure, dans cette même rédaction, est conforme à la Constitution.
-
-Aux paragraphes 17 et 18 de sa décision, le Conseil constitutionnel a énoncé les réserves suivantes :
-
-- " Compte tenu de sa rigueur, la mesure prévue par les dispositions contestées ne saurait, sans méconnaître les exigences
-constitutionnelles précitées, excéder, de manière continue ou non, une durée totale cumulée de douze mois " ;
-
-- " Le droit à un recours juridictionnel effectif impose que le juge administratif soit tenu de statuer sur la demande
-d’annulation de la mesure dans de brefs délais ".
-
-Article 3 : La déclaration d'inconstitutionnalité de l'article 1er prend effet dans les conditions fixées aux paragraphes 26
-et 27 de cette décision.
-
-En vertu du paragraphe 26, l’abrogation des mots " sur le fondement de l’article L. 521-2 du code de justice administrative
-", figurant à la deuxième phrase de l’avant-dernier alinéa de l’article L. 228-2 du code de la sécurité intérieure, est
-reportée au 1er octobre 2018.
-
-En vertu du paragraphe 27, l’abrogation des mots " dans un délai d’un mois " figurant à la première phrase du dernier alinéa
-de l’article L. 228-2 du code de la sécurité intérieure ainsi que l’abrogation de la deuxième phrase du même alinéa
-interviennent à compter de la date de publication de la décision du Conseil constitutionnel, soit à compter du 16 février
-2018.
 
 **Liens relatifs à cet article**
 
@@ -4759,7 +4731,6 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative - art. L521-1
-  - Code de justice administrative - art. L521-2
   - Code de la sécurité intérieure - art. L228-1 (VT)
 
 
@@ -4881,9 +4852,8 @@ présent article ne peut excéder douze mois. L'obligation est levée dès que l
 sont plus satisfaites.
 
 Toute décision de renouvellement est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. Si
-la personne concernée saisit le juge administratif d'une demande présentée sur le fondement de l'article L. 521-2 du code de
-justice administrative dans un délai de quarante-huit heures à compter de la notification de la décision, la mesure ne peut
-entrer en vigueur avant que le juge ait statué sur la demande.
+la personne concernée saisit le juge administratif d'une demande présentée dans un délai de quarante-huit heures à compter de
+la notification de la décision, la mesure ne peut entrer en vigueur avant que le juge ait statué sur la demande.
 
 La personne soumise à l'obligation mentionnée au premier alinéa du présent article peut, dans un délai de deux mois à compter
 de la notification de la décision ou à compter de la notification de chaque renouvellement, demander au tribunal
