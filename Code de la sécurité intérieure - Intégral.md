@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-08-09
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -4647,8 +4647,8 @@ prévues à l'article L. 228-1 ne sont plus satisfaites.
 
 Toute décision de renouvellement des obligations prévues aux 1° à 3° du présent article est notifiée à la personne concernée
 au plus tard cinq jours avant son entrée en vigueur. Si la personne concernée saisit le juge administratif d'une demande
-présentée sur le fondement de l'article L. 521-2 du code de justice administrative dans un délai de quarante-huit heures à
-compter de la notification de la décision, la mesure ne peut entrer en vigueur avant que le juge ait statué sur la demande.
+présentée dans un délai de quarante-huit heures à compter de la notification de la décision, la mesure ne peut entrer en
+vigueur avant que le juge ait statué sur la demande.
 
 La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, à compter de la notification de la décision
 ou à compter de la notification de chaque renouvellement, demander au tribunal administratif l'annulation de cette décision.
@@ -4716,7 +4716,6 @@ _Cité par_:
 _Cite_:
 
   - Code de justice administrative - art. L521-1
-  - Code de justice administrative - art. L521-2
   - Code de la sécurité intérieure - art. L228-1 (VT)
 
 
@@ -4838,9 +4837,8 @@ présent article ne peut excéder douze mois. L'obligation est levée dès que l
 sont plus satisfaites.
 
 Toute décision de renouvellement est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. Si
-la personne concernée saisit le juge administratif d'une demande présentée sur le fondement de l'article L. 521-2 du code de
-justice administrative dans un délai de quarante-huit heures à compter de la notification de la décision, la mesure ne peut
-entrer en vigueur avant que le juge ait statué sur la demande.
+la personne concernée saisit le juge administratif d'une demande présentée dans un délai de quarante-huit heures à compter de
+la notification de la décision, la mesure ne peut entrer en vigueur avant que le juge ait statué sur la demande.
 
 La personne soumise à l'obligation mentionnée au premier alinéa du présent article peut, dans un délai de deux mois à compter
 de la notification de la décision ou à compter de la notification de chaque renouvellement, demander au tribunal
