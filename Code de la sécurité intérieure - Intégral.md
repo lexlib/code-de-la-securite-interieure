@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2018-10-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -26167,9 +26167,9 @@ La commission comprend en nombre égal :
 
 1° Des membres, représentants du personnel, nommés sur proposition de chacune des organisations syndicales de fonctionnaires
 appelées à siéger au sein du Conseil supérieur de la fonction publique de l'Etat, à raison d'un siège pour chacune de celles-
-ci. Leur nombre ne peut pas être inférieur à six. Dans l'hypothèse où le nombre d'organisations syndicales appelées à siéger
-au Conseil supérieur de la fonction publique de l'Etat est inférieur à six, les sièges restant à pourvoir sont attribués aux
-organisations les plus représentatives.
+ci. Leur nombre ne peut pas être inférieur à quatre. Dans l'hypothèse où le nombre d'organisations syndicales appelées à
+siéger au Conseil supérieur de la fonction publique de l'Etat est inférieur à quatre, les sièges restant à pourvoir sont
+attribués aux organisations les plus représentatives.
 
 Les membres désignés par les organisations syndicales doivent, au moment de leur désignation, être membres du corps électoral
 pour la désignation des représentants des personnels aux organismes consultatifs pris en compte pour la composition du
@@ -26201,9 +26201,9 @@ En cas de vacance d'un siège par suite de décès, de démission ou pour toute 
 mois, à la nomination d'un nouveau membre, dont les fonctions prennent fin lors du prochain renouvellement du Conseil
 supérieur de la fonction publique de l'Etat.
 
-Les fonctions de membre de la commission sont gratuites. Des frais de déplacement et de séjour sont alloués aux membres de la
-commission convoqués pour siéger à la commission dans les conditions fixées par la réglementation applicable aux personnels
-civils de l'Etat.
+Les fonctions de membre de la commission ne sont pas rémunérées, à l'exception de celles exercées par le président. Des frais
+de déplacement et de séjour sont alloués aux membres de la commission convoqués pour siéger à la commission dans les
+conditions fixées par la réglementation applicable aux personnels civils de l'Etat.
 
 Le secrétariat de la commission est assuré par la direction générale de l'administration et de la fonction publique.
 
@@ -26212,11 +26212,7 @@ Le secrétariat de la commission est assuré par la direction générale de l'ad
 _Cite_:
 
   - Loi n°84-16 du 11 janvier 1984 - art. 25
-  - Code de la sécurité intérieure - art. R114-2 (M)
-
-_Créé par_:
-
-  - Décret n°2018-141 du 27 février 2018 - art. 1
+  - Code de la sécurité intérieure - art. R114-2
 
 _Cité par_:
 
@@ -26224,6 +26220,10 @@ _Cité par_:
   - Décret n°2018-1236 du 24 décembre 2018 (V)
   - Décret n°2018-1236 du 24 décembre 2018 - art. 1 (V)
   - Décret n°2018-1236 du 24 décembre 2018 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-887 du 12 octobre 2018 - art. 1
 
 
 ###### Article R114-6-3
@@ -26244,17 +26244,20 @@ L'agent peut adresser à la commission des observations écrites, dans un délai
 ces documents. Ce délai peut être prolongé, à la demande de l'agent ou de son ou ses défenseurs, dans la limite de quinze
 jours supplémentaires.
 
+Pour chaque affaire, le président de la commission désigne un rapporteur, choisi parmi les magistrats de l'ordre
+administratif ou judiciaire et les fonctionnaires de l'Etat de catégorie A.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2018-141 du 27 février 2018 - art. 1
 
 _Cité par_:
 
   - Décret n°2018-887 du 12 octobre 2018 (V)
   - Décret n°2018-1236 du 24 décembre 2018 (V)
   - Arrêté du 22 février 2019 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-887 du 12 octobre 2018 - art. 2
 
 
 ###### Article R114-6-4
@@ -26300,7 +26303,7 @@ _Créé par_:
 ###### Article R114-6-5
 
 Le rapport prévu à l'article R. 114-6-3 ainsi que les observations écrites éventuellement produites par l'agent concerné sont
-présentés en séance par le président.
+présentés en séance par le rapporteur désigné par le président.
 
 La commission entend séparément chaque témoin cité.
 
@@ -26310,19 +26313,19 @@ observations avant que la commission ne commence à délibérer.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2018-141 du 27 février 2018 - art. 1
-
 _Cité par_:
 
   - Décret n°2018-887 du 12 octobre 2018 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-887 du 12 octobre 2018 - art. 3
 
 
 ###### Article R114-6-6
 
 La commission délibère à huis clos hors de la présence de l'agent concerné, de son ou de ses défenseurs et de toute personne
-ayant été entendue.
+ayant été entendue, à l'exception du rapporteur qui assiste à la délibération sans y prendre part.
 
 Si elle ne se juge pas suffisamment éclairée, la commission peut, à la majorité des membres présents, solliciter des
 informations complémentaires. Hors le cas où les informations ainsi fournies n'apportent aucun élément nouveau, elle les
@@ -26341,13 +26344,13 @@ contractuel.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2018-141 du 27 février 2018 - art. 1
-
 _Cité par_:
 
   - Décret n°2018-887 du 12 octobre 2018 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-887 du 12 octobre 2018 - art. 4
 
 
 ##### Section 3 : Enquêtes administratives en application de l'article L. 114-2<a id=360></a>
@@ -30984,7 +30987,7 @@ _Modifié par_:
 
 Sont applicables en Polynésie française, sous réserve des  adaptations prévues aux articles D. 155-4 à R. 155-8, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau :
+colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
@@ -31040,8 +31043,8 @@ Résultant du décret n° 2017-1306 du 25 août 2017</td>
       <td align="center">R. 114-4</td>
       <td>
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+Résultant du  décret n° 2013-1113  relatif aux  dispositions des livres Ier, II, IV et V de la partie réglementaire du code
+de la sécurité intérieure  (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td align="center">
@@ -31052,14 +31055,26 @@ R. 114-5</td>
     <tr>
       <td>
 
-R. 114-6 à R. 114-6-6
+R. 114-6 et R. 114-6-1
 
 </td>
       <td>
 
-Résultant du décret n° 2018-141 du 27 février 2018
+Résultant du  décret n° 2018-141 du 27 février 2018
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-2 et R. 114-6-3</td>
+      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-4</td>
+      <td>Résultant du  décret n° 2018-141 du 27 février 2018</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-5 et R. 114-6-6</td>
+      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -31144,10 +31159,11 @@ _Cite_:
   - Décret n°2013-1113 du 4 décembre 2013
   - Décret n°2015-1213 du 1er octobre 2015
   - Décret n°2017-207 du 20 février 2017
-  - Décret n°2017-438 du 29 mars 2017
   - Décret n°2017-757 du 3 mai 2017
-  - Décret n°2017-1844 du 29 décembre 2017
+  - Décret n°2017-1306 du 25 août 2017
   - Décret n°2018-141 du 27 février 2018
+  - Décret n°2018-434 du 4 juin 2018
+  - Décret n°2018-887 du 12 octobre 2018
   - dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure
 
 _Codifié par_:
@@ -31162,7 +31178,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-434 du 4 juin 2018 - art. 33
+  - Décret n°2018-887 du 12 octobre 2018 - art. 5
 
 
 ###### Article R155-5
@@ -31607,7 +31623,7 @@ R. 114-3</td>
 Résultant du décret n° 2017-1306 du 25 août 2017</td>
     </tr>
     <tr>
-      <td align="center"> R. 114-4</td>
+      <td align="center">R. 114-4</td>
       <td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du
 code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
@@ -31622,14 +31638,26 @@ Résultant du décret n° 2018-434 du 4 juin 2018</td>
     <tr>
       <td>
 
-R. 114-6 à R. 114-6-6
+R. 114-6 et R. 114-6-1
 
 </td>
       <td>
 
-Résultant du décret n° 2018-141 du 27 février 2018
+Résultant du  décret n° 2018-141 du 27 février 2018
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-2 et R. 114-6-3</td>
+      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-4</td>
+      <td>Résultant du  décret n° 2018-141 du 27 février 2018</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-5 et R. 114-6-6</td>
+      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -31718,7 +31746,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-434 du 4 juin 2018 - art. 33
+  - Décret n°2018-887 du 12 octobre 2018 - art. 5
 
 
 ###### Article R156-5
@@ -32048,7 +32076,8 @@ R. 114-3
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1306 du 25 août 2017</td>
+Résultant du décret n° 2017-1306 du 25 août 2017
+</td>
     </tr>
     <tr>
       <td align="center">R.114-4</td>
@@ -32063,12 +32092,13 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
 R. 114-5</td>
       <td align="left">
 
-Résultant du décret n° 2018-434 du 4 juin 2018</td>
+Résultant du décret n° 2018-434 du 4 juin 2018
+</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 114-6 à R. 114-6-6
+R. 114-6 et R. 114-6-1
 
 </td>
       <td align="left">
@@ -32076,6 +32106,19 @@ R. 114-6 à R. 114-6-6
 Résultant du décret n° 2018-141 du 27 février 2018
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-2 et R. 114-6-3</td>
+      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018
+</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-4</td>
+      <td align="left">Résultant du  décret n° 2018-141 du 27 février 2018</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-5 et R. 114-6-6</td>
+      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -32150,10 +32193,11 @@ _Cite_:
   - Décret n°2013-1113 du 4 décembre 2013
   - Décret n°2015-1213 du 1er octobre 2015
   - Décret n°2017-207 du 20 février 2017
-  - Décret n°2017-438 du 29 mars 2017
   - Décret n°2017-757 du 3 mai 2017
-  - Décret n°2017-1844 du 29 décembre 2017
+  - Décret n°2017-1306 du 25 août 2017
   - Décret n°2018-141 du 27 février 2018
+  - Décret n°2018-434 du 4 juin 2018
+  - Décret n°2018-887 du 12 octobre 2018
   - dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure
 
 _Codifié par_:
@@ -32167,7 +32211,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-434 du 4 juin 2018 - art. 33
+  - Décret n°2018-887 du 12 octobre 2018 - art. 5
 
 
 ###### Article R157-5
@@ -32346,7 +32390,7 @@ _Modifié par_:
 
 Sont applicables dans les Terres australes et antarctiques françaises, sous réserve des  adaptations prévues à l'article R.
 158-4, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction
-indiquée dans la colonne de droite du même tableau :
+indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
@@ -32422,14 +32466,26 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
     <tr>
       <td align="left">
 
-R. 114-6 à R. 114-6-6
+R. 114-6 et R. 114-6-1
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2018-141 du 27 février 2018
+Résultant du  décret n° 2018-141 du 27 février 2018
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-2 et R. 114-6-3</td>
+      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-4</td>
+      <td align="left">Résultant du  décret n° 2018-141 du 27 février 2018</td>
+    </tr>
+    <tr>
+      <td align="center">R. 114-6-5 et R. 114-6-6</td>
+      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -32498,10 +32554,12 @@ _Cite_:
 
   - Décret n°2013-1113 du 4 décembre 2013
   - Décret n°2015-1213 du 1er octobre 2015
-  - Décret n°2016-515 du 26 avril 2016
   - Décret n°2017-207 du 20 février 2017
   - Décret n°2017-757 du 3 mai 2017
+  - Décret n°2017-1306 du 25 août 2017
   - Décret n°2018-141 du 27 février 2018
+  - Décret n°2018-434 du 4 juin 2018
+  - Décret n°2018-887 du 12 octobre 2018
   - dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure
 
 _Codifié par_:
@@ -32510,7 +32568,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-434 du 4 juin 2018 - art. 33
+  - Décret n°2018-887 du 12 octobre 2018 - art. 5
 
 
 ###### Article R158-4
