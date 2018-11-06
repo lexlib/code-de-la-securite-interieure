@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-11-01
+Version Consolidée au 2018-11-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -79681,8 +79681,7 @@ Mayotte ;
 
 2° La référence au département est remplacée par la référence au Département de Mayotte ;
 
-3° A l'article R. 625-2 du présent code, les mots : "aux articles L. 6351-1 à L. 6351-8 du code du travail" sont remplacés
-par les mots : "aux articles L. 731-2 à L. 731-10 du code du travail applicable à Mayotte".
+3° (Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -79692,7 +79691,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 60
+  - Décret n°2018-953 du 31 octobre 2018 - art. 23
 
 
 #### Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin<a id=864></a>
