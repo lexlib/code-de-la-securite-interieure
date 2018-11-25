@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2018-11-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -83674,8 +83674,11 @@ Les sapeurs-pompiers volontaires peuvent, sur leur demande, sous réserve de leu
 service de santé et de secours médical du service dont ils relèvent, bénéficier d'un maintien en activité jusqu'à l'âge de
 soixante-cinq ans.
 
-Pour les médecins, pharmaciens, vétérinaires et infirmiers de sapeurs-pompiers volontaires, l'engagement prend fin de plein
-droit lorsque les intéressés atteignent l'âge de soixante-huit ans.
+Pour les médecins et pharmaciens de sapeurs-pompiers volontaires, l'engagement prend fin de plein droit lorsque les
+intéressés atteignent l'âge de soixante-dix ans.
+
+Pour les vétérinaires et infirmiers de sapeurs-pompiers volontaires, l'engagement prend fin de plein droit lorsque les
+intéressés atteignent l'âge de soixante-huit ans.
 
 **Liens relatifs à cet article**
 
@@ -83687,9 +83690,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1030 du 23 novembre 2018 - art. 1
 
 
 ###### Article R723-53
@@ -84469,14 +84472,15 @@ _Cite_:
 
 ###### Article R723-80
 
-Les infirmiers sont engagés en qualité d'infirmier de sapeurs-pompiers volontaires, membre du service de santé et de
-secours. 
+Les infirmiers sont engagés en qualité d'infirmier de sapeurs-pompiers volontaires, membre du service de santé et de secours.
 
 Les infirmiers de sapeurs-pompiers volontaires, membres du service de santé et de secours médical, qui ont accompli au moins
-cinq années dans leur grade peuvent être nommés au grade d'infirmier principal. 
+cinq années dans leur grade peuvent être nommés au grade d'infirmier principal.
 
 Les infirmiers principaux de sapeurs-pompiers volontaires, membres du service de santé et de secours médical, qui ont
-accompli au moins cinq années dans leur grade peuvent être nommés au grade d'infirmier-chef. 
+accompli au moins cinq années dans leur grade peuvent être nommés au grade d'infirmier-chef. Toutefois, cette durée peut être
+ramenée à trois ans pour les infirmiers titulaires d'un diplôme de cadre de santé et exerçant une responsabilité particulière
+au sein du service de santé et de secours médical.
 
 Les infirmiers de sapeurs-pompiers volontaires ont la qualité d'officier de sapeurs-pompiers volontaires, membre du service
 de santé et de secours médical, et sont nommés dans les conditions fixées à l'article R. 723-28.
@@ -84491,13 +84495,13 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1030 du 23 novembre 2018 - art. 2
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R723-28 (VD)
+  - Code de la sécurité intérieure - art. R723-28
 
 
 ###### Article R723-81
@@ -84541,6 +84545,39 @@ _Cite_:
 
   - Code de la santé publique - art. L4111-1 (V)
   - Code de la sécurité intérieure - art. R723-28 (VD)
+
+
+###### Article R723-81-1
+
+Les sapeurs-pompiers volontaires par ailleurs étudiants en pharmacie admis en troisième année du deuxième cycle des études
+pharmaceutiques ou admis à accomplir le troisième cycle des études pharmaceutiques sont nommés respectivement dans le grade
+de pharmacien aspirant de sapeurs-pompiers volontaires et de pharmacien lieutenant de sapeurs-pompiers volontaires. Ils ont
+la qualité d'officier de sapeurs-pompiers volontaires, membre du service de santé et de secours médical, et sont nommés dans
+les conditions fixées à l'article R. 723-28. 
+
+Dès leur engagement, ils peuvent suivre les formations initiales et être engagés sur intervention dès lors qu'ils ont reçu
+une formation aux règles de sécurité individuelle et collective. Ils doivent être placés sous le tutorat d'un pharmacien de
+sapeur-pompier. 
+
+Ils peuvent, en outre, assurer la formation des sapeurs-pompiers dès lors que cette formation a été organisée avec la
+participation d'un pharmacien de sapeurs-pompiers. 
+
+Le pharmacien lieutenant de sapeurs-pompiers volontaires, dès qu'il peut effectuer réglementairement des remplacements, peut
+exercer seul les différentes missions du service de santé et de secours médical. 
+
+Les lieutenants sont nommés au grade de pharmacien capitaine de sapeurs-pompiers volontaires dès qu'ils remplissent les
+conditions prévues aux articles L. 4221-1 et suivants du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1030 du 23 novembre 2018 - art. 3
+
+_Cite_:
+
+  - Code de la santé publique - art. L4221-1
+  - Code de la sécurité intérieure - art. R723-28
 
 
 ###### Article R723-82
