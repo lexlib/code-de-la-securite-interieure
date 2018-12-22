@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-11-26
+Version Consolidée au 2018-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -556,7 +556,7 @@ Version Consolidée au 2018-11-26
             - [Sous-section 2 : Situations particulières (art. R315-5 à R315-7)](#553)
             - [Sous-section 3 : Situation des fonctionnaires (art. R315-8 à R315-10)](#554)
           - [Section 2 : Sécurité des expéditions et des transports des armes (art. R315-12 à R315-18)](#555)
-        - [Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations (art. R316-1 à R316-56)](#556)
+        - [Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations (art. R316-1A à R316-56)](#556)
           - [Section 1 : Dispositions générales relatives à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-1 à R316-3)](#557)
           - [Section 2 : Régime de droit commun relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-4 à R316-25)](#558)
             - [Sous-section 1 : Acquisition et détention (art. R316-4 à R316-13)](#559)
@@ -26249,29 +26249,32 @@ _Cité par_:
 ###### Article R114-5
 
 Peuvent donner lieu aux enquêtes mentionnées à l'article R. 114-1 les autorisations ou agréments suivants relatifs à des
-matériels, produits ou activités présentant un danger pour la sécurité publique : 
+matériels, produits ou activités présentant un danger pour la sécurité publique :
 
-1° Fabrication, commerce, acquisition, détention, importation et exportation de matériels de guerre, armes et munitions ; 
+1° Acquisition, détention, fabrication, commerce, intermédiation, importation, exportation, transfert et transit de matériels
+de guerre, d'armes, de munitions et de leurs éléments de toute catégorie ; utilisation, exploitation, exportation et transit
+de matériels de guerre et matériels assimilés ; transfert de produits liés à la défense et de matériels mentionnés au I de
+l'article L. 2335-18 du code de la défense ;
 
 2° Port d'armes, autorisations prévues aux articles R. 613-16-1, 
-R. 613-23-2 ; 
+R. 613-23-2 ;
 
-3° Production, importation, exportation, commerce, emploi, transport et conservation des poudres et substances explosives ; 
+3° Production, importation, exportation, commerce, emploi, transport et conservation des poudres et substances explosives ;
 
-4° Elaboration, détention, transfert, utilisation, importation, exportation et transport de matières nucléaires ; 
+4° Elaboration, détention, transfert, utilisation, importation, exportation et transport de matières nucléaires ;
 
 5° Fabrication, importation, détention, exposition, offre, location ou vente d'appareils mentionnés à l'article 226-3 du code
-pénal ; 
+pénal ;
 
 6° Création d'un aérodrome ou d'une hélisurface privés ou utilisation d'une hélisurface, d'une hydrosurface ou d'une bande
-d'envol occasionnelle ; 
+d'envol occasionnelle ;
 
-7° Prise de vue aérienne au titre d'une des procédures prévues à l'article D. 133-10 du code de l'aviation civile ; 
+7° Prise de vue aérienne au titre d'une des procédures prévues à l'article D. 133-10 du code de l'aviation civile ;
 
 8° Fabrication, transformation et mise à disposition des tiers, à titre onéreux ou gratuit, de substances susceptibles d'être
 utilisées pour la fabrication illicite de stupéfiants ou de substances psychotropes, mentionnées à l'article 1er de la loi n°
 96-542 du 19 juin 1996 relative au contrôle de la fabrication et du commerce de certaines substances susceptibles d'être
-utilisées pour la fabrication illicite de stupéfiants ou de substances psychotropes ; 
+utilisées pour la fabrication illicite de stupéfiants ou de substances psychotropes ;
 
 9° Exercice d'une activité nucléaire en application de l'article L. 1333-8 ou de l'article L. 1333-9 du code de la santé
 publique ou accès à certaines catégories de sources de rayonnements ionisants, convoyage de ces sources ou accès aux
@@ -26284,9 +26287,9 @@ _Cite_:
 
   - Loi n°96-542 du 19 juin 1996 - art. 1
   - Code pénal - art. 226-3
-  - Code de la santé publique - art. L1333-11 (V)
-  - Code de la santé publique - art. L1333-8 (V)
-  - Code de la santé publique - art. L1333-9 (V)
+  - Code de la santé publique - art. L1333-11
+  - Code de la santé publique - art. L1333-8
+  - Code de la santé publique - art. L1333-9
   - Code de l'aviation civile - art. D133-10
   - Code de la sécurité intérieure - art. R114-1
   - Code de la sécurité intérieure - art. R613-16-1
@@ -26298,7 +26301,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-434 du 4 juin 2018 - art. 29
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 24
 
 _Cité par_:
 
@@ -31312,7 +31315,7 @@ _Modifié par_:
 
 Sont applicables en Polynésie française, sous réserve des  adaptations prévues aux articles D. 155-4 à R. 155-8, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
@@ -31375,7 +31378,7 @@ de la sécurité intérieure  (Décrets en Conseil d'Etat et décrets simples)</
       <td align="center">
 
 R. 114-5</td>
-      <td>Résultant du décret n° 2018-434 du 4 juin 2018</td>
+      <td>Résultant du  décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td>
@@ -31385,21 +31388,21 @@ R. 114-6 et R. 114-6-1
 </td>
       <td>
 
-Résultant du  décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018
 
 </td>
     </tr>
     <tr>
       <td align="center">R. 114-6-2 et R. 114-6-3</td>
-      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+      <td>Résultant du décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-6-4</td>
-      <td>Résultant du  décret n° 2018-141 du 27 février 2018</td>
+      <td>Résultant du décret n° 2018-141 du 27 février 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-6-5 et R. 114-6-6</td>
-      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+      <td>Résultant du décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -31503,7 +31506,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-887 du 12 octobre 2018 - art. 5
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 45
 
 
 ###### Article R155-5
@@ -32023,7 +32026,7 @@ code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simple
 R. 114-5</td>
       <td>
 
-Résultant du décret n° 2018-434 du 4 juin 2018</td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td>
@@ -32033,21 +32036,21 @@ R. 114-6 et R. 114-6-1
 </td>
       <td>
 
-Résultant du  décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018
 
 </td>
     </tr>
     <tr>
       <td align="center">R. 114-6-2 et R. 114-6-3</td>
-      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+      <td>Résultant du décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-6-4</td>
-      <td>Résultant du  décret n° 2018-141 du 27 février 2018</td>
+      <td>Résultant du décret n° 2018-141 du 27 février 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-6-5 et R. 114-6-6</td>
-      <td>Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+      <td>Résultant du décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -32136,7 +32139,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-887 du 12 octobre 2018 - art. 5
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 45
 
 
 ###### Article R156-5
@@ -32543,8 +32546,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
 R. 114-5</td>
       <td align="left">
 
-Résultant du décret n° 2018-434 du 4 juin 2018
-</td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -32560,16 +32562,16 @@ Résultant du décret n° 2018-141 du 27 février 2018
     </tr>
     <tr>
       <td align="center">R. 114-6-2 et R. 114-6-3</td>
-      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018
+      <td align="left">Résultant du décret n° 2018-887 du 12 octobre 2018
 </td>
     </tr>
     <tr>
       <td align="center">R. 114-6-4</td>
-      <td align="left">Résultant du  décret n° 2018-141 du 27 février 2018</td>
+      <td align="left">Résultant du décret n° 2018-141 du 27 février 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-6-5 et R. 114-6-6</td>
-      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+      <td align="left">Résultant du décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -32662,7 +32664,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-887 du 12 octobre 2018 - art. 5
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 45
 
 
 ###### Article R157-5
@@ -32902,7 +32904,7 @@ _Modifié par_:
 
 Sont applicables dans les Terres australes et antarctiques françaises, sous réserve des  adaptations prévues à l'article R.
 158-4, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction
-indiquée dans la colonne de droite du même tableau : 
+indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
@@ -32973,7 +32975,7 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
     </tr>
     <tr>
       <td align="center">R. 114-5</td>
-      <td align="left">Résultant du décret n° 2018-434 du 4 juin 2018</td>
+      <td align="left">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -32983,21 +32985,21 @@ R. 114-6 et R. 114-6-1
 </td>
       <td align="left">
 
-Résultant du  décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018
 
 </td>
     </tr>
     <tr>
       <td align="center">R. 114-6-2 et R. 114-6-3</td>
-      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+      <td align="left">Résultant du décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-6-4</td>
-      <td align="left">Résultant du  décret n° 2018-141 du 27 février 2018</td>
+      <td align="left">Résultant du décret n° 2018-141 du 27 février 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-6-5 et R. 114-6-6</td>
-      <td align="left">Résultant du  décret n° 2018-887 du 12 octobre 2018</td>
+      <td align="left">Résultant du décret n° 2018-887 du 12 octobre 2018</td>
     </tr>
     <tr>
       <td align="center">R. 114-7 à R. 114-10</td>
@@ -33080,7 +33082,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-887 du 12 octobre 2018 - art. 5
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 45
 
 
 ###### Article R158-4
@@ -43317,17 +43319,13 @@ suivants :
 
 1° Armes à feu camouflées sous la forme d'un autre objet ;
 
-2° Armes à feu de poing, quel que soit le type ou le système de fonctionnement, cumulant les caractéristiques suivantes :
+2° Armes à feu de poing, quel que soit le type ou le système de fonctionnement, permettant le tir de plus de vingt et une
+munitions sans qu'intervienne un réapprovisionnement, dès lors qu'un système d'alimentation d'une capacité supérieure à vingt
+cartouches fait partie intégrante de l'arme à feu ou, s'il est amovible, y a été inséré ;
 
-- permettant le tir de plus de 21 munitions sans qu'intervienne un réapprovisionnement ;
-
-- accompagnées d'un système d'alimentation de plus de 20 cartouches ;
-
-3° Armes à feu d'épaule semi-automatiques à percussion annulaire, cumulant les caractéristiques suivantes :
-
-- permettant le tir de plus de 31 munitions sans qu'intervienne un réapprovisionnement ;
-
-- accompagnées d'un système d'alimentation de plus de 30 cartouches ou alimentées par bande quelle qu'en soit la capacité ;
+3° Armes à feu d'épaule semi-automatiques à percussion annulaire permettant le tir de plus de trente et une munitions sans
+qu'intervienne un réapprovisionnement, dès lors qu'un chargeur d'une capacité supérieure à trente cartouches fait partie
+intégrante de l'arme à feu ou, s'il est amovible, y a été inséré ;
 
 3° bis Armes à feu d'épaule semi-automatiques à percussion centrale permettant de tirer plus de onze coups sans recharger,
 dès lors :
@@ -43335,6 +43333,12 @@ dès lors :
 a) Qu'un chargeur d'une capacité supérieure à dix cartouches fait partie intégrante de l'arme à feu ;
 
 b) ou qu'un chargeur amovible d'une capacité supérieure à dix cartouches y a été inséré ;
+
+3° ter Armes à feu d'épaule semi-automatiques alimentées par bande quelle qu'en soit la capacité ;
+
+3° quater Armes à feu d'épaule à répétition manuelle permettant le tir de plus de trente et une munitions sans qu'intervienne
+un réapprovisionnement, dès lors qu'un chargeur d'une capacité supérieure à trente cartouches fait partie intégrante de
+l'arme à feu ou, s'il est amovible, y a été inséré ;
 
 4° Armes à feu à canons rayés et leurs munitions dont le projectile a un diamètre maximum supérieur ou égal à 20 mm à
 l'exception des armes conçues pour tirer exclusivement des projectiles non métalliques ;
@@ -43351,7 +43355,10 @@ catégorie C ;
 
 9° Système d'alimentation d'arme d'épaule à percussion annulaire contenant plus de 30 munitions ;
 
-9° bis Système d'alimentation d'arme d'épaule à percussion centrale contenant plus de 10 munitions ;
+9° bis Système d'alimentation d'arme d'épaule semi-automatique à percussion centrale contenant plus de 10 munitions ;
+
+9° ter Système d'alimentation d'arme d'épaule à répétition manuelle et à percussion centrale contenant plus de trente
+munitions ;
 
 10° Armes ou type d'armes présentant des caractéristiques techniques équivalentes et qui, pour des raisons tenant à leur
 dangerosité, à l'ordre public ou à la sécurité nationale, sont classées dans cette catégorie par arrêté conjoint du ministre
@@ -43449,7 +43456,12 @@ la longueur du canon est inférieure ou égale à 60 cm ;
 
 e) A répétition semi-automatique ayant l'apparence d'une arme automatique ;
 
-f) A répétition munies d'un dispositif de rechargement à pompe, autres que celles mentionnées au 1° du III ;
+f) A répétition manuelle munies d'un dispositif de rechargement à pompe suivantes :
+
+- armes à canon lisse ;
+
+- armes à canon rayé autres que celles répondant aux caractéristiques énoncées au b du 1° du III ou celles mentionnées au d
+du même 1° ;
 
 3° Armes à feu fabriquées pour tirer une balle ou plusieurs projectiles non métalliques et munitions classées dans cette
 catégorie par arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de l'industrie ;
@@ -43483,7 +43495,9 @@ de l'intérieur et des ministres chargés des douanes et de l'industrie ;
 
 10° Munitions à percussion centrale et leurs éléments conçus pour les armes de poing mentionnées au 1° à l'exception de
 celles classées en catégorie C par un arrêté conjoint du ministre de l'intérieur et des ministres chargés des douanes et de
-l'industrie.
+l'industrie ;
+
+11° Système d'alimentation des armes mentionnées au II.
 
 III. - Armes de catégorie C :
 
@@ -43523,7 +43537,9 @@ ministres chargés des douanes et de l'industrie ;
 8° Autres munitions et éléments de munitions des armes de catégorie C ;
 
 9° Armes neutralisées selon les modalités définies par arrêté conjoint du ministre de l'intérieur et des ministres chargés
-des douanes et de l'industrie.
+des douanes et de l'industrie ;
+
+10° Système d'alimentation des armes mentionnées au III.
 
 IV. - Armes de catégorie D :
 
@@ -43650,6 +43666,7 @@ _Cité par_:
   - Arrêté du 3 juillet 2019 (V)
   - Arrêté du 3 juillet 2019 - art. 1 (V)
   - Arrêté du 7 avril 2020 - art. 1 (V)
+  - Code de l'aviation civile - art. R133-6 (VD)
   - Code de l'environnement - art. R557-14-8 (VD)
   - Code de l'environnement - art. R557-15-5 (VD)
   - Code de l'environnement - art. R557-9-2 (VD)
@@ -43679,7 +43696,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 2
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 26
 
 
 ###### Article R311-3
@@ -44781,26 +44798,26 @@ _Cite_:
 
 ###### Article R312-21
 
-L'acquisition et la détention des armes, munitions et de leurs éléments de la catégorie A ou B peut être autorisée aux
-personnes relevant de l'une des catégories prévues au paragraphe 6 de la sous-section 2 de la section 1 du chapitre II du
-présent titre et remplissant les conditions propres à cette catégorie. 
+En application des articles L. 312-2 et L. 312-4, les conditions dans lesquelles peuvent être autorisées l'acquisition et la
+détention des matériels de guerre, armes, munitions et de leurs éléments des catégories A et B sont définies, par catégorie
+de personnes intéressées, au paragraphe 6 de la présente sous-section.
 
-L'autorisation n'est pas accordée lorsque le demandeur : 
+L'autorisation n'est pas accordée lorsque le demandeur :
 
-1° Se trouve dans une situation prévue aux 1°, 2° ou 3° de l'article L. 312-16 ; 
+1° Se trouve dans une situation prévue aux 1°, 2° ou 3° de l'article L. 312-16 ;
 
 2° A été condamné pour l'une des infractions mentionnées au 1° de l'article L. 312-3 du présent code figurant au bulletin n°
 2 de son casier judiciaire ou dans un document équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen ; 
+d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
-3° A un comportement incompatible avec la détention d'une arme, révélé par l'enquête diligentée par le préfet. Cette enquête
-peut donner lieu à la consultation des traitements automatisés de données personnelles mentionnés à l'article 26 de la loi n°
-78-17 du 6 janvier 1978 ; 
+3° A un comportement incompatible avec la détention de ces matériels de guerre, armes, munitions et leurs éléments, révélé
+par l'enquête diligentée par le préfet. Cette enquête peut donner lieu à la consultation des traitements automatisés de
+données personnelles mentionnés à l'article 26 de la loi n° 78-17 du 6 janvier 1978 ;
 
 4° Fait l'objet d'une mesure de protection juridique en application de l'article 425 du code civil, a été ou est admis en
 soins psychiatriques sans consentement en application de l'article 706-135 du code de procédure pénale et des articles L.
 3212-1 à L. 3213-11 du code de la santé publique ou est dans un état physique ou psychique manifestement incompatible avec la
-détention de ces armes et munitions. 
+détention de ces matériels de guerre, armes, munitions et leurs éléments.
 
 L'autorisation peut toutefois être accordée par le préfet dès lors que la personne ayant fait l'objet de soins psychiatriques
 sans consentement présente un certificat médical conforme aux dispositions de l'article R. 312-6.
@@ -44839,7 +44856,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 3
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 29
 
 
 ##### Paragraphe 6 : Conditions particulières de délivrance d'autorisation<a id=500></a>
@@ -45119,32 +45136,36 @@ _Cité par_:
 
 ###### Article R312-27
 
-Peuvent être autorisés, par le préfet sur avis du ministre de la défense lorsqu'il s'agit de matériels de guerre, sous
+Peuvent être autorisés, par le préfet après avis du ministre de la défense lorsqu'il s'agit de matériels de guerre, sous
 réserve, pour les personnes physiques, du respect des dispositions de l'article L. 312-6, à acquérir et à détenir des
-matériels de guerre, armes, munitions et leurs éléments : 
+matériels de guerre, armes, munitions et leurs éléments :
 
 1° Les personnes qui les exposent dans des musées, ouverts au public, pour les matériels de guerre, armes et leurs éléments
-ainsi que les munitions de toutes catégories ; 
+ainsi que les munitions de toutes catégories ;
 
 2° Les services de l'Etat, pour les besoins autres que ceux de la défense nationale, les collectivités territoriales et leurs
-établissements publics, pour les matériels de guerre de la catégorie A2 et les armes des catégories A et B ; 
+établissements publics, pour les matériels de guerre de la catégorie A2 et les armes des catégories A et B ;
 
 3° Les organismes d'intérêt général ou à vocation culturelle, historique ou scientifique, qui contribuent à la conservation,
 à la connaissance ou à l'étude des matériels de guerre, pour les matériels de guerre de la catégorie A2 et les armes des
-catégories A, B et C ; 
+catégories A, B et C ;
 
 4° Les personnes physiques qui contribuent, par la réalisation de collections, à la conservation, à la connaissance ou
 l'étude des matériels de guerre, pour les matériels de guerre de la catégorie A2 dont les systèmes d'armes et armes embarqués
-sont neutralisés conformément au 2° de l'article R. 2337-2 du code de la défense ; 
+sont neutralisés conformément au 2° de l'article R. 2337-2 du code de la défense ;
 
 5° Les établissements d'enseignement et de formation, en vue de l'accomplissement de leur mission, pour les matériels de
-guerre relevant des 8°, 9° et 10° de la catégorie A2 ; 
+guerre relevant des 8°, 9° et 10° de la catégorie A2 ;
 
 6° Les organismes et sociétés privés assurant une mission de service ou de sécurité publics, pour les matériels de guerre
 relevant des 14° et 17° de la catégorie A2, selon des modalités fixées par arrêté conjoint du ministre de l'intérieur et du
 ministre en charge de l'aviation civile.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 _Cité par_:
 
@@ -45158,7 +45179,7 @@ _Cité par_:
   - Code de la défense. - art. R2337-2 (VD)
   - Code de la défense. - art. R2337-5 (VD)
   - Code de la défense. - art. R2339-5 (VD)
-  - Code de la sécurité intérieure - art. R312-2 (VD)
+  - Code de la sécurité intérieure - art. R312-2 (V)
   - Code de la sécurité intérieure - art. R312-28 (VD)
   - Code de la sécurité intérieure - art. R312-29 (VD)
   - Code de la sécurité intérieure - art. R312-5 (VD)
@@ -45167,13 +45188,9 @@ _Anciens textes_:
 
   - Décret n°2013-700 du 30 juillet 2013 - art. 27, I (VT)
 
-_Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 3
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 30
 
 _Cite_:
 
@@ -48282,8 +48299,8 @@ _Cite_:
 
 Lors des ventes aux enchères publiques, seules peuvent enchérir :
 
-1° Pour les matériels de guerre de la catégorie A2, les personnes titulaires d'une autorisation mentionnée au premier alinéa
-de l'article R. 2332-5 du code de la défense ou d'une autorisation mentionnée à l'article R. 312-27 ;
+1° Pour les matériels de guerre de la catégorie A2, les personnes titulaires d'une autorisation mentionnée aux 1° et 2° de
+l'article R. 2332-5 du code de la défense ou d'une autorisation mentionnée à l'article R. 312-27 ;
 
 1° bis Pour les armes de la catégorie A1 et leurs éléments, les personnes titulaires d'une autorisation mentionnée au second
 alinéa de l'article R. 313-28 ou à l'article R. 312-21 ;
@@ -48315,7 +48332,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 8
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 33
 
 _Cite_:
 
@@ -50470,6 +50487,18 @@ _Modifié par_:
 
 #### Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations<a id=556></a>
 
+###### Article R316-1A
+
+Pour l'application du présent chapitre, les systèmes d'alimentation des armes des catégories A1, B et C suivent le régime des
+éléments d'armes de ces mêmes catégories.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 35
+
+
 ##### Section 1 : Dispositions générales relatives à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=557></a>
 
 ###### Article R316-1
@@ -51349,16 +51378,15 @@ Les autorisations d'importation mentionnées à l'article R. 316-29 peuvent êtr
 
 1° En ce qui concerne les armes, munitions et leurs éléments des catégories A1 et B :
 
-a) Aux personnes titulaires de l'agrément mentionné à l'article R. 313-1 ou des autorisations mentionnées à l'article R.
-313-28 du présent code ou à l'article R. 2332-5 du code de la défense ;
+a) Aux personnes titulaires de l'autorisation mentionnée à l'article R. 313-28 ;
 
 b) Aux personnes qui ont obtenu, dans les conditions définies au chapitre II du présent titre, l'autorisation de les acquérir
 ou de les détenir ;
 
-c) Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée à l'article R. 313-28 ou à l'article R. 2332-5 du
-code de la défense et qui, à titre exceptionnel, demandent l'autorisation d'importer des armes, munitions et leurs éléments
-des catégories A1 et B. Celles-ci doivent indiquer avec précision dans leur demande d'autorisation d'importation l'usage
-auquel elles destinent les armes, munitions et leurs éléments à importer ;
+c) Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée à l'article R. 313-28 et qui, à titre exceptionnel,
+demandent l'autorisation d'importer des armes, munitions et leurs éléments des catégories A1 et B. Celles-ci doivent indiquer
+avec précision dans leur demande d'autorisation d'importation l'usage auquel elles destinent les armes, munitions et leurs
+éléments à importer ;
 
 d) Aux communes qui ont obtenu, dans les conditions prévues au chapitre Ier du titre Ier du livre V, l'autorisation d'en
 faire l'acquisition et de les détenir ;
@@ -51392,7 +51420,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 20
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 36
 
 _Cite_:
 
@@ -55759,10 +55787,14 @@ Au titre Ier</td>
     <tr>
       <td align="left">
 
-R. 311-1 à R. 311-4</td>
+R. 311-1 et R. 311-2</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 311-3 à R. 311-4</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -55783,22 +55815,26 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 312-1 à R. 312-5</td>
+R. 312-1</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 312-6
-
-R. 312-7</td>
-      <td align="justify">
-
-Résultant du  décret n° 2014-1253 du 27 octobre 2014 
-
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+      <td align="left">R. 312-2</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-3 à R. 312-5</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-6</td>
+      <td align="justify">Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-7</td>
+      <td align="justify">Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -55851,7 +55887,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 312-19 à R. 312-20</td>
+R. 312-19</td>
       <td align="justify">
 
 Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
@@ -55862,7 +55898,7 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
 R. 312-21</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -55891,10 +55927,14 @@ Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
     <tr>
       <td align="left">
 
-R. 312-26 et R. 312-27</td>
+R. 312-26</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-27</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -55918,7 +55958,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 312-30</td>
       <td align="justify">
 
-Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -56035,10 +56075,18 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 312-65 à R. 312-67</td>
+R. 312-65 à R. 312-66-7</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-66-8</td>
+      <td align="justify">Résultant du  décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-66-9 à R. 312-67</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -56163,10 +56211,26 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
     <tr>
       <td align="left">
 
-R. 313-15-1 à R. 313-29</td>
+R. 313-15-1 à R. 313-21</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-22</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-23 à R. 313-27</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-28</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-29</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -56361,6 +56425,10 @@ R. 315-15 à R. 315-18</td>
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
+      <td align="left">R. 316-1A</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
       <td align="left">
 
 R. 316-29</td>
@@ -56382,7 +56450,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-31</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -56592,6 +56660,11 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 48, II du décret n° 2018-1195 du 20 décembre 2018 : Les dispositions des lignes concernant les
+articles R. 312-65 à R. 312-67 entrent en vigueur le 1er février 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -56608,7 +56681,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 46
 
 
 ###### Article R344-2
@@ -58563,10 +58636,14 @@ Au titre Ier</td>
     <tr>
       <td align="left">
 
-R. 311-1 à R. 311-4</td>
+R. 311-1 et R. 311-2</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 311-3 à R. 311-4</td>
+      <td align="justify">Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -58587,10 +58664,18 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 312-1 à R. 312-5</td>
+R. 312-1</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-2</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-3 à R. 312-5</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -58659,7 +58744,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 312-19 à R. 312-20</td>
+R. 312-19</td>
       <td align="justify">
 
 Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
@@ -58670,7 +58755,7 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
 R. 312-21</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -58699,10 +58784,14 @@ Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
     <tr>
       <td align="left">
 
-R. 312-26 et R. 312-27</td>
+R. 312-26</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-27</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -58726,7 +58815,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 312-30</td>
       <td align="justify">
 
-Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -58839,10 +58928,18 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 312-65 à R. 312-67</td>
+R. 312-65 à R. 312-66-7</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-66-8</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-66-9 à R. 312-67</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -58967,10 +59064,26 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
     <tr>
       <td align="left">
 
-R. 313-15-1 à R. 313-29</td>
+R. 313-15-1 à R. 313-21</td>
       <td align="justify">
 
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-22</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-23 à R. 313-27</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-28</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 313-29</td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">
@@ -59165,6 +59278,10 @@ R. 315-15 à R. 315-18</td>
 Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
+      <td align="left">R. 316-1A</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
+    </tr>
+    <tr>
       <td align="left">
 
 R. 316-29</td>
@@ -59186,7 +59303,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-31</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -59398,6 +59515,11 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
 
 ;
 
+**Nota:**
+
+Conformément à l’article 48 du décret n° 2018-1195 du 20 décembre 2018 : Les dispositions des lignes concernant les articles
+R. 312-65 à R. 312-67 entrent en vigueur le 1er février 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -59414,7 +59536,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 46
 
 _Cité par_:
 
