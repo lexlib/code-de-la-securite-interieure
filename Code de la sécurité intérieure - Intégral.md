@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-12-23
+Version Consolidée au 2018-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -69479,11 +69479,12 @@ _Cité par_:
 
 ###### Article R612-20
 
-L'autorisation préalable et l'autorisation provisoire ont une durée de validité de six mois.
+L'autorisation préalable et l'autorisation provisoire ont une durée de validité de six mois. 
 
-La personne titulaire d'une carte professionnelle est réputée détenir une autorisation préalable ou une autorisation
-provisoire lui permettant d'acquérir une aptitude professionnelle aux fins de participer à l'exercice d'activités autres que
-celles au titre desquelles la carte professionnelle a été délivrée.
+Sauf lorsque la formation implique le maniement d'une des armes mentionnées aux a et b du 1° du II et au III de l'article R.
+613-3 et à l'article R. 613-41, la personne titulaire d'une carte professionnelle est réputée détenir une autorisation
+préalable ou une autorisation provisoire lui permettant d'acquérir une aptitude professionnelle aux fins de participer à
+l'exercice d'activités autres que celles au titre desquelles la carte professionnelle a été délivrée.
 
 **Liens relatifs à cet article**
 
@@ -69495,9 +69496,14 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 2
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R613-3 (V)
+  - Code de la sécurité intérieure - art. R613-41
 
 
 ###### Article R612-21
@@ -70446,8 +70452,9 @@ a) Matraques de type bâton de défense ou tonfa, matraques ou tonfas télescopi
 b) Générateurs d'aérosols incapacitants ou lacrymogènes d'une capacité inférieure ou égale à 100 ml.
 
 III.-Lorsque l'autorisation préfectorale mentionnée à l'article L. 613-7-1 le prévoit, les agents mentionnés au 1° bis de
-l'article L. 611-1 peuvent utiliser, outre les armes mentionnées au II, d'autres armes de poing ou d'épaule de la catégorie B
-s'ils sont chargés d'une mission de surveillance armée exercée au sein de l'un des périmètres suivants :
+l'article L. 611-1 peuvent utiliser, outre les armes mentionnées au II, d'autres armes de poing ou d'épaule de la catégorie
+B, ainsi que les armes d'épaule relevant du 3° bis de la catégorie A1, s'ils sont chargés d'une mission de surveillance armée
+exercée au sein de l'un des périmètres suivants :
 
 1° Sur un site abritant des matières nucléaires dont la détention relève d'une autorisation au titre de l'article L. 1333-2
 du code de la défense ;
@@ -70488,6 +70495,7 @@ _Cité par_:
   - Arrêté du 28 septembre 2018 - art. 4 (V)
   - Arrêté du 28 septembre 2018 - art. 6
   - Arrêté du 28 septembre 2018 - art. 7
+  - Code de la sécurité intérieure - art. R612-20 (V)
   - Code de la sécurité intérieure - art. R612-37 (V)
   - Code de la sécurité intérieure - art. R612-38 (V)
   - Code de la sécurité intérieure - art. R613-16-1 (V)
@@ -70509,7 +70517,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 24
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 14
 
 _Cite_:
 
@@ -70528,27 +70536,28 @@ _Cite_:
 
 ###### Article R613-3-1
 
-L'autorisation d'acquisition et de détention d'armes de la catégorie B est délivrée au bénéficiaire de l'autorisation
-d'exercice prévue à l'article L. 612-9 ou à une entreprise visée à l'article L. 612-25, lorsqu'il emploie les agents
-mentionnés aux II, III, IV et V de l'article R. 613-3, par le préfet du département dans lequel se trouve l'établissement où
-les armes sont conservées et, dans le cas où l'établissement est situé à Paris ou sur les emprises des aérodromes de Paris-
-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de police, et, dans le cas où l'établissement est situé dans
-le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+L'autorisation d'acquisition et de détention d'armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3
+est délivrée au bénéficiaire de l'autorisation d'exercice prévue à l'article L. 612-9 ou à une entreprise visée à l'article
+L. 612-25, lorsqu'il emploie les agents mentionnés aux II, III, IV et V de l'article R. 613-3, par le préfet du département
+dans lequel se trouve l'établissement où les armes sont conservées et, dans le cas où l'établissement est situé à Paris ou
+sur les emprises des aérodromes de Paris-Charles de Gaulle, Paris-Le Bourget et Paris-Orly, par le préfet de police, et, dans
+le cas où l'établissement est situé dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 Délivrée pour une durée maximale de cinq ans renouvelable, cette autorisation peut être rapportée à tout moment pour des
 motifs d'ordre public ou de sécurité des personnes. Dans ce cas, ou lorsque l'entreprise ne dispose plus de l'autorisation
-mentionnée à l'article L. 612-9, elle se dessaisit des armes acquises et des munitions dans les conditions prévues aux
-articles R. 312-74 et R. 312-75.
+mentionnée à l'article L. 612-9, elle se dessaisit des armes, de leurs éléments et des munitions ainsi que, le cas échéant,
+des systèmes d'alimentation, acquis sur le fondement du présent article dans les conditions prévues aux articles R. 312-74 et
+R. 312-75.
 
 Cette autorisation vaut autorisation d'acquisition et de détention des munitions de service correspondantes, par périodes de
 douze mois à compter de la date de délivrance de l'autorisation mentionnée au premier alinéa, dans la limite de 50 cartouches
 par arme. Le nombre de munitions d'entraînement pouvant être acquises est fixé par arrêté du ministre de l'intérieur.
 
+Lorsque le bénéficiaire de l'autorisation d'exercice ou l'entreprise emploie des agents mentionnés au III de l'article R.
+613-3, cette autorisation vaut également autorisation d'acquisition et de détention des systèmes d'alimentation classés au 9°
+bis de la catégorie A1.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 _Cité par_:
 
@@ -70560,6 +70569,10 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-1 (V)
   - Code de la sécurité intérieure - art. R625-17 (V)
   - Code de la sécurité intérieure - art. R625-2 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 15
 
 _Cite_:
 
@@ -70575,23 +70588,25 @@ _Cite_:
 ###### Article R613-3-2
 
 La personne, nommément désignée par le bénéficiaire de l'autorisation prévue à l'article R. 613-3-1, transportant des armes
-de la catégorie B mentionnées à l'article R. 613-3 ainsi que leurs éléments et munitions et entrant ou rentrant en France
-peut les importer sur simple présentation de cette autorisation. Elle ne doit pas être interdite d'acquisition ou de
-détention d'armes. 
+de la catégorie A1 ou de la catégorie B mentionnées à l'article R. 613-3, leurs éléments et munitions ainsi que des systèmes
+d'alimentation mentionnés à l'article R. 613-3-1, et entrant ou rentrant en France peut les importer sur simple présentation
+de cette autorisation. Elle ne doit pas être interdite d'acquisition ou de détention d'armes.
 
-Si elle ne peut présenter cette autorisation, elle est tenue de déposer ces armes, munitions et leurs éléments au premier
-bureau de douane. Les armes, munitions et leurs éléments ainsi déposés ne peuvent être retirés que sur présentation de ladite
-autorisation.
+Si elle ne peut présenter cette autorisation, elle est tenue de déposer ces armes, munitions et leurs éléments ainsi que les
+systèmes d'alimentation mentionnés à l'article R. 613-3-1 au premier bureau de douane. Les armes, munitions et leurs éléments
+ainsi que les systèmes d'alimentation mentionnés à l'article R. 613-3-1 ainsi déposés ne peuvent être retirés que sur
+présentation de ladite autorisation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 7
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 16
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. R613-3
+  - Code de la sécurité intérieure - art. R613-3-1
 
 
 ##### Paragraphe 4 : Transport<a id=762></a>
@@ -70617,19 +70632,21 @@ _Cité par_:
 
 ###### Article R613-3-4
 
-En dehors de toute mission, les armes de la catégorie B et, le cas échéant, leurs éléments et munitions doivent être
+En dehors de toute mission, les armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 et, le cas
+échéant, leurs éléments et munitions ainsi que les systèmes d'alimentation mentionnés à l'article R. 613-3-1 doivent être
 conservés, munitions à part, dans des coffres-forts ou des armoires fortes scellés au mur ou au sol d'une pièce sécurisée ou
 dans des chambres fortes comportant une porte blindée et dont les ouvertures sont protégées par des barreaux ou des volets
-métalliques.
+métalliques. 
 
 Les armes de la catégorie D sont conservées par l'entreprise dans des coffres-forts ou des armoires fortes et, le cas
-échéant, séparées des armes de la catégorie B.
+échéant, séparées des armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 ainsi que des systèmes
+d'alimentation mentionnés à l'article R. 613-3-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 7
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 17
 
 _Cité par_:
 
@@ -70638,21 +70655,29 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-88 (V)
   - Code de la sécurité intérieure - art. R617-1 (V)
 
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R613-3
+  - Code de la sécurité intérieure - art. R613-3-1
+
 
 ###### Article R613-3-5
 
 Seules les personnes responsables désignées par le chef d'entreprise ou d'établissement ont accès aux armes de la catégorie
-B. L'entreprise tient un registre d'inventaire des armes, éléments d'armes et munitions permettant leur identification ainsi
-qu'un état journalier retraçant les sorties et les réintégrations des armes et munitions figurant au registre d'inventaire
-dans les conditions fixées par arrêté du ministre de l'intérieur. Les agents mentionnés aux articles L. 611-2 et L. 634-1
-peuvent également y avoir accès pour l'exercice de leurs missions de contrôle des personnes exerçant une activité mentionnée
-à l'article L. 611-1. Les documents mentionnés au présent article sont tenus à leur disposition.
+A1 et de la catégorie B mentionnées à l'article R. 613-3 et, le cas échéant, à leurs éléments et munitions ainsi qu'aux
+systèmes d'alimentation mentionnés à l'article R. 613-3-1. L'entreprise tient un registre d'inventaire des armes, éléments
+d'armes et munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 permettant leur
+identification ainsi qu'un état journalier retraçant les sorties et les réintégrations des armes et munitions ainsi que, le
+cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 figurant au registre d'inventaire dans les
+conditions fixées par arrêté du ministre de l'intérieur. Les agents mentionnés aux articles L. 611-2 et L. 634-1 peuvent
+également y avoir accès pour l'exercice de leurs missions de contrôle des personnes exerçant une activité mentionnée à
+l'article L. 611-1. Les documents mentionnés au présent article sont tenus à leur disposition.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 7
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 18
 
 _Cite_:
 
@@ -71383,8 +71408,8 @@ surveillés à un risque exceptionnel d'atteinte à leur vie ;
 4° Pour chaque agent employé par l'entreprise et concerné par la mission, une copie d'un titre d'identité en cours de
 validité, le numéro de carte professionnelle permettant l'exercice de l'activité de surveillance armée, un certificat médical
 datant de moins d'un mois attestant que l'état de santé physique et psychique de l'agent n'est pas incompatible avec le port
-d'une arme ainsi que les justificatifs de la formation initiale et d'entraînement au maniement des armes mentionnées au II de
-l'article R. 613-3 dont le port est sollicité, dans les conditions fixées aux articles R. 612-37 et R. 612-38 ;
+d'une arme ainsi que les justificatifs de la formation initiale et d'entraînement au maniement des armes mentionnées au II et
+au III de l'article R. 613-3 dont le port est sollicité, dans les conditions fixées aux articles R. 612-37 et R. 612-38 ;
 
 5° Une note présentant les conditions de transport des armes et de leur conservation sur les lieux surveillés, pendant la
 durée de la mission, accompagnée, le cas échéant, d'un justificatif de l'installation, dans les locaux à surveiller, d'un
@@ -71401,7 +71426,7 @@ national des activités privées de sécurité.
 
 _Modifié par_:
 
-  - Décret n°2018-583 du 6 juillet 2018 - art. 8
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 19
 
 _Cite_:
 
@@ -71411,7 +71436,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L613-7-1
   - Code de la sécurité intérieure - art. R612-37
   - Code de la sécurité intérieure - art. R613-3
-  - Code de la sécurité intérieure - art. R613-5 (V)
+  - Code de la sécurité intérieure - art. R613-5
 
 _Cité par_:
 
@@ -71428,7 +71453,8 @@ agent ne peut être autorisé à porter qu'une arme de poing de la catégorie B 
 Elle précise si la mission de surveillance armée peut être exercée depuis la voie publique dans les conditions prévues aux
 articles L. 613-1 et R. 613-5. Elle est délivrée pour une durée maximale d'un an, renouvelable dans les mêmes conditions. 
 
-L'autorisation prévoit, le cas échéant, que la conservation des armes, éléments et munitions incombe au donneur d'ordre. 
+L'autorisation prévoit, le cas échéant, que la conservation des armes, éléments et munitions ainsi que, le cas échéant, des
+systèmes d'alimentation mentionnés à l'article R. 613-3-1 incombe au donneur d'ordre. 
 
 Une copie de cette autorisation est transmise au directeur du Conseil national des activités privées de sécurité ainsi qu'au
 maire de la commune où est exercée la mission. 
@@ -71443,9 +71469,9 @@ connaissance de l'autorité de délivrance par le directeur du Conseil national 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 13
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 20
 
 _Cite_:
 
@@ -71454,6 +71480,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L613-1
   - Code de la sécurité intérieure - art. L613-7-1
   - Code de la sécurité intérieure - art. R613-3
+  - Code de la sécurité intérieure - art. R613-3-1
 
 
 ###### Article R613-23-4
@@ -71477,8 +71504,9 @@ _Cite_:
 ###### Article R613-23-5
 
 Le bénéficiaire de l'autorisation mentionnée à l'article L. 612-9 ne peut être autorisé à acquérir et à détenir que les armes
-de la catégorie B mentionnées au 1° du II et, le cas échéant, au III de l'article R. 613-3, ainsi que leurs éléments et
-munitions. 
+de la catégorie B mentionnées au 1° du II et, le cas échéant, les armes de la catégorie A1 et de la catégorie B mentionnées
+au III de l'article R. 613-3, leurs éléments et munitions ainsi que les systèmes d'alimentation mentionnés à l'article R.
+613-3-1, ainsi que leurs éléments et munitions. 
 
 Une copie de cette autorisation est transmise au directeur du Conseil national des activités privées de sécurité. 
 
@@ -71487,14 +71515,16 @@ d'armes mentionnées au II de l'article R. 613-3, supérieur de plus de vingt po
 bénéficiaires de la carte professionnelle autorisant l'exercice de l'activité mentionnée au 1° bis de l'article L. 611-1. 
 
 Lorsque l'entreprise ne dispose d'aucune autorisation mentionnée à l'article L. 613-7-1 durant une période de dix-huit mois
-ou ne dispose plus de l'autorisation mentionnée à l'article L. 612-9, elle se dessaisit des armes de la catégorie B dans un
-délai de trois mois dans les conditions fixées aux articles R. 312-74 et R. 312-75.
+ou ne dispose plus de l'autorisation mentionnée à l'article L. 612-9, elle se dessaisit des armes de la catégorie A1 et de la
+catégorie B mentionnées à l'article R. 613-3 et, le cas échéant, de leurs éléments et munitions ainsi que des systèmes
+d'alimentation mentionnés à l'article R. 613-3-1 dans un délai de trois mois dans les conditions fixées aux articles R.
+312-74 et R. 312-75.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 13
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 21
 
 _Cite_:
 
@@ -71504,6 +71534,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-74
   - Code de la sécurité intérieure - art. R312-75
   - Code de la sécurité intérieure - art. R613-3
+  - Code de la sécurité intérieure - art. R613-3-1
 
 
 ##### Sous-section 3 : Port d'armes<a id=777></a>
@@ -71590,13 +71621,14 @@ _Créé par_:
 
 ###### Article R613-23-11
 
-Durant le temps de la mission, lorsqu'ils ne sont pas portés, les armes, munitions et leurs éléments sont conservés dans les
-locaux du donneur d'ordre ayant sollicité une surveillance armée ou dans les locaux du bénéficiaire de l'autorisation
-mentionnée à l'article L. 612-9, et dans des coffres-forts ou des armoires fortes scellés au mur ou au sol d'une pièce
-sécurisée ou dans des chambres fortes comportant une porte blindée et dont les ouvertures sont protégées par des barreaux ou
-des volets métalliques. L'accès au lieu de conservation des armes est réservé aux personnes chargées de l'exécution de la
-mission et à la personne mentionnée au 3° de l'article R. 612-6-1. Les agents mentionnés aux articles L. 611-2 et L. 634-1
-peuvent également y avoir accès pour l'exercice de leur mission de contrôle des activités de surveillance armée.
+Durant le temps de la mission, lorsqu'ils ne sont pas portés, les armes, munitions et leurs éléments ainsi que, le cas
+échéant, les systèmes d'alimentation mentionnés à l'article R. 613-3-1 sont conservés dans les locaux du donneur d'ordre
+ayant sollicité une surveillance armée ou dans les locaux du bénéficiaire de l'autorisation mentionnée à l'article L. 612-9,
+et dans des coffres-forts ou des armoires fortes scellés au mur ou au sol d'une pièce sécurisée ou dans des chambres fortes
+comportant une porte blindée et dont les ouvertures sont protégées par des barreaux ou des volets métalliques. L'accès au
+lieu de conservation des armes est réservé aux personnes chargées de l'exécution de la mission et à la personne mentionnée au
+3° de l'article R. 612-6-1. Les agents mentionnés aux articles L. 611-2 et L. 634-1 peuvent également y avoir accès pour
+l'exercice de leur mission de contrôle des activités de surveillance armée.
 
 Le préfet du département du lieu d'exercice de la mission, ou, à Paris ou sur les emprises des aérodromes de Paris-Charles de
 Gaulle, Paris-Le Bourget et Paris-Orly, le préfet de police et, dans le département des Bouches-du-Rhône, le préfet de police
@@ -71608,13 +71640,13 @@ prévu à l'article R. 613-3-6.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2018-583 du 6 juillet 2018 - art. 8
-
 _Cité par_:
 
   - Arrêté du 28 septembre 2018 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -72754,21 +72786,19 @@ _Cite_:
 
 ###### Article R613-57
 
-La commission technique consultée sur les demandes d'agrément mentionnées aux articles R. 613-47 et R. 613-53 comprend : 
+La commission technique consultée sur les demandes d'agrément mentionnées aux articles R. 613-47 et R. 613-53 comprend :
 
-1° Un représentant du ministère de l'intérieur, président, nommé par arrêté du ministre de l'intérieur ; 
+1° Un représentant du ministère de l'intérieur, président, nommé par arrêté du ministre de l'intérieur ;
 
-2° Le directeur général de la police nationale ou son représentant ; 
+2° Le directeur général de la police nationale ou son représentant ;
 
-3° Le directeur général de la gendarmerie nationale ou son représentant ; 
+3° Le directeur général de la gendarmerie nationale ou son représentant ;
 
-4° Un représentant du ministre chargé des transports désigné par lui ; 
+4° Un représentant de la Banque de France désigné par le gouverneur ;
 
-5° Un représentant de la Banque de France désigné par le gouverneur ; 
+5° Une personne qualifiée en matière de sécurité des transports de fonds désignée par le ministre de l'intérieur.
 
-6° Une personne qualifiée en matière de sécurité des transports de fonds désignée par le ministre de l'intérieur. 
-
-Les membres mentionnés aux 1°, 4°, 5° et 6° peuvent avoir un suppléant désigné dans les mêmes conditions. 
+Les membres mentionnés aux 1°, 4° et 5° peuvent avoir un suppléant désigné dans les mêmes conditions.
 
 Les membres de la commission exercent leurs fonctions à titre gratuit. Toutefois, ces fonctions ouvrent droit au
 remboursement des frais de déplacement et de séjour dans les conditions prévues par la réglementation applicable aux
@@ -72786,6 +72816,10 @@ _Anciens textes_:
 
   - Décret n°2000-376 du 28 avril 2000 - art. 9, I (VT)
 
+_Codifié par_:
+
+  - Décret n°2014-1253 du 27 octobre 2014 - art.
+
 _Cité par_:
 
   - Arrêté du 9 novembre 2012 - art. 3 (V)
@@ -72799,25 +72833,22 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R645-1 (M)
   - Code de la sécurité intérieure - art. R645-3 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 6
 
 
 ###### Article R613-58
 
-Peuvent assister aux travaux de la commission prévue à l'article R. 613-57, avec voix consultative : 
+Peuvent assister aux travaux de la commission prévue à l'article R. 613-57, avec voix consultative :
 
-1° Un représentant de la Fédération bancaire française ; 
+1° Des représentants des organisations professionnelles du secteur bancaire invités par le président de la commission ;
 
-2° Un représentant de la Fédération des entreprises de la sécurité fiduciaire ; 
+2° Des représentants des organisations professionnelles du secteur de la sécurité privée invités par le président de la
+commission ;
 
-3° Un représentant des laboratoires reconnus par l'Etat chargés des vérifications et des tests des dispositifs de
-neutralisation de valeurs, désigné par le ministre de l'intérieur sur proposition de ces laboratoires.
+3° Des représentants des laboratoires reconnus par l'Etat chargés des vérifications et des tests des dispositifs de
+neutralisation de valeurs, désignés par le ministre de l'intérieur sur proposition de ces laboratoires.
 
 **Liens relatifs à cet article**
 
@@ -72829,13 +72860,13 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 7
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R613-57 (VD)
+  - Code de la sécurité intérieure - art. R613-57
 
 
 ##### Sous-section 6 : Sécurisation des locaux des entreprises de transports de fonds<a id=788></a>
@@ -74388,11 +74419,10 @@ _Cité par_:
 ###### Article R616-13
 
 I.-Un arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur précise les connaissances et
-compétences mentionnées aux articles R. 616-11 et R. 616-12. 
+compétences mentionnées aux articles R. 616-11 et R. 616-12.
 
-Cet arrêté détermine les conditions dans lesquelles les organismes chargés de dispenser ces formations sont agréés. Ces
-organismes justifient notamment de leur capacité à mettre en œuvre les moyens pédagogiques nécessaires. L'agrément est
-délivré pour une durée de cinq années. 
+Par dérogation aux dispositions de la section 4 du chapitre II du présent titre, cet arrêté précise également les modalités
+de délivrance de l'attestation de formation permettant aux agents de justifier de leur aptitude professionnelle.
 
 II.-Le ministre chargé de la mer fixe par arrêté les dispositions relatives à la reconnaissance des titres de formation
 professionnelle maritime requis pour les agents employés par les entreprises privées de protection des navires délivrés par
@@ -74400,14 +74430,14 @@ les Etats membres de l'Union européenne ou par les Etats tiers.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2014-1415 du 28 novembre 2014 - art. 3
-
 _Cité par_:
 
   - Arrêté du 7 janvier 2015 - art. 4 (V)
   - Arrêté du 1er juillet 2016 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 3
 
 
 ##### Section 4 : Constatation des infractions pénales à bord des navires<a id=809></a>
@@ -74437,32 +74467,35 @@ _Créé par_:
 
 Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait, pour l'exploitant individuel, le
 dirigeant, le gérant ou l'employé d'une entreprise exerçant les activités mentionnées aux articles L. 611-1 et L. 613-13 du
-présent code : 
+présent code :
 
 1° De ne pas remettre à l'employé une carte professionnelle propre à l'entreprise comportant l'ensemble des mentions dont la
-liste figure à l'article R. 612-18 ; 
+liste figure à l'article R. 612-18 ;
 
 2° Pour un employé dans l'exercice de ses fonctions, de ne pas porter une tenue répondant aux critères fixés au second alinéa
-de l'article R. 613-1, sous réserve des dispositions prévues à l'article R. 613-2 ; 
+de l'article R. 613-1, sous réserve des dispositions prévues à l'article R. 613-2 ;
 
 3° De ne pas équiper les véhicules affectés aux activités mentionnées aux 1° et 2° de l'article L. 611-1 d'un ensemble
-émetteur-récepteur radioélectrique en bon état de fonctionnement, en violation de l'article R. 613-4 ; 
+émetteur-récepteur radioélectrique en bon état de fonctionnement, en violation de l'article R. 613-4 ;
 
 4° De surveiller ou faire surveiller des biens par un ou plusieurs gardiens postés ou circulant sur la voie publique sans
-autorisation préalable, en violation de l'article R. 613-5 ; 
+autorisation préalable, en violation de l'article R. 613-5 ;
 
 5° De ne pas transporter les armes à feu, entre l'établissement où elles sont conservées, le lieu d'exercice de la mission et
-le lieu d'entraînement à leur maniement, dans les conditions prévues par l'article R. 613-3-3 ; 
+le lieu d'entraînement à leur maniement, dans les conditions prévues par l'article R. 613-3-3 ;
 
-6° De ne pas conserver, en dehors de toute mission, les armes de la catégorie B et, le cas échéant, leurs éléments et
-munitions, ainsi que les armes de la catégorie D dans les conditions prévues à l'article R. 613-3-4 ; 
+6° De ne pas conserver, en dehors de toute mission, les armes de la catégorie A1 et de la catégorie B mentionnées à l'article
+R. 613-3 et, le cas échéant, leurs éléments et munitions, ainsi que les systèmes d'alimentation mentionnés à l'article R.
+613-3-1 et les armes de la catégorie D dans les conditions prévues à l'article R. 613-3-4 ;
 
-7° De ne pas tenir de registre d'inventaire des armes, éléments d'armes et munitions permettant leur identification ou de ne
-pas tenir un état journalier retraçant les sorties et les réintégrations des armes et munitions figurant au registre
-d'inventaire en violation de l'article R. 613-3-5 ; 
+7° De ne pas tenir de registre d'inventaire des armes, éléments d'armes, munitions et, le cas échéant, des systèmes
+d'alimentation mentionnés à l'article R. 613-3-1 permettant leur identification ou de ne pas tenir un état journalier
+retraçant les sorties et les réintégrations des armes et munitions ainsi que, le cas échéant, des systèmes d'alimentation
+mentionnés à l'article R. 613-3-1 figurant au registre d'inventaire en violation de l'article R. 613-3-5 ;
 
-8° De ne pas réserver l'accès aux armes de la catégorie B à une personne responsable spécialement désignée, en violation de
-l'article R. 613-3-5. 
+8° De ne pas réserver l'accès aux armes de la catégorie A1 et de la catégorie B mentionnées à l'article R. 613-3 ainsi qu'aux
+systèmes d'alimentation mentionnés à l'article R. 613-3-1 à une personne responsable spécialement désignée, en violation de
+l'article R. 613-3-5.
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 du code
 pénal.
@@ -74479,7 +74512,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 9
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 23
 
 _Cite_:
 
@@ -74488,6 +74521,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L613-13
   - Code de la sécurité intérieure - art. R612-18
   - Code de la sécurité intérieure - art. R613-2
+  - Code de la sécurité intérieure - art. R613-3-1
   - Code de la sécurité intérieure - art. R613-3-3
   - Code de la sécurité intérieure - art. R613-3-4
   - Code de la sécurité intérieure - art. R613-3-5
@@ -75158,11 +75192,14 @@ _Créé par_:
 
 ###### Article R622-12
 
-La demande de carte professionnelle au titre de l'activité de recherches privées comporte les informations suivantes :
+La demande de carte professionnelle comporte les informations suivantes : 
 
-1° Le nom, les prénoms, la date et le lieu de naissance (ville et pays) ainsi que le domicile du demandeur ;
+1° Le nom, les prénoms, la date et le lieu de naissance (ville et pays) ainsi que le domicile du demandeur ; 
 
-2° Si le demandeur est salarié, le nom, la raison sociale et l'adresse de l'employeur.
+2° Si le demandeur est salarié, le nom, la raison sociale et l'adresse de l'employeur. 
+
+3° L'activité mentionnée à l'article L. 621-1 et la ou les spécialités, parmi celles définies par arrêté du ministre de
+l'intérieur, au titre desquelles la carte est demandée.
 
 **Liens relatifs à cet article**
 
@@ -75174,9 +75211,13 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 8
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L621-1
 
 
 ###### Article R622-13
@@ -75193,7 +75234,7 @@ portant autorisation d'exercer une activité salariée ;
 depuis moins de trois mois par une autorité judiciaire ou administrative compétente de leur pays d'origine ou de provenance
 et accompagné, le cas échéant, d'une traduction en langue française ;
 
-4° La justification de l'aptitude professionnelle se rapportant à l'activité d'agence de recherches privées acquise dans les
+4° La justification de l'aptitude professionnelle se rapportant à l'activité et à la spécialité concernées, acquise dans les
 conditions prévues par la section 4.
 
 **Liens relatifs à cet article**
@@ -75206,9 +75247,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 9
 
 _Cité par_:
 
@@ -75223,7 +75264,7 @@ La décision de délivrance de la carte professionnelle est notifiée au demande
 
 2° Le numéro d'enregistrement de la carte et sa date d'expiration ;
 
-3° Mention de l'activité de recherches privées.
+3° Mention de l'activité et de la ou des spécialités au titre desquelles la carte est délivrée.
 
 **Liens relatifs à cet article**
 
@@ -75235,9 +75276,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 10
 
 _Cité par_:
 
@@ -75367,9 +75408,12 @@ _Créé par_:
 
 ###### Article R622-19
 
-La demande d'une autorisation préalable ou d'une autorisation provisoire au titre de l'activité de recherches privées
-comprend les informations suivantes : le nom, les prénoms, la date et le lieu de naissance (ville et pays) ainsi que le
-domicile du demandeur.
+La demande d'une autorisation préalable ou d'une autorisation provisoire au titre de l'activité mentionnée à l'article L.
+621-1 comprend les informations suivantes :
+
+1° Les nom, prénoms, la date et le lieu de naissance (ville et pays) ainsi que le domicile du demandeur ;
+
+2° L'activité mentionnée à l'article L. 621-1 et la ou les spécialités au titre desquelles l'autorisation est demandée.
 
 **Liens relatifs à cet article**
 
@@ -75381,9 +75425,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 11
 
 
 ###### Article R622-20
@@ -75435,7 +75479,7 @@ les informations suivantes :
 
 2° Le numéro d'enregistrement de l'autorisation et sa date d'expiration ;
 
-3° Mention de l'activité de recherches privées.
+3° Mention de l'activité et de la ou des spécialités au titre desquelles l'autorisation est délivrée.
 
 **Liens relatifs à cet article**
 
@@ -75447,9 +75491,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 12
 
 _Cité par_:
 
@@ -75995,73 +76039,74 @@ _Cite_:
 ###### Article R625-2
 
 I.-Lorsque les activités mentionnées à l'article L. 625-1 sont exercées par une personne physique, la demande d'autorisation
-comporte les documents suivants : 
+comporte les documents suivants :
 
 1° Pour les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique
-européen, la copie d'une pièce d'identité en cours de validité ; 
+européen, la copie d'une pièce d'identité en cours de validité ;
 
 2° Pour les ressortissants d'un autre Etat que ceux mentionnés au 1°, la copie d'un titre de séjour en cours de validité
-l'autorisant à exercer l'activité mentionnée à l'article L. 625-1 ; 
+l'autorisant à exercer l'activité mentionnée à l'article L. 625-1 ;
 
 3° Pour les ressortissants étrangers, le document équivalent à une copie du bulletin numéro 3 du casier judiciaire, délivré
 depuis moins de trois mois par une autorité judiciaire ou administrative compétente de leur pays d'origine ou de provenance
-et accompagné, le cas échéant, de sa traduction certifiée en langue française ; 
+et accompagné, le cas échéant, de sa traduction certifiée en langue française ;
 
-4° La déclaration d'activité enregistrée dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail ; 
+4° La déclaration d'activité enregistrée dans les conditions fixées aux articles L. 6351-1 à L. 6351-8 du code du travail ;
 
-5° La mention de la ou des activités privées de sécurité pour lesquelles une prestation de formation est réalisée ; 
+5° La mention de la ou des activités privées de sécurité pour lesquelles une prestation de formation est réalisée ;
 
 6° La certification prévue à l'article R. 625-7 du présent code ou, le cas échéant, un document attestant que le demandeur
-est engagé dans une démarche de certification ; 
+est engagé dans une démarche de certification ;
 
-7° L'adresse du domicile du demandeur ; 
+7° L'adresse du domicile du demandeur ;
 
-8° Le numéro d'immatriculation au registre du commerce et des sociétés. 
+8° Le numéro d'immatriculation au registre du commerce et des sociétés.
 
 II.-Lorsque les activités mentionnées à l'article L. 625-1 sont exercées par une personne morale, la demande est présentée
-par le dirigeant ayant le pouvoir d'engager cette personne et comporte les documents mentionnés aux 1° à 6° du I ainsi que : 
+par le dirigeant ayant le pouvoir d'engager cette personne et comporte les documents mentionnés aux 1° à 6° du I ainsi que :
 
-1° L'adresse du siège social et, s'ils sont distincts, de l'établissement principal et de l'établissement secondaire ; 
+1° L'adresse du siège social et, s'ils sont distincts, de l'établissement principal et de l'établissement secondaire ;
 
-2° Un extrait du registre du commerce et des sociétés de moins de trois mois ; 
+2° Un extrait du registre du commerce et des sociétés de moins de trois mois ;
 
 3° Pour les associations, une copie de la mention de la création de l'association parue au Journal officiel, une copie des
-statuts ainsi que du dernier procès-verbal de l'assemblée générale. 
+statuts ainsi que du dernier procès-verbal de l'assemblée générale.
 
 III.-Lorsque le demandeur souhaite dispenser une formation qui implique le maniement d'armes, la demande comporte également
 le nom de la personne ou des personnes désignées comme responsables du respect des règles de conservation des armes définies
-aux articles R. 613-3-4 et R. 613-3-5. Cette personne ne doit pas être interdite d'acquisition ou de détention d'armes. 
+aux articles R. 613-3-4 et R. 613-3-5. Cette personne ne doit pas être interdite d'acquisition ou de détention d'armes.
 
 IV.-Le prestataire de formation bénéficiaire de l'autorisation mentionnée à l'article L. 625-2 délivrée au vu d'un certificat
 attestant de sa compétence en matière de formation au maniement des armes ou de l'autorisation mentionnée à l'article L.
 625-3 et justifiant de son engagement dans une démarche d'obtention d'un tel certificat peut être autorisé à acquérir et
-détenir des armes mentionnées au 1° du II et au III de l'article R. 613-3 ainsi que les munitions correspondantes, selon les
-modalités fixées par arrêté du ministre de l'intérieur, à des fins de formation et d'entraînement des personnes exerçant
-l'une des activités soumises au livre VI du présent code. 
+détenir des armes mentionnées au 1° du II et au III de l'article R. 613-3 ainsi que les munitions correspondantes et les
+systèmes d'alimentation mentionnés à l'article R. 613-3-1, selon les modalités fixées par arrêté du ministre de l'intérieur,
+à des fins de formation et d'entraînement des personnes exerçant l'une des activités soumises au livre VI du présent code.
 
 L'autorisation d'acquisition et de détention d'armes est délivrée pour une durée de cinq ans, renouvelable dans les mêmes
 conditions, par le préfet du département où se situe l'établissement dispensant la formation ou, à Paris, par le préfet de
 police et, dans le cas où l'établissement est situé dans le département des Bouches-du-Rhône, par le préfet de police des
-Bouches-du-Rhône. 
+Bouches-du-Rhône.
 
-Le dossier de demande d'autorisation comprend : 
+Le dossier de demande d'autorisation comprend :
 
 1° La copie de l'une des autorisations mentionnées aux articles L. 625-2 et L. 625-3 délivrée au vu d'un certificat attestant
-de leur compétence en matière de formation au maniement des armes ; 
+de leur compétence en matière de formation au maniement des armes ;
 
-2° La liste des armes qu'il est envisagé d'acquérir au regard de la nature de la formation dispensée ; 
+2° La liste des armes qu'il est envisagé d'acquérir au regard de la nature de la formation dispensée ;
 
 3° La justification de l'installation, dans les locaux où se déroule la formation, d'un équipement permettant la conservation
-des armes dans les conditions fixées à l'article R. 625-18. 
+des armes dans les conditions fixées à l'article R. 625-18.
 
 L'autorisation devient caduque lorsque le prestataire de formation ne dispose plus de l'une des autorisations mentionnées aux
 articles L. 625-2 et L. 625-3 ou en cas d'interdiction d'exercice de l'activité mentionnée à l'article L. 625-1 à titre
-temporaire prévue à l'article L. 634-4. 
+temporaire prévue à l'article L. 634-4.
 
 Le prestataire de formation qui ne dispose plus de l'autorisation d'acquisition et de détention d'armes se dessaisit des
-armes dans un délai de trois mois, selon l'une des conditions fixées aux articles R. 312-74 et R. 312-75. 
+armes, de leurs éléments et des munitions ainsi que, le cas échéant, des systèmes d'alimentation mentionnés à l'article R.
+613-3-1 dans un délai de trois mois, selon l'une des conditions fixées aux articles R. 312-74 et R. 312-75.
 
-Une copie de l'autorisation est transmise au directeur du Conseil national des activités privées de sécurité. 
+Une copie de l'autorisation est transmise au directeur du Conseil national des activités privées de sécurité.
 
 Toute modification, suppression ou adjonction affectant l'un des éléments du dossier de demande d'autorisation mentionnés à
 cet article fait l'objet d'une déclaration dans un délai de quinze jours auprès du préfet compétent et du directeur du
@@ -76069,23 +76114,24 @@ Conseil national des activités privées de sécurité.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 18
-
 _Cité par_:
 
   - Arrêté du 28 septembre 2018 - art. 3 (V)
   - Code de la sécurité intérieure - art. R625-17 (V)
   - Code de la sécurité intérieure - art. R625-19 (V)
   - Code de la sécurité intérieure - art. R625-6 (VD)
+  - Code de la sécurité intérieure - art. R625-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 24
 
 _Cite_:
 
   - Code du travail - art. L6351-1
   - Code de la sécurité intérieure - art. L625-1
   - Code de la sécurité intérieure - art. R312-74
-  - Code de la sécurité intérieure - art. R625-7
+  - Code de la sécurité intérieure - art. R613-3-1
 
 
 ###### Article R625-3
@@ -76203,25 +76249,30 @@ d'accréditation, au regard d'un référentiel reconnu ou défini par un arrêt�
 La procédure de certification et la durée de validité de celle-ci sont également définies par arrêté du ministère de
 l'intérieur. 
 
-L'arrêté reconnaissant ou définissant un référentiel est contresigné par le ministre chargé de l'aviation civile, lorsque le
-référentiel porte sur la formation aux activités qui relèvent de l'article L. 6342-4 du code des transports et dont
-l'exercice requiert une certification au titre du règlement (UE) n° 2015/1998 du 5 novembre 2015.
+L'arrêté reconnaissant ou définissant le référentiel mentionné au deuxième alinéa est contresigné : 
+
+1° Par le ministre chargé de l'aviation civile, lorsque le référentiel porte sur la formation aux activités qui relèvent de
+l'article L. 6342-4 du code des transports et dont l'exercice requiert une certification au titre du règlement (UE) n°
+2015/1998 du 5 novembre 2015 ; 
+
+2° Par le ministre chargé des transports, lorsque le référentiel porte sur la formation aux activités de protection des
+navires.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-515 du 26 avril 2016 - art. 49
 
 _Cité par_:
 
   - Arrêté du 1er juillet 2016 - art. 1 (V)
-  - Code de la sécurité intérieure - art. R625-2 (V)
   - Code de la sécurité intérieure - art. R625-8 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 4
 
 _Cite_:
 
-  - Code des transports - art. L6342-4 (V)
+  - Code des transports - art. L6342-4
+  - Code de la sécurité intérieure - art. R625-2 (V)
 
 
 ##### Section 3 : Formation continue<a id=834></a>
@@ -76229,15 +76280,19 @@ _Cite_:
 ###### Article R625-8
 
 La durée et le contenu du stage de maintien et d'actualisation des compétences ainsi que ses modalités d'organisation sont
-définis par arrêté du ministre de l'intérieur ou, pour la formation aux activités qui relèvent de l'article L. 6342-4 du code
-des transports et dont l'exercice requiert une certification au titre du règlement (UE) n° 2015/1998 mentionnée à l'article
-R. 625-7, par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'aviation civile.
+définis par arrêté du ministre de l'intérieur. 
+
+Par dérogation aux dispositions du premier alinéa, la durée et le contenu du stage de maintien et d'actualisation des
+compétences ainsi que ses modalités d'organisation sont définis : 
+
+1° Par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'aviation civile pour la formation aux activités
+qui relèvent de l'article L. 6342-4 du code des transports et dont l'exercice requiert une certification au titre du
+règlement (UE) n° 2015/1998 mentionnée à l'article R. 625-7 ; 
+
+2° Par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports pour la formation aux activités de
+protection des navires.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-515 du 26 avril 2016 - art. 49
 
 _Cité par_:
 
@@ -76245,10 +76300,14 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R612-17 (VD)
   - Code de la sécurité intérieure - art. R622-15 (VD)
 
+_Modifié par_:
+
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 5
+
 _Cite_:
 
-  - Code des transports - art. L6342-4 (V)
-  - Code de la sécurité intérieure - art. R625-7 (VD)
+  - Code des transports - art. L6342-4
+  - Code de la sécurité intérieure - art. R625-7
 
 
 ##### Section 4 : Obligations des prestataires de formation<a id=835></a>
@@ -76406,13 +76465,17 @@ _Créé par_:
 ###### Article R625-17
 
 Le nombre d'armes pouvant être acquises par le prestataire de formation sur le fondement de l'article R. 625-2, pour chacun
-des types d'armes mentionnées aux II et III de l'article R. 613-3, ainsi que les munitions correspondantes sont fixés par
-arrêté du ministre de l'intérieur en tenant compte notamment du nombre de stagiaires susceptibles d'être accueillis dans le
-centre de formation et du nombre de formateurs encadrant la formation. 
+des types d'armes mentionnées aux II et III de l'article R. 613-3, ainsi que les munitions correspondantes et les systèmes
+d'alimentation mentionnés à l'article R. 613-3-1 sont fixés par arrêté du ministre de l'intérieur en tenant compte notamment
+du nombre de stagiaires susceptibles d'être accueillis dans le centre de formation et du nombre de formateurs encadrant la
+formation. 
 
-Seules les personnes responsables désignées par le prestataire de formation ont accès aux armes. Le prestataire de formation
-tient un registre d'inventaire des armes, éléments d'armes et munitions permettant leur identification ainsi qu'un état
-journalier retraçant les sorties et les réintégrations des armes et munitions figurant au registre d'inventaire dans les
+Seules les personnes responsables désignées par le prestataire de formation ont accès aux armes de la catégorie A1 et de la
+catégorie B mentionnées à l'article R. 613-3 et, le cas échéant, à leurs éléments et munitions ainsi qu'aux systèmes
+d'alimentation mentionnés à l'article R. 613-3-1. Le prestataire de formation tient un registre d'inventaire des armes,
+éléments d'armes, munitions et, le cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 permettant leur
+identification ainsi qu'un état journalier retraçant les sorties et les réintégrations des armes et munitions ainsi que, le
+cas échéant, des systèmes d'alimentation mentionnés à l'article R. 613-3-1 figurant au registre d'inventaire dans les
 conditions fixées par arrêté du ministre de l'intérieur. 
 
 Les états journaliers sont conservés pendant un délai de trois ans par le prestataire de formation. 
@@ -76429,15 +76492,16 @@ _Cité par_:
   - Arrêté du 28 septembre 2018 - art. 4
   - Code de la sécurité intérieure - art. R625-21 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 19
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 25
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L611-2
   - Code de la sécurité intérieure - art. L634-1
   - Code de la sécurité intérieure - art. R613-3
+  - Code de la sécurité intérieure - art. R613-3-1
   - Code de la sécurité intérieure - art. R625-2
 
 
@@ -77794,11 +77858,11 @@ _Créé par_:
 
 ###### Article R632-9
 
-La Commission nationale d'agrément et de contrôle comprend : 
+La Commission nationale d'agrément et de contrôle comprend :
 
-1° Les membres du collège représentant l'Etat désignés aux c, d, f, g, h et k du 1° de l'article R. 632-2 ; 
+1° Les membres du collège représentant l'Etat désignés aux c, d, f, h et k du 1° de l'article R. 632-2 ;
 
-2° Les membres des juridictions désignés aux 2° et 3° du même article ; 
+2° Les membres des juridictions désignés aux 2° et 3° du même article ;
 
 3° Deux membres titulaires et deux membres suppléants nommés par le ministre de l'intérieur parmi les membres représentant
 les professionnels désignés au 4° du même article. L'un au moins des membres titulaires est choisi parmi les représentants
@@ -77815,9 +77879,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 13
 
 _Cité par_:
 
@@ -77826,7 +77890,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R632-2 (VD)
+  - Code de la sécurité intérieure - art. R632-2
 
 
 ###### Article R632-10
@@ -79122,7 +79186,8 @@ Au titre Ier</td>
 R. 611-1 (à l'exception du 1°) et R. 611-2</td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -79154,7 +79219,8 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
 R. 612-6-1et R. 612-7</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du décret n° 2017-1844 du 29 décembre 2017
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -79226,7 +79292,8 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
 R. 612-17 et R. 612-18</td>
       <td align="left">
 
-Résultant du décret n° 2016-515 du 26 avril 2016</td>
+Résultant du décret n° 2016-515 du 26 avril 2016
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -79251,7 +79318,7 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
 R. 612-20</td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -79323,7 +79390,8 @@ Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
 R. 612-41-1</td>
       <td align="left">
 
-Résultant du décret n° 2017-606 du 21 avril 2017</td>
+Résultant du décret n° 2017-606 du 21 avril 2017
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -79352,13 +79420,21 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     <tr>
       <td align="left">
 
-R. 613-3</td>
+R. 613-3 à R. 613-3-2</td>
       <td align="left">
 
-Résultant du décret n° 2018-542 du 29 juin 2018</td>
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 613-4 à R. 613-3-7</td>
+      <td align="left">R. 613-3-3</td>
+      <td align="left">Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 613-3-4 à R. 613-3-5</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 613-3-6 à R. 613-3-7</td>
       <td align="left">Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     </tr>
     <tr>
@@ -79428,11 +79504,43 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     <tr>
       <td align="left">
 
-R. 613-23-1 à R. 613-23-11</td>
+R. 613-23-1</td>
       <td align="left">
 
 Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     </tr>
+    <tr>
+      <td align="left">R. 613-23-2 à R. 613-23-3</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 613-23-4</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-5</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-6 à R. 613-23-10</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-11</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -79463,8 +79571,7 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
 R. 613-39</td>
       <td align="left">
 
-Résultant du décret n° 2017-606 du 21 avril 2017
-</td>
+Résultant du décret n° 2017-606 du 21 avril 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -79485,10 +79592,14 @@ Résultant du décret n° 2017-606 du 21 avril 2017</td>
     <tr>
       <td align="left">
 
-R. 613-48 à R. 613-49, R. 613-51, R. 613-57, R. 613-58</td>
+R. 613-48, R. 613-49 et R. 613-51</td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="left">R. 613-57 et R. 613-58</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -79496,28 +79607,25 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
 R. 613-88 à R. 613-92</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017
-</td>
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     </tr>
     <tr>
       <td align="left">
 
 R. 614-1</td>
-      <td align="left">Résultant du  décret n° 2018-542 du 29 juin 2018</td>
+      <td align="left">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 614-2 à R. 614-5</td>
-      <td align="left">Résultant du  décret n° 2014-1253 du 27 octobre 2014</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">R. 614-6</td>
-      <td align="left">Résultant du  décret n° 2018-542 du 29 juin 2018
-</td>
+      <td align="left">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 614-7 à R. 614-10</td>
-      <td align="left">Résultant du  décret n° 2014-1253 du 27 octobre 2014
-</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -79554,10 +79662,18 @@ Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     <tr>
       <td align="left">
 
-R. 616-11 à R. 616-14</td>
+R. 616-11 à R. 616-12</td>
       <td align="left">
 
 Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+    </tr>
+    <tr>
+      <td align="left">R. 616-13</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 616-14</td>
+      <td align="left">Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -79565,7 +79681,7 @@ Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
 R. 617-1</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du décret n°2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -79619,7 +79735,7 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
 R. 625-2</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du décret n°2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -79632,15 +79748,15 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
     <tr>
       <td align="left">
 
-R. 625-7</td>
+R. 625-7 et R. 625-8</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du  décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 625-8 à R. 625-12</td>
+R. 625-9 à R. 625-12</td>
       <td align="left">
 
 Résultant du décret n° 2016-515 du 26 avril 2016</td>
@@ -79648,10 +79764,14 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
     <tr>
       <td align="left">
 
-R. 625-17 à R. 625-21</td>
+R. 625-17</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du décret n°2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 625-18 à R. 625-21</td>
+      <td align="left">Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -79718,10 +79838,20 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
     <tr>
       <td align="left">
 
-R. 632-7 à R. 632-12</td>
+R. 632-7 et R. 632-8</td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 632-9</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 632-10 à R. 632-12</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -79801,8 +79931,7 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
 R. 635-1</td>
       <td align="left">
 
-Résultant du décret n° 2016-515 du 26 avril 2016
-</td>
+Résultant du décret n° 2016-515 du 26 avril 2016</td>
     </tr>
   </tbody>
 </table>
@@ -79824,7 +79953,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 26 (V)
 
 
 ###### Article R645-3
@@ -80186,7 +80315,8 @@ Au titre Ier</td>
 R. 611-1 (à l'exception du 1°) et R. 611-2</td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -80194,7 +80324,8 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
 R. 612-1 et R. 612-2</td>
       <td align="left">
 
-Résultant du décret n° 2016-515 du 26 avril 2016</td>
+Résultant du décret n° 2016-515 du 26 avril 2016
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -80218,7 +80349,8 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
 R. 612-6-1et R. 612-7</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du décret n° 2017-1844 du 29 décembre 2017
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -80298,7 +80430,8 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
 R. 612-18-1</td>
       <td align="left">
 
-Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+Résultant du décret n° 2014-1415 du 28 novembre 2014
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -80314,7 +80447,7 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
 R. 612-20</td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+ésultant du  décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -80414,13 +80547,34 @@ R. 613-2</td>
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
+      <td align="left">R. 613-3 à R. 613-3-2</td>
       <td align="left">
 
-R. 613-3</td>
-      <td align="left">
+Résultant du décret n° 2018-1270 du 26 décembre 2018
 
-Résultant du décret n° 2018-542 du 29 juin 2018</td>
+</td>
     </tr>
+    <tr>
+      <td align="left">R. 613-3-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-3-4 à R. 613-3-5</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-3-6 à R. 613-3-7</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">R. 613-4 à R. 613-3-7</td>
       <td align="left">Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
@@ -80490,13 +80644,47 @@ R. 613-19</td>
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 613-23-1 à R. 613-23-11</td>
+      <td align="left">R. 613-23-1</td>
       <td align="left">
 
 Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
-    </tr>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-2 à R. 613-23-3</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-4</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-5</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-6 à R. 613-23-10</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-11</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -80517,21 +80705,19 @@ Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
       <td align="left">
 
 R. 614-1</td>
-      <td align="left">Résultant du  décret n° 2018-542 du 29 juin 2018</td>
+      <td align="left">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 614-2 à R. 614-5</td>
-      <td align="left">Résultant du  décret n° 2014-1253 du 27 octobre 2014
-</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">R. 614-6</td>
-      <td align="left">Résultant du  décret n° 2018-542 du 29 juin 2018
-</td>
+      <td align="left">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 614-7 à R. 614-10</td>
-      <td align="left">Résultant du  décret n° 2014-1253 du 27 octobre 2014</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -80547,8 +80733,7 @@ Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
 R. 616-6</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017
-</td>
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -80569,19 +80754,32 @@ Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     <tr>
       <td align="left">
 
-R. 616-11 à R. 616-14</td>
+R. 616-11 à R. 616-12</td>
       <td align="left">
 
-Résultant du décret n° 2014-1415 du 28 novembre 2014
-</td>
+Résultant du  décret n° 2014-1415 du 28 novembre 2014</td>
     </tr>
+    <tr>
+      <td align="left">R. 616-13</td>
+      <td align="left">
+
+Résultant du  décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 616-14</td>
+      <td align="left">
+
+Résultant du  décret n° 2014-1415 du 28 novembre 2014</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
 R. 617-1</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -80635,7 +80833,7 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
 R. 625-2</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -80643,21 +80841,20 @@ Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
 R. 625-3 à R. 625-6</td>
       <td align="left">
 
-Résultant du décret n° 2016-515 du 26 avril 2016
-</td>
+Résultant du décret n° 2016-515 du 26 avril 2016</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 625-7</td>
+R. 625-7 et R. 625-8</td>
       <td align="left">
 
-Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+Résultant du  décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 625-8 à R. 625-12</td>
+R. 625-9 à R. 625-12</td>
       <td align="left">
 
 Résultant du décret n° 2016-515 du 26 avril 2016</td>
@@ -80665,11 +80862,20 @@ Résultant du décret n° 2016-515 du 26 avril 2016</td>
     <tr>
       <td align="left">
 
-R. 625-17 à R. 625-21</td>
+R. 625-17</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">R. 625-18 à R. 625-21</td>
       <td align="left">
 
 Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
-    </tr>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -80733,13 +80939,26 @@ R. 632-6</td>
 Résultant du décret n° 2016-515 du 26 avril 2016</td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 632-7 à R. 632-12</td>
+      <td align="left">R. 632-7 et R. 632-8</td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
-    </tr>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 632-9</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 632-10 à R. 632-12</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -80836,7 +81055,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 26 (V)
 
 
 ###### Article R646-3
@@ -81051,7 +81270,7 @@ _Cité par_:
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des  adaptations prévues aux articles R. 647-3 et R. 647-4, les
 dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
-colonne de droite du même tableau : 
+colonne de droite du même tableau :
 
 <table border="1">
   <tbody>
@@ -81203,7 +81422,7 @@ Résultant du  décret n° 2016-515 du 26 avril 2016 </td>
 R. 612-20</td>
       <td align="left">
 
-Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
+Résultant du du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -81302,13 +81521,21 @@ R. 613-2</td>
 Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 613-3</td>
-      <td align="left">Résultant du décret n° 2018-542 du 29 juin 2018</td>
+      <td align="left">R. 613-3 à R. 613-3-2</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 613-4 à R. 613-3-7</td>
+      <td align="left">R. 613-3-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 613-3-4 à R. 613-3-5</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 613-3-6 à R. 613-3-7</td>
       <td align="left">Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
     </tr>
     <tr>
@@ -81378,11 +81605,46 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
     <tr>
       <td align="left">
 
-R. 613-23-1 à R. 613-23-11</td>
+R. 613-23-1</td>
       <td align="left">
 
 Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
     </tr>
+    <tr>
+      <td align="left">R. 613-23-2 à R. 613-23-3</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-4</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-5</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-6 à R. 613-23-10</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 613-23-11</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -81395,19 +81657,19 @@ Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
       <td align="left">
 
 R. 614-1</td>
-      <td align="left">Résultant du  décret n° 2018-542 du 29 juin 2018</td>
+      <td align="left">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 614-2 à R. 614-5</td>
-      <td align="left">Résultant du  décret n° 2014-1253 du 27 octobre 2014</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">R. 614-6</td>
-      <td align="left">Résultant du  décret n° 2018-542 du 29 juin 2018</td>
+      <td align="left">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 614-7 à R. 614-10</td>
-      <td align="left">Résultant du  décret n° 2014-1253 du 27 octobre 2014</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -81444,18 +81706,32 @@ Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
     <tr>
       <td align="left">
 
-R. 616-11 à R. 616-14</td>
+R. 616-11 et R. 616-12</td>
       <td align="left">
 
 Résultant du  décret n° 2014-1415 du 28 novembre 2014 </td>
     </tr>
+    <tr>
+      <td align="left">R. 616-13</td>
+      <td align="left">
+
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 616-14</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
 R. 617-1</td>
       <td align="left">
 
-Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -81509,7 +81785,7 @@ Résultant du  décret n° 2016-515 du 26 avril 2016 </td>
 R. 625-2</td>
       <td align="left">
 
-Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -81520,17 +81796,15 @@ R. 625-3 à R. 625-6</td>
 Résultant du  décret n° 2016-515 du 26 avril 2016 </td>
     </tr>
     <tr>
+      <td align="left">R. 625-7 et R. 625-8</td>
       <td align="left">
 
-R. 625-7</td>
-      <td align="left">
-
-Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
+Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 625-8 à R. 625-12</td>
+R. 625-9 à R. 625-12</td>
       <td align="left">
 
 Résultant du  décret n° 2016-515 du 26 avril 2016 </td>
@@ -81538,11 +81812,18 @@ Résultant du  décret n° 2016-515 du 26 avril 2016 </td>
     <tr>
       <td align="left">
 
-R. 625-17 à R. 625-21</td>
+R. 625-17</td>
       <td align="left">
 
-Résultant du  décret n° 2017-1844 du 29 décembre 2017 </td>
+Résultant du décret n°2018-1270 du 26 décembre 2018</td>
     </tr>
+    <tr>
+      <td align="left">R. 625-18 à R. 625-21</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1844 du 29 décembre 2017</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -81608,10 +81889,18 @@ Résultant du  décret n° 2016-515 du 26 avril 2016 </td>
     <tr>
       <td align="left">
 
-R. 632-7 à R. 632-12</td>
+R. 632-7 à R. 632-8</td>
       <td align="left">
 
 Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 632-9</td>
+      <td align="left">Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 632-10 à R. 632-12</td>
+      <td align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -81709,7 +81998,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 26 (V)
 
 
 ###### Article R647-3
@@ -81921,16 +82210,12 @@ sécurité et au Conseil national des activités privées de sécurité</td>
     <tr>
       <td>R. 612-13 à R. 612-16</td>
       <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
       <td>R. 612-17 et R. 612-18</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité
-
-</td>
+sécurité</td>
     </tr>
     <tr>
       <td>
@@ -81942,18 +82227,17 @@ Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d
 navires</td>
     </tr>
     <tr>
-      <td>R. 612-19
-
-</td>
+      <td>R. 612-19</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 612-20 à R. 612-23</td>
-      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+      <td>R. 612-20</td>
+      <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td>R. 612-21 à R. 612-23</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>R. 612-24 à R. 612-25</td>
@@ -81976,7 +82260,7 @@ sécurité et au Conseil national des activités privées de sécurité</td>
 R. 612-33, R. 612-35
 
 </td>
-      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
@@ -82013,11 +82297,19 @@ R. 612-42
     <tr>
       <td>
 
-R. 616-1 à R. 616-14</td>
+R. 616-1 à R. 616-12</td>
       <td>
 
 Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des
 navires</td>
+    </tr>
+    <tr>
+      <td>R. 616-13</td>
+      <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td>R. 616-14</td>
+      <td>Résultant du décret n° 2014-1415 du 28 novembre 2014</td>
     </tr>
     <tr>
       <td>
@@ -82029,9 +82321,7 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions 
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 632-1
-
-</td>
+      <td>R. 632-1</td>
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
@@ -82063,9 +82353,18 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
 sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 632-7 à R. 632-12</td>
-      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
+      <td>R. 632-7 à R. 632-8</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 632-9</td>
+      <td>Résultant du décret n° 2018-1270 du 26 décembre 2018</td>
+    </tr>
+    <tr>
+      <td>R. 632-10 à R. 632-12</td>
+      <td>Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>R. 632-13 et R. 632-14</td>
@@ -82088,22 +82387,14 @@ sécurité et au Conseil national des activités privées de sécurité</td>
 réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</td>
     </tr>
     <tr>
-      <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
-
-</td>
+      <td>R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
-      <td>R. 634-1 à R. 634-3
-
-</td>
+      <td>R. 634-1 à R. 634-3</td>
       <td>Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de
-sécurité et au Conseil national des activités privées de sécurité
-
-</td>
+sécurité et au Conseil national des activités privées de sécurité</td>
     </tr>
     <tr>
       <td>R. 634-4</td>
@@ -82128,9 +82419,7 @@ R. 635-1
       <td>
 
 Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au
-Conseil national des activités privées de sécurité
-
-</td>
+Conseil national des activités privées de sécurité</td>
     </tr>
   </tbody>
 </table>
@@ -82139,7 +82428,7 @@ Conseil national des activités privées de sécurité
 
 _Modifié par_:
 
-  - Décret n°2017-606 du 21 avril 2017 - art. 7
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 26 (V)
 
 _Cite_:
 
