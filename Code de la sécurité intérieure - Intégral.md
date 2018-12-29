@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-12-29
+Version Consolidée au 2018-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -93887,8 +93887,8 @@ d'informations nominatives mis en œuvre par la direction générale de la sécu
 3° Décret autorisant la mise en œuvre par la direction du renseignement et de la sécurité de la défense d'un traitement
 automatisé de données à caractère personnel dénommé SIREX ;
 
-4° Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 au fichier d'informations
-nominatives mis en œuvre par la direction du renseignement militaire ;
+4° Décret autorisant la mise en œuvre par la direction du renseignement militaire d'un traitement automatisé de données à
+caractère personnel dénommé “ DOREMI ” ;
 
 5° Décret portant création d'un traitement automatisé de données à caractère personnel dénommé FSPRT ;
 
@@ -93936,7 +93936,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-378 du 22 mai 2018 - art. 2
+  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
 
 
 ### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=981></a>
@@ -95872,7 +95872,7 @@ Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation de
 R. 811-2</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>Au titre II</td>
@@ -95880,11 +95880,11 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>Au titre IV</td>
@@ -95892,7 +95892,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 841-2</td>
-      <td>Résultant du décret n° 2018-378 du 22 mai 2018</td>
+      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -95906,19 +95906,19 @@ Au titre V</td>
 R. 851-1</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 851-2 à R. 851-4</td>
-      <td>Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -95926,7 +95926,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 R. 852-1 à R. 852-2</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td align="left">R. 852-3</td>
@@ -95938,7 +95938,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 I des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -95946,7 +95946,7 @@ Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation 
 II des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td align="left">Au titre V BIS</td>
@@ -95958,7 +95958,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
 R. 855-1
 
 </td>
-      <td>Résultant du  décret n° 2017-749 du 3 mai 2017  </td>
+      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 </td>
     </tr>
     <tr>
       <td>Au titre VII</td>
@@ -95966,7 +95966,7 @@ R. 855-1
     </td></tr>
     <tr>
       <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 872-1 à R. 872-6</td>
@@ -95974,7 +95974,7 @@ R. 855-1
     </tr>
     <tr>
       <td>R. 873-1 et R. 873-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
   </tbody>
 </table>
@@ -95987,11 +95987,12 @@ _Cite_:
   - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
   - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2018-378 du 22 mai 2018
+  - Décret n°2018-543 du 29 juin 2018
+  - Décret n°2018-1287 du 27 décembre 2018
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 3
+  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=995></a>
@@ -95999,6 +96000,160 @@ _Modifié par_:
 ###### Article R896-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 811-1</td>
+      <td>
+
+Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 811-2</td>
+      <td>
+
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>Au titre II</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>Au titre IV</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2</td>
+      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 851-1</td>
+      <td>
+
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4</td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 852-1 à R. 852-2</td>
+      <td>
+
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-3</td>
+      <td>Résultant du décret n° 2018-543 du 29 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
+
+Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+II des articles R. 853-1, R. 853-2 et R. 853-3</td>
+      <td>
+
+Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+    </tr>
+    <tr>
+      <td>Au titre V BIS</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 855-1</td>
+      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 .</td>
+    </tr>
+    <tr>
+      <td>Au titre VII</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 871-1 à R. 871-5</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 872-1 à R. 872-6</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+    <tr>
+      <td>R. 873-1 et R. 873-2</td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2015-1185 du 28 septembre 2015
+  - Décret n°2016-67 du 29 janvier 2016
+  - Décret n°2017-36 du 16 janvier 2017
+  - Décret n°2017-749 du 3 mai 2017
+  - Décret n°2018-543 du 29 juin 2018
+  - Décret n°2018-1287 du 27 décembre 2018
+
+_Modifié par_:
+
+  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
+
+
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=996></a>
+
+###### Article R897-1
+
+Sont applicables à Wallis-et-Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
 après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table border="1">
@@ -96039,164 +96194,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>Au titre IV</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 841-2</td>
-      <td>
-
-Résultant du décret n° 2018-378 du 22 mai 2018
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Au titre V</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 851-1</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-    </tr>
-    <tr>
-      <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 851-2 à R. 851-4</td>
-      <td>Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-    </tr>
-    <tr>
-      <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 852-1 à R. 852-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td align="left">R. 852-3</td>
-      <td>Résultant du décret n° 2018-543 du 29 juin 2018</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-I des articles R. 853-1, R. 853-2 et R. 853-3</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-II des articles R. 853-1, R. 853-2 et R. 853-3</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017  </td>
-    </tr>
-    <tr>
-      <td>Au titre V BIS</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 855-1</td>
-      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 .</td>
-    </tr>
-    <tr>
-      <td>Au titre VII</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 872-1 à R. 872-6</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 873-1 et R. 873-2</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2015-1185 du 28 septembre 2015
-  - Décret n°2016-67 du 29 janvier 2016
-  - Décret n°2017-36 du 16 janvier 2017
-  - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2018-378 du 22 mai 2018
-
-_Modifié par_:
-
-  - Décret n°2018-543 du 29 juin 2018 - art. 3
-
-
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=996></a>
-
-###### Article R897-1
-
-Sont applicables à Wallis-et-Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
-
-<table border="1">
-  <tbody>
-    <tr>
-      <th>
-
-DISPOSITIONS APPLICABLES</th>
-      <th>
-
-DANS LEUR RÉDACTION</th>
-    </tr>
-    <tr>
-      <td align="left">
-
-Au titre Ier</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 811-1</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 811-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017  </td>
-    </tr>
-    <tr>
-      <td>Au titre II</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 823-1 et R. 823-2</td>
@@ -96208,7 +96206,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017  </td>
     </td></tr>
     <tr>
       <td>R. 841-2</td>
-      <td>Résultant du décret n° 2018-378 du 22 mai 2018</td>
+      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -96222,19 +96220,19 @@ Au titre V</td>
 R. 851-1</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 851-2 à R. 851-4</td>
-      <td>Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -96258,7 +96256,7 @@ Résultant du décret n° 2018-543 du 29 juin 2018
 I des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -96266,7 +96264,7 @@ Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation 
 II des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td align="left">Au titre V BIS</td>
@@ -96274,7 +96272,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td align="left">R. 855-1</td>
-      <td>Résultant du décret n° 2017-749 du 3 mai 2017 </td>
+      <td>Résultant du décret n° 2017-749 du 3 mai 2017</td>
     </tr>
     <tr>
       <td>Au titre VII</td>
@@ -96282,7 +96280,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 872-1 à R. 872-6</td>
@@ -96303,11 +96301,12 @@ _Cite_:
   - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
   - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2018-378 du 22 mai 2018
+  - Décret n°2018-543 du 29 juin 2018
+  - Décret n°2018-1287 du 27 décembre 2018
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 3
+  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=997></a>
@@ -96339,7 +96338,7 @@ Au titre Ier</td>
 R. 811-1</td>
       <td>
 
-Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -96347,7 +96346,7 @@ Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation 
 R. 811-2</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>Au titre II</td>
@@ -96355,11 +96354,11 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>Au titre IV</td>
@@ -96367,7 +96366,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 841-2</td>
-      <td>Résultant du décret n° 2018-378 du 22 mai 2018</td>
+      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -96381,19 +96380,19 @@ Au titre V</td>
 R. 851-1</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 851-2 à R. 851-4</td>
-      <td>Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -96413,7 +96412,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017</td>
 I des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
     </tr>
     <tr>
       <td align="left">
@@ -96421,7 +96420,7 @@ Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation 
 II des articles R. 853-1, R. 853-2 et R. 853-3</td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
       <td align="left">Au titre V BIS</td>
@@ -96437,7 +96436,7 @@ Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
     </td></tr>
     <tr>
       <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
     <tr>
       <td>R. 872-1 à R. 872-6</td>
@@ -96458,11 +96457,12 @@ _Cite_:
   - Décret n°2016-67 du 29 janvier 2016
   - Décret n°2017-36 du 16 janvier 2017
   - Décret n°2017-749 du 3 mai 2017
-  - Décret n°2018-378 du 22 mai 2018
+  - Décret n°2018-543 du 29 juin 2018
+  - Décret n°2018-1287 du 27 décembre 2018
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 3
+  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
 
 
 ## Annexes<a id=998></a>
