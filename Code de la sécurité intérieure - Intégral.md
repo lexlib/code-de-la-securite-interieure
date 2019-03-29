@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-03-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -443,7 +443,7 @@ Version Consolidée au 2019-03-25
         - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. R232-1 à R232-23)](#440)
           - [Section 1 : Transmission des données (art. R232-1 à R232-1-1)](#441)
           - [Section 2 : Sanctions (art. R232-2 à R232-5-1)](#442)
-          - [Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE " (art. R232-6 à R232-11)](#443)
+          - [Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE " (art. R232-6 à R232-11-2)](#443)
           - [Section 4 : Le traitement de données à caractère personnel "système API-PNR France" (art. R232-12 à R232-22)](#444)
           - [Section 5 : Interdiction de transport (art. R232-23)](#445)
         - [Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives (art. R234-1 à R234-3)](#446)
@@ -35884,13 +35884,17 @@ _Cite_:
 Le ministre de l'intérieur et le ministre chargé de l'immigration sont autorisés à mettre en œuvre un traitement automatisé
 de données à caractère personnel dénommé " PARAFE " (passage rapide aux frontières extérieures) et destiné, pour les
 voyageurs aériens, maritimes et ferroviaires volontairement inscrits, à améliorer et faciliter les contrôles de police aux
-frontières extérieures. 
+frontières extérieures.
 
-Peuvent être inscrites au programme PARAFE les personnes majeures, citoyens de l'Union européenne ou ressortissants d'un
-autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ainsi que leurs conjoints
-ressortissants d'un pays tiers. L'inscription et le maintien au programme PARAFE nécessitent la détention d'un passeport en
-cours de validité. Un arrêté du ministre de l'intérieur et du ministre chargé de l'immigration fixe la liste des titres et
-documents permettant aux personnes de s'inscrire et de bénéficier des modalités de contrôle prévues par ce programme.
+Peuvent être inscrites au programme PARAFE les personnes majeures ou mineures âgées de douze ans révolus, citoyens de l'Union
+européenne ou ressortissants d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse
+ou ressortissants monégasques ou andorrans ou saint-marinais, ainsi que les personnes majeures ou mineures âgées d'au moins
+douze ans révolus ressortissantes d'un pays tiers, détentrices d'une carte de séjour de membre de la famille d'un citoyen de
+l'Union européenne prévue par la directive n° 2004/38/ CE du Parlement européen et du Conseil du 29 avril 2004 relative au
+droit des citoyens de l'Union et des membres de leurs familles de circuler et de séjourner librement sur le territoire des
+Etats membres, émise par la France ou par un autre Etat membre de l'Union européenne et en cours de validité. L'inscription
+et le maintien au programme PARAFE nécessitent la détention d'un document de voyage doté d'une zone de lecture automatique au
+sens du document 9303 de l'Organisation de l'aviation civile internationale en cours de validité.
 
 **Liens relatifs à cet article**
 
@@ -35902,9 +35906,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2019-238 du 27 mars 2019 - art. 1
 
 _Cité par_:
 
@@ -35918,27 +35922,27 @@ _Cité par_:
 ###### Article R232-7
 
 Les catégories de données à caractère personnel enregistrées dans le traitement mentionné à l'article R. 232-6 sont les
-suivantes : 
+suivantes :
 
-1° Les minuties des empreintes digitales de deux doigts posés à plat de la personne inscrite au programme ; 
+1° Les minuties des empreintes digitales de deux doigts posés à plat de la personne inscrite au programme ;
 
-2° Les données suivantes relatives au passager : 
+2° Les données suivantes relatives au passager :
 
-a) Etat civil : nom de famille, nom d'usage le cas échéant, prénom, date de naissance ; 
+a) Etat civil : nom de famille, nom d'usage le cas échéant, prénom, date de naissance ;
 
-b) Lieu de naissance (ville ; département ; pays) ; 
+b) Lieu de naissance (ville ; département ; pays) ;
 
-c) Nationalité figurant sur le passeport présenté lors de l'inscription ; 
+c) Nationalité figurant sur le document de voyage présenté lors de l'inscription ;
 
-d) Adresse à titre facultatif ; 
+d) Adresse à titre facultatif ;
 
-3° Les données relatives à l'inscription du passager dans le traitement automatisé : 
+3° Les données relatives à l'inscription du passager dans le traitement automatisé :
 
-a) Numéro d'inscription ; 
+a) Numéro d'inscription ;
 
-b) Date et heure d'inscription ; 
+b) Date et heure d'inscription ;
 
-c) Type, numéro et limite de validité du titre ou document figurant sur la liste mentionnée à l'article R. 232-6.
+c) Type, numéro et limite de validité du document de voyage et les documents nécessaires à cette inscription.
 
 **Liens relatifs à cet article**
 
@@ -35953,7 +35957,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-414 du 6 avril 2016 - art. 1
+  - Décret n°2019-238 du 27 mars 2019 - art. 2
 
 _Cite_:
 
@@ -35963,8 +35967,12 @@ _Cite_:
 ###### Article R232-8
 
 Les données à caractère personnel enregistrées dans le traitement mentionné à l'article R. 232-6 sont conservées pendant une
-durée de cinq ans à compter de leur inscription. Toutefois, les données des personnes qui renoncent au programme sont
-effacées sans délai.
+durée de cinq ans à compter de leur inscription pour les personnes majeures et pendant une durée de trois ans à compter de
+leur inscription pour les personnes mineures âgées d'au moins douze ans révolus. Toutefois, les données des personnes qui
+renoncent au programme sont effacées sans délai.
+
+Les opérations relatives au fonctionnement du traitement font l'objet d'un enregistrement comprenant la date et l'heure de
+l'opération. Ces informations sont conservées pendant deux ans.
 
 **Liens relatifs à cet article**
 
@@ -35976,25 +35984,25 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2019-238 du 27 mars 2019 - art. 3
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R232-6 (VD)
+  - Code de la sécurité intérieure - art. R232-6
 
 
 ###### Article R232-9
 
 Peuvent seuls avoir accès aux données contenues dans le traitement mentionné à l'article R. 232-6 les agents de la police aux
 frontières et des douanes, individuellement désignés et spécialement habilités par leur chef de service, pour les besoins des
-contrôles dont ils sont chargés dans les aéroports, ports maritimes et gares ferroviaires concernés. 
+contrôles dont ils sont chargés dans les aéroports, ports maritimes et gares ferroviaires concernés.
 
-Les données alphanumériques du traitement peuvent donner lieu à la consultation du fichier des personnes recherchées et du
-système d'information Schengen. Pour l'accomplissement de leur mission, les agents mentionnés au premier alinéa ayant la
-qualité d'officier ou d'agent de police judiciaire ou d'agent des douanes chargé du contrôle aux frontières ont accès aux
-informations résultant de cette consultation.
+Les données alphanumériques du traitement donnent lieu à la consultation du fichier des personnes recherchées, du système
+d'information Schengen et du fichier des documents de voyage volés et perdus d'Interpol. Pour l'accomplissement de leur
+mission, les agents mentionnés au premier alinéa ayant la qualité d'officier ou d'agent de police judiciaire ou d'agent des
+douanes chargé du contrôle aux frontières ont accès aux informations résultant de cette consultation.
 
 **Liens relatifs à cet article**
 
@@ -36006,9 +36014,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2019-238 du 27 mars 2019 - art. 4
 
 _Cité par_:
 
@@ -36020,21 +36028,18 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R232-6 (VD)
+  - Code de la sécurité intérieure - art. R232-6
 
 
 ###### Article R232-10
 
-Les droits d'accès et de rectification prévus par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés s'exercent auprès du chef du service de la police aux frontières ou des douanes
-des aéroports, ports maritimes et gares ferroviaires concernés soit par écrit, soit directement auprès du poste
-d'inscription.
+Les droits d'information, d'accès, de rectification, d'effacement, à la limitation et d'opposition prévus aux articles 13,
+15, 16, 17, 18 et 21 du règlement (UE) 2016/679 relatif à la protection des personnes physiques à l'égard du traitement des
+données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/ CE s'exercent auprès
+du chef du service de la police aux frontières ou des douanes des aéroports, ports maritimes et gares ferroviaires concernés
+soit par écrit, soit directement auprès du poste d'inscription.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
 
 _Anciens textes_:
 
@@ -36044,9 +36049,9 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2019-238 du 27 mars 2019 - art. 5
 
 _Cité par_:
 
@@ -36056,36 +36061,32 @@ _Cité par_:
 ###### Article R232-11
 
 Peuvent également bénéficier du traitement mentionné à l'article R. 232-6, dans les conditions figurant ci-après, les
-personnes majeures, citoyens de l'Union européenne ou ressortissants d'un autre Etat partie à l'accord sur l'Espace
-économique européen ou de la Confédération suisse, non inscrites au programme PARAFE mais titulaires d'un passeport dit "
-biométrique " conforme au règlement (CE) n° 2252/2004 du Conseil du 13 décembre 2004 modifié établissant des normes pour les
-éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les
-Etats membres. Dans un tel cas : 
+personnes majeures ou mineures âgées de douze ans révolus, citoyens de l'Union européenne ou ressortissants d'un autre Etat
+partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou ressortissants monégasques ou andorrans
+ou saint-marinais, non inscrites au programme PARAFE mais titulaires d'un document de voyage comportant des données
+biométriques et doté d'une zone de lecture automatique au sens du document 9303 de l'Organisation de l'aviation civile
+internationale ou conforme au règlement (CE) n° 2252/2004 du Conseil du 13 décembre 2004 modifié établissant des normes pour
+les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par
+les Etats membres. Dans un tel cas : 
 
 1° Les catégories de données à caractère personnel traitées sont les suivantes : 
 
-a) Les minuties des empreintes digitales de deux doigts posés à plat du porteur du passeport ; 
+a) Les minuties des empreintes digitales de deux doigts posés à plat du porteur du document de voyage ; 
 
-a bis) L'image numérisée du visage dans les sas désignés par décision du ministre de l'intérieur ;
+a bis) L'image numérisée du visage du porteur du document de voyage prise lors du passage dans le sas ; 
 
-b) Le nom, le prénom, la date de naissance et la nationalité de l'intéressé, le numéro et la limite de validité du
-passeport ; 
+b) Le nom, le prénom, la date de naissance et la nationalité de l'intéressé, le numéro et la limite de validité du document
+de voyage ; 
 
 2° Ces données ne sont pas conservées dans le traitement ; 
 
 3° Les dispositions du second alinéa de l'article R. 232-9 sont applicables ; 
 
 4° L'article R. 232-10 est applicable en tant que de besoin, sans préjudice des droits d'accès et de rectification prévus à
-l'article 26 du décret n° 2005-1726 du 30 décembre 2005 modifié relatif aux passeports.
+l'article 11 du décret n° 2016-1460 du 28 octobre 2016 modifié autorisant la création d'un traitement de données à caractère
+personnel relatif aux passeports et aux cartes nationales d'identité.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2005-1726 du 30 décembre 2005 - art. 26
-  - Code de la sécurité intérieure - art. R232-10
-  - Code de la sécurité intérieure - art. R232-6
-  - Code de la sécurité intérieure - art. R232-9
 
 _Anciens textes_:
 
@@ -36095,13 +36096,54 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
+_Cite_:
+
+  - Décret n°2016-1460 du 28 octobre 2016 - art. 11
+  - Code de la sécurité intérieure - art. R232-10
+  - Code de la sécurité intérieure - art. R232-6
+  - Code de la sécurité intérieure - art. R232-9
+
 _Modifié par_:
 
-  - Décret n°2016-414 du 6 avril 2016 - art. 1
+  - Décret n°2019-238 du 27 mars 2019 - art. 6
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R232-11-1 (V)
+
+
+###### Article R232-11-1
+
+Les mineurs mentionnés aux articles R. 232-6 et R. 232-11 ne sont autorisés à utiliser les sas PARAFE que pour l'entrée sur
+le territoire. L'inscription mentionnée à l'article R. 232-6 est conditionnée, pour ces mineurs, au consentement d'un
+titulaire de l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-238 du 27 mars 2019 - art. 7
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R232-11
+  - Code de la sécurité intérieure - art. R232-6
+
+
+###### Article R232-11-2
+
+Un arrêté du ministre de l'intérieur rend opposable le cahier des exigences minimales de l'administration à respecter par les
+gestionnaires d'infrastructures aéroportuaires, portuaires ou ferroviaires, lors de l'installation de sas utilisant le
+traitement automatisé de données à caractère personnel dénommé “ PARAFE ”. L'autorisation d'exploitation du dispositif PARAFE
+par les gestionnaires fait l'objet d'une décision du ministre de l'intérieur après consultation, le cas échéant, du ministre
+chargé des douanes, par modèle de sas et par point de passage frontalier. Les modalités d'exploitation desdits sas sont
+régies par une convention signée entre le ministre de l'intérieur et ces gestionnaires d'infrastructures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-238 du 27 mars 2019 - art. 7
 
 
 ##### Section 4 : Le traitement de données à caractère personnel "système API-PNR France"<a id=444></a>
