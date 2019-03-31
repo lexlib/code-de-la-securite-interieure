@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-03-30
+Version Consolidée au 2019-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -90947,9 +90947,11 @@ _Cite_:
 ###### Article R741-29
 
 Le plan particulier d'intervention est révisé au moins tous les cinq ans, à l'exception des plans exigés au titre des 2° ou
-3° de l'article R. 741-18 pour lesquels la périodicité de révision du plan est de trois ans. Les dispositions des articles R.
-741-25 à R. 741-27 s'appliquent en cas de modification substantielle du plan particulier d'intervention ou d'évolution
-significative des risques.
+3° de l'article R. 741-18 pour lesquels la périodicité de révision du plan est de trois ans. Les plans exigés au titre du 1°
+de l'article R. 741-18 sont réexaminés au moins tous les trois ans et, si nécessaire, mis à jour et testés, dès lors que le
+site entre dans le champ d'application de la sous-section 3 de la section 15 du chapitre III du titre IX du livre V du code
+de l'environnement. Les dispositions des articles R. 741-25 à R. 741-27 s'appliquent en cas de modification substantielle du
+plan particulier d'intervention ou d'évolution significative des risques.
 
 **Liens relatifs à cet article**
 
@@ -90963,12 +90965,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1652 du 11 décembre 2015 - art. 4
+  - Décret n°2019-190 du 14 mars 2019 - art. 7
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R741-18 (V)
-  - Code de la sécurité intérieure - art. R741-25 (V)
+  - Code de la sécurité intérieure - art. R741-18
+  - Code de la sécurité intérieure - art. R741-25
 
 
 ###### Article R741-30
