@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-04-01
+Version Consolidée au 2019-04-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -3103,26 +3103,22 @@ manifestation doit avoir lieu, trois jours francs au moins et quinze jours franc
 A Paris, la déclaration est faite à la préfecture de police. Elle est faite au représentant de l'Etat dans le département en
 ce qui concerne les communes où est instituée la police d'Etat.
 
-La déclaration fait connaître les noms, prénoms et domiciles des organisateurs et est signée par trois d'entre eux faisant
-élection de domicile dans le département ; elle indique le but de la manifestation, le lieu, la date et l'heure du
-rassemblement des groupements invités à y prendre part et, s'il y a lieu, l'itinéraire projeté.
+La déclaration fait connaître les noms, prénoms et domiciles des organisateurs et est signée par au moins l'un d'entre eux ;
+elle indique le but de la manifestation, le lieu, la date et l'heure du rassemblement des groupements invités à y prendre
+part et, s'il y a lieu, l'itinéraire projeté.
 
 L'autorité qui reçoit la déclaration en délivre immédiatement un récépissé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-290 du 10 avril 2019 - art. 1
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. L283-2 (V)
   - Code de la sécurité intérieure - art. L287-2 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L211-3
@@ -3356,21 +3352,20 @@ _Codifié par_:
 L'Etat est civilement responsable des dégâts et dommages résultant des crimes et délits commis, à force ouverte ou par
 violence, par des attroupements ou rassemblements armés ou non armés, soit contre les personnes, soit contre les biens.
 
+L'Etat peut également exercer une action récursoire contre les auteurs du fait dommageable, dans les conditions prévues au
+chapitre Ier du sous-titre II du titre III du livre III du code civil.
+
 Il peut exercer une action récursoire contre la commune lorsque la responsabilité de celle-ci se trouve engagée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-290 du 10 avril 2019 - art. 9
 
 _Anciens textes_:
 
   - Code général des collectivités territoriales - art. L2216-3 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ##### Section 4 : Manifestations sportives, récréatives  ou culturelles à but lucratif<a id=40></a>
@@ -3517,44 +3512,6 @@ section 3 du chapitre Ier du titre III du livre IV du code pénal.
 _Créé par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L211-13
-
-Les personnes s'étant rendues coupables, lors du déroulement de manifestations sur la voie publique, des infractions prévues
-aux articles 222-7 à 222-13, 322-1, premier alinéa, 322-2 et 322-3, dans le cas de l'infraction définie à l'article 322-1,
-premier alinéa, et 322-6 à 322-10 du code pénal encourent également la peine complémentaire d'interdiction de participer à
-des manifestations sur la voie publique, dans des lieux fixés par la décision de condamnation, pour une durée ne pouvant
-excéder trois ans. Si cette interdiction accompagne une peine privative de liberté sans sursis, elle s'applique à compter du
-jour où la privation de liberté a pris fin. 
-
-Le fait pour une personne de participer à une manifestation en méconnaissance de cette interdiction est puni d'un an
-d'emprisonnement et de 15 000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2019-290 du 10 avril 2019 - art. 7
-
-_Cite_:
-
-  - Code pénal - art. 222-7
-  - Code pénal - art. 322-1
-  - Code pénal - art. 322-2
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. L282-1 (VD)
-  - Code de la sécurité intérieure - art. L284-1 (VD)
 
 _Codifié par_:
 
@@ -7148,22 +7105,18 @@ _Codifié par_:
 
 ###### Article L282-1
 
-Les articles L. 211-13, L. 211-14 et L. 261-1 ne sont pas applicables à Mayotte.
+Les articles L. 211-14 et L. 261-1 ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-290 du 10 avril 2019 - art. 10 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L211-13 (VD)
+  - Code de la sécurité intérieure - art. L211-14 (V)
   - Code de la sécurité intérieure - art. L261-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L282-2
@@ -7260,22 +7213,18 @@ _Codifié par_:
 
 ###### Article L284-1
 
-Les articles L. 211-13, L. 211-14 et L. 261-1 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles L. 211-14 et L. 261-1 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-290 du 10 avril 2019 - art. 10 (V)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L211-13 (VD)
+  - Code de la sécurité intérieure - art. L211-14 (V)
   - Code de la sécurité intérieure - art. L261-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L284-2
