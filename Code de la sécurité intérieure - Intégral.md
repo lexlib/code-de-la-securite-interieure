@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-04-12
+Version Consolidée au 2019-04-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -85358,7 +85358,7 @@ _Créé par_:
 
 ###### Article D723-65
 
-Le Conseil national des sapeurs-pompiers volontaires comprend dix-neuf membres, répartis comme suit :
+Le Conseil national des sapeurs-pompiers volontaires comprend vingt-quatre membres, répartis comme suit :
 
 1° Le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
@@ -85394,7 +85394,22 @@ d'incendie et de secours ou son représentant ;
 civile sur proposition du président de la Fédération nationale des sapeurs-pompiers de France pour une durée de cinq ans ;
 
 13° Une personnalité désignée en raison de ses compétences en matière de volontariat dans les services d'incendie et de
-secours nommée par arrêté du ministre chargé de la sécurité civile pour une durée de cinq ans.
+secours nommée par arrêté du ministre chargé de la sécurité civile pour une durée de cinq ans ;
+
+14° Trois représentants des employeurs privés de sapeurs-pompiers volontaires répartis comme suit :
+
+a) Un membre désigné par le Mouvement des entreprises de France (MEDEF) ;
+
+b) Un membre désigné par la Confédération des petites et moyennes entreprises (CPME) ;
+
+c) Un membre désigné par l'Union des entreprises de proximité (U2P) ;
+
+15° Deux représentants des établissements publics représentant au niveau national les intérêts généraux de l'agriculture et
+de l'artisanat, répartis comme suit :
+
+a) Un membre désigné par l'Assemblée permanente des Chambres d'agriculture (APCA) ;
+
+b) Un membre désigné par CMA France.
 
 **Liens relatifs à cet article**
 
@@ -85406,9 +85421,9 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
+  - Décret n°2019-376 du 26 avril 2019 - art. 1
 
 _Cité par_:
 
