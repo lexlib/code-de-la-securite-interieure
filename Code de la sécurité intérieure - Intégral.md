@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-04-29
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -1208,53 +1208,53 @@ de la défense, soit les emplois privés ou activités privées réglementées r
 soit l'accès à des zones protégées en raison de l'activité qui s'y exerce, soit l'utilisation de matériels ou produits
 présentant un caractère dangereux, peuvent être précédées d'enquêtes administratives destinées à vérifier que le comportement
 des personnes physiques ou morales intéressées n'est pas incompatible avec l'exercice des fonctions ou des missions
-envisagées. 
+envisagées.
 
 Ces enquêtes peuvent donner lieu à la consultation de traitements automatisés de données à caractère personnel relevant de
-l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des
+l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des
 fichiers d'identification. Les conditions dans lesquelles les personnes intéressées sont informées de cette consultation sont
-précisées par décret. 
+précisées par décret.
 
 II. – Il peut également être procédé à de telles enquêtes administratives en vue de s'assurer que le comportement des
 personnes physiques ou morales concernées n'est pas devenu incompatible avec les fonctions ou missions exercées, l'accès aux
 lieux ou l'utilisation des matériels ou produits au titre desquels les décisions administratives mentionnées au I ont été
-prises. 
+prises.
 
 III. – Lorsque le résultat de l'enquête fait apparaître que le comportement de la personne bénéficiant d'une décision
 d'autorisation, d'agrément ou d'habilitation est devenu incompatible avec le maintien de cette décision, il est procédé à son
 retrait ou à son abrogation, dans les conditions prévues par les dispositions législatives ou réglementaires qui lui sont
 applicables ou, à défaut, dans les conditions prévues au chapitre Ier du titre II du livre Ier du code des relations entre le
 public et l'administration. En cas d'urgence, l'autorisation, l'agrément ou l'habilitation peuvent être suspendus sans délai
-pendant le temps strictement nécessaire à la conduite de cette procédure. 
+pendant le temps strictement nécessaire à la conduite de cette procédure.
 
 IV. – Lorsque le résultat de l'enquête fait apparaître que le comportement d'un fonctionnaire occupant un emploi participant
 à l'exercice de missions de souveraineté de l'Etat ou relevant du domaine de la sécurité ou de la défense est devenu
 incompatible avec l'exercice de ses fonctions, l'administration qui l'emploie procède à son affectation ou à sa mutation dans
 l'intérêt du service dans un emploi comportant l'exercice d'autres fonctions. En cas d'impossibilité de mettre en œuvre une
 telle mesure ou lorsque le comportement du fonctionnaire est incompatible avec l'exercice de toute autre fonction eu égard à
-la menace grave qu'il fait peser sur la sécurité publique, il est procédé à sa radiation des cadres. 
+la menace grave qu'il fait peser sur la sécurité publique, il est procédé à sa radiation des cadres.
 
 Ces décisions interviennent après mise en œuvre d'une procédure contradictoire. A l'exception du changement d'affectation,
 cette procédure inclut l'avis d'un organisme paritaire dont la composition et le fonctionnement sont fixés par décret en
-Conseil d'Etat. 
+Conseil d'Etat.
 
 Lorsque le résultat de l'enquête fait apparaître que le comportement d'un agent contractuel de droit public occupant un
 emploi défini au premier alinéa du présent IV est devenu incompatible avec l'exercice de ses fonctions, son employeur lui
 propose un emploi comportant l'exercice d'autres fonctions et correspondant à ses qualifications. En cas d'impossibilité de
 mettre en œuvre une telle mesure, en cas de refus de l'agent ou lorsque son comportement est incompatible avec l'exercice de
 toute autre fonction eu égard à la menace grave qu'il fait peser sur la sécurité publique, il est procédé, après mise en
-œuvre d'une procédure contradictoire, à son licenciement. 
+œuvre d'une procédure contradictoire, à son licenciement.
 
 Les décisions prises en application du présent IV, auxquelles l'article L. 411-2 du code des relations entre le public et
 l'administration n'est pas applicable, peuvent être contestées devant le juge administratif dans un délai de quinze jours à
 compter de leur notification et faire l'objet d'un appel et d'un pourvoi en cassation dans le même délai. Les juridictions
 saisies au fond statuent dans un délai de deux mois. En cas de recours, la décision contestée ne peut prendre effet tant
-qu'il n'a pas été statué en dernier ressort sur ce litige. 
+qu'il n'a pas été statué en dernier ressort sur ce litige.
 
 L'employeur peut décider, à titre conservatoire, et pendant la durée strictement nécessaire à la mise en œuvre des suites
 données au résultat de l'enquête, d'écarter sans délai du service le fonctionnaire ou l'agent contractuel de droit public,
 avec maintien de son traitement, de l'indemnité de résidence, du supplément familial de traitement et des prestations
-familiales obligatoires. 
+familiales obligatoires.
 
 V. – Il peut être procédé à des enquêtes administratives dans les conditions prévues au second alinéa du I du présent article
 pour la délivrance, le renouvellement ou le retrait d'un titre ou d'une autorisation de séjour sur le fondement des articles
@@ -1262,28 +1262,20 @@ L. 121-4, L. 122-1, L. 311-12, L. 313-3, L. 314-3 et L. 316-1-1 du code de l'ent
 d'asile ou des stipulations équivalentes des conventions internationales ainsi que pour l'application des articles L. 411-6,
 L. 711-6, L. 712-2 et L. 712-3 du même code.
 
-**Nota:**
-
-Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
-date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
-postérieurement à cette dernière.
-
-Le décret n° 2018-1159 du 14 décembre 2018 en son article 23 a fixé cette date au 1er janvier 2019.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 26
-  - Code de l'entrée et du séjour des étrangers et ... - art. L121-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L122-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L311-12 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L314-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L411-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L711-6 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L712-2 (VT)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L122-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-12
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-6
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L711-6
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-2
   - Code des relations entre le public et l'administration
   - Code des relations entre le public et l'administration - art. L411-2
 
@@ -1341,11 +1333,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 5
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ###### Article L114-2
@@ -1353,23 +1341,23 @@ _Codifié par_:
 Les décisions de recrutement et d'affectation concernant les emplois en lien direct avec la sécurité des personnes et des
 biens au sein d'une entreprise de transport public de personnes ou d'une entreprise de transport de marchandises dangereuses
 soumise à l'obligation d'adopter un plan de sûreté peuvent être précédées d'enquêtes administratives destinées à vérifier que
-le comportement des personnes intéressées n'est pas incompatible avec l'exercice des fonctions ou des missions envisagées. 
+le comportement des personnes intéressées n'est pas incompatible avec l'exercice des fonctions ou des missions envisagées.
 
 Si le comportement d'une personne occupant un emploi mentionné au premier alinéa laisse apparaître des doutes sur la
 compatibilité avec l'exercice des missions pour lesquelles elle a été recrutée ou affectée, une enquête administrative peut
-être menée à la demande de l'employeur ou à l'initiative de l'autorité administrative. 
+être menée à la demande de l'employeur ou à l'initiative de l'autorité administrative.
 
-L'autorité administrative avise sans délai l'employeur du résultat de l'enquête. 
+L'autorité administrative avise sans délai l'employeur du résultat de l'enquête.
 
 La personne qui postule pour une fonction mentionnée au même premier alinéa est informée qu'elle est susceptible, dans ce
-cadre, de faire l'objet d'une enquête administrative dans les conditions du présent article. 
+cadre, de faire l'objet d'une enquête administrative dans les conditions du présent article.
 
 L'enquête précise si le comportement de cette personne donne des raisons sérieuses de penser qu'elle est susceptible, à
-l'occasion de ses fonctions, de commettre un acte portant gravement atteinte à la sécurité ou à l'ordre publics. 
+l'occasion de ses fonctions, de commettre un acte portant gravement atteinte à la sécurité ou à l'ordre publics.
 
 L'enquête peut donner lieu à la consultation du bulletin n° 2 du casier judiciaire et de traitements automatisés de données à
-caractère personnel relevant de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
-aux libertés, à l'exception des fichiers d'identification. 
+caractère personnel relevant de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
+aux libertés, à l'exception des fichiers d'identification.
 
 Lorsque le résultat d'une enquête réalisée en application du deuxième alinéa du présent article fait apparaître, le cas
 échéant après l'exercice des voies de recours devant le juge administratif dans les conditions fixées au neuvième alinéa, que
@@ -1378,29 +1366,37 @@ affecté, l'employeur lui propose un emploi autre que ceux mentionnés au premie
 En cas d'impossibilité de procéder à un tel reclassement ou en cas de refus du salarié, l'employeur engage à son encontre une
 procédure de licenciement. Cette incompatibilité constitue la cause réelle et sérieuse du licenciement, qui est prononcé dans
 les conditions prévues par les dispositions du code du travail relatives à la rupture du contrat de travail pour motif
-personnel. 
+personnel.
 
 L'employeur peut décider, à titre conservatoire et pendant la durée strictement nécessaire à la mise en œuvre des suites
 données au résultat de l'enquête qui lui est communiqué par l'autorité administrative, de retirer le salarié de son emploi,
-avec maintien du salaire. 
+avec maintien du salaire.
 
 Le salarié peut contester, devant le juge administratif, l'avis de l'autorité administrative dans un délai de quinze jours à
 compter de sa notification et, de même que l'autorité administrative, interjeter appel puis se pourvoir en cassation dans le
 même délai. Les juridictions saisies au fond statuent dans un délai de deux mois. La procédure de licenciement ne peut être
-engagée tant qu'il n'a pas été statué en dernier ressort sur ce litige. 
+engagée tant qu'il n'a pas été statué en dernier ressort sur ce litige.
 
 Le présent article est applicable aux salariés des employeurs de droit privé, ainsi qu'au personnel des personnes publiques
 employé dans les conditions du droit privé ou régi par un statut particulier, recrutés ou affectés sur les emplois mentionnés
-au premier alinéa. 
+au premier alinéa.
 
 Un décret en Conseil d'Etat fixe la liste des fonctions concernées et détermine les modalités d'application du présent
 article.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 26 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 31
+  - Code du travail
 
 _Cité par_:
 
@@ -1424,7 +1420,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 5
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ### TITRE II : ORGANISATION ADMINISTRATIVE<a id=8></a>
@@ -2610,16 +2606,25 @@ _Cite_:
 
 ###### Article L155-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la                                   loi n°
-2017-258 du 28 février 2017 relative à la sécurité publique, les dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
-2° Le titre II, à l'exception de l'article L. 122-3 ; 
+2° Le titre II, à l'exception de l'article L. 122-3 ;
 
-3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 et L. 132-16 ; 
+3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 et L. 132-16 ;
 
 4° Le titre IV.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -2629,7 +2634,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 40
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -2746,17 +2751,26 @@ _Modifié par_:
 
 ###### Article L156-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la                                   loi n° 2017-258
-du 28 février 2017 relative à la sécurité publique, les dispositions suivantes : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
-2° Le titre II, à l'exception de l'article L. 122-3 ; 
+2° Le titre II, à l'exception de l'article L. 122-3 ;
 
 3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10, 
-L. 132-14 et L. 132-16 ; 
+L. 132-14 et L. 132-16 ;
 
 4° Le titre IV.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -2766,7 +2780,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 40
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -2907,22 +2921,31 @@ _Modifié par_:
 
 ###### Article L157-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la                                   loi n°
-2017-258 du 28 février 2017 relative à la sécurité publique, les dispositions suivantes : 
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre
+2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données
+personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés et diverses dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
-2° Le titre II, à l'exception de l'article L. 122-3 ; 
+2° Le titre II, à l'exception de l'article L. 122-3 ;
 
-3° Au titre III : les articles L. 132-8 et L. 132-9 ; 
+3° Au titre III : les articles L. 132-8 et L. 132-9 ;
 
 4° Le titre IV.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 40
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -2997,28 +3020,38 @@ _Codifié par_:
 
 ###### Article L158-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la
-loi n° 2017-258 du 28 février 2017 relative à la sécurité publique, les dispositions suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de l'ordonnance n°
+2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la
+protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère personnel, les
+dispositions suivantes :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
-2° Le titre II, à l'exception de l'article L. 122-3 ; 
+2° Le titre II, à l'exception de l'article L. 122-3 ;
 
 3° Le titre IV.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2017-258 du 28 février 2017 - art. 40
-
-_Cite_:
-
-  - Code de la sécurité intérieure - art. L122-3
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L122-3
 
 
 ###### Article L158-2
@@ -3398,28 +3431,35 @@ _Codifié par_:
 
 ###### Article L211-11-1
 
-Les  grands événements exposés, par leur ampleur ou leurs circonstances  particulières, à un risque exceptionnel de menace
-terroriste sont  désignés par décret. Ce décret désigne également les établissements et  les installations qui accueillent
-ces grands événements ainsi que leur  organisateur. 
+Les grands événements exposés, par leur ampleur ou leurs circonstances particulières, à un risque exceptionnel de menace
+terroriste sont désignés par décret. Ce décret désigne également les établissements et les installations qui accueillent ces
+grands événements ainsi que leur organisateur.
 
-L'accès de toute personne, à un  autre titre que celui de spectateur ou de participant, à tout ou partie  des établissements
-et installations désignés par le décret mentionné au  premier alinéa est soumis à autorisation de l'organisateur pendant la
-durée de cet événement et de sa préparation. L'organisateur recueille au  préalable l'avis de l'autorité administrative rendu
-à la suite d'une  enquête administrative qui peut donner lieu à la consultation, selon les  règles propres à chacun d'eux, de
-certains traitements automatisés de  données à caractère personnel relevant de l'article 26 de la loi n° 78-17 du 6 janvier
-1978relative  à l'informatique, aux fichiers et aux libertés, à l'exception des  fichiers d'identification. Un avis
-défavorable ne peut être émis que  s'il ressort de l'enquête administrative que le comportement ou les  agissements de la
-personne sont de nature à porter atteinte à la  sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat.  
+L'accès de toute personne, à un autre titre que celui de spectateur ou de participant, à tout ou partie des établissements et
+installations désignés par le décret mentionné au premier alinéa est soumis à autorisation de l'organisateur pendant la durée
+de cet événement et de sa préparation. L'organisateur recueille au préalable l'avis de l'autorité administrative rendu à la
+suite d'une enquête administrative qui peut donner lieu à la consultation, selon les règles propres à chacun d'eux, de
+certains traitements automatisés de données à caractère personnel relevant de l'article 31 de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. Un avis
+défavorable ne peut être émis que s'il ressort de l'enquête administrative que le comportement ou les agissements de la
+personne sont de nature à porter atteinte à la sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat.
 
-Un décret en Conseil d'Etat pris après avis de  la Commission nationale de l'informatique et des libertés fixe les  modalités
-d'application du présent article, notamment la liste des  fichiers mentionnés au deuxième alinéa pouvant faire l'objet d'une
-consultation, les catégories de personnes concernées et les garanties  d'information ouvertes à ces personnes.
+Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés fixe les modalités
+d'application du présent article, notamment la liste des fichiers mentionnés au deuxième alinéa pouvant faire l'objet d'une
+consultation, les catégories de personnes concernées et les garanties d'information ouvertes à ces personnes.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 26
+  - Loi n°78-17 du 6 janvier 1978 - art. 31
 
 _Cité par_:
 
@@ -3469,9 +3509,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R285-1 (V)
   - Code de la sécurité intérieure - art. R286-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 53
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ##### Section 5 : Dispositions pénales<a id=42></a>
@@ -5322,7 +5362,7 @@ _Créé par_:
 Afin d'améliorer le contrôle aux frontières et de lutter contre l'immigration clandestine, le ministre de l'intérieur est
 autorisé à procéder à la mise en œuvre de traitements automatisés de données à caractère personnel, recueillies à l'occasion
 de déplacements internationaux en provenance ou à destination d'Etats n'appartenant pas à l'Union européenne, à l'exclusion
-des données relevant du I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+des données relevant du I de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés :
 
 1° Figurant sur les cartes de débarquement et d'embarquement des passagers de transporteurs aériens ;
@@ -5334,6 +5374,13 @@ des passagers de transporteurs aériens, maritimes ou ferroviaires ;
 transporteurs aériens, maritimes ou ferroviaires.
 
 Les traitements mentionnés au premier alinéa sont soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 précitée.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -5358,7 +5405,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 13
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Codifié par_:
 
@@ -5841,10 +5888,17 @@ _Codifié par_:
 ###### Article L234-1
 
 Un décret en Conseil d'Etat fixe la liste des enquêtes administratives mentionnées à l'article L. 114-1 qui donnent lieu à la
-consultation des traitements automatisés de données personnelles mentionnés à l'article 230-6 du code de procédure pénale, y
-compris pour les données portant sur des procédures judiciaires en cours, dans la stricte mesure exigée par la protection de
-la sécurité des personnes et la défense des intérêts fondamentaux de la Nation. Il détermine les conditions dans lesquelles
-les personnes intéressées sont informées de cette consultation.
+consultation des traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de procédure
+pénale, y compris pour les données portant sur des procédures judiciaires en cours, dans la stricte mesure exigée par la
+protection de la sécurité des personnes et la défense des intérêts fondamentaux de la Nation. Il détermine les conditions
+dans lesquelles les personnes intéressées sont informées de cette consultation.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -5860,14 +5914,13 @@ _Cité par_:
   - Code de procédure pénale - art. 230-8 (VT)
   - Code de procédure pénale - art. R40-29 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
   - Code de procédure pénale - art. 230-6
-  - Code de la sécurité intérieure - art. L114-1 (VD)
 
 _Codifié par_:
 
@@ -5920,15 +5973,22 @@ _Cité par_:
 
 ###### Article L234-3
 
-La consultation des traitements automatisés de données personnelles mentionnés à l'article 230-6 du code de procédure pénale
-peut également être effectuée, y compris pour des données portant sur des procédures judiciaires en cours, pour l'exercice de
-missions ou d'interventions lorsque la nature de celles-ci ou les circonstances particulières dans lesquelles elles doivent
-se dérouler comportent des risques d'atteinte à l'ordre public ou à la sécurité des personnes et des biens, ainsi qu'au titre
-des mesures de protection ou de défense prises dans les secteurs de sécurité des installations prioritaires de défense
-mentionnés à l'article L. 1321-2 du code de la défense. Cette consultation est effectuée par des agents individuellement
-désignés et spécialement habilités de la police et de la gendarmerie nationales ainsi que, dans la limite de leurs
-attributions et dans des conditions fixées par décret en Conseil d'Etat, des services de renseignement désignés par le
-ministre de la défense, aux fins de protection de la sécurité de leurs personnels.
+La consultation des traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de
+procédure pénale peut également être effectuée, y compris pour des données portant sur des procédures judiciaires en cours,
+pour l'exercice de missions ou d'interventions lorsque la nature de celles-ci ou les circonstances particulières dans
+lesquelles elles doivent se dérouler comportent des risques d'atteinte à l'ordre public ou à la sécurité des personnes et des
+biens, ainsi qu'au titre des mesures de protection ou de défense prises dans les secteurs de sécurité des installations
+prioritaires de défense mentionnés à l'article L. 1321-2 du code de la défense. Cette consultation est effectuée par des
+agents individuellement désignés et spécialement habilités de la police et de la gendarmerie nationales ainsi que, dans la
+limite de leurs attributions et dans des conditions fixées par décret en Conseil d'Etat, des services de renseignement
+désignés par le ministre de la défense, aux fins de protection de la sécurité de leurs personnels.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -5942,7 +6002,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1168 du 18 décembre 2013 - art. 19
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -6440,10 +6500,17 @@ lequel est situé le siège social du demandeur et, lorsque ce siège est situé
 la commission départementale de vidéoprotection. Les représentants de l'Etat dans les départements dans lesquels des caméras
 sont installées en sont informés.
 
-Seuls sont autorisés par la Commission nationale de l'informatique et des libertés, en application de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les systèmes installés sur la voie publique ou dans des
-lieux ouverts au public dont les enregistrements sont utilisés dans des traitements automatisés ou contenus dans des fichiers
-structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques.
+Les systèmes installés sur la voie publique ou dans des lieux ouverts au public dont les enregistrements sont utilisés dans
+des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement
+ou indirectement, des personnes physiques, sont autorisés dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -6466,9 +6533,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L252-7 (VD)
   - Code des transports - art. L2251-4-1 (MMN)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Codifié par_:
 
@@ -6746,7 +6813,7 @@ _Codifié par_:
 ###### Article L253-3
 
 Les membres de la Commission nationale de l'informatique et des libertés, les agents de ses services habilités dans les
-conditions définies au dernier alinéa de l'article 19 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+conditions définies au dernier alinéa de l'article 10 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
 fichiers et aux libertés ainsi que les membres des commissions départementales de vidéoprotection ont accès de six heures à
 vingt et une heures, pour l'exercice de leurs missions, aux lieux, locaux, enceintes, installations ou établissements servant
 à la mise en œuvre d'un système de vidéoprotection, à l'exclusion des parties de ceux-ci affectées au domicile privé. Le
@@ -6779,6 +6846,13 @@ ci dépendent.
 
 Il est dressé contradictoirement procès-verbal des vérifications et visites menées en application du présent article.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -6789,17 +6863,17 @@ _Anciens textes_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 10 III, al. 9 à 15 (VT)
 
-_Créé par_:
+_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. L223-3 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L253-4
@@ -7240,31 +7314,32 @@ _Codifié par_:
 
 ###### Article L285-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la          loi n° 2019-222 du 23 mars 2019 de
-programmation 2018-2022 et de réforme pour la justice, les dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
-1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
+1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
 
 2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à
-L. 229-6 ; 
+L. 229-6 ;
 
-3° Le titre III ; 
+3° Le titre III ;
 
-4° Le titre IV ; 
+4° Le titre IV ;
 
-5° Le titre V ; 
+5° Le titre V ;
 
-6° Au titre VI : l'article L. 262-1 ; 
+6° Au titre VI : l'article L. 262-1 ;
 
 7° Au titre VII : l'article L. 271-1.
 
 **Nota:**
 
-Conformément au III de l'article 10 de la loi n° 2019-290 du 10 avril 2019 au premier alinéa des articles L. 285-1, L. 286-1
-et L. 287-1 du code de la sécurité intérieure, la référence : n° 2017-1510 du 30 octobre 2017 renforçant la sécurité
-intérieure et la lutte contre le terrorisme est remplacée par la référence : n° 2019-290 du 10 avril 2019 visant à renforcer
-et garantir le maintien de l'ordre public lors des manifestations. La loi n° 2019-222 du 23 mars 2019 a modifiée par sa
-référence la référence à la loi n° 2017-1510 du 30 octobre 2017.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -7278,7 +7353,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cité par_:
 
@@ -7340,45 +7415,48 @@ _Cite_:
 
 ###### Article L286-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de  la           loi n° 2019-222 du 23 mars 2019 de
-programmation 2018-2022 et de réforme pour la justice, les dispositions suivantes : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
-1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ; 
+1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
 
 2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à
-L. 229-6 ; 
+L. 229-6 ;
 
-3° Le titre III ; 
+3° Le titre III ;
 
-4° Le titre IV ; 
+4° Le titre IV ;
 
-5° Le titre V ; 
+5° Le titre V ;
 
-6° Au titre VI : l'article L. 262-1 ; 
+6° Au titre VI : l'article L. 262-1 ;
 
 7° Au titre VII : l'article L. 271-1.
 
 **Nota:**
 
-Conformément au III de l'article 10 de la loi n° 2019-290 du 10 avril 2019 au premier alinéa des articles L. 285-1, L. 286-1
-et L. 287-1 du code de la sécurité intérieure, la référence : n° 2017-1510 du 30 octobre 2017 renforçant la sécurité
-intérieure et la lutte contre le terrorisme est remplacée par la référence : n° 2019-290 du 10 avril 2019 visant à renforcer
-et garantir le maintien de l'ordre public lors des manifestations. La loi n° 2019-222 du 23 mars 2019 a modifiée par sa
-référence la référence à la loi n° 2017-1510 du 30 octobre 2017.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+  - Loi n°2018-493 du 20 juin 2018 - art. 32
+  - Ordonnance n°2018-1125 du 12 décembre 2018
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Cite_:
-
-  - Loi n°2017-1510 du 30 octobre 2017
-
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cité par_:
 
@@ -7452,46 +7530,49 @@ _Cite_:
 
 ###### Article L287-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de  la           loi n° 2019-222 du 23 mars
-2019 de programmation 2018-2022 et de réforme pour la justice, les dispositions suivantes : 
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre
+2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données
+personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés et diverses dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
 1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 213-1, L.
-214-1 à L. 214-4 ; 
+214-1 à L. 214-4 ;
 
 2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à
-L. 229-6 ; 
+L. 229-6 ;
 
-3° Le titre III ; 
+3° Le titre III ;
 
-4° Le titre IV ; 
+4° Le titre IV ;
 
-5° Le titre V ; 
+5° Le titre V ;
 
-6° Au titre VI : l'article L. 262-1 ; 
+6° Au titre VI : l'article L. 262-1 ;
 
 7° Au titre VII : l'article L. 271-1.
 
 **Nota:**
 
-Conformément au III de l'article 10 de la loi n° 2019-290 du 10 avril 2019 au premier alinéa des articles L. 285-1, L. 286-1
-et L. 287-1 du code de la sécurité intérieure, la référence : n° 2017-1510 du 30 octobre 2017 renforçant la sécurité
-intérieure et la lutte contre le terrorisme est remplacée par la référence : n° 2019-290 du 10 avril 2019 visant à renforcer
-et garantir le maintien de l'ordre public lors des manifestations. La loi n° 2019-222 du 23 mars 2019 a modifiée par sa
-référence la référence à la loi n° 2017-1510 du 30 octobre 2017.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+  - Loi n°2018-493 du 20 juin 2018 - art. 32
+  - Ordonnance n°2018-1125 du 12 décembre 2018
 
 _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Cite_:
-
-  - Loi n°2017-1510 du 30 octobre 2017
-
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cité par_:
 
@@ -7567,24 +7648,34 @@ _Cite_:
 
 ###### Article L288-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la
-loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice, les dispositions suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de l'ordonnance n°
+2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la
+protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère personnel, les
+dispositions suivantes :
 
-1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 et L. 214-2 ; 
+1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 et L. 214-2 ;
 
-2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7, L. 226-1 et L. 228-1 à L.
-229-6 ; 
+2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7, L. 226-1 et L. 228-1 à L. 229-6 ;
 
-3° Au titre III : les articles L. 232-1 à L. 232-8, L. 234-1 à L. 234-3 ; 
+3° Au titre III : les articles L. 232-1 à L. 232-8, L. 234-1 à L. 234-3 ;
 
 4° Le titre V.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°55-385 du 3 avril 1955
-  - Loi n°2016-987 du 21 juillet 2016
+  - Loi n°78-17 du 6 janvier 1978
+  - Loi n°2018-493 du 20 juin 2018 - art. 32
+  - Ordonnance n°2018-1125 du 12 décembre 2018
 
 _Codifié par_:
 
@@ -7592,7 +7683,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cité par_:
 
@@ -8709,21 +8800,32 @@ _Cite_:
 
 Les agents habilités de la police et de la gendarmerie nationales peuvent, dans la stricte mesure exigée par la protection de
 la sécurité des personnes ou la défense des intérêts fondamentaux de la Nation, consulter les traitements automatisés de
-données personnelles mentionnés à l'article 230-6 du code de procédure pénale pour les besoins de l'instruction des demandes
-d'autorisation ou de renouvellement d'autorisation d'acquisition ou de détention d'armes faites en application de l'article
-L. 312-1. 
+données à caractère personnel mentionnés à l'article 230-6 du code de procédure pénale pour les besoins de l'instruction des
+demandes d'autorisation ou de renouvellement d'autorisation d'acquisition ou de détention d'armes faites en application de
+l'article L. 312-1.
 
 Les agents mentionnés à l'alinéa précédent peuvent également consulter ces traitements, dans la stricte mesure exigée par la
 protection de l'ordre public ou la sécurité des personnes, pour l'exécution des ordres de remise d'armes et de munitions à
 l'autorité administrative prévus aux articles L. 312-7 et L. 312-12.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
   - Code de procédure pénale - art. 230-6
-  - Code de la sécurité intérieure - art. L312-1 (VD)
-  - Code de la sécurité intérieure - art. L312-7 (VD)
+  - Code de la sécurité intérieure - art. L312-1
+  - Code de la sécurité intérieure - art. L312-7
 
 _Anciens textes_:
 
@@ -10642,41 +10744,48 @@ _Codifié par_:
 I. - Afin de prévenir les activités frauduleuses ou criminelles ainsi que le blanchiment de capitaux et le financement du
 terrorisme, toute évolution de la répartition du capital social et du contrôle, direct ou indirect, de la société titulaire
 de l'autorisation prévue à l'article L. 321-1 est soumise à autorisation préalable du ministre de l'intérieur, dès lors
-qu'elle permettrait à une personne : 
+qu'elle permettrait à une personne :
 
-1° Soit d'acquérir le contrôle de cette société, au sens de l'article L. 233-3 du code de commerce ; 
+1° Soit d'acquérir le contrôle de cette société, au sens de l'article L. 233-3 du code de commerce ;
 
 2° Soit de franchir un ou plusieurs seuils, fixés par décret, de détention, directe ou indirecte, du capital ou des droits de
-vote ; 
+vote ;
 
 3° Soit de réaliser une opération entraînant la prise de contrôle de fait de la société, notamment par l'octroi de prêts ou
-de garanties substantielles. 
+de garanties substantielles.
 
 II. - Dans le cadre de la procédure d'autorisation prévue au I du présent article, les agents désignés par le ministère de
-l'intérieur peuvent : 
+l'intérieur peuvent :
 
 1° Réaliser des enquêtes administratives pouvant donner lieu à la consultation de traitements de données à caractère
-personnel relevant de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés ; 
+personnel relevant de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés ;
 
 2° Demander aux personnes concernées, sans que le secret professionnel ne puisse leur être opposé, communication de tout
 document quel qu'en soit le support et en obtenir une copie nécessaire à la justification de l'origine des fonds qu'il est
-envisagé d'investir ; 
+envisagé d'investir ;
 
 3° Demander au service mentionné à l'article L. 561-23 du code monétaire et financier les éléments d'information utiles à la
-vérification de l'origine des fonds qu'il est envisagé d'investir ; 
+vérification de l'origine des fonds qu'il est envisagé d'investir ;
 
 4° Recourir à la coopération internationale pour vérifier l'exactitude des informations déclarées au titre de la présente
 procédure.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
-  - Code de commerce - art. L233-3 (V)
-  - Code monétaire et financier - art. L561-23 (V)
-  - Code de la sécurité intérieure - art. L321-1 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 26
+  - Code de commerce - art. L233-3
+  - Code monétaire et financier - art. L561-23
+  - Code de la sécurité intérieure - art. L321-1
 
 _Cité par_:
 
@@ -10687,9 +10796,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R323-2 (V)
   - Code de la sécurité intérieure - art. R323-4 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-257 du 28 février 2017 - art. 34 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 #### Chapitre IV : Dispositions pénales<a id=109></a>
@@ -11347,16 +11456,24 @@ _Codifié par_:
 
 ###### Article L344-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2018-133 du 26 février 2018 portant
-diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité, les dispositions
-suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
 2° Au titre II : les articles L. 322-1, L. 322-2, L. 322-2-1, L. 322-7, L. 323-1 à L. 324-1, les alinéas 1 et 2 de l'article
-L. 324-2, les articles L. 324-3 à L. 324-9 ; 
+L. 324-2, les articles L. 324-3 à L. 324-9 ;
 
 3° Au titre III : les articles L. 332-1, L. 333-1, L. 334-1 et L. 334-2.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -11366,7 +11483,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -11382,7 +11499,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L344-2 (V)
+  - Code de la sécurité intérieure - art. L344-2 (VD)
 
 
 ###### Article L344-2
@@ -11509,19 +11626,27 @@ _Codifié par_:
 
 ###### Article L345-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2018-133 du 26 février 2018 portant
-diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité, les dispositions
-suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
 1° Le titre Ier ;
 
 2° Au titre II : les articles L. 321-5, L. 322-1 à L. 324-9.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -11530,7 +11655,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L345-2 (V)
+  - Code de la sécurité intérieure - art. L345-2 (VD)
 
 _Codifié par_:
 
@@ -11675,13 +11800,22 @@ _Codifié par_:
 
 ###### Article L346-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2018-133 du 26 février 2018 portant diverses
-dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité, les dispositions suivantes : 
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en
+application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
 
-1° Le titre Ier ; 
+1° Le titre Ier ;
 
 2° Au titre II : l'article L. 321-3, les articles L. 322-1 à L. 322-4, L. 322-7, L. 323-1 à L. 324-1, les deux premiers
 alinéas de l'article L. 324-2 et les articles L. 324-3 à L. 324-9.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -11709,7 +11843,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-133 du 26 février 2018 - art. 24 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ###### Article L346-2
@@ -14800,49 +14934,54 @@ _Codifié par_:
 
 ###### Article L612-7
 
-L'agrément prévu à l'article L. 612-6 est délivré aux personnes qui satisfont aux conditions suivantes : 
+L'agrément prévu à l'article L. 612-6 est délivré aux personnes qui satisfont aux conditions suivantes :
 
 1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur
-l'Espace économique européen ; 
+l'Espace économique européen ;
 
 2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n°
 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec
-l'exercice des fonctions ; 
+l'exercice des fonctions ;
 
 3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement
-exécutée ; 
+exécutée ;
 
 4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre
 VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de
 nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique
-européen ; 
+européen ;
 
 5° Ne pas exercer l'une des activités, énumérées par décret en Conseil d'Etat, incompatibles par leur nature avec celles qui
-sont mentionnées à l'article L. 611-1 ; 
+sont mentionnées à l'article L. 611-1 ;
 
-6° Ne pas exercer l'activité d'agent de recherches privées ; 
+6° Ne pas exercer l'activité d'agent de recherches privées ;
 
 7° Justifier d'une aptitude professionnelle dans des conditions définies par décret en Conseil d'Etat lorsque ces personnes
 exercent effectivement les activités mentionnées à l'article L. 611-1 et, lorsqu'elles utilisent un chien dans le cadre de
-ces activités, de l'obtention d'une qualification professionnelle définie en application de l'article L. 613-7. 
+ces activités, de l'obtention d'une qualification professionnelle définie en application de l'article L. 613-7.
 
 L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par
-des agents          du Conseil national des activités privées de sécurité spécialement habilités par le représentant de
-l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par
-les services de police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier
+des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat
+territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les
+services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier
 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son
 comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter
 atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec
 l'exercice des fonctions susmentionnées.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 26
-  - Code de la sécurité intérieure - art. L611-1
-  - Code de la sécurité intérieure - art. L612-6
-  - Code de la sécurité intérieure - art. L613-7
+  - Loi n°78-17 du 6 janvier 1978 - art. 31
+  - dispositions du chapitre III du titre V du livre VI du code de commerce
 
 _Anciens textes_:
 
@@ -14858,21 +14997,21 @@ _Cité par_:
   - Décret n°2011-1919 du 22 décembre 2011 - art. 22 (VT)
   - Arrêté du 7 janvier 2015 (V)
   - Code de la sécurité intérieure - art. L612-16 (VD)
-  - Code de la sécurité intérieure - art. L612-8 (V)
+  - Code de la sécurité intérieure - art. L612-8 (VD)
   - Code de la sécurité intérieure - art. L613-7-2 (V)
   - Code de la sécurité intérieure - art. L643-2 (V)
   - Code de la sécurité intérieure - art. L644-1 (V)
   - Code de la sécurité intérieure - art. L645-1 (M)
   - Code de la sécurité intérieure - art. L646-1 (M)
   - Code de la sécurité intérieure - art. L647-1 (M)
-  - Code de la sécurité intérieure - art. L648-1 (V)
+  - Code de la sécurité intérieure - art. L648-1 (VD)
   - Code de la sécurité intérieure - art. R612-6 (V)
   - Code de la sécurité intérieure - art. R625-10 (VD)
   - Code de la sécurité intérieure - art. R632-14 (VD)
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 3
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ###### Article L612-8
@@ -15229,59 +15368,63 @@ _Codifié par_:
 
 ###### Article L612-20
 
-Nul ne peut être employé ou affecté pour participer à une activité mentionnée à l'article L. 611-1 : 
+Nul ne peut être employé ou affecté pour participer à une activité mentionnée à l'article L. 611-1 :
 
 1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du
 casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec
-l'exercice des fonctions ; 
+l'exercice des fonctions ;
 
-2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents          du
-Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement
-compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et
-de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
+2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil
+national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et
+individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de
+gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses
 agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des
 personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions
-susmentionnées ; 
+susmentionnées ;
 
 3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement
-exécutée ; 
+exécutée ;
 
 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
 territoire national après consultation des traitements de données à caractère personnel relevant des dispositions de
-l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents          du Conseil
-national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et
-individuellement désignés ; 
+l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des
+activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et
+individuellement désignés ;
 
 5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat et, s'il
 utilise un chien dans le cadre de son emploi ou de son affectation, de l'obtention d'une qualification définie en application
-de l'article L. 613-7. 
+de l'article L. 613-7.
 
 Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée selon des modalités définies
-par décret en Conseil d'Etat. 
+par décret en Conseil d'Etat.
 
 La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et
 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et
-de la pêche maritime. 
+de la pêche maritime.
 
 Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du présent code, la condition prévue au 4° du présent
 article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L.
-616-2. 
+616-2.
 
 En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte
 professionnelle. En outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à
 l'ordre public.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 26
+  - Loi n°78-17 du 6 janvier 1978 - art. 31
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
   - Code rural - art. L214-1
-  - Code de la sécurité intérieure - art. L611-1
-  - Code de la sécurité intérieure - art. L613-7
-  - Code de la sécurité intérieure - art. L616-2
 
 _Anciens textes_:
 
@@ -15326,9 +15469,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 2
-  - Décret n°2016-515 du 26 avril 2016 - art. 3
-  - Décret n°2016-515 du 26 avril 2016 - art. 5
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ###### Article L612-20-1
@@ -16153,18 +16294,25 @@ _Codifié par_:
 
 Les personnes qui ont fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au
 bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, ne peuvent exercer les
-fonctions prévues à l'article L. 614-1. Il en va de même : 
+fonctions prévues à l'article L. 614-1. Il en va de même :
 
 1° Si l'agent a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement
-exécutée ; 
+exécutée ;
 
-2° S'il a commis des actes, éventuellement mentionnés dans les traitements automatisés et autorisés de données personnelles
-gérés par les autorités de police, contraires à l'honneur, à la probité ou aux bonnes mœurs ou de nature à porter atteinte à
-la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat. 
+2° S'il a commis des actes, éventuellement mentionnés dans les traitements automatisés et autorisés de données à caractère
+personnel gérés par les autorités de police, contraires à l'honneur, à la probité ou aux bonnes mœurs ou de nature à porter
+atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat.
 
 L'embauche d'un agent par la personne morale prévue à l'article L. 614-1 est subordonnée à la transmission par le
 représentant de l'Etat dans le département de ses observations relatives aux obligations mentionnées aux trois premiers
 alinéas du présent article.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -16172,21 +16320,21 @@ _Anciens textes_:
 
   - Loi n°83-629 du 12 juillet 1983 - art. 11-6 (VT)
 
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
 _Cité par_:
 
   - Décret n°2004-374 du 29 avril 2004 - art. 78-3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L614-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Code de la sécurité intérieure - art. L614-1
 
 
 ##### Section 3 : Tenue et carte professionnelle<a id=203></a>
@@ -17367,43 +17515,48 @@ _Codifié par_:
 
 ###### Article L622-7
 
-L'agrément prévu à l'article L. 622-6 est délivré aux personnes qui satisfont aux conditions suivantes : 
+L'agrément prévu à l'article L. 622-6 est délivré aux personnes qui satisfont aux conditions suivantes :
 
 1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un des Etats parties à l'accord
-sur l'Espace économique européen ; 
+sur l'Espace économique européen ;
 
 2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n°
 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec
-l'exercice des fonctions ; 
+l'exercice des fonctions ;
 
 3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement
-exécutée ; 
+exécutée ;
 
 4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre
 VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de
 nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique
-européen ; 
+européen ;
 
-5° Ne pas exercer l'une des activités mentionnées à l'article L. 611-1 ; 
+5° Ne pas exercer l'une des activités mentionnées à l'article L. 611-1 ;
 
-6° Détenir une qualification professionnelle définie par décret en Conseil d'Etat. 
+6° Détenir une qualification professionnelle définie par décret en Conseil d'Etat.
 
 L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par
-des agents          du Conseil national des activités privées de sécurité spécialement habilités par le représentant de
-l'Etat dans le département, ou, à Paris, le préfet de police, et individuellement désignés, des traitements de données à
-caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 26
-de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers
-d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont
-de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont
-incompatibles avec l'exercice des fonctions susmentionnées.
+des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le
+département, ou, à Paris, le préfet de police, et individuellement désignés, des traitements de données à caractère personnel
+gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du
+6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son
+comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter
+atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec
+l'exercice des fonctions susmentionnées.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 26
-  - Code de la sécurité intérieure - art. L611-1
-  - Code de la sécurité intérieure - art. L622-6
+  - Loi n°78-17 du 6 janvier 1978 - art. 31
 
 _Anciens textes_:
 
@@ -17414,14 +17567,14 @@ _Cité par_:
   - Décret n°2004-374 du 29 avril 2004 - art. 78-3 (V)
   - Décret n°2011-1919 du 22 décembre 2011 - art. 22 (VT)
   - Code de la sécurité intérieure - art. L622-14 (VD)
-  - Code de la sécurité intérieure - art. L622-8 (V)
+  - Code de la sécurité intérieure - art. L622-8 (VD)
   - Code de la sécurité intérieure - art. R622-5 (V)
   - Code de la sécurité intérieure - art. R625-10 (VD)
   - Code de la sécurité intérieure - art. R632-14 (VD)
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 3
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Codifié par_:
 
@@ -17671,39 +17824,46 @@ _Codifié par_:
 
 ###### Article L622-19
 
-Nul ne peut être employé pour participer à l'activité mentionnée à l'article L. 621-1 : 
+Nul ne peut être employé pour participer à l'activité mentionnée à l'article L. 621-1 :
 
 1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du
 casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec
-l'exercice des fonctions ; 
+l'exercice des fonctions ;
 
 2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
 territoire national, après consultation des traitements de données à caractère personnel relevant des dispositions de
-l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents          du Conseil
-national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et
-individuellement désignés ; 
+l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des
+activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et
+individuellement désignés ;
 
 3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement
-exécutée ; 
+exécutée ;
 
-4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents          du
-Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département,
-ou, à Paris, par le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés
-par les services de police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son
+4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil
+national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à
+Paris, par le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les
+services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son
 comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter
 atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec
-l'exercice des fonctions susmentionnées ; 
+l'exercice des fonctions susmentionnées ;
 
-5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat. 
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat.
 
 Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée par la commission d'agrément
 et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat. La carte
-professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 4° ou 5°. 
+professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 4° ou 5°.
 
 En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte
 professionnelle. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la
 carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -17739,8 +17899,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 2
-  - Décret n°2016-515 du 26 avril 2016 - art. 3
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Codifié par_:
 
@@ -19171,83 +19330,92 @@ _Cite_:
 ###### Article L645-1
 
 Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis, et le titre III, sont applicables en Polynésie
-française, dans leur rédaction résultant de la              loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité
-intérieure et la lutte contre le terrorisme, sous réserve des adaptations suivantes : 
+française, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article
+32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi
+n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la
+protection des données à caractère personnel, sous réserve des adaptations suivantes :
 
-1° La référence au département est remplacée par la référence à la Polynésie française ; 
+1° La référence au département est remplacée par la référence à la Polynésie française ;
 
 2° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
-République en Polynésie française ; 
+République en Polynésie française ;
 
 3° En Polynésie française, la commission d'agrément et de contrôle territorialement compétente est dénommée " commission
-locale d'agrément et de contrôle " ; 
+locale d'agrément et de contrôle " ;
 
-3° bis Le 2° de l'article L. 611-1 est ainsi rédigé : 
+3° bis Le 2° de l'article L. 611-1 est ainsi rédigé :
 
 " 2° A transporter et à surveiller, jusqu'à leur livraison effective, des bijoux, à l'exception des perles et des bijoux
 montés avec des perles, représentant une valeur d'au moins 100 000 €, des fonds, sauf, pour les employés de l'office des
 postes et des télécommunications de Polynésie française ou des établissements de crédit habilités par leur employeur, lorsque
-leur montant est inférieur à 5 335 €, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ; " 
+leur montant est inférieur à 5 335 €, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ; "
 
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ; 
+supprimés ;
 
 4° bis Au premier alinéa de l'article L. 612-2, les références : " L. 613-8 à L. 613-11 " sont remplacées par les
-références : " L. 613-8, L. 613-9 et L. 613-11 " ; 
+références : " L. 613-8, L. 613-9 et L. 613-11 " ;
 
 5° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des
 étrangers en Polynésie française " et les mots : " celles du code du travail " sont remplacés par les mots : " celles
 relatives aux contrat de travail, salaire, conditions de travail, repos et congés, emploi, embauche de la main d'œuvre
-étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ; 
+étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ;
 
-6° A l'article L. 612-20 : 
+6° A l'article L. 612-20 :
 
-a) Le 4° est ainsi rédigé : 
+a) Le 4° est ainsi rédigé :
 
 " 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
 territoire de la Polynésie française et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions
-applicables localement ; ” ; 
+applicables localement ; ” ;
 
 b) Au neuvième alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par
-les mots : " applicables localement ” ; 
+les mots : " applicables localement ” ;
 
 7° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
-applicables localement " ; 
+applicables localement " ;
 
 8° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
-maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
+maritime " sont remplacés par les mots : " des dispositions applicables localement " ;
 
-9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Polynésie française " ; 
+9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Polynésie française " ;
 
 10° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables
-localement " ; 
+localement " ;
 
-11° A l'article L. 617-16, le deuxième alinéa est supprimé ; 
+11° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
 11° bis A l'article L. 634-3-1, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont
 remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables
-localement " ; 
+localement " ;
 
-12° A l'article L. 634-2 : 
+12° A l'article L. 634-2 :
 
 a) Au premier alinéa, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première
-instance " ; 
+instance " ;
 
 b) Au deuxième alinéa, les mots : " aux dispositions des articles 493 à 498 du code de procédure civile " sont remplacés par
 les mots : " aux dispositions de la section IV du chapitre V du titre VII du livre Ier du code de procédure civile de
-Polynésie française " ; 
+Polynésie française " ;
 
-13° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail " sont remplacés par les mots : "
-conformément aux dispositions applicables localement " ; 
+13° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail  "  sont remplacés par les mots : "
+conformément aux dispositions applicables localement "   ;
 
 14° Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie
 locale.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -19270,7 +19438,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=266></a>
@@ -19278,79 +19446,88 @@ _Modifié par_:
 ###### Article L646-1
 
 Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables en
-Nouvelle-Calédonie, dans leur rédaction résultant de la              loi n° 2017-1510 du 30 octobre 2017 renforçant la
-sécurité intérieure et la lutte contre le terrorisme, sous réserve des adaptations suivantes : 
+Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de
+l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification
+de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions
+concernant la protection des données à caractère personnel, sous réserve des adaptations suivantes :
 
-1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ; 
+1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
 2° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
-République en Nouvelle-Calédonie ; 
+République en Nouvelle-Calédonie ;
 
 3° En Nouvelle-Calédonie, la commission d'agrément et de contrôle territorialement compétente est dénommée " commission
-locale d'agrément et de contrôle " ; 
+locale d'agrément et de contrôle " ;
 
 4° A l'article L. 611-1, les mots : " La Poste " sont remplacés par les mots : " l'Office des postes et des
-télécommunications de Nouvelle-Calédonie " ; 
+télécommunications de Nouvelle-Calédonie " ;
 
 5° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ; 
+supprimés ;
 
 5° bis Au premier alinéa de l'article L. 612-2, la référence : " à L. 613-11 " est remplacée par la référence : " et L. 613-9
-" ; 
+" ;
 
 6° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des
 étrangers en Nouvelle-Calédonie " et les mots : " celles du code du travail " sont remplacés par les mots : " celles
 relatives aux contrat de travail, salaire, conditions de travail, repos et congés, emploi, embauche de la main d'œuvre
-étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ; 
+étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ;
 
-7° A l'article L. 612-20 : 
+7° A l'article L. 612-20 :
 
-a) Le 4° est ainsi rédigé : 
+a) Le 4° est ainsi rédigé :
 
 " 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le
 territoire de la Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions
-applicables localement ; ” ; 
+applicables localement ; ” ;
 
 b) Au neuvième alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par
-les mots : " applicables localement ” ; 
+les mots : " applicables localement ” ;
 
 8° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
-applicables localement " ; 
+applicables localement " ;
 
 9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
-maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
+maritime " sont remplacés par les mots : " des dispositions applicables localement " ;
 
-10° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Nouvelle-Calédonie " ; 
+10° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable en Nouvelle-Calédonie " ;
 
 11° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables
-localement " ; 
+localement " ;
 
-12° A l'article L. 617-16, le deuxième alinéa est supprimé ; 
+12° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
 12° bis A l'article L. 634-3-1, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont
 remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables
-localement " ; 
+localement " ;
 
-13° A l'article L. 634-2 : 
+13° A l'article L. 634-2 :
 
 a) Au premier alinéa, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première
-instance " ; 
+instance " ;
 
 b) Au deuxième alinéa, les mots : " aux dispositions des articles 493 à 498 du code de procédure civile " sont remplacés par
 les mots : " aux dispositions de la sous-section 3 du titre XIV du livre Ier du code de procédure civile de Nouvelle-
-Calédonie " ; 
+Calédonie " ;
 
 14° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail " sont remplacés par les mots : "
-conformément aux dispositions applicables localement " ; 
+conformément aux dispositions applicables localement " ;
 
 15° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contre-valeur en monnaie
 locale.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -19374,7 +19551,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=267></a>
@@ -19382,73 +19559,82 @@ _Modifié par_:
 ###### Article L647-1
 
 Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables dans les
-îles Wallis et Futuna, dans leur rédaction résultant de la              loi n° 2017-1510 du 30 octobre 2017 renforçant la
-sécurité intérieure et la lutte contre le terrorisme, sous réserve des adaptations suivantes : 
+îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de
+l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification
+de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions
+concernant la protection des données à caractère personnel, sous réserve des adaptations suivantes :
 
-1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ; 
+1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
 
 2° La référence au représentant de l'Etat dans le département est remplacée par la référence à l'administrateur supérieur des
-îles Wallis et Futuna ; 
+îles Wallis et Futuna ;
 
 3° Dans les îles Wallis et Futuna, la commission d'agrément et de contrôle territorialement compétente est dénommée "
-commission locale d'agrément et de contrôle " ; 
+commission locale d'agrément et de contrôle " ;
 
 3° bis. A l'article L. 611-1, les mots : " La Poste ” sont remplacés par les mots : " le service des postes et des
-télécommunications de Wallis-et-Futuna ” ; 
+télécommunications de Wallis-et-Futuna ” ;
 
 4° Au 2° de l'article L. 612-1 et au 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur l'Espace
 économique européen ", au 1° de l'article L. 612-7, les mots : " ou d'un des Etats parties à l'accord sur l'Espace économique
 européen " et à l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont
-supprimés ; 
+supprimés ;
 
 4° bis Au premier alinéa de l'article L. 612-2, la référence : " à L. 613-11 " est remplacée par la référence : " et L. 613-9
-" ; 
+" ;
 
 5° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont
 remplacés par les mots : " de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des
 étrangers dans les îles Wallis et Futuna " et les mots : " celles du code du travail " sont remplacés par les mots : " celles
 relatives au contrat de travail, salaire, conditions de travail, repos et congés, emploi, embauche de la main d'œuvre
-étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ; 
+étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ;
 
-6° A l'article L. 612-20 : 
+6° A l'article L. 612-20 :
 
-a) Le 4° est ainsi rédigé : 
+a) Le 4° est ainsi rédigé :
 
 " 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité dans les
 îles Wallis et Futuna et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables
-localement ; ” ; 
+localement ; ” ;
 
 b) Au neuvième alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par
-les mots : " applicables localement ”. 
+les mots : " applicables localement ”.
 
 7° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : "
 dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions
-applicables localement " ; 
+applicables localement " ;
 
 8° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche
-maritime " sont remplacés par les mots : " des dispositions applicables localement " ; 
+maritime " sont remplacés par les mots : " des dispositions applicables localement " ;
 
-9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable dans les îles Wallis et Futuna " ; 
+9° L'article L. 614-1 est complété par les mots : " dans sa rédaction applicable dans les îles Wallis et Futuna " ;
 
 10° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par
 les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L.
 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables
-localement " ; 
+localement " ;
 
-11° A l'article L. 617-16, le deuxième alinéa est supprimé ; 
+11° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
 11° bis A l'article L. 634-3-1, les mots : " agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail " sont
 remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables
-localement " ; 
+localement " ;
 
 12° Au premier alinéa de l'article L. 634-2, les mots : " tribunal de grande instance " sont remplacés par les mots : "
-tribunal de première instance " ; 
+tribunal de première instance " ;
 
 13° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail " sont remplacés par les mots : "
-conformément aux dispositions applicables localement " ; 
+conformément aux dispositions applicables localement " ;
 
 14° Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contre-valeur en
 monnaie locale.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -19472,7 +19658,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres  australes et antarctiques françaises<a id=268></a>
@@ -19480,9 +19666,11 @@ _Modifié par_:
 ###### Article L648-1
 
 Le titre Ier et le titre III du présent livre sont applicables dans les Terres australes et antarctiques françaises, dans
-leur rédaction résultant de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le
-terrorisme, en tant qu'ils concernent les activités mentionnées au 4° de l'article L. 611-1 et sous réserve des adaptations
-suivantes :
+leur rédaction résultant de la l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi
+n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la protection des
+données à caractère personnel, en tant qu'ils concernent les activités mentionnées au 4° de l'article L. 611-1 et sous
+réserve des adaptations suivantes :
 
 1° Au 2° de l'article L. 612-1 et à la fin du 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur
 l'Espace économique européen " sont supprimés ;
@@ -19495,17 +19683,24 @@ sont supprimés ;
 4° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
 européen " sont supprimés.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L612-1
   - Code de la sécurité intérieure - art. L612-24
-  - Code de la sécurité intérieure - art. L612-7
+  - Code de la sécurité intérieure - art. L612-7 (VD)
 
 
 ## LIVRE VII : SÉCURITÉ CIVILE<a id=269></a>
@@ -22954,24 +23149,24 @@ _Codifié par_:
 ###### Article L801-1
 
 Le respect de la vie privée, dans toutes ses composantes, notamment le secret des correspondances, la protection des données
-personnelles et l'inviolabilité du domicile, est garanti par la loi. L'autorité publique ne peut y porter atteinte que dans
-les seuls cas de nécessité d'intérêt public prévus par la loi, dans les limites fixées par celle-ci et dans le respect du
-principe de proportionnalité. 
+à caractère personnel et l'inviolabilité du domicile, est garanti par la loi. L'autorité publique ne peut y porter atteinte
+que dans les seuls cas de nécessité d'intérêt public prévus par la loi, dans les limites fixées par celle-ci et dans le
+respect du principe de proportionnalité.
 
 L'autorisation et la mise en œuvre sur le territoire national des techniques de recueil de renseignement mentionnées aux
-chapitres Ier à III du titre V du présent livre ne peuvent être décidées que si : 
+chapitres Ier à III du titre V du présent livre ne peuvent être décidées que si :
 
-1° Elles procèdent d'une autorité ayant légalement compétence pour le faire ; 
+1° Elles procèdent d'une autorité ayant légalement compétence pour le faire ;
 
-2° Elles résultent d'une procédure conforme au titre II du même livre ; 
+2° Elles résultent d'une procédure conforme au titre II du même livre ;
 
 3° Elles respectent les missions confiées aux services mentionnés à l'article L. 811-2 ou aux services désignés par le décret
-en Conseil d'Etat prévu à l'article L. 811-4 ; 
+en Conseil d'Etat prévu à l'article L. 811-4 ;
 
 4° Elles sont justifiées par les menaces, les risques et les enjeux liés aux intérêts fondamentaux de la Nation mentionnés à
-l'article L. 811-3 ; 
+l'article L. 811-3 ;
 
-5° Les atteintes qu'elles portent au respect de la vie privée sont proportionnées aux motifs invoqués. 
+5° Les atteintes qu'elles portent au respect de la vie privée sont proportionnées aux motifs invoqués.
 
 La Commission nationale de contrôle des techniques de renseignement s'assure, dans les conditions prévues au présent livre,
 du respect de ces principes. Le Conseil d'Etat statue sur les recours formés contre les décisions relatives à l'autorisation
@@ -22979,9 +23174,9 @@ et à la mise en œuvre de ces techniques et ceux portant sur la conservation de
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-912 du 24 juillet 2015 - art. 1
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 _Cite_:
 
@@ -24014,9 +24209,16 @@ _Cite_:
 ###### Article L841-2
 
 Le Conseil d'Etat est compétent pour connaître, dans les conditions prévues au chapitre III bis du titre VII du livre VII du
-code de justice administrative, des requêtes concernant la mise en œuvre de l'article 41 de la loi n° 78-17 du 6 janvier 1978
-relative à l'informatique, aux fichiers et aux libertés, pour les traitements ou parties de traitements intéressant la sûreté
-de l'Etat dont la liste est fixée par décret en Conseil d'Etat.
+code de justice administrative, des requêtes concernant la mise en œuvre de l'article 118 de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, pour les traitements ou parties de traitements intéressant la
+sûreté de l'Etat dont la liste est fixée par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -24024,15 +24226,15 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 41
 
-_Créé par_:
-
-  - Loi n°2015-912 du 24 juillet 2015 - art. 2
-
 _Cité par_:
 
   - Décret n°2016-725 du 1er juin 2016 - art. 2
   - Code de justice administrative - art. R773-7 (V)
   - Code de la sécurité intérieure - art. R841-2 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION<a id=335></a>
@@ -25505,8 +25707,10 @@ _Cite_:
 
 ###### Article L895-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
-2018-2022 et de réforme pour la justice, les dispositions suivantes du présent livre VIII :
+Sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes du présent livre VIII :
 
 1° Les titres Ier à VI ;
 
@@ -25514,15 +25718,24 @@ Sont applicables en Polynésie française, dans leur rédaction résultant de la
 
 3° Le titre VIII.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2019-222 du 23 mars 2019
+  - Loi n°78-17 du 6 janvier 1978
+  - Loi n°2018-493 du 20 juin 2018 - art. 32
+  - Ordonnance n°2018-1125 du 12 décembre 2018
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ###### Article L895-2
@@ -25551,8 +25764,10 @@ _Cite_:
 
 ###### Article L896-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation
-2018-2022 et de réforme pour la justice, les dispositions suivantes du présent livre VIII :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
+en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les dispositions suivantes du présent livre VIII :
 
 1° Les titres Ier à VI ;
 
@@ -25560,15 +25775,24 @@ Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la l
 
 3° Le titre VIII.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2017-1510 du 30 octobre 2017
+  - Loi n°78-17 du 6 janvier 1978
+  - Loi n°2018-493 du 20 juin 2018 - art. 32
+  - Ordonnance n°2018-1125 du 12 décembre 2018
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ###### Article L896-2
@@ -25597,19 +25821,29 @@ _Cite_:
 
 ###### Article L897-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de  la loi                  n° 2018-607 du 13 juillet 2018
-du relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense,
-les titres Ier à VIII du présent livre VIII.
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en
+application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
+portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
+dispositions concernant la protection des données à caractère personnel, les titres Ier à VIII du présent livre VIII.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2017-1510 du 30 octobre 2017
+  - Loi n°78-17 du 6 janvier 1978
+  - Loi n°2018-493 du 20 juin 2018 - art. 32
+  - Ordonnance n°2018-1125 du 12 décembre 2018
 
 _Modifié par_:
 
-  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 ###### Article L897-2
@@ -25638,32 +25872,43 @@ _Cite_:
 
 ###### Article L898-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de  la loi
-n° 2018-607 du 13 juillet 2018 du relative à la programmation militaire pour les années 2019 à 2025 et portant diverses
-dispositions intéressant la défense, les titres Ier à VIII du présent livre VIII, sous réserve des  adaptations suivantes : 
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de l'ordonnance n°
+2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la
+protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère personnel, les titres
+Ier à VIII du présent livre VIII, sous réserve des adaptations suivantes :
 
-1°  Au début de l'article L. 871-3,  les mots : " Dans le cadre des attributions qui lui sont conférées par le livre II du
-code des postes et des communications électroniques, "  sont supprimés  ; 
+1°Au début de l'article L. 871-3, les mots : " Dans le cadre des attributions qui lui sont conférées par le livre II du code
+des postes et des communications électroniques, " sont supprimés ;
 
-2° L' article L. 871-5 est ainsi rédigé : 
+2° L'article L. 871-5 est ainsi rédigé :
 
-"  Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications
+" Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications
 électroniques et le secret des correspondances que doivent respecter les opérateurs ainsi que les membres de leur personnel
-ne sont opposables ni aux juridictions compétentes pour ordonner des interceptions en application de l'article 100 du code de
-procédure pénale, ni au ministre chargé des communications électroniques, dans l'exercice des prérogatives qui leur sont
-dévolues au présent titre.  "
+ne sont opposables ni aux juridictions compétentes pour ordonner des interceptions en application de l' article 100 du code
+de procédure pénale, ni au ministre chargé des communications électroniques, dans l'exercice des prérogatives qui leur sont
+dévolues au présent titre. "
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2017-1510 du 30 octobre 2017
+  - Loi n°78-17 du 6 janvier 1978
+  - Loi n°2018-493 du 20 juin 2018 - art. 32
+  - Ordonnance n°2018-1125 du 12 décembre 2018
   - Code des postes et des communications électroniques - art. L32
   - Code de procédure pénale - art. 100
 
 _Modifié par_:
 
-  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
 # Partie réglementaire<a id=353></a>
