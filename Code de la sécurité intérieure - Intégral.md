@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-06-21
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -4371,20 +4371,27 @@ _Cité par_:
 
 ###### Article L225-2
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à la personne mentionnée à l'article L. 225-1, dans un délai maximal
-d'un mois à compter de la date certaine de son retour sur le territoire national, de : 
+d'un mois à compter de la date certaine de son retour sur le territoire national, de :
 
 1° Résider dans un périmètre géographique déterminé permettant à l'intéressé de poursuivre une vie familiale et
 professionnelle normale et, le cas échéant, l'astreindre à demeurer à son domicile ou, à défaut, dans un autre lieu à
 l'intérieur de ce périmètre, pendant une plage horaire fixée par le ministre, dans la limite de huit heures par vingt-quatre
-heures ; 
+heures ;
 
 2° Se présenter périodiquement aux services de police ou aux unités de gendarmerie, dans la limite de trois présentations par
-semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés. 
+semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés.
 
 Les obligations prévues aux 1° et 2° du présent article sont prononcées pour une durée maximale d'un mois, renouvelable deux
 fois par décision motivée.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
 
 **Liens relatifs à cet article**
 
@@ -4397,7 +4404,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cite_:
 
@@ -4406,16 +4413,23 @@ _Cite_:
 
 ###### Article L225-3
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à toute personne mentionnée à l'article L. 225-1, dans un délai
-maximal d'un an à compter de la date certaine de son retour sur le territoire national, de : 
+maximal d'un an à compter de la date certaine de son retour sur le territoire national, de :
 
-1° Déclarer son domicile et tout changement de domicile ; 
+1° Déclarer son domicile et tout changement de domicile ;
 
 2° Ne pas se trouver en relation directe ou indirecte avec certaines personnes, nommément désignées, dont il existe des
-raisons sérieuses de penser que leur comportement constitue une menace pour la sécurité et l'ordre publics. 
+raisons sérieuses de penser que leur comportement constitue une menace pour la sécurité et l'ordre publics.
 
 Ces obligations sont prononcées pour une durée maximale de trois mois, renouvelable une fois par décision motivée.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
 
 **Liens relatifs à cet article**
 
@@ -4428,7 +4442,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cite_:
 
@@ -4739,7 +4753,7 @@ _Cité par_:
 
 ###### Article L228-2
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à la personne mentionnée à l'article L. 228-1 de :
 
 1° Ne pas se déplacer à l'extérieur d'un périmètre géographique déterminé, qui ne peut être inférieur au territoire de la
@@ -4782,6 +4796,13 @@ code.
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, les dispositions de l'article L. 228-2 telles
+qu'elles résultent des dispositions de l'article 69 de ladite loi, c'est-à-dire, au premier alinéa de l'article L. 228-2, les
+mots : "de Paris" sont remplacés par le mot : "antiterroriste", à compter d'une date fixée par décret, et au plus tard le 1er
+janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -4790,6 +4811,7 @@ _Cité par_:
   - Décret n°2018-167 du 7 mars 2018 - art. 8
   - Décret n°2019-1495 du 27 décembre 2019 (V)
   - Décret n°2019-1495 du 27 décembre 2019 - art. 1
+  - Code de justice administrative - art. L773-10 (V)
   - Code de justice administrative - art. R773-37 (V)
   - Code de justice administrative - art. R773-38 (V)
   - Code de justice administrative - art. R773-45 (V)
@@ -4806,6 +4828,7 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2019-222 du 23 mars 2019 - art. 65
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cite_:
 
@@ -4818,18 +4841,18 @@ _Cite_:
 
 A la place de l'obligation prévue au 2° de l'article L. 228-2, le ministre de l'intérieur peut proposer à la personne faisant
 l'objet de la mesure prévue au 1° du même article L. 228-2 de la placer sous surveillance électronique mobile, après en avoir
-informé le procureur de la République de Paris et le procureur de la République territorialement compétent. Ce placement est
-subordonné à l'accord écrit de la personne concernée. Dans ce cas, le périmètre géographique imposé en application du même 1°
-ne peut être inférieur au territoire du département. 
+informé le procureur de la République antiterroriste et le procureur de la République territorialement compétent. Ce
+placement est subordonné à l'accord écrit de la personne concernée. Dans ce cas, le périmètre géographique imposé en
+application du même 1° ne peut être inférieur au territoire du département.
 
 Le placement sous surveillance électronique mobile est décidé pour la durée de la mesure prise en application dudit 1°. Il y
 est mis fin en cas de dysfonctionnement temporaire du dispositif ou sur demande de l'intéressé, qui peut alors être assujetti
-à l'obligation prévue au 2° dudit article L. 228-2. 
+à l'obligation prévue au 2° dudit article L. 228-2.
 
 La personne concernée est astreinte, pendant toute la durée du placement, au port d'un dispositif technique permettant à tout
 moment à l'autorité administrative de s'assurer à distance qu'elle n'a pas quitté le périmètre défini en application du 1° du
 même article L. 228-2. Le dispositif technique ne peut être utilisé par l'autorité administrative pour localiser la personne,
-sauf lorsque celle-ci a quitté ce périmètre ou en cas de fonctionnement altéré dudit dispositif technique. 
+sauf lorsque celle-ci a quitté ce périmètre ou en cas de fonctionnement altéré dudit dispositif technique.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il peut déterminer les conditions dans
 lesquelles la mise en œuvre du dispositif technique permettant le contrôle à distance prévu au troisième alinéa, pour lequel
@@ -4841,52 +4864,57 @@ privé habilitée à cet effet.
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-362 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
 
 _Cité par_:
 
   - Décret n°2018-167 du 7 mars 2018 (V)
   - Décret n°2018-167 du 7 mars 2018 - art. 8
-  - Code de la sécurité intérieure - art. L228-4 (VT)
+  - Code de la sécurité intérieure - art. L228-4 (VD)
   - Code de la sécurité intérieure - art. L228-6 (VT)
   - Code de la sécurité intérieure - art. R228-4 (V)
   - Code de la sécurité intérieure - art. R228-6 (V)
   - Code de procédure pénale - art. R61-17-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
+
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L228-2 (VT)
+  - Code de la sécurité intérieure - art. L228-2
 
 
 ###### Article L228-4
 
 S'il ne fait pas application des articles L. 228-2 et L. 228-3, le ministre de l'intérieur peut, après en avoir informé le
-procureur de la République de Paris et le procureur de la République territorialement compétent, faire obligation à toute
-personne mentionnée à l'article L. 228-1 de : 
+procureur de la République antiterroriste et le procureur de la République territorialement compétent, faire obligation à
+toute personne mentionnée à l'article L. 228-1 de :
 
-1° Déclarer son domicile et tout changement de domicile ; 
+1° Déclarer son domicile et tout changement de domicile ;
 
 2° Signaler ses déplacements à l'extérieur d'un périmètre déterminé ne pouvant être plus restreint que le territoire de la
-commune de son domicile ; 
+commune de son domicile ;
 
 3° Ne pas paraître dans un lieu déterminé, qui ne peut inclure le domicile de la personne intéressée. Cette obligation tient
-compte de la vie familiale et professionnelle de la personne intéressée. 
+compte de la vie familiale et professionnelle de la personne intéressée.
 
 Les obligations mentionnées aux 1° à 3° du présent article sont prononcées pour une durée maximale de six mois à compter de
 la notification de la décision du ministre. Elles peuvent être renouvelées par décision motivée, pour une durée maximale de
 six mois, lorsque les conditions prévues à l'article L. 228-1 continuent d'être réunies. Au-delà d'une durée cumulée de six
 mois, le renouvellement est subordonné à l'existence d'éléments nouveaux ou complémentaires. La durée totale cumulée des
 obligations prévues aux 1° à 3° du présent article ne peut excéder douze mois. Les mesures sont levées dès que les conditions
-prévues à l'article L. 228-1 ne sont plus satisfaites. 
+prévues à l'article L. 228-1 ne sont plus satisfaites.
 
 Toute décision de renouvellement est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. Si
 la personne concernée saisit le juge administratif d'une demande présentée sur le fondement de l'article L. 521-2 du code de
 justice administrative dans un délai de quarante-huit heures à compter de la notification de la décision, la mesure ne peut
-entrer en vigueur avant que le juge ait statué sur la demande. 
+entrer en vigueur avant que le juge ait statué sur la demande.
 
 La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, dans un délai de deux mois à compter de la
 notification de la décision ou à compter de la notification de chaque renouvellement, demander au tribunal administratif
@@ -4899,18 +4927,23 @@ administrative.
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
 
 _Cite_:
 
   - Code de justice administrative - art. L521-2
   - Code de la sécurité intérieure - art. L228-1
   - Code de la sécurité intérieure - art. L228-2
-  - Code de la sécurité intérieure - art. L228-3
+  - Code de la sécurité intérieure - art. L228-3 (VD)
 
 _Cité par_:
 
@@ -4919,28 +4952,28 @@ _Cité par_:
 
 ###### Article L228-5
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à toute personne mentionnée à l'article L. 228-1, y compris lorsqu'il
 est fait application des articles L. 228-2 à L. 228-4, de ne pas se trouver en relation directe ou indirecte avec certaines
 personnes, nommément désignées, dont il existe des raisons sérieuses de penser que leur comportement constitue une menace
-pour la sécurité publique. 
+pour la sécurité publique.
 
 L'obligation mentionnée au premier alinéa du présent article est prononcée pour une durée maximale de six mois à compter de
 la notification de la décision du ministre. Au-delà d'une durée cumulée de six mois, le renouvellement est subordonné à
 l'existence d'éléments nouveaux ou complémentaires. La durée totale cumulée de l'obligation prévue au premier alinéa du
 présent article ne peut excéder douze mois. L'obligation est levée dès que les conditions prévues à l'article L. 228-1 ne
-sont plus satisfaites. 
+sont plus satisfaites.
 
 Toute décision de renouvellement est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. La
 personne concernée peut demander au président du tribunal administratif ou au magistrat qu'il délègue l'annulation de la
 décision dans un délai de quarante-huit heures à compter de sa notification. Il est statué sur la légalité de la décision au
 plus tard dans un délai de soixante-douze heures à compter de la saisine du tribunal. Dans ce cas, la mesure ne peut entrer
-en vigueur avant que le juge ait statué sur la demande. 
+en vigueur avant que le juge ait statué sur la demande.
 
 L'audience est publique. Elle se déroule sans conclusions du rapporteur public. Lorsque la présence du requérant à l'audience
 est susceptible de méconnaître les obligations résultant de la mesure de surveillance, le requérant peut solliciter un sauf-
 conduit pour s'y rendre. Le sauf-conduit n'est pas délivré si le déplacement du requérant constitue une menace pour la
-sécurité et l'ordre publics. 
+sécurité et l'ordre publics.
 
 La personne soumise à l'obligation mentionnée au premier alinéa du présent article peut, dans un délai de deux mois à compter
 de la notification de la décision, ou à compter de la notification de chaque renouvellement lorsqu'il n'a pas été fait
@@ -4954,17 +4987,51 @@ procédures prévues au troisième alinéa du présent article ainsi qu'aux arti
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément à la décision du Conseil constitutionnel n° 2017-695 QPC du 29 mars 2018 :
+
+Article 2 : Sont contraires à la Constitution les mots " sur le fondement de l’article L. 521-2 du code de justice
+administrative " figurant à la deuxième phrase de l’avant-dernier alinéa de l’article L. 228-5 et la deuxième phrase du
+dernier alinéa du même article L. 228-5 du code de la sécurité intérieure, dans sa rédaction issue de la loi n° 2017‑1510 du
+30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme.
+
+Article 3 : Sous les réserves énoncées aux paragraphes 51, 52 et 53, le reste de l’article L. 228-5 du code de la sécurité
+intérieure, dans cette même rédaction, est conforme à la Constitution.
+
+Aux paragraphes 51, 52 et 53 de sa décision, le Conseil constitutionnel a énoncé les réserves suivantes :
+
+I " Il appartient au ministre de l’intérieur de tenir compte, dans la détermination des personnes dont la fréquentation est
+interdite, des liens familiaux de l’intéressé et de s’assurer en particulier que la mesure d’interdiction de fréquentation ne
+porte pas une atteinte disproportionnée à son droit de mener une vie familiale normale " ;
+
+- " Compte tenu de sa rigueur, cette mesure ne saurait, sans méconnaître les exigences constitutionnelles précitées, excéder,
+de manière continue ou non, une durée totale cumulée de douze mois " ;
+
+- " Le droit à un recours juridictionnel effectif impose que le juge administratif soit tenu de statuer sur la demande
+d’annulation de la mesure dans de brefs délais ".
+
+Article 5 : La déclaration d’inconstitutionnalité de l’article 2 prend effet dans les conditions fixées aux paragraphes 72 et
+73 de cette décision.
+
+En vertu du paragraphe 72, l’abrogation des mots " sur le fondement de l’article L. 521-2 du code de justice administrative
+", figurant à la deuxième phrase de l’avant-dernier alinéa de l’article L. 228-5 du code de la sécurité intérieure, est
+reportée au 1er octobre 2018.
+
+En vertu du paragraphe 73, l’abrogation de la deuxième phrase du dernier alinéa de l’article L. 228-5 du code de la sécurité
+intérieure intervient à compter de la date de publication de la décision du Conseil constitutionnel, soit à compter du 29
+mars 2018.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 65
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
 
 _Cité par_:
 
   - Décret n°2019-1495 du 27 décembre 2019 (V)
   - Décret n°2019-1495 du 27 décembre 2019 - art. 1
-  - Code de justice administrative - art. L773-10 (V)
   - Code de justice administrative - art. R773-37 (V)
   - Code de justice administrative - art. R773-38 (V)
   - Code de justice administrative - art. R773-45 (V)
@@ -5041,9 +5108,9 @@ _Cité par_:
 
 Sur saisine motivée du représentant de l'Etat dans le département ou, à Paris, du préfet de police, le juge des libertés et
 de la détention du tribunal de grande instance de Paris peut, par une ordonnance écrite et motivée et après avis du procureur
-de la République de Paris, autoriser la visite d'un lieu ainsi que la saisie des documents et données qui s'y trouvent, aux
-seules fins de prévenir la commission d'actes de terrorisme et lorsqu'il existe des raisons sérieuses de penser qu'un lieu
-est fréquenté par une personne dont le comportement constitue une menace d'une particulière gravité pour la sécurité et
+de la République antiterroriste, autoriser la visite d'un lieu ainsi que la saisie des documents et données qui s'y trouvent,
+aux seules fins de prévenir la commission d'actes de terrorisme et lorsqu'il existe des raisons sérieuses de penser qu'un
+lieu est fréquenté par une personne dont le comportement constitue une menace d'une particulière gravité pour la sécurité et
 l'ordre publics et qui soit entre en relation de manière habituelle avec des personnes ou des organisations incitant,
 facilitant ou participant à des actes de terrorisme, soit soutient, diffuse, lorsque cette diffusion s'accompagne d'une
 manifestation d'adhésion à l'idéologie exprimée, ou adhère à des thèses incitant à la commission d'actes de terrorisme ou
@@ -5053,9 +5120,9 @@ Ces opérations ne peuvent concerner les lieux affectés à l'exercice d'un mand
 des avocats, des magistrats ou des journalistes et les domiciles des personnes concernées.
 
 La saisine du juge des libertés et de la détention du tribunal de grande instance de Paris est précédée d'une information du
-procureur de la République de Paris et du procureur de la République territorialement compétent, qui reçoivent tous les
-éléments relatifs à ces opérations. L'ordonnance est communiquée au procureur de la République de Paris et au procureur de la
-République territorialement compétent.
+procureur de la République antiterroriste et du procureur de la République territorialement compétent, qui reçoivent tous les
+éléments relatifs à ces opérations. L'ordonnance est communiquée au procureur de la République antiterroriste et au procureur
+de la République territorialement compétent.
 
 L'ordonnance mentionne l'adresse des lieux dans lesquels les opérations de visite et de saisie peuvent être effectuées, le
 service et la qualité des agents habilités à y procéder, le numéro d'immatriculation administrative du chef de service qui
@@ -5071,6 +5138,8 @@ L'ordonnance est exécutoire au seul vu de la minute.
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -5080,7 +5149,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 66
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
 
 
 ###### Article L229-2
@@ -94700,8 +94769,11 @@ b) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -94800,7 +94872,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 1
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -95002,8 +95074,11 @@ b) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -95093,7 +95168,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 1
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -95167,8 +95242,11 @@ a) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -95249,7 +95327,7 @@ d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 1
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -95269,8 +95347,11 @@ a) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -95376,7 +95457,7 @@ d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 1
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -95388,16 +95469,19 @@ _Cite_:
 ###### Article R851-4
 
 Les services relevant de l'article L. 811-4 dont les agents individuellement désignés et habilités peuvent être autorisés à
-utiliser la technique mentionnée à l'article L. 851-6 sont les suivants : 
+utiliser la technique mentionnée à l'article L. 851-6 sont les suivants :
 
-1° Services placés sous l'autorité du directeur général de la police nationale : 
+1° Services placés sous l'autorité du directeur général de la police nationale :
 
 a) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -95405,41 +95489,41 @@ mentionnée au 6° de l'article L. 811-3 ;
 811-3 ;
 
 - les directions interrégionales et régionales de police judiciaire et les services régionaux de police judiciaire au titre
-des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ; 
+des finalités mentionnées aux 4° et 6° de l'article L. 811-3 ;
 
 b) A la direction centrale de la police aux frontières :
 
 - l'office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre de la direction
-centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ; 
+centrale de la police aux frontières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
 c) A la direction centrale de la sécurité publique :
 
 - l'unité nationale et les unités départementales de recherche et d'appui des services du renseignement territorial au titre
-des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3. 
+des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de l'article L. 811-3.
 
 Les agents du service interministériel d'assistance technique de la direction centrale de la police judiciaire
 individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au 1° du présent article,
 apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne peuvent pas
-exploiter les renseignements ainsi collectés ; 
+exploiter les renseignements ainsi collectés ;
 
-2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale : 
+2° Unités placées sous l'autorité du directeur général de la gendarmerie nationale :
 
 a) A la direction des opérations et de l'emploi :
 
 - la sous-direction de l'anticipation opérationnelle au titre des finalités mentionnées aux 1°, 4° et a, b et c du 5° de
 l'article L. 811-3 ;
 
-- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ; 
+- la sous-direction de la police judiciaire au titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3 ;
 
 b) Les sections de recherches de la gendarmerie nationale au titre des finalités mentionnées aux 4° et 6° de l'article L.
-811-3. 
+811-3.
 
 Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
 individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées au 2° du présent article,
 apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces militaires ne peuvent pas
-exploiter les renseignements ainsi collectés ; 
+exploiter les renseignements ainsi collectés ;
 
-3° Services placés sous l'autorité du préfet de police : 
+3° Services placés sous l'autorité du préfet de police :
 
 a) A la direction du renseignement :
 
@@ -95447,7 +95531,7 @@ a) A la direction du renseignement :
 l'article L. 811-3 ;
 
 - la sous-direction du renseignement territorial au titre des finalités mentionnées aux 1°, 4°, a, b et c du 5° et 6° de
-l'article L. 811-3 ; 
+l'article L. 811-3 ;
 
 b) A la direction régionale de la police judiciaire de Paris :
 
@@ -95455,17 +95539,17 @@ b) A la direction régionale de la police judiciaire de Paris :
 
 - la sous-direction des affaires économiques et financières au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3. 
+- la sous-direction des services territoriaux au titre des finalités mentionnées aux 4° et 6° de l'article L. 811-3.
 
 Les agents de la cellule d'assistance technique de l'état-major de la direction régionale de la police judiciaire de Paris
 individuellement désignés et habilités peuvent, sous la responsabilité d'un des services mentionnés au b du 3° du présent
 article, apporter leur concours dans la mise en œuvre de la technique mentionnée au présent article. Ces agents ne peuvent
-pas exploiter les renseignements ainsi collectés ; 
+pas exploiter les renseignements ainsi collectés ;
 
 4° Services placés sous l'autorité d'emploi du ministère de la défense :
 
 - les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement au
-titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3. 
+titre des finalités mentionnées aux 1°, 4° et 6° de l'article L. 811-3.
 
 Les militaires du groupe d'intervention de la gendarmerie nationale et des groupes d'observation et de surveillance
 individuellement désignés et habilités peuvent, sous la responsabilité d'une des unités mentionnées à l'alinéa précédent,
@@ -95481,7 +95565,7 @@ d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 
 
 _Modifié par_:
 
-  - Décret n°2017-36 du 16 janvier 2017 - art. 6
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -95657,8 +95741,11 @@ a) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -95748,7 +95835,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 1
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -95832,8 +95919,11 @@ utiliser la technique mentionnée à l'article L. 852-2 sont les suivants :
 
 a) A la direction centrale de la police judiciaire :
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -95892,9 +95982,9 @@ d'outre-mer au titre des finalités mentionnées aux 4° et 6° de l'article L. 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 2
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 
 #### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques<a id=1002></a>
@@ -95916,8 +96006,11 @@ a) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -96015,7 +96108,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 1
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -96140,8 +96233,11 @@ a) A la direction centrale de la police judiciaire :
 
 - le service central des courses et jeux au titre de la finalité mentionnée au 6° de l'article L. 811-3 ;
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -96250,8 +96346,11 @@ un lieu privé ne constituant pas un lieu d'habitation :
 
 a) A la direction centrale de la police judiciaire :
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière au titre de la finalité
-mentionnée au 6° de l'article L. 811-3 ;
+- la sous-direction de la lutte contre la criminalité organisée au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
+
+- la sous-direction de la lutte contre la criminalité financière au titre de la finalité mentionnée au 6° de l'article L.
+811-3 ;
 
 - la sous-direction antiterroriste au titre de la finalité mentionnée au 4° de l'article L. 811-3 ;
 
@@ -96600,7 +96699,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-543 du 29 juin 2018 - art. 1
+  - Décret n°2019-684 du 28 juin 2019 - art. 1
 
 _Cite_:
 
@@ -96883,141 +96982,153 @@ _Créé par_:
 ###### Article R895-1
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au titre Ier</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 811-1</td>
-      <td>
-
-Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 811-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td>Au titre II</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>Au titre IV</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 841-2</td>
-      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Au titre V</td>
+Au titre Ier </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 851-1</td>
+R. 811-1 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 851-2 à R. 851-4</td>
-      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+Résultant du décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 852-1 à R. 852-2</td>
+R. 811-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
     </tr>
     <tr>
-      <td align="left">R. 852-3</td>
+      <td>Au titre II </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>Au titre IV </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2 </td>
+      <td>Résultant du décret n° 2018-1287 du 27 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre V </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 851-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 852-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-2 </td>
       <td>Résultant du décret n° 2018-543 du 29 juin 2018</td>
     </tr>
     <tr>
-      <td align="left">
-
-I des articles R. 853-1, R. 853-2 et R. 853-3</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+      <td align="left">R. 852-3 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
     </tr>
     <tr>
       <td align="left">
 
-II des articles R. 853-1, R. 853-2 et R. 853-3</td>
+I des articles R. 853-1, R. 853-2 et R. 853-3 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement </td>
     </tr>
     <tr>
-      <td align="left">Au titre V BIS</td>
+      <td align="left">
+
+II de l'article R. 853-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">II de l'article R. 853-2 </td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">II de l'article R. 853-3 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">Au titre V BIS </td>
       <td>
     </td></tr>
     <tr>
       <td align="left">
 
-R. 855-1
+R. 855-1 
 
 </td>
-      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 </td>
+      <td>Résultant du  décret n° 2017-749 du 3 mai 2017  </td>
     </tr>
     <tr>
-      <td>Au titre VII</td>
+      <td>Au titre VII </td>
       <td>
     </td></tr>
     <tr>
-      <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 871-1 à R. 871-5 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 872-1 à R. 872-6</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 872-1 à R. 872-6 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 873-1 et R. 873-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 873-1 et R. 873-2 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement</td>
     </tr>
   </tbody>
 </table>
@@ -97032,10 +97143,11 @@ _Cite_:
   - Décret n°2017-749 du 3 mai 2017
   - Décret n°2018-543 du 29 juin 2018
   - Décret n°2018-1287 du 27 décembre 2018
+  - Décret n°2019-684 du 28 juin 2019
 
 _Modifié par_:
 
-  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
+  - Décret n°2019-684 du 28 juin 2019 - art. 2
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=1010></a>
@@ -97043,134 +97155,148 @@ _Modifié par_:
 ###### Article R896-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au titre Ier</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 811-1</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 811-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td>Au titre II</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>Au titre IV</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 841-2</td>
-      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Au titre V</td>
+Au titre Ier </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 851-1</td>
+      <td align="left">
+
+R. 811-1 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement </td>
     </tr>
     <tr>
-      <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td align="left">
+
+R. 811-2 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 
+
+</td>
     </tr>
     <tr>
-      <td>R. 851-2 à R. 851-4</td>
+      <td>Au titre II </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>Au titre IV </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2 </td>
+      <td>Résultant du décret n° 2018-1287 du 27 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre V </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 851-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 852-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-2 </td>
+      <td>Résultant du décret n° 2018-543 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-3 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3 </td>
+      <td>
+
+Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+II de l'article R. 853-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">II de l'article R. 853-2 </td>
       <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
-      <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td align="left">II de l'article R. 853-3 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 852-1 à R. 852-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td align="left">R. 852-3</td>
-      <td>Résultant du décret n° 2018-543 du 29 juin 2018</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-I des articles R. 853-1, R. 853-2 et R. 853-3</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-II des articles R. 853-1, R. 853-2 et R. 853-3</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-    </tr>
-    <tr>
-      <td>Au titre V BIS</td>
+      <td>Au titre V BIS </td>
       <td>
     </td></tr>
     <tr>
-      <td>R. 855-1</td>
-      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 .</td>
+      <td>R. 855-1 </td>
+      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 . </td>
     </tr>
     <tr>
-      <td>Au titre VII</td>
+      <td>Au titre VII </td>
       <td>
     </td></tr>
     <tr>
-      <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 871-1 à R. 871-5 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 872-1 à R. 872-6</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 872-1 à R. 872-6 </td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 873-1 et R. 873-2</td>
+      <td>R. 873-1 et R. 873-2 </td>
       <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
   </tbody>
@@ -97186,10 +97312,11 @@ _Cite_:
   - Décret n°2017-749 du 3 mai 2017
   - Décret n°2018-543 du 29 juin 2018
   - Décret n°2018-1287 du 27 décembre 2018
+  - Décret n°2019-684 du 28 juin 2019
 
 _Modifié par_:
 
-  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
+  - Décret n°2019-684 du 28 juin 2019 - art. 2
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=1011></a>
@@ -97197,140 +97324,152 @@ _Modifié par_:
 ###### Article R897-1
 
 Sont applicables à Wallis-et-Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au titre Ier</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 811-1</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 811-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017 </td>
-    </tr>
-    <tr>
-      <td>Au titre II</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>Au titre IV</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 841-2</td>
-      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Au titre V</td>
+Au titre Ier </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 851-1</td>
+R. 811-1 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 851-2 à R. 851-4</td>
-      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 852-1 à R. 852-2</td>
+R. 811-2 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
     </tr>
     <tr>
-      <td align="left">R. 852-3</td>
+      <td>Au titre II </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2 </td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>Au titre IV </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2 </td>
+      <td>Résultant du décret n° 2018-1287 du 27 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre V </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 851-1 </td>
       <td>
 
-Résultant du décret n° 2018-543 du 29 juin 2018
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 852-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-2 </td>
+      <td>Résultant du décret n° 2018-543 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-3 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-I des articles R. 853-1, R. 853-2 et R. 853-3</td>
+I des articles R. 853-1, R. 853-2 et R. 853-3 </td>
       <td>
 
-Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement </td>
     </tr>
     <tr>
       <td align="left">
 
-II des articles R. 853-1, R. 853-2 et R. 853-3</td>
+II de l'article R. 853-1 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
     </tr>
     <tr>
-      <td align="left">Au titre V BIS</td>
+      <td align="left">II de l'article R. 853-2 </td>
+      <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+    </tr>
+    <tr>
+      <td align="left">II de l'article R. 853-3 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">Au titre V BIS </td>
       <td>
     </td></tr>
     <tr>
-      <td align="left">R. 855-1</td>
-      <td>Résultant du décret n° 2017-749 du 3 mai 2017</td>
+      <td align="left">R. 855-1 </td>
+      <td>Résultant du décret n° 2017-749 du 3 mai 2017 </td>
     </tr>
     <tr>
-      <td>Au titre VII</td>
+      <td>Au titre VII </td>
       <td>
     </td></tr>
     <tr>
-      <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 871-1 à R. 871-5 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 872-1 à R. 872-6</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 872-1 à R. 872-6 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 873-1 et R. 873-2</td>
+      <td>R. 873-1 et R. 873-2 </td>
       <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
   </tbody>
@@ -97346,10 +97485,11 @@ _Cite_:
   - Décret n°2017-749 du 3 mai 2017
   - Décret n°2018-543 du 29 juin 2018
   - Décret n°2018-1287 du 27 décembre 2018
+  - Décret n°2019-684 du 28 juin 2019
 
 _Modifié par_:
 
-  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
+  - Décret n°2019-684 du 28 juin 2019 - art. 2
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=1012></a>
@@ -97357,136 +97497,148 @@ _Modifié par_:
 ###### Article R898-1
 
 Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la
-colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au titre Ier</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 811-1</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 811-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td>Au titre II</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 821-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>R. 823-1 et R. 823-2</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
-    </tr>
-    <tr>
-      <td>Au titre IV</td>
-      <td>
-    </td></tr>
-    <tr>
-      <td>R. 841-2</td>
-      <td>Résultant du  décret n° 2018-1287 du 27 décembre 2018</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-Au titre V</td>
+Au titre Ier </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 851-1</td>
+R. 811-1 </td>
       <td>
 
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
+Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement </td>
     </tr>
     <tr>
-      <td>R. 851-1-1</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td align="left">
+
+R. 811-2 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
     </tr>
     <tr>
-      <td>R. 851-2 à R. 851-4</td>
+      <td>Au titre II </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 821-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 823-1 et R. 823-2 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>Au titre IV </td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>R. 841-2 </td>
+      <td>Résultant du décret n° 2018-1287 du 27 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au titre V </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 851-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-1-1 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td>R. 851-2 à R. 851-4 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td>R. 851-5 à R. 851-10 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 852-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-2 </td>
+      <td>Résultant du décret n° 2018-543 du 29 juin 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 852-3 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+I des articles R. 853-1, R. 853-2 et R. 853-3 </td>
+      <td>
+
+Résultant du  décret n° 2015-1185 du 28 septembre 2015  portant désignation des services spécialisés de renseignement </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+II de l'article R. 853-1 </td>
+      <td>
+
+Résultant du décret n° 2019-684 du 28 juin 2019 </td>
+    </tr>
+    <tr>
+      <td align="left">II de l'article R. 853-2 </td>
       <td>Résultant du décret n° 2017-36 du 16 janvier 2017</td>
     </tr>
     <tr>
-      <td>R. 851-5 à R. 851-10</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td align="left">II de l'article R. 853-3 </td>
+      <td>Résultant du décret n° 2019-684 du 28 juin 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 852-1 à R. 852-2</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td align="left">R. 852-3</td>
-      <td>Résultant du décret n° 2018-543 du 29 juin 2018</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-I des articles R. 853-1, R. 853-2 et R. 853-3</td>
-      <td>
-
-Résultant du  décret n° 2015-1185 du 28 septembre 2015 portant désignation des services spécialisés de renseignement</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-II des articles R. 853-1, R. 853-2 et R. 853-3</td>
-      <td>
-
-Résultant du décret n° 2017-36 du 16 janvier 2017</td>
-    </tr>
-    <tr>
-      <td align="left">Au titre V BIS</td>
+      <td align="left">Au titre V BIS </td>
       <td>
     </td></tr>
     <tr>
-      <td align="left">R. 855-1</td>
-      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 .</td>
+      <td align="left">R. 855-1 </td>
+      <td>Résultant du  décret n° 2017-749 du 3 mai 2017 . </td>
     </tr>
     <tr>
-      <td>Au titre VII</td>
+      <td>Au titre VII </td>
       <td>
     </td></tr>
     <tr>
-      <td>R. 871-1 à R. 871-5</td>
-      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 871-1 à R. 871-5 </td>
+      <td>Résultant du  décret n° 2016-67 du 29 janvier 2016  relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 872-1 à R. 872-6</td>
-      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
+      <td>R. 872-1 à R. 872-6 </td>
+      <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement </td>
     </tr>
     <tr>
-      <td>R. 873-1 et R. 873-2</td>
+      <td>R. 873-1 et R. 873-2 </td>
       <td>Résultant du décret n° 2016-67 du 29 janvier 2016 relatif aux techniques de recueil de renseignement</td>
     </tr>
   </tbody>
@@ -97502,10 +97654,11 @@ _Cite_:
   - Décret n°2017-749 du 3 mai 2017
   - Décret n°2018-543 du 29 juin 2018
   - Décret n°2018-1287 du 27 décembre 2018
+  - Décret n°2019-684 du 28 juin 2019
 
 _Modifié par_:
 
-  - Décret n°2018-1287 du 27 décembre 2018 - art. 2
+  - Décret n°2019-684 du 28 juin 2019 - art. 2
 
 
 ## Annexes<a id=1013></a>
