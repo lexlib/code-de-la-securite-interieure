@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -6338,31 +6338,33 @@ _Codifié par_:
 ###### Article L251-2
 
 La transmission et l'enregistrement d'images prises sur la voie publique par le moyen de la vidéoprotection peuvent être mis
-en œuvre par les autorités publiques compétentes aux fins d'assurer : 
+en œuvre par les autorités publiques compétentes aux fins d'assurer :
 
-1° La protection des bâtiments et installations publics et de leurs abords ; 
+1° La protection des bâtiments et installations publics et de leurs abords ;
 
-2° La sauvegarde des installations utiles à la défense nationale ; 
+2° La sauvegarde des installations utiles à la défense nationale ;
 
-3° La régulation des flux de transport ; 
+3° La régulation des flux de transport ;
 
-4° La constatation des infractions aux règles de la circulation ; 
+4° La constatation des infractions aux règles de la circulation ;
 
 5° La prévention des atteintes à la sécurité des personnes et des biens dans des lieux particulièrement exposés à des risques
 d'agression, de vol ou de trafic de stupéfiants ainsi que la prévention, dans des zones particulièrement exposées à ces
 infractions, des fraudes douanières prévues par le dernier alinéa de l'article 414 du code des douanes et des délits prévus à
-l'article 415 du même code portant sur des fonds provenant de ces mêmes infractions ; 
+l'article 415 du même code portant sur des fonds provenant de ces mêmes infractions ;
 
-6° La prévention d'actes de terrorisme, dans les conditions prévues au chapitre III du titre II du présent livre ; 
+6° La prévention d'actes de terrorisme, dans les conditions prévues au chapitre III du titre II du présent livre ;
 
-7° La prévention des risques naturels ou technologiques ; 
+7° La prévention des risques naturels ou technologiques ;
 
-8° Le secours aux personnes et la défense contre l'incendie ; 
+8° Le secours aux personnes et la défense contre l'incendie ;
 
 9° La sécurité des installations accueillant du public dans les parcs d'attraction ;
 
 10° Le respect de l'obligation d'être couvert, pour faire circuler un véhicule terrestre à moteur, par une assurance
-garantissant la responsabilité civile.
+garantissant la responsabilité civile ;
+
+11° La prévention de l'abandon d'ordures, de déchets, de matériaux ou d'autres objets.
 
 Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la
 sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques
@@ -6407,7 +6409,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+  - Loi n°2019-773 du 24 juillet 2019 - art. 9
 
 _Cite_:
 
@@ -9322,47 +9324,51 @@ _Modifié par_:
 ###### Article L317-1
 
 Toute infraction aux prescriptions du présent titre peut être constatée par les agents des contributions indirectes et des
-douanes et par les autorités de police judiciaire qui en dressent procès-verbal.
+douanes et par les autorités de police judiciaire qui en dressent procès-verbal. 
 
 Les agents du ministère de la défense habilités dans des conditions fixées par décret en Conseil d'Etat peuvent également
 constater les infractions aux dispositions du présent titre ainsi qu'aux dispositions réglementaires prises pour leur
-application.
+application. Les inspecteurs de l'environnement mentionnés à l'article L. 172-1 du code de l'environnement, affectés aux
+établissements mentionnés aux articles L. 131-8 et L. 421-1 du même code et agissant dans le cadre des articles L. 171-1 et
+L. 172-4 dudit code peuvent constater les infractions aux dispositions des chapitres II, IV et V du présent titre ainsi
+qu'aux dispositions réglementaires prises pour leur application. 
 
 Les titulaires des autorisations et des licences définies au présent titre sont tenus de laisser pénétrer, dans toutes les
-parties de leurs locaux, les agents habilités de l'Etat.
+parties de leurs locaux, les agents habilités de l'Etat. 
 
-Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents.
+Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents. 
 
 Ils sont également tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
 habilités. Ces investigations peuvent comporter, outre l'examen des lieux, des matériels et du système d'information, les
-recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles.
+recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles. 
 
 Les agents habilités de l'Etat qui ont connaissance à titre quelconque des renseignements recueillis au sujet des entreprises
-en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code pénal.
+en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code
+pénal. 
 
 Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au
 présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
-de leurs missions respectives.
+de leurs missions respectives. 
 
 Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans
-le département ou, à Paris, au préfet de police.
+le département ou, à Paris, au préfet de police. 
 
 En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
 procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
-ministre de la défense.
+ministre de la défense. 
 
 Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux
 dispositions du chapitre III du présent titre commise par une personne morale mentionnée au I de l'article L. 2332-1 du code
-de la défense  est mise en mouvement par le procureur de la République.
+de la défense est mise en mouvement par le procureur de la République. 
 
 Il apprécie la suite à donner aux faits portés à sa connaissance, notamment par la dénonciation du ministre de la défense ou
-de l'autorité habilitée par lui.
+de l'autorité habilitée par lui. 
 
 A défaut de cette dénonciation, le procureur de la République informe le ministre de la défense ou l'autorité habilitée par
-lui.
+lui. 
 
 Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
-par tout moyen.
+par tout moyen. 
 
 L'autorité mentionnée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.
 
@@ -9374,14 +9380,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-610 du 19 juin 2019 - art. 14
+  - Loi n°2019-773 du 24 juillet 2019 - art. 10
 
 _Cite_:
 
   - Code pénal - art. 226-13
   - Code de procédure pénale - art. 36
   - Code de la défense. - art. L2332-1
-  - Code de la sécurité intérieure - art. L311-2
+  - Code de l'environnement - art. L131-8 (VT)
+  - Code de l'environnement - art. L171-1 (V)
+  - Code de l'environnement - art. L172-1 (VT)
+  - Code de l'environnement - art. L172-4 (V)
+  - Code de l'environnement - art. L421-1 (VT)
 
 _Anciens textes_:
 
@@ -9389,7 +9399,7 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. L317-2 (V)
+  - Code de la sécurité intérieure - art. L317-2 (VD)
   - Code pénal - art. 222-67 (V)
 
 
