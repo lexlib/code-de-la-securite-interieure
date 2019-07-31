@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-07-27
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -29803,14 +29803,16 @@ _Cite_:
 ###### Article D123-35
 
 Des régies d'avances et des régies de recettes peuvent être créées auprès de l'établissement dans les conditions fixées par
-le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics. Les
-régisseurs sont désignés par le directeur avec l'agrément de l'agent comptable.
+le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et d'avances des organismes publics. Les régisseurs
+sont désignés par le directeur avec l'agrément de l'agent comptable.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
 
 _Anciens textes_:
 
@@ -29820,9 +29822,13 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R123-31-1
@@ -63444,8 +63450,14 @@ _Créé par_:
 ###### Article R413-25
 
 Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions fixées par le décret n°
-92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics. Les régisseurs sont
-désignés par le directeur avec l'agrément de l'agent comptable.
+2019-798 du 26 juillet 2019 relatif aux régies de recettes et d'avances des organismes publics. Les régisseurs sont désignés
+par le directeur avec l'agrément de l'agent comptable.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
@@ -63453,17 +63465,17 @@ _Anciens textes_:
 
   - Décret n°88-379 du 20 avril 1988 - art. 24 (VT)
 
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
-
 _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R413-26
@@ -64305,13 +64317,15 @@ _Créé par_:
 ###### Article R413-53
 
 Des régies d'avances et de recettes peuvent être créées auprès de l'établissement conformément aux dispositions du décret n°
-92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+2019-798 du 26 juillet 2019 relatif aux régies de recettes et d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
 
 _Anciens textes_:
 
@@ -64321,9 +64335,13 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R413-54
@@ -79764,27 +79782,27 @@ _Cite_:
 
 ###### Article R632-13
 
-Le directeur assure la gestion administrative et budgétaire du Conseil national. A ce titre : 
+Le directeur assure la gestion administrative et budgétaire du Conseil national. A ce titre :
 
 1° Il est ordonnateur principal des recettes et des dépenses du Conseil national et nomme les ordonnateurs secondaires. Il
-peut créer des régies d'avances et des régies de recettes dans les conditions prévues par le décret n° 92-681 du 20 juillet
-1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics. Il prépare et exécute le budget
-et ses modifications ; 
+peut créer des régies d'avances et des régies de recettes dans les conditions prévues par le décret n° 2019-798 du 26 juillet
+2019 relatif aux régies de recettes et d'avances des organismes publics. Il prépare et exécute le budget et ses
+modifications ;
 
 2° Il est ordonnateur secondaire à vocation nationale pour l'émission des titres de perception relatifs aux pénalités
-financières prévues à l'article L. 634-4 ; 
+financières prévues à l'article L. 634-4 ;
 
-3° Il recrute, nomme, gère et a autorité sur les agents du Conseil national ; 
+3° Il recrute, nomme, gère et a autorité sur les agents du Conseil national ;
 
 4° Il organise les missions de contrôle, dans le cadre des orientations fixées par le collège et dans les conditions prévues
-aux articles L. 634-1 à L. 634-3 ; 
+aux articles L. 634-1 à L. 634-3 ;
 
 5° Il accomplit tous les actes qui ne relèvent pas de la compétence du collège ou de son président, ou des commissions
-d'agrément et de contrôle ou de leurs présidents, ainsi que ceux qui lui sont délégués par le collège ou par son président ; 
+d'agrément et de contrôle ou de leurs présidents, ainsi que ceux qui lui sont délégués par le collège ou par son président ;
 
 6° Pour la mise en œuvre des missions mentionnées au présent article, le directeur peut déléguer sa signature aux agents
-placés sous son autorité. Les actes de délégation du directeur sont publiés        sur le site internet du Conseil national
-des activités privées de sécurité.
+placés sous son autorité. Les actes de délégation du directeur sont publiés sur le site internet du Conseil national des
+activités privées de sécurité.
 
 Le directeur présente chaque année au collège un compte rendu de l'exercice de la politique de contrôle de l'action
 disciplinaire. Il rend compte également des actions entreprises en matière de déontologie.
@@ -79793,13 +79811,13 @@ Le directeur est assisté d'un secrétaire général.
 
 En cas d'absence ou d'empêchement du directeur, le secrétaire général assure les missions dévolues à ce dernier.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992
-  - Code de la sécurité intérieure - art. L634-1
-  - Code de la sécurité intérieure - art. L634-4
 
 _Anciens textes_:
 
@@ -79816,10 +79834,15 @@ _Cité par_:
   - Arrêté du 26 décembre 2018 - art. 3 (V)
   - Arrêté du 26 septembre 2019 - art. 1
 
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+  - Code de la sécurité intérieure - art. L634-1
+  - Code de la sécurité intérieure - art. L634-4
+
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 23
-  - Décret n°2016-515 du 26 avril 2016 - art. 24
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R632-14
@@ -88680,18 +88703,24 @@ _Cite_:
 
 ###### Article R732-11-18
 
-Des régies de recettes et d'avances peuvent être instituées conformément aux dispositions du  décret n° 92-681 du 20 juillet
-1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
+Des régies de recettes et d'avances peuvent être instituées conformément aux dispositions du décret n° 2019-798 du 26 juillet
+2019 relatif aux régies de recettes et d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°92-681 du 20 juillet 1992
+  - Décret n°2019-798 du 26 juillet 2019
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-856 du 8 octobre 2018 - art. 1
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ##### Sous-section 4 : Gestion du système d'information et de commandement unifié "NexSIS 18-112"<a id=938></a>
