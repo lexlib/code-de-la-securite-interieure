@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2019-12-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -8523,18 +8523,18 @@ _Cite_:
 
 ###### Article L313-2
 
-Nul ne peut exercer à titre individuel l'activité qui consiste, à titre principal ou accessoire, en la fabrication, le
-commerce, l'échange, la location, la réparation ou la transformation d'armes, d'éléments d'armes et de munitions ni diriger
-ou gérer une personne morale exerçant cette activité s'il n'est titulaire d'un agrément relatif à son honorabilité et à ses
-compétences professionnelles, délivré par l'autorité administrative.
+Nul ne peut, s'il n'est titulaire d'un agrément relatif à son honorabilité et à ses compétences professionnelles délivré par
+l'autorité administrative, exercer l'activité qui consiste, à titre principal ou accessoire, soit en la fabrication, le
+commerce, l'échange, la location, la location-vente, le prêt, la modification, la réparation ou la transformation, soit en la
+négociation ou l'organisation d'opérations en vue de l'achat, de la vente, de la fourniture ou du transfert d'armes, de
+munitions ou de leurs éléments essentiels.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+**Nota:**
+
+Conformément aux dispositions de l'article 25 de la loi n° 2018-133 du 26 février 2018, ces dispositions entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 décembre 2019.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
 
 _Cité par_:
 
@@ -8554,9 +8554,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R313-7-1 (V)
   - Code de la sécurité intérieure - art. R313-9 (VD)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de la défense. - art. L2332-1-1 (VT)
+  - Loi n°2018-133 du 26 février 2018 - art. 18
 
 _Codifié par_:
 
