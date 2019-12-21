@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-12-01
+Version Consolidée au 2019-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -30583,7 +30583,8 @@ _Cite_:
 ###### Article D132-15
 
 Un plan de prévention de la délinquance fixe les priorités de l'Etat en matière de prévention de la délinquance à Paris, dans
-le respect des orientations nationales définies par le comité interministériel de prévention de la délinquance.
+le respect des orientations nationales définies par le comité interministériel de prévention de la délinquance et de la
+radicalisation.
 
 Ce plan est arrêté par le préfet de Paris et le préfet de police après avis du conseil parisien de sécurité et de prévention
 de la délinquance et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes mentionné à
@@ -30597,13 +30598,13 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Modifié par_:
-
-  - Décret n°2018-329 du 3 mai 2018 - art. 9
-
 _Cité par_:
 
   - Décret n°2019-1415 du 19 décembre 2019 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1415 du 19 décembre 2019 - art. 1
 
 _Anciens textes_:
 
@@ -30611,25 +30612,25 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. D132-14 (V)
+  - Code de la sécurité intérieure - art. D132-14
 
 
 ##### Section 7 : Dispositions particulières au département des Bouches-du-Rhône<a id=404></a>
 
 ###### Article D132-16
 
-Les  missions exercées par le préfet au titre des sections 2, 3, 4 et 5 du  présent chapitre sont exercées, dans le
-département des  Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
+Les missions exercées par le préfet au titre des sections 1 bis, 2, 3, 4 et 5 du présent chapitre sont exercées, dans le
+département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-134 du 17 février 2014 - art. 6
 
 _Cité par_:
 
   - Décret n°2019-1415 du 19 décembre 2019 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1415 du 19 décembre 2019 - art. 2
 
 
 ### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE<a id=405></a>
@@ -31361,37 +31362,33 @@ _Créé par_:
 
 Sont applicables en Polynésie française, sous réserve des adaptations prévues à l'article D. 155-9, les dispositions du
 présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
-droite du même tableau : 
+droite du même tableau :
 
 <table border="1">
   <tbody>
     <tr>
       <td>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES
 
 </td>
       <td>
 
-DANS LEUR RÉDACTION 
+DANS LEUR RÉDACTION
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II 
-
-</td>
+      <td align="center">Au titre II</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 
+D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
@@ -31401,7 +31398,7 @@ la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td>
 
-D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29 
+D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29
 
 </td>
       <td>
@@ -31414,67 +31411,70 @@ justice
     <tr>
       <td align="center">
 
-Au titre III 
+Au titre III
 
 </td>
       <td align="center">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 132-1 à D. 132-4
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2016-553 du 6 mai 2016
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-D. 132-1 à D. 132-4 
-
-</td>
-      <td align="left" valign="top">
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+D. 132-7
 
 </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-D. 132-7 à D. 132-10
-
-</td>
-      <td align="left" valign="top">
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2016-553 du 6 mai 2016
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-D. 132-13 
+D. 132-8 à D. 132-10
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
+Résultant du décret n° 2013-1113 du 4 décembre 2013
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre IV 
-
-</td>
       <td align="center">
 
+D. 132-13
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2017-618 du 25 avril 2017
+
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="center">Au titre IV</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="left">
 
 D. 141-2 à 141-10
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -31492,7 +31492,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+  - Décret n°2019-1415 du 19 décembre 2019 - art. 3
 
 _Cité par_:
 
@@ -32061,26 +32061,24 @@ Au titre II
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 
+D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) 
+la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
 
 </td>
     </tr>
     <tr>
       <td>
 
-D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29 
+D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29
 
 </td>
       <td>
@@ -32091,21 +32089,14 @@ justice
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre III
-
-</td>
+      <td align="center">Au titre III</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">D. 132-1 à D. 132-4
-
-</td>
+      <td align="center">D. 132-1 à D. 132-4</td>
       <td align="center">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2016-553 du 6 mai 2016
 
 </td>
     </tr>
@@ -32116,13 +32107,9 @@ Au titre IV
 
 </td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">D. 141-2 à D. 141-10
-
-</td>
+      <td align="center">D. 141-2 à D. 141-10</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -32141,7 +32128,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+  - Décret n°2019-1415 du 19 décembre 2019 - art. 3
 
 
 ###### Article D156-4
@@ -32713,20 +32700,16 @@ DANS LEUR RÉDACTION
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II
-
-</td>
+      <td align="center">Au titre II</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 
+D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
@@ -32736,48 +32719,39 @@ la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td>
 
-D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29 
+D. 123-9, D. 123-12 à D. 123-14, D. 123-28 et D. 123-29
 
 </td>
       <td>Résultant du décret n° 2015-1213 du 1er octobre 2015 relatif à l'Institut national des hautes études de la sécurité
 et de la justice</td>
     </tr>
     <tr>
-      <td align="center">Au titre III
-
-</td>
+      <td align="center">Au titre III</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 D. 132-1 à D. 132-4
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+Résultant du décret n° 2016-553 du 6 mai 2016
 
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre IV
-
-</td>
+      <td align="center">Au titre IV</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 D. 141-2 à D. 141-10
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -32795,7 +32769,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+  - Décret n°2019-1415 du 19 décembre 2019 - art. 3
 
 
 ###### Article D157-4
@@ -33212,15 +33186,11 @@ DANS LEUR RÉDACTION
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre II
-
-</td>
+      <td align="center">Au titre II</td>
       <td align="center">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35 </td>
+      <td align="center">D. 123-3 à D. 123-7, D. 123-15 à D. 123-27, D. 123-30 à D. 123-35</td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
@@ -33244,39 +33214,28 @@ justice
 </td>
     </tr>
     <tr>
-      <td align="center">Au titre III
-
-</td>
+      <td align="center">Au titre III</td>
       <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">D. 132-1 à D. 132-4</td>
+      <td align="center">
+
+Résultant du décret n° 2016-553 du 6 mai 2016
 
 </td>
     </tr>
     <tr>
-      <td align="center">D. 132-1 à D. 132-4
-
-</td>
+      <td align="center">Au titre IV</td>
       <td align="center">
-
-Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
-      <td align="center">Au titre IV
-
-</td>
-      <td align="center">
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 D. 140-2 à D. 140-10
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
 la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
@@ -33294,7 +33253,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1213 du 1er octobre 2015 - art. 5
+  - Décret n°2019-1415 du 19 décembre 2019 - art. 3
 
 
 ###### Article R*158-1
