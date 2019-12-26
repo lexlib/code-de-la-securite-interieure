@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-12-22
+Version Consolidée au 2019-12-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -209,7 +209,7 @@ Version Consolidée au 2019-12-22
         - [Chapitre VI : Activités de protection des navires (art. L616-1 à L616-6)](#206)
           - [Section 1 : Certification (art. L616-1)](#207)
           - [Section 2 : Carte professionnelle (art. L616-2)](#208)
-          - [Section 3 : Modalités d'exercice spécifiques (art. L616-3)](#209)
+          - [Section 3 : Modalités d'exercice spécifiques (art. L616-3 à L616-3-1)](#209)
           - [Section 4 : Contrôle à bord des navires (art. L616-4 à L616-6)](#210)
         - [Chapitre VII : Dispositions pénales (art. L617-1 à L617-16)](#211)
           - [Section 1 : Conditions d'exercice (art. L617-1 à L617-10)](#212)
@@ -16647,6 +16647,22 @@ _Créé par_:
   - Loi n°2014-742 du 1er juillet 2014 - art. 25
 
 
+###### Article L616-3-1
+
+Pour l'accès aux navires et à leur bord, les personnes physiques exerçant l'activité mentionnée au 4° de l'article L. 611-1
+peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
+
+En cas de circonstances particulières liées à l'existence de menaces graves pour la sécurité publique, les personnes
+mentionnées au premier alinéa du présent article peuvent également procéder, avec le consentement exprès des personnes, à des
+palpations de sécurité dans les conditions fixées au second alinéa de l'article L. 613-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 146
+
+
 ##### Section 4 : Contrôle à bord des navires<a id=210></a>
 
 ###### Article L616-4
@@ -19458,10 +19474,8 @@ _Cite_:
 ###### Article L645-1
 
 Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis, et le titre III, sont applicables en Polynésie
-française, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article
-32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi
-n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la
-protection des données à caractère personnel, sous réserve des adaptations suivantes :
+française, dans leur rédaction résultant de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités, sous réserve
+des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence à la Polynésie française ;
 
@@ -19525,24 +19539,22 @@ localement " ;
 
 12° A l'article L. 634-2 :
 
-a) Au premier alinéa, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première
-instance " ;
+a) Au premier alinéa, les mots : " tribunal judiciaire " sont remplacés par les mots : " tribunal de première instance " ;
 
 b) Au deuxième alinéa, les mots : " aux dispositions des articles 493 à 498 du code de procédure civile " sont remplacés par
 les mots : " aux dispositions de la section IV du chapitre V du titre VII du livre Ier du code de procédure civile de
 Polynésie française " ;
 
-13° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail  "  sont remplacés par les mots : "
-conformément aux dispositions applicables localement "   ;
+13° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail " sont remplacés par les mots : "
+conformément aux dispositions applicables localement " ;
 
 14° Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie
 locale.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -19559,13 +19571,9 @@ _Cite_:
   - Code du travail - art. L1234-9
   - Code du travail - art. L8271-1-2
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 146
 
 
 #### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=266></a>
@@ -19573,10 +19581,8 @@ _Modifié par_:
 ###### Article L646-1
 
 Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables en
-Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de
-l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification
-de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions
-concernant la protection des données à caractère personnel, sous réserve des adaptations suivantes :
+Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités,
+sous réserve des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
@@ -19636,8 +19642,7 @@ localement " ;
 
 13° A l'article L. 634-2 :
 
-a) Au premier alinéa, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première
-instance " ;
+a) Au premier alinéa, les mots : " tribunal judiciaire " sont remplacés par les mots : " tribunal de première instance " ;
 
 b) Au deuxième alinéa, les mots : " aux dispositions des articles 493 à 498 du code de procédure civile " sont remplacés par
 les mots : " aux dispositions de la sous-section 3 du titre XIV du livre Ier du code de procédure civile de Nouvelle-
@@ -19651,9 +19656,8 @@ locale.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -19671,13 +19675,9 @@ _Cite_:
   - Code du travail - art. L1234-9
   - Code du travail - art. L8271-1-2
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 146
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=267></a>
@@ -19685,10 +19685,8 @@ _Modifié par_:
 ###### Article L647-1
 
 Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables dans les
-îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de
-l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification
-de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions
-concernant la protection des données à caractère personnel, sous réserve des adaptations suivantes :
+îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités,
+sous réserve des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
 
@@ -19746,8 +19744,8 @@ localement " ;
 remplacés par les mots : " agents chargés du contrôle du travail illégal en application des dispositions applicables
 localement " ;
 
-12° Au premier alinéa de l'article L. 634-2, les mots : " tribunal de grande instance " sont remplacés par les mots : "
-tribunal de première instance " ;
+12° Au premier alinéa de l'article L. 634-2, les mots : " tribunal judiciaire " sont remplacés par les mots : " tribunal de
+première instance " ;
 
 13° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail " sont remplacés par les mots : "
 conformément aux dispositions applicables localement " ;
@@ -19757,9 +19755,8 @@ monnaie locale.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -19777,13 +19774,9 @@ _Cite_:
   - Code du travail - art. L1234-9
   - Code du travail - art. L8271-1-2
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 146
 
 
 #### Chapitre VIII : Dispositions applicables dans les Terres  australes et antarctiques françaises<a id=268></a>
@@ -19791,11 +19784,13 @@ _Modifié par_:
 ###### Article L648-1
 
 Le titre Ier et le titre III du présent livre sont applicables dans les Terres australes et antarctiques françaises, dans
-leur rédaction résultant de la l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi
-n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la protection des
-données à caractère personnel, en tant qu'ils concernent les activités mentionnées au 4° de l'article L. 611-1 et sous
-réserve des adaptations suivantes :
+leur rédaction résultant de la la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités, en tant qu'ils concernent
+les activités mentionnées au 4° de l'article L. 611-1 et sous réserve des adaptations suivantes :
+
+1° A La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ;
+
+1° B La référence au représentant de l'Etat dans le département est remplacée par la référence à l'administrateur supérieur
+des Terres australes et antarctiques françaises ;
 
 1° Au 2° de l'article L. 612-1 et à la fin du 4° de l'article L. 612-7, les mots : " ou un autre Etat partie à l'accord sur
 l'Espace économique européen " sont supprimés ;
@@ -19808,23 +19803,17 @@ sont supprimés ;
 4° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique
 européen " sont supprimés.
 
-**Nota:**
-
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 146
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L612-1
   - Code de la sécurité intérieure - art. L612-24
-  - Code de la sécurité intérieure - art. L612-7 (VD)
+  - Code de la sécurité intérieure - art. L612-7
 
 
 ## LIVRE VII : SÉCURITÉ CIVILE<a id=269></a>
