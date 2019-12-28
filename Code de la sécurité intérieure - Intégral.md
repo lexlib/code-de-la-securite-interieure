@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-12-27
+Version Consolidée au 2019-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -1878,20 +1878,24 @@ _Codifié par_:
 Le maire est informé sans délai par les responsables locaux de la police ou de la gendarmerie nationales des infractions
 causant un trouble à l'ordre public commises sur le territoire de sa commune.
 
-Le maire est informé, à sa demande, par le procureur de la République, des classements sans suite, des mesures alternatives
-aux poursuites ou des poursuites lorsque ces décisions concernent des infractions mentionnées au premier alinéa.
+Le maire est informé, à sa demande, par le procureur de la République des classements sans suite, des mesures alternatives
+aux poursuites, des poursuites engagées, des jugements devenus définitifs ou des appels interjetés lorsque ces décisions
+concernent des infractions mentionnées au premier alinéa du présent article.
 
-Le maire est également informé, à sa demande, par le procureur de la République, des jugements devenus définitifs ou des
-appels interjetés lorsque ces décisions concernent des infractions mentionnées au premier alinéa ou signalées par lui en
-application du deuxième alinéa de l'article 40 du code de procédure pénale.
+Il est également informé, à sa demande, par le procureur de la République, des suites judiciaires données aux infractions
+constatées sur le territoire de sa commune par les agents de police municipale en application de l'article 21-2 du code de
+procédure pénale.
 
-Les informations mentionnées aux trois alinéas précédents sont transmises dans le respect de l'article 11 du même code.
+Le maire est informé par le procureur de la République des jugements devenus définitifs ou des appels interjetés lorsque ces
+décisions concernent des infractions signalées par lui en application du second alinéa de l'article 40 du même code. ;
+
+Les informations mentionnées aux quatre alinéas précédents sont transmises dans le respect de l'article 11 du même code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 59
 
 _Cite_:
 
@@ -11317,6 +11321,16 @@ place, destinés à une remise immédiate au consommateur, dont l'activité caus
 tranquillité publics peuvent faire l'objet d'un arrêté de fermeture administrative d'une durée n'excédant pas trois mois pris
 par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police.
 
+Au vu des circonstances locales, le représentant de l'Etat dans le département peut déléguer par arrêté à un maire qui en
+fait la demande l'exercice, sur le territoire de sa commune, des prérogatives mentionnées au premier alinéa. Le représentant
+de l'Etat dans le département peut mettre fin à cette délégation, dans les mêmes conditions, à la demande du maire ou à son
+initiative.
+
+Les prérogatives déléguées au maire en application du deuxième alinéa sont exercées au nom et pour le compte de l'Etat. Le
+maire transmet au représentant de l'Etat dans le département, dans un délai de trois jours à compter de leur signature, les
+arrêtés de fermeture qu'il prend au titre de ces prérogatives. Le représentant de l'Etat dans le département peut ordonner la
+fermeture administrative d'un établissement, après une mise en demeure du maire restée sans résultat.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -11327,16 +11341,16 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L344-1 (VD)
   - Code de la sécurité intérieure - art. R332-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 45
+
 _Anciens textes_:
 
   - Code général des collectivités territoriales - art. L2215-6, al. 1 (VT)
   - Code général des collectivités territoriales - art. L2512-14-1, al. 1 (VT)
 
 _Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-_Créé par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
@@ -11349,6 +11363,16 @@ Les établissements diffusant de la musique, dont l'activité cause un trouble �
 publics, peuvent faire l'objet d'un arrêté de fermeture administrative d'une durée n'excédant pas trois mois par le
 représentant de l'Etat dans le département ou, à Paris, par le préfet de police.
 
+Au vu des circonstances locales, le représentant de l'Etat dans le département peut déléguer par arrêté à un maire qui en
+fait la demande l'exercice, sur le territoire de sa commune, des prérogatives mentionnées au premier alinéa. Le représentant
+de l'Etat dans le département peut mettre fin à cette délégation, dans les mêmes conditions, à la demande du maire ou à son
+initiative.
+
+Les prérogatives déléguées au maire en application du deuxième alinéa sont exercées au nom et pour le compte de l'Etat. Le
+maire transmet au représentant de l'Etat dans le département, dans un délai de trois jours à compter de leur signature, les
+arrêtés de fermeture qu'il prend au titre de ces prérogatives. Le représentant de l'Etat dans le département peut ordonner la
+fermeture administrative d'un établissement, après une mise en demeure du maire restée sans résultat.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -11359,9 +11383,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L344-1 (VD)
   - Code de la sécurité intérieure - art. R333-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 45
 
 _Anciens textes_:
 
@@ -13349,11 +13373,11 @@ _Codifié par_:
 
 Les agents de police municipale peuvent être autorisés nominativement par le représentant de l'Etat dans le département, sur
 demande motivée du maire, à porter une arme, sous réserve de l'existence d'une convention de coordination des interventions
-de la police municipale et des forces de sécurité de l'Etat, prévue par la section 2 du chapitre II du présent titre. 
+de la police municipale et des forces de sécurité de l'Etat, prévue par la section 2 du chapitre II du présent titre.
 
 Lorsque l'agent est employé par un établissement public de coopération intercommunale et mis à disposition de plusieurs
-communes dans les conditions prévues au premier alinéa de l'article L. 512-2, cette demande est établie conjointement par
-l'ensemble des maires des communes où il est affecté. 
+communes dans les conditions prévues aux I et II de l'article L. 512-2, cette demande est établie conjointement par
+l'ensemble des maires des communes où il est affecté.
 
 Un décret en Conseil d'Etat précise, par type de mission, les circonstances et les conditions dans lesquelles les agents de
 police municipale peuvent porter une arme. Il détermine, en outre, les catégories et les types d'armes susceptibles d'être
@@ -13365,7 +13389,7 @@ derniers reçoivent à cet effet.
 
 _Modifié par_:
 
-  - Loi n°2016-987 du 21 juillet 2016 - art. 16
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 61
 
 _Anciens textes_:
 
@@ -13379,7 +13403,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L512-2
+  - Code de la sécurité intérieure - art. L512-2 (V)
 
 _Codifié par_:
 
@@ -13552,30 +13576,50 @@ _Cité par_:
 
 ###### Article L512-2
 
-A la demande des maires de plusieurs communes appartenant à un même établissement public de coopération intercommunale à
-fiscalité propre, celui-ci peut recruter, après délibération de deux tiers au moins des conseils municipaux des communes
-intéressées représentant plus de la moitié de la population totale de celles-ci, ou de la moitié au moins des conseils
-municipaux des communes représentant les deux tiers de la population, un ou plusieurs agents de police municipale, en vue de
-les mettre à disposition de l'ensemble de ces communes. Leur nomination en qualité de fonctionnaires stagiaires ne fait pas
-obstacle à leur mise à disposition. 
+I.-Dans les conditions prévues aux deuxième et dernier alinéas du présent I, le président d'un établissement public de
+coopération intercommunale à fiscalité propre peut recruter, à son initiative ou à la demande des maires de plusieurs
+communes membres, un ou plusieurs agents de police municipale en vue de les mettre en tout ou partie à la disposition de
+l'ensemble des communes et d'assurer, le cas échéant, l'exécution des décisions qu'il prend au titre des pouvoirs de police
+qui lui ont été transférés en application de l'article L. 5211-9-2 du code général des collectivités territoriales.
 
-Les agents de police municipale ainsi recrutés exercent, sur le territoire de chaque commune où ils sont affectés, les
-compétences mentionnées à l'article L. 511-1, sans préjudice des compétences de police judiciaire qui leur sont dévolues par
-le code de procédure pénale et par les lois pénales spéciales. Pendant l'exercice de leurs fonctions sur le territoire d'une
-commune, ils sont placés sous l'autorité du maire de cette commune.
+Le recrutement est autorisé par délibérations concordantes de l'organe délibérant de l'établissement public de coopération
+intercommunale à fiscalité propre et de deux tiers au moins des conseils municipaux des communes représentant plus de la
+moitié de la population totale de celles-ci ou de la moitié au moins des conseils municipaux des communes représentant les
+deux tiers de la population totale de celles-ci.
+
+Le conseil municipal de chaque commune membre dispose d'un délai de trois mois, à compter de la notification au maire de la
+délibération de l'organe délibérant de l'établissement public de coopération intercommunale, pour se prononcer sur la
+décision de recrutement proposée. A défaut de délibération dans ce délai, sa décision est réputée favorable.
+
+II.-Les agents de police municipale recrutés en application du I du présent article et mis à la disposition des communes
+membres de l'établissement public de coopération intercommunale exercent, sur le territoire de chaque commune où ils sont
+affectés, les compétences mentionnées à l'article L. 511-1, sans préjudice des compétences de police judiciaire qui leur sont
+attribuées par le code de procédure pénale et par les lois pénales spéciales.
+
+Leur nomination en qualité de fonctionnaires stagiaires ne fait pas obstacle à leur mise à disposition des communes membres
+de l'établissement public de coopération intercommunale.
+
+Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ils sont placés sous l'autorité du maire de celle-ci.
+
+Une convention conclue entre l'établissement public de coopération intercommunale et chaque commune concernée fixe les
+modalités d'organisation et de financement de la mise à disposition des agents et de leurs équipements.
+
+III.-Lorsqu'ils assurent, en application du V de l'article L. 5211-9-2 du code général des collectivités territoriales,
+l'exécution des décisions du président de l'établissement public de coopération intercommunale, les agents de police
+municipale sont placés sous l'autorité de ce dernier.
+
+IV.-Le recrutement d'agents de police municipale par un établissement public de coopération intercommunale à fiscalité propre
+dans les conditions prévues au I du présent article ne fait pas obstacle au recrutement, par une commune membre de cet
+établissement, de ses propres agents de police municipale.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
 
 _Cité par_:
 
   - Loi n°2016-731 du 3 juin 2016 - art. 114 (Ab)
   - Décret n°2016-1861 du 23 décembre 2016 - art. 2 (Ab)
   - Code de la route. - art. L130-5 (VD)
-  - Code de la sécurité intérieure - art. L511-5 (M)
+  - Code de la sécurité intérieure - art. L511-5 (V)
   - Code de la sécurité intérieure - art. L512-1 (V)
   - Code de la sécurité intérieure - art. L512-4 (V)
   - Code de la sécurité intérieure - art. L512-5 (V)
@@ -13583,13 +13627,17 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2212-5-1 (V)
   - Code général des collectivités territoriales - art. L5211-9-2 (VD)
 
+_Modifié par_:
+
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 61
+
 _Anciens textes_:
 
   - Code général des collectivités territoriales - art. L2212-5, al. 5 et 6 (T)
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L511-1 (VD)
+  - Code de la sécurité intérieure - art. L511-1
 
 _Codifié par_:
 
@@ -13630,14 +13678,15 @@ _Codifié par_:
 
 ###### Article L512-4
 
-Dès lors qu'un service de police municipale comporte au moins cinq emplois d'agent de police municipale, y compris d'agent
-mis à disposition de la commune par un établissement public de coopération intercommunale dans les conditions prévues au
-premier alinéa de l'article L. 512-2, une convention de coordination des interventions de la police municipale et des forces
-de sécurité de l'Etat est conclue entre le maire de la commune, le président de l'établissement public de coopération
-intercommunale le cas échéant, et le représentant de l'Etat dans le département, après avis du procureur de la République. 
+Dès lors qu'un service de police municipale comporte au moins trois emplois d'agent de police municipale, y compris d'agent
+mis à disposition de la commune par un établissement public de coopération intercommunale dans les conditions prévues aux I
+et II de l'article L. 512-2, une convention de coordination des interventions de la police municipale et des forces de
+sécurité de l'Etat est conclue entre le maire de la commune, le président de l'établissement public de coopération
+intercommunale le cas échéant, le représentant de l'Etat dans le département et le procureur de la République
+territorialement compétent.
 
 Cette convention peut également être conclue, à la demande du maire, lorsqu'un service de police municipale compte moins de
-cinq emplois d'agent de police municipale.
+trois emplois d'agent de police municipale.
 
 **Liens relatifs à cet article**
 
@@ -13647,16 +13696,17 @@ _Cité par_:
   - Décret n°2004-374 du 29 avril 2004 - art. 78-3 (V)
   - Code de la sécurité intérieure - art. Annexe 1 (VD)
   - Code de la sécurité intérieure - art. L512-5 (V)
-  - Code de la sécurité intérieure - art. L512-6 (VD)
+  - Code de la sécurité intérieure - art. L512-6 (V)
   - Code de la sécurité intérieure - art. R511-19 (VD)
   - Code de la sécurité intérieure - art. R511-30 (VD)
   - Code de la sécurité intérieure - art. R512-5 (VD)
   - Code de la sécurité intérieure - art. R512-6 (VD)
   - Code général des collectivités territoriales - art. L3642-3 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 58 (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 61
 
 _Anciens textes_:
 
@@ -13664,7 +13714,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L512-2 (VD)
+  - Code de la sécurité intérieure - art. L512-2
 
 _Codifié par_:
 
@@ -13674,16 +13724,17 @@ _Codifié par_:
 ###### Article L512-5
 
 Lorsque les agents de police municipale sont mis à disposition de plusieurs communes par un établissement public de
-coopération intercommunale en application du premier alinéa de l'article L. 512-2, une convention intercommunale de
-coordination peut être conclue, à la demande de l'ensemble des maires concernés, en substitution des conventions prévues à
-l'article L. 512-4. L'acte est signé par les maires, le président de l'établissement et le ou les représentants de l'Etat
-dans le département, après avis du ou des procureurs de la République territorialement compétents.
+coopération intercommunale en application des I et II de l'article L. 512-2, une convention intercommunale de coordination
+peut être conclue, à la demande de l'ensemble des maires concernés, en substitution des conventions prévues à l'article L.
+512-4. L'acte est signé par les maires, le président de l'établissement, le ou les représentants de l'Etat dans le
+département et le ou les procureurs de la République territorialement compétents.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 58 (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 61
 
 _Anciens textes_:
 
@@ -13696,8 +13747,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L512-2 (VD)
-  - Code de la sécurité intérieure - art. L512-4 (VD)
+  - Code de la sécurité intérieure - art. L512-2
+  - Code de la sécurité intérieure - art. L512-4
 
 _Codifié par_:
 
@@ -13706,12 +13757,14 @@ _Codifié par_:
 
 ###### Article L512-6
 
-La convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat précise la nature
-et les lieux des interventions des agents de police municipale. Elle détermine les modalités selon lesquelles ces
-interventions sont coordonnées avec celles de la police et de la gendarmerie nationales. 
+La convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat précise les
+missions prioritaires, notamment judiciaires, confiées aux agents de police municipale ainsi que la nature et les lieux de
+leurs interventions, eu égard à leurs modalités d'équipement et d'armement. Elle détermine les modalités selon lesquelles ces
+interventions sont coordonnées avec celles de la police et de la gendarmerie nationales. Elle précise la doctrine d'emploi du
+service de police municipale.
 
 L'accord du président de l'établissement public de coopération intercommunale prévu aux articles L. 512-4 et L. 512-5 ne
-porte que sur la mise à disposition des agents de police municipale et leurs équipements. 
+porte que sur la mise à disposition des agents de police municipale et leurs équipements.
 
 A défaut de convention, les missions de police municipale ne peuvent s'exercer qu'entre 6 heures et 23 heures, à l'exception
 des gardes statiques des bâtiments communaux et de la surveillance des cérémonies, fêtes et réjouissances organisées par la
@@ -13719,14 +13772,14 @@ commune ou par l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
 _Cité par_:
 
   - Décret n°2015-496 du 29 avril 2015 - art. 1 (V)
   - Code de la sécurité intérieure - art. L546-1 (M)
+
+_Modifié par_:
+
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 58 (V)
 
 _Anciens textes_:
 
@@ -13734,7 +13787,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L512-4 (VD)
+  - Code de la sécurité intérieure - art. L512-4 (V)
 
 _Codifié par_:
 
@@ -13943,25 +13996,53 @@ _Codifié par_:
 
 ###### Article L522-2
 
-Toute commune peut avoir un ou plusieurs gardes champêtres. Plusieurs communes peuvent avoir un ou plusieurs gardes
-champêtres en commun. 
+I.-Plusieurs communes peuvent avoir un ou plusieurs gardes champêtres en commun, compétents sur le territoire de chacune
+d'entre elles.
 
-Une région, un département ou un établissement public chargé de la gestion d'un parc naturel régional peut recruter un ou
-plusieurs gardes champêtres compétents dans chacune des communes concernées. Dans ces cas, leur nomination est prononcée
-conjointement par le maire de chacune des communes et, respectivement, par le président du conseil régional, le président du
-conseil départemental ou le président de l'établissement public, dans des conditions fixées par décret en Conseil d'Etat. 
+Chaque garde champêtre est de plein droit mis à la disposition des autres communes par la commune qui l'emploie, dans des
+conditions prévues par une convention transmise au représentant de l'Etat dans le département. Cette convention, conclue
+entre l'ensemble des communes concernées, précise les modalités d'organisation et de financement de la mise en commun des
+gardes champêtres et de leurs équipements.
 
-Un établissement public de coopération intercommunale peut recruter un ou plusieurs gardes champêtres compétents dans chacune
-des communes concernées. Leur nomination est prononcée conjointement par le maire de chacune des communes membres et le
-président de l'établissement public de coopération intercommunale. 
+II.-Une région, un département ou un établissement public chargé de la gestion d'un parc naturel régional peut recruter un ou
+plusieurs gardes champêtres compétents dans chacune des communes concernées.
 
-Leur nomination en qualité de fonctionnaires stagiaires ne fait pas obstacle à leur mise à disposition. 
+Dans ces cas, leur nomination est prononcée conjointement par le maire de chacune des communes et, selon le cas, par le
+président du conseil régional, le président du conseil départemental ou le président de l'établissement public.
 
-Les gardes champêtres ainsi recrutés exercent les compétences mentionnées à l'article L. 521-1, sans préjudice des
-compétences qui leur sont dévolues par le code de procédure pénale et par des lois spéciales. 
+III.-Le président d'un établissement public de coopération intercommunale à fiscalité propre peut recruter, à son initiative
+ou à la demande des maires de plusieurs communes membres, un ou plusieurs gardes champêtres, en vue de les mettre à la
+disposition de l'ensemble des communes membres de l'établissement public de coopération intercommunale.
 
-Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ils sont placés sous l'autorité du maire de cette
-commune.
+Le recrutement est autorisé par délibérations concordantes de l'organe délibérant de l'établissement public de coopération
+intercommunale à fiscalité propre et de deux tiers au moins des conseils municipaux des communes représentant plus de la
+moitié de la population totale de celles-ci ou de la moitié au moins des conseils municipaux des communes représentant les
+deux tiers de la population totale de celles-ci.
+
+Le conseil municipal de chaque commune membre dispose d'un délai de trois mois, à compter de la notification au maire de la
+délibération de l'organe délibérant de l'établissement public de coopération intercommunale, pour se prononcer sur la
+décision de recrutement proposée. A défaut de délibération dans ce délai, sa décision est réputée favorable.
+
+La nomination des gardes champêtres recrutés en application du présent III est prononcée conjointement par le maire de
+chacune des communes membres et le président de l'établissement public de coopération intercommunale.
+
+IV.-Un établissement public de coopération intercommunale peut mettre à disposition d'un autre établissement public de
+coopération intercommunale ou d'une commune non membre de son établissement le ou les gardes champêtres qu'il a recruté en
+application du III, dans des conditions prévues par une convention transmise au représentant de l'Etat dans le département.
+Cette convention précise les modalités d'organisation et de financement de la mise à disposition des gardes champêtres et de
+leurs équipements.
+
+V.-Les gardes champêtres recrutés en application des I à III du présent article exercent, sur le territoire de chaque commune
+où ils sont affectés, les compétences mentionnées à l'article L. 521-1 du présent code, sans préjudice des compétences de
+police judiciaire qui leur sont dévolues par le code de procédure pénale et par les lois pénales spéciales. Pendant
+l'exercice de leurs fonctions sur le territoire d'une commune, ils sont placés sous l'autorité du maire de cette commune.
+
+Leur nomination en qualité de fonctionnaire stagiaire ne fait pas obstacle à leur mise à disposition.
+
+VI.-Le présent article est applicable dans les départements de la Moselle, du Haut-Rhin et du Bas-Rhin, sous réserve des
+dispositions des articles L. 523-1 et L. 523-2.
+
+VII.-Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
 
 **Nota:**
 
@@ -13975,7 +14056,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 63
 
 _Anciens textes_:
 
@@ -14356,35 +14437,35 @@ _Codifié par_:
 ###### Article L546-1
 
 Les articles L. 511-1, L. 511-2 (troisième alinéa), L. 511-4, L. 511-5, L. 512-1, L. 512-3, L. 512-4 et L. 512-6 à L. 513-1
-sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la              loi n° 2017-1510 du 30 octobre 2017
-renforçant la sécurité intérieure et la lutte contre le terrorisme, sous réserve des  adaptations suivantes : 
+sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à
+l'engagement dans la vie locale et à la proximité de l'action publique, sous réserve des adaptations suivantes :
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
-République en Nouvelle-Calédonie  ; 
+République en Nouvelle-Calédonie  ;
 
-2° L' article L. 511-1 est ainsi modifié : 
+2° L' article L. 511-1 est ainsi modifié :
 
 a) Au deuxième alinéa, les  mots : " contraventions aux dispositions du code de la route ” sont remplacés par les mots : "
-contraventions aux dispositions du  code de la route  de la Nouvelle-Calédonie ” ; 
+contraventions aux dispositions du  code de la route  de la Nouvelle-Calédonie ” ;
 
-b) Les troisième et quatrième alinéas sont supprimés ; 
+b) Les troisième et quatrième alinéas sont supprimés ;
 
 2° bis A la fin de la première phrase du dernier alinéa de l'article L. 511-2, les mots : " ou du président de
-l'établissement public de coopération intercommunale " sont supprimés ; 
+l'établissement public de coopération intercommunale " sont supprimés ;
 
 3° A l'article L. 511-4, la seconde phrase du premier alinéa est ainsi rédigée : " Les caractéristiques de la carte
 professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont fixées
-par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. ” ; 
+par arrêté du haut-commissaire de la République en Nouvelle-Calédonie. ” ;
 
-4° A l'article L. 511-5, le deuxième alinéa est supprimé ; 
+4° A l'article L. 511-5, le deuxième alinéa est supprimé ;
 
-5° A l'article L. 512-1, les mots : " formant un ensemble de moins de 80 000 habitants d'un seul tenant ” sont supprimés ; 
+5° A l'article L. 512-1, les mots : " formant un ensemble de moins de 80 000 habitants d'un seul tenant ” sont supprimés ;
 
 6° A l'article L. 512-4, les mots : " y compris d'agent mis à disposition de la commune par un établissement public de
 coopération intercommunale dans les conditions prévues au premier alinéa de l'article L. 512-2, ” et les mots : ", le
-président de l'établissement public de coopération intercommunale le cas échéant, ” sont supprimés ; 
+président de l'établissement public de coopération intercommunale le cas échéant, ” sont supprimés ;
 
-7° A l'article L. 512-6, le deuxième alinéa est supprimé ; 
+7° A l'article L. 512-6, le deuxième alinéa est supprimé ;
 
 8° A l'article L. 513-1, les mots : " et après avis de la commission consultative des polices municipales, " sont supprimés .
 
@@ -14401,7 +14482,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 58 (V)
 
 _Anciens textes_:
 
@@ -21819,6 +21900,9 @@ territoriales et des établissements publics. En tant que de besoin, il mobilise
 nécessaires aux secours. Il assure la direction des opérations de secours. Il déclenche, s'il y a lieu, le plan Orsec
 départemental.
 
+Lorsque le représentant de l'Etat prend la direction des opérations de secours, il en informe les maires des communes dont le
+territoire est concerné par ces opérations.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -21831,12 +21915,12 @@ _Cité par_:
   - Code de la santé publique - art. R1333-83 (V)
   - Code de la sécurité intérieure - art. L132-1 (VD)
   - Code de la sécurité intérieure - art. L742-1 (V)
-  - Code de la sécurité intérieure - art. L765-2 (M)
+  - Code de la sécurité intérieure - art. L765-2 (V)
   - Code de la sécurité intérieure - art. R732-28 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 75
 
 _Codifié par_:
 
@@ -22605,7 +22689,7 @@ _Codifié par_:
 
 ###### Article L765-2
 
-Pour l'application du présent livre en Polynésie française : 
+Pour l'application du présent livre en Polynésie française :
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
 République en Polynésie française ;
@@ -22620,7 +22704,7 @@ l'Etat en mer ;
 
 5° La référence au plan Orsec départemental et au plan Orsec de zone est remplacée par la référence au plan Orsec ;
 
-6° A l'article L. 721-2 : 
+6° A l'article L. 721-2 :
 
 a) Au premier alinéa, les mots : " et les militaires des unités " sont supprimés ;
 
@@ -22639,7 +22723,7 @@ ont vocation à participer à l'ensemble des missions dévolues aux services d'i
 suivre les formations nécessaires à l'exercice de leurs missions. Les coûts de ces formations font partie des dépenses
 obligatoires des communes ou de leurs groupements au titre des services d'incendie et de secours. Chacun peut devenir sapeur-
 pompier volontaire, sous réserve de satisfaire aux conditions d'aptitude fixées par arrêté du haut-commissaire de la
-République en Polynésie française, afin de participer aux missions et actions relevant du service public de sécurité civile. 
+République en Polynésie française, afin de participer aux missions et actions relevant du service public de sécurité civile.
 
 " Les règles applicables aux sapeurs-pompiers volontaires sont définies par arrêté du haut-commissaire de la République en
 Polynésie française, sous réserve des compétences dévolues à la Polynésie française notamment en matière de protection
@@ -22647,68 +22731,68 @@ sociale. " ;
 
 9° A l'article L. 725-4, les mots : " comité départemental de l'aide médicale urgente " sont remplacés par les mots : "
 comité de l'aide médicale urgente " et les mots : " et le service départemental d'incendie et de secours " et " et de
-l'article L. 6312-2 du code de la santé publique " sont supprimés ; 
+l'article L. 6312-2 du code de la santé publique " sont supprimés ;
 
-10° A l'article L. 725-5, les mots : ", le service départemental d'incendie et de secours " sont supprimés ; 
+10° A l'article L. 725-5, les mots : ", le service départemental d'incendie et de secours " sont supprimés ;
 
 11° A l'article L. 731-2, la référence à l'article L. 1424-7 du code général des collectivités territoriales est remplacée
-par la référence à l'article L. 1852-5 du même code ; 
+par la référence à l'article L. 1852-5 du même code ;
 
-12° A l'article L. 731-3 : 
+12° A l'article L. 731-3 :
 
-a) Les deuxième et quatrième alinéas sont supprimés ; 
+a) Les deuxième et quatrième alinéas sont supprimés ;
 
 b) Au troisième alinéa, après les mots : " le maire de la commune ”, la fin de la phrase est ainsi rédigée : " après avis du
-haut-commissaire de la République en Polynésie française. ” ; 
+haut-commissaire de la République en Polynésie française. ” ;
 
-c) Aux cinquième et dernier alinéas, les mots : " ou intercommunal ” sont supprimés ; 
+c) Aux cinquième et dernier alinéas, les mots : " ou intercommunal ” sont supprimés ;
 
 d) Au dernier alinéa, les mots : " décret en Conseil d'Etat ” sont remplacés par les mots : " arrêté pris par le haut-
-commissaire de la République en Polynésie française ” ; 
+commissaire de la République en Polynésie française ” ;
 
 13° Au second alinéa de l'article L. 732-1, les mots : " par un décret en Conseil d'Etat " sont remplacés par les mots : "
 par un arrêté du haut-commissaire de la République en Polynésie française pris après avis du gouvernement de la Polynésie
 française " et les mots : " Ce décret " sont remplacés par les mots : " Cet arrêté " ;
 
 14° A l'article L. 732-2, les mots : ", ainsi qu'au représentant de l'Etat dans le département du siège de la zone de défense
-et de sécurité lorsque leur activité dépasse les limites du département " sont supprimés ; 
+et de sécurité lorsque leur activité dépasse les limites du département " sont supprimés ;
 
-15° L'article L. 732-5 est ainsi rédigé : 
+15° L'article L. 732-5 est ainsi rédigé :
 
 " Art. L. 732-5. - Un arrêté du haut-commissaire de la République en Polynésie française fixe les règles et les normes
 techniques permettant d'assurer l'interopérabilité des réseaux de communication radioélectriques et des systèmes
 d'information des services publics qui concourent aux missions de sécurité civile. ”
 
-16° L'article L. 732-6 est ainsi rédigé : 
+16° L'article L. 732-6 est ainsi rédigé :
 
 " Art. L. 732-6.-Les établissements de santé et les établissements médico-sociaux définis par le gouvernement de la Polynésie
 française, pratiquant un hébergement collectif à titre permanent, sont tenus de prendre les mesures appropriées pour garantir
 la sécurité des personnes hébergées. Les dispositions prises doivent notamment permettre une autosuffisance des moyens, y
-compris alimentaires et en énergie. 
+compris alimentaires et en énergie.
 
 " Les modalités et les délais d'application du présent article sont fixés par arrêté du haut-commissaire de la République en
-Polynésie française pour chaque catégorie d'établissements concernés. " 
+Polynésie française pour chaque catégorie d'établissements concernés. "
 
-17° L'article L. 732-7 est ainsi rédigé : 
+17° L'article L. 732-7 est ainsi rédigé :
 
 " Art. L. 732-7. - En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la
 population, les services de radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des
 conditions fixées par un arrêté du haut-commissaire de la République en Polynésie française, les messages d'alerte et
-consignes de sécurité liés à la situation. 
+consignes de sécurité liés à la situation.
 
 " Les obligations auxquelles sont assujettis les détenteurs de moyens de publication et de diffusion sont fixées dans un code
-d'alerte défini par arrêté du haut-commissaire. " 
+d'alerte défini par arrêté du haut-commissaire. "
 
 18° A l'article L. 741-1, les mots : " dans chaque département, dans chaque zone de défense et de sécurité " sont remplacés
-par les mots : " dans la zone de défense et de sécurité de la Polynésie française " ; 
+par les mots : " dans la zone de défense et de sécurité de la Polynésie française " ;
 
 19° Au premier alinéa de l'article L. 741-2, les mots : " des moyens publics et privés " sont remplacés par les mots : " des
 moyens publics de l'Etat, de la Polynésie française, des communes et de leurs établissements publics et des moyens privés " ;
 
-20° A l'article L. 741-4, le dernier alinéa est ainsi rédigé : 
+20° A l'article L. 741-4, le dernier alinéa est ainsi rédigé :
 
 " Le plan Orsec maritime est arrêté par le haut-commissaire de la République, délégué du Gouvernement pour l'action de l'Etat
-en mer en Polynésie française. " ; 
+en mer en Polynésie française. " ;
 
 21° A l'article L. 741-5, les mots : " décret en Conseil d'Etat " sont remplacés par les mots : " arrêté du haut-commissaire
 de la République en Polynésie française " ;
@@ -22717,24 +22801,24 @@ de la République en Polynésie française " ;
 arrêté du haut-commissaire de la République en Polynésie française pris après avis du gouvernement de la Polynésie française
 " et les mots : " Ce décret " sont remplacés par les mots : " Cet arrêté " ;
 
-23° A l'article L. 742-2, après les mots : " relevant de l'Etat, " sont insérés les mots : " de la Polynésie française dans
-les conditions prévues à l'article 34 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la
-Polynésie française, " et après les mots : " opérations de secours " sont insérés les mots : " et coordonne l'activité
-opérationnelle de l'ensemble des moyens de secours et de lutte contre l'incendie " ; 
+23° Au premier alinéa de l'article L. 742-2, après les mots : " relevant de l'Etat, " sont insérés les mots : " de la
+Polynésie française dans les conditions prévues à l'article 34 de la loi organique n° 2004-192 du 27 février 2004 portant
+statut d'autonomie de la Polynésie française, " et après les mots : " opérations de secours " sont insérés les mots : " et
+coordonne l'activité opérationnelle de l'ensemble des moyens de secours et de lutte contre l'incendie " ;
 
 24° A l'article L. 742-5, les mots : " et en informe le représentant de l'Etat dans le département du siège de la zone de
 défense et de sécurité intéressée " sont supprimés ;
 
-25° L'article L. 742-11 est ainsi rédigé : 
+25° L'article L. 742-11 est ainsi rédigé :
 
 " Art. 742-11. - Dans le cadre de ses compétences, la commune pourvoit aux dépenses directement imputables aux opérations de
 secours et aux dépenses relatives aux besoins immédiats des populations, y compris en cas de réquisition faite pour son
-propre compte. 
+propre compte.
 
 " Lorsque la Polynésie française et ses établissements publics participent à des missions de sécurité civile dans les
 conditions prévues par le présent livre et par l'ordonnance n° 2006-173 du 15 février 2006, les dépenses qu'ils engagent à ce
 titre restent à leur charge. A la demande de la Polynésie française, ces dépenses peuvent être partiellement prises en charge
-par la commune bénéficiaire dans les conditions prévues par convention. 
+par la commune bénéficiaire dans les conditions prévues par convention.
 
 " L'Etat prend à sa charge les dépenses afférentes à l'engagement des moyens publics et privés extérieurs à la Polynésie
 française lorsqu'ils ont été mobilisés par le haut-commissaire de la République en Polynésie française. Il prend également à
@@ -22766,7 +22850,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L741-4
   - Code de la sécurité intérieure - art. L741-5
   - Code de la sécurité intérieure - art. L742-11
-  - Code de la sécurité intérieure - art. L742-2
+  - Code de la sécurité intérieure - art. L742-2 (V)
 
 _Codifié par_:
 
@@ -22774,7 +22858,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-519 du 20 juin 2013 - art. 6
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 75
 
 
 ###### Article L765-3
