@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-12-29
+Version Consolidée au 2019-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -8251,6 +8251,27 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-7 (VD)
 
 
+###### Article L312-3-2
+
+Sont interdites d'acquisition et de détention d'armes de toutes catégories les personnes faisant l'objet d'une interdiction
+de détention ou de port d'arme dans le cadre d'une ordonnance de protection en application du 2° de l'article 515-11 du code
+civil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 6
+
+_Cite_:
+
+  - Code civil - art. 515-11
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L312-16 (V)
+
+
 ###### Article L312-4
 
 L'acquisition et la détention des armes, munitions et de leurs éléments de catégorie A ou B sont soumises à autorisation dans
@@ -8832,16 +8853,18 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 ###### Article L312-16
 
-Un fichier national automatisé nominatif recense :
+Un fichier national automatisé nominatif recense : 
 
 1° Les personnes interdites d'acquisition et de détention d'armes, de munitions et de leurs éléments en application des
-articles L. 312-10 et L. 312-13 ;
+articles L. 312-10 et L. 312-13 ; 
 
 2° Les personnes interdites d'acquisition et de détention d'armes, de munitions et de leurs éléments des catégories A, B et C
-en application de l'article L. 312-3 ;
+en application de l'article L. 312-3 ; 
 
 3° Les personnes interdites d'acquisition et de détention d'armes, de munitions et de leurs éléments des catégories A, B et C
 en application de l'article L. 312-3-1.
+
+4° Les personnes interdites d'acquisition et de détention d'arme en application de l'article L. 312-3-2. 
 
 Les modalités d'application du présent article, y compris la nature des informations enregistrées, la durée de leur
 conservation ainsi que les autorités et les personnes qui y ont accès, sont déterminées par décret en Conseil d'Etat pris
@@ -8866,7 +8889,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-610 du 19 juin 2019 - art. 10
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 6
 
 _Anciens textes_:
 
@@ -8874,9 +8897,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L312-10 (V)
-  - Code de la sécurité intérieure - art. L312-3 (V)
-  - Code de la sécurité intérieure - art. L312-3-1 (V)
+  - Code de la sécurité intérieure - art. L312-10
+  - Code de la sécurité intérieure - art. L312-3
+  - Code de la sécurité intérieure - art. L312-3-1
+  - Code de la sécurité intérieure - art. L312-3-2
 
 
 ###### Article L312-17
@@ -11568,22 +11592,20 @@ _Codifié par_:
 
 ###### Article L344-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2019-610 du 19 juin 2019 portant
-harmonisation de la terminologie du droit de l'armement dans le code de la défense et le code de la sécurité intérieure, les
-dispositions suivantes :
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2019-1480 du 28 décembre 2019 visant à
+agir contre les violences au sein de la famille, les dispositions suivantes :
 
 1° Le titre Ier ;
 
-2° Au titre II : les articles L. 322-1, L. 322-2, L. 322-2-1, L. 322-7, L. 323-1 à L. 324-1, les alinéas 1 et 2 de l'article
-L. 324-2, les articles L. 324-3 à L. 324-9 ;
+2° Au titre II : les articles L. 320-1 à L. 320-18, L. 321-5, L. 321-5-1, L. 321-7, L. 322-3 à L. 322-17 et L. 323-1 à L.
+324-14 et L. 324-16 ;
 
 3° Au titre III : les articles L. 332-1, L. 333-1, L. 334-1 et L. 334-2.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11591,21 +11613,13 @@ _Codifié par_:
 
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
-_Modifié par_:
-
-  - Ordonnance n°2019-610 du 19 juin 2019 - art. 15
-
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L322-1
-  - Code de la sécurité intérieure - art. L322-2-1
-  - Code de la sécurité intérieure - art. L322-7
-  - Code de la sécurité intérieure - art. L323-1
-  - Code de la sécurité intérieure - art. L324-2
-  - Code de la sécurité intérieure - art. L324-3
-  - Code de la sécurité intérieure - art. L332-1
-  - Code de la sécurité intérieure - art. L333-1
-  - Code de la sécurité intérieure - art. L334-1
+  - Loi n°2019-1480 du 28 décembre 2019
+
+_Modifié par_:
+
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 19 (V)
 
 _Cité par_:
 
@@ -11740,30 +11754,28 @@ _Codifié par_:
 
 ###### Article L345-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2019-610 du 19 juin 2019 portant
-harmonisation de la terminologie du droit de l'armement dans le code de la défense et le code de la sécurité intérieure, les
-dispositions suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2019-1480 du 28 décembre 2019 visant à
+agir contre les violences au sein de la famille, les dispositions suivantes :
 
 1° Le titre Ier ;
 
-2° Au titre II : les articles L. 321-5, L. 322-1 à L. 324-9.
+2° Au titre II : les articles L. 320-1 à L. 320-18, L. 321-5, L. 321-5-1, L. 321-7, L. 322-3 à L. 322-17 et L. 323-1 à L.
+324-14 et L. 324-16.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2019-610 du 19 juin 2019 - art. 15
-
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L321-5
-  - Code de la sécurité intérieure - art. L322-1
+  - Loi n°2019-1480 du 28 décembre 2019
+
+_Modifié par_:
+
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 19 (V)
 
 _Cité par_:
 
@@ -11916,20 +11928,17 @@ _Codifié par_:
 
 ###### Article L346-1
 
-Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de l'ordonnance n° 2019-610 du 19 juin 2019 portant
-harmonisation de la terminologie du droit de l'armement dans le code de la défense et le code de la sécurité intérieure, les
-dispositions suivantes :
+Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2019-1480 du 28 décembre 2019 visant à agir
+contre les violences au sein de la famille, les dispositions suivantes :
 
 1° Le titre Ier ;
 
-2° Au titre II : l'article L. 321-3, les articles L. 322-1 à L. 322-4, L. 322-7, L. 323-1 à L. 324-1, les deux premiers
-alinéas de l'article L. 324-2 et les articles L. 324-3 à L. 324-9.
+2° Au titre II : les articles L. 320-1 à L. 320-18, L. 321-3, L. 322-3 à L. 322-17 et L. 323-1 à L. 324-14.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11944,20 +11953,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2018-133 du 26 février 2018
-  - Code de la sécurité intérieure - art. L321-3
-  - Code de la sécurité intérieure - art. L322-1
-  - Code de la sécurité intérieure - art. L322-4
-  - Code de la sécurité intérieure - art. L322-7
-  - Code de la sécurité intérieure - art. L323-1
-  - Code de la sécurité intérieure - art. L324-1
-  - Code de la sécurité intérieure - art. L324-2
-  - Code de la sécurité intérieure - art. L324-3
-  - Code de la sécurité intérieure - art. L324-9
+  - Loi n°2019-1480 du 28 décembre 2019
 
 _Modifié par_:
 
-  - Ordonnance n°2019-610 du 19 juin 2019 - art. 15
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 19 (V)
 
 
 ###### Article L346-2
@@ -12035,26 +12035,34 @@ _Cite_:
 ###### Article L347-1
 
 Les dispositions du titre Ier du présent livre sont applicables dans les Terres australes et antarctiques françaises, dans
-leur rédaction résultant de l'ordonnance n° 2019-610 du 19 juin 2019 portant harmonisation de la terminologie du droit de
-l'armement dans le code de la défense et le code de la sécurité intérieure.
+leur rédaction résultant de la loi n° 2019-1480 du 28 décembre 2019 visant à agir contre les violences au sein de la famille.
+
+Les articles L. 320-1 à L. 320-18, L. 321-5, L. 321-5-1, L. 321-7, L. 322-3 à L. 322-17, L. 323-1 à L. 324-14 sont
+applicables dans leur rédaction résultant de l'ordonnance n° 2019-1015 du 2 octobre 2019
+
+**Nota:**
+
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2018-133 du 26 février 2018
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+  - Ordonnance n°2019-1015 du 2 octobre 2019
+  - Loi n°2019-1480 du 28 décembre 2019
 
 _Modifié par_:
 
-  - Ordonnance n°2019-610 du 19 juin 2019 - art. 15
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 19 (V)
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. L347-2 (VD)
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L347-2
