@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -4341,20 +4341,25 @@ _Cité par_:
 
 ###### Article L225-2
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à la personne mentionnée à l'article L. 225-1, dans un délai maximal
-d'un mois à compter de la date certaine de son retour sur le territoire national, de : 
+d'un mois à compter de la date certaine de son retour sur le territoire national, de :
 
 1° Résider dans un périmètre géographique déterminé permettant à l'intéressé de poursuivre une vie familiale et
 professionnelle normale et, le cas échéant, l'astreindre à demeurer à son domicile ou, à défaut, dans un autre lieu à
 l'intérieur de ce périmètre, pendant une plage horaire fixée par le ministre, dans la limite de huit heures par vingt-quatre
-heures ; 
+heures ;
 
 2° Se présenter périodiquement aux services de police ou aux unités de gendarmerie, dans la limite de trois présentations par
-semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés. 
+semaine, en précisant si cette obligation s'applique les dimanches et jours fériés ou chômés.
 
 Les obligations prévues aux 1° et 2° du présent article sont prononcées pour une durée maximale d'un mois, renouvelable deux
 fois par décision motivée.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4367,7 +4372,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cite_:
 
@@ -4376,16 +4381,21 @@ _Cite_:
 
 ###### Article L225-3
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à toute personne mentionnée à l'article L. 225-1, dans un délai
-maximal d'un an à compter de la date certaine de son retour sur le territoire national, de : 
+maximal d'un an à compter de la date certaine de son retour sur le territoire national, de :
 
-1° Déclarer son domicile et tout changement de domicile ; 
+1° Déclarer son domicile et tout changement de domicile ;
 
 2° Ne pas se trouver en relation directe ou indirecte avec certaines personnes, nommément désignées, dont il existe des
-raisons sérieuses de penser que leur comportement constitue une menace pour la sécurité et l'ordre publics. 
+raisons sérieuses de penser que leur comportement constitue une menace pour la sécurité et l'ordre publics.
 
 Ces obligations sont prononcées pour une durée maximale de trois mois, renouvelable une fois par décision motivée.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4398,7 +4408,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cite_:
 
@@ -4709,7 +4719,7 @@ _Cité par_:
 
 ###### Article L228-2
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à la personne mentionnée à l'article L. 228-1 de :
 
 1° Ne pas se déplacer à l'extérieur d'un périmètre géographique déterminé, qui ne peut être inférieur au territoire de la
@@ -4752,12 +4762,16 @@ code.
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Décret n°2018-167 du 7 mars 2018 (V)
   - Décret n°2018-167 du 7 mars 2018 - art. 8
+  - Code de justice administrative - art. L773-10 (V)
   - Code de la sécurité intérieure - art. L228-3 (VD)
   - Code de la sécurité intérieure - art. L228-4 (VD)
   - Code de la sécurité intérieure - art. L228-5 (VD)
@@ -4768,6 +4782,7 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2019-222 du 23 mars 2019 - art. 65
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Cite_:
 
@@ -4780,18 +4795,18 @@ _Cite_:
 
 A la place de l'obligation prévue au 2° de l'article L. 228-2, le ministre de l'intérieur peut proposer à la personne faisant
 l'objet de la mesure prévue au 1° du même article L. 228-2 de la placer sous surveillance électronique mobile, après en avoir
-informé le procureur de la République de Paris et le procureur de la République territorialement compétent. Ce placement est
-subordonné à l'accord écrit de la personne concernée. Dans ce cas, le périmètre géographique imposé en application du même 1°
-ne peut être inférieur au territoire du département. 
+informé le procureur de la République antiterroriste et le procureur de la République territorialement compétent. Ce
+placement est subordonné à l'accord écrit de la personne concernée. Dans ce cas, le périmètre géographique imposé en
+application du même 1° ne peut être inférieur au territoire du département.
 
 Le placement sous surveillance électronique mobile est décidé pour la durée de la mesure prise en application dudit 1°. Il y
 est mis fin en cas de dysfonctionnement temporaire du dispositif ou sur demande de l'intéressé, qui peut alors être assujetti
-à l'obligation prévue au 2° dudit article L. 228-2. 
+à l'obligation prévue au 2° dudit article L. 228-2.
 
 La personne concernée est astreinte, pendant toute la durée du placement, au port d'un dispositif technique permettant à tout
 moment à l'autorité administrative de s'assurer à distance qu'elle n'a pas quitté le périmètre défini en application du 1° du
 même article L. 228-2. Le dispositif technique ne peut être utilisé par l'autorité administrative pour localiser la personne,
-sauf lorsque celle-ci a quitté ce périmètre ou en cas de fonctionnement altéré dudit dispositif technique. 
+sauf lorsque celle-ci a quitté ce périmètre ou en cas de fonctionnement altéré dudit dispositif technique.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il peut déterminer les conditions dans
 lesquelles la mise en œuvre du dispositif technique permettant le contrôle à distance prévu au troisième alinéa, pour lequel
@@ -4803,52 +4818,55 @@ privé habilitée à cet effet.
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
 
 _Cité par_:
 
   - Décret n°2018-167 du 7 mars 2018 (V)
   - Décret n°2018-167 du 7 mars 2018 - art. 8
-  - Code de la sécurité intérieure - art. L228-4 (VT)
+  - Code de la sécurité intérieure - art. L228-4 (VD)
   - Code de la sécurité intérieure - art. L228-6 (VT)
   - Code de la sécurité intérieure - art. R228-4 (V)
   - Code de la sécurité intérieure - art. R228-6 (V)
   - Code de procédure pénale - art. R61-17-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
+
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L228-2 (VT)
+  - Code de la sécurité intérieure - art. L228-2
 
 
 ###### Article L228-4
 
 S'il ne fait pas application des articles L. 228-2 et L. 228-3, le ministre de l'intérieur peut, après en avoir informé le
-procureur de la République de Paris et le procureur de la République territorialement compétent, faire obligation à toute
-personne mentionnée à l'article L. 228-1 de : 
+procureur de la République antiterroriste et le procureur de la République territorialement compétent, faire obligation à
+toute personne mentionnée à l'article L. 228-1 de :
 
-1° Déclarer son domicile et tout changement de domicile ; 
+1° Déclarer son domicile et tout changement de domicile ;
 
 2° Signaler ses déplacements à l'extérieur d'un périmètre déterminé ne pouvant être plus restreint que le territoire de la
-commune de son domicile ; 
+commune de son domicile ;
 
 3° Ne pas paraître dans un lieu déterminé, qui ne peut inclure le domicile de la personne intéressée. Cette obligation tient
-compte de la vie familiale et professionnelle de la personne intéressée. 
+compte de la vie familiale et professionnelle de la personne intéressée.
 
 Les obligations mentionnées aux 1° à 3° du présent article sont prononcées pour une durée maximale de six mois à compter de
 la notification de la décision du ministre. Elles peuvent être renouvelées par décision motivée, pour une durée maximale de
 six mois, lorsque les conditions prévues à l'article L. 228-1 continuent d'être réunies. Au-delà d'une durée cumulée de six
 mois, le renouvellement est subordonné à l'existence d'éléments nouveaux ou complémentaires. La durée totale cumulée des
 obligations prévues aux 1° à 3° du présent article ne peut excéder douze mois. Les mesures sont levées dès que les conditions
-prévues à l'article L. 228-1 ne sont plus satisfaites. 
+prévues à l'article L. 228-1 ne sont plus satisfaites.
 
 Toute décision de renouvellement est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. Si
 la personne concernée saisit le juge administratif d'une demande présentée sur le fondement de l'article L. 521-2 du code de
 justice administrative dans un délai de quarante-huit heures à compter de la notification de la décision, la mesure ne peut
-entrer en vigueur avant que le juge ait statué sur la demande. 
+entrer en vigueur avant que le juge ait statué sur la demande.
 
 La personne soumise aux obligations prévues aux 1° à 3° du présent article peut, dans un délai de deux mois à compter de la
 notification de la décision ou à compter de la notification de chaque renouvellement, demander au tribunal administratif
@@ -4861,18 +4879,21 @@ administrative.
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 3
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
 
 _Cite_:
 
   - Code de justice administrative - art. L521-2
   - Code de la sécurité intérieure - art. L228-1
   - Code de la sécurité intérieure - art. L228-2
-  - Code de la sécurité intérieure - art. L228-3
+  - Code de la sécurité intérieure - art. L228-3 (VD)
 
 _Cité par_:
 
@@ -4881,28 +4902,28 @@ _Cité par_:
 
 ###### Article L228-5
 
-Le ministre de l'intérieur peut, après en avoir informé le procureur de la République de Paris et le procureur de la
+Le ministre de l'intérieur peut, après en avoir informé le procureur de la République antiterroriste et le procureur de la
 République territorialement compétent, faire obligation à toute personne mentionnée à l'article L. 228-1, y compris lorsqu'il
 est fait application des articles L. 228-2 à L. 228-4, de ne pas se trouver en relation directe ou indirecte avec certaines
 personnes, nommément désignées, dont il existe des raisons sérieuses de penser que leur comportement constitue une menace
-pour la sécurité publique. 
+pour la sécurité publique.
 
 L'obligation mentionnée au premier alinéa du présent article est prononcée pour une durée maximale de six mois à compter de
 la notification de la décision du ministre. Au-delà d'une durée cumulée de six mois, le renouvellement est subordonné à
 l'existence d'éléments nouveaux ou complémentaires. La durée totale cumulée de l'obligation prévue au premier alinéa du
 présent article ne peut excéder douze mois. L'obligation est levée dès que les conditions prévues à l'article L. 228-1 ne
-sont plus satisfaites. 
+sont plus satisfaites.
 
 Toute décision de renouvellement est notifiée à la personne concernée au plus tard cinq jours avant son entrée en vigueur. La
 personne concernée peut demander au président du tribunal administratif ou au magistrat qu'il délègue l'annulation de la
 décision dans un délai de quarante-huit heures à compter de sa notification. Il est statué sur la légalité de la décision au
 plus tard dans un délai de soixante-douze heures à compter de la saisine du tribunal. Dans ce cas, la mesure ne peut entrer
-en vigueur avant que le juge ait statué sur la demande. 
+en vigueur avant que le juge ait statué sur la demande.
 
 L'audience est publique. Elle se déroule sans conclusions du rapporteur public. Lorsque la présence du requérant à l'audience
 est susceptible de méconnaître les obligations résultant de la mesure de surveillance, le requérant peut solliciter un sauf-
 conduit pour s'y rendre. Le sauf-conduit n'est pas délivré si le déplacement du requérant constitue une menace pour la
-sécurité et l'ordre publics. 
+sécurité et l'ordre publics.
 
 La personne soumise à l'obligation mentionnée au premier alinéa du présent article peut, dans un délai de deux mois à compter
 de la notification de la décision, ou à compter de la notification de chaque renouvellement lorsqu'il n'a pas été fait
@@ -4916,11 +4937,44 @@ procédures prévues au troisième alinéa du présent article ainsi qu'aux arti
 Conformément à l'article 5 II de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, le présent article est applicable jusqu'au 31 décembre 2020.
 
+Conformément à la décision du Conseil constitutionnel n° 2017-695 QPC du 29 mars 2018 :
+
+Article 2 : Sont contraires à la Constitution les mots " sur le fondement de l’article L. 521-2 du code de justice
+administrative " figurant à la deuxième phrase de l’avant-dernier alinéa de l’article L. 228-5 et la deuxième phrase du
+dernier alinéa du même article L. 228-5 du code de la sécurité intérieure, dans sa rédaction issue de la loi n° 2017‑1510 du
+30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme.
+
+Article 3 : Sous les réserves énoncées aux paragraphes 51, 52 et 53, le reste de l’article L. 228-5 du code de la sécurité
+intérieure, dans cette même rédaction, est conforme à la Constitution.
+
+Aux paragraphes 51, 52 et 53 de sa décision, le Conseil constitutionnel a énoncé les réserves suivantes :
+
+I " Il appartient au ministre de l’intérieur de tenir compte, dans la détermination des personnes dont la fréquentation est
+interdite, des liens familiaux de l’intéressé et de s’assurer en particulier que la mesure d’interdiction de fréquentation ne
+porte pas une atteinte disproportionnée à son droit de mener une vie familiale normale " ;
+
+- " Compte tenu de sa rigueur, cette mesure ne saurait, sans méconnaître les exigences constitutionnelles précitées, excéder,
+de manière continue ou non, une durée totale cumulée de douze mois " ;
+
+- " Le droit à un recours juridictionnel effectif impose que le juge administratif soit tenu de statuer sur la demande
+d’annulation de la mesure dans de brefs délais ".
+
+Article 5 : La déclaration d’inconstitutionnalité de l’article 2 prend effet dans les conditions fixées aux paragraphes 72 et
+73 de cette décision.
+
+En vertu du paragraphe 72, l’abrogation des mots " sur le fondement de l’article L. 521-2 du code de justice administrative
+", figurant à la deuxième phrase de l’avant-dernier alinéa de l’article L. 228-5 du code de la sécurité intérieure, est
+reportée au 1er octobre 2018.
+
+En vertu du paragraphe 73, l’abrogation de la deuxième phrase du dernier alinéa de l’article L. 228-5 du code de la sécurité
+intérieure intervient à compter de la date de publication de la décision du Conseil constitutionnel, soit à compter du 29
+mars 2018.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 65
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
 
 _Cite_:
 
@@ -4932,7 +4986,6 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de justice administrative - art. L773-10 (V)
   - Code de la sécurité intérieure - art. L228-6 (VT)
   - Code de la sécurité intérieure - art. L228-7 (VT)
 
@@ -4995,9 +5048,9 @@ _Cité par_:
 
 Sur saisine motivée du représentant de l'Etat dans le département ou, à Paris, du préfet de police, le juge des libertés et
 de la détention du tribunal de grande instance de Paris peut, par une ordonnance écrite et motivée et après avis du procureur
-de la République de Paris, autoriser la visite d'un lieu ainsi que la saisie des documents et données qui s'y trouvent, aux
-seules fins de prévenir la commission d'actes de terrorisme et lorsqu'il existe des raisons sérieuses de penser qu'un lieu
-est fréquenté par une personne dont le comportement constitue une menace d'une particulière gravité pour la sécurité et
+de la République antiterroriste, autoriser la visite d'un lieu ainsi que la saisie des documents et données qui s'y trouvent,
+aux seules fins de prévenir la commission d'actes de terrorisme et lorsqu'il existe des raisons sérieuses de penser qu'un
+lieu est fréquenté par une personne dont le comportement constitue une menace d'une particulière gravité pour la sécurité et
 l'ordre publics et qui soit entre en relation de manière habituelle avec des personnes ou des organisations incitant,
 facilitant ou participant à des actes de terrorisme, soit soutient, diffuse, lorsque cette diffusion s'accompagne d'une
 manifestation d'adhésion à l'idéologie exprimée, ou adhère à des thèses incitant à la commission d'actes de terrorisme ou
@@ -5007,9 +5060,9 @@ Ces opérations ne peuvent concerner les lieux affectés à l'exercice d'un mand
 des avocats, des magistrats ou des journalistes et les domiciles des personnes concernées.
 
 La saisine du juge des libertés et de la détention du tribunal de grande instance de Paris est précédée d'une information du
-procureur de la République de Paris et du procureur de la République territorialement compétent, qui reçoivent tous les
-éléments relatifs à ces opérations. L'ordonnance est communiquée au procureur de la République de Paris et au procureur de la
-République territorialement compétent.
+procureur de la République antiterroriste et du procureur de la République territorialement compétent, qui reçoivent tous les
+éléments relatifs à ces opérations. L'ordonnance est communiquée au procureur de la République antiterroriste et au procureur
+de la République territorialement compétent.
 
 L'ordonnance mentionne l'adresse des lieux dans lesquels les opérations de visite et de saisie peuvent être effectuées, le
 service et la qualité des agents habilités à y procéder, le numéro d'immatriculation administrative du chef de service qui
@@ -5034,7 +5087,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 66
+  - Loi n°2019-222 du 23 mars 2019 - art. 69 (VD)
 
 
 ###### Article L229-2
