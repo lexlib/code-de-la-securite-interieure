@@ -6,8 +6,8 @@ CONVENTION TYPE COMMUNALE DE COORDINATION DE LA POLICE MUNICIPALE ET DES FORCES 
 
 Entre le préfet de... et le maire de..., ainsi que le président de l'établissement public de coopération intercommunale à
 fiscalité propre dénommé... pour ce qui concerne la mise à disposition des agents de police municipale et de leurs
-équipements (le cas échéant), après avis du procureur de la République près le tribunal de grande instance de..., il est
-convenu ce qui suit : 
+équipements (le cas échéant), après avis du procureur de la République près le   tribunal judiciaire de..., il est convenu ce
+qui suit : 
 
 La police municipale et les forces de sécurité de l'Etat ont vocation, dans le respect de leurs compétences respectives, à
 intervenir sur la totalité du territoire de la commune. 
@@ -273,6 +273,11 @@ de l'établissement public de coopération intercommunale (le cas échéant) con
 une mission d'évaluation associant l'inspection générale de l'administration du ministère de l'intérieur, selon des modalités
 précisées en liaison avec l'Association des maires de France.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -287,7 +292,7 @@ _Cite_:
   - Code de la route. - art. L233-1
   - Code de la route. - art. L234-1
   - Code de la route. - art. L235-2
-  - Code de la sécurité intérieure - art. L251-2 (VT)
+  - Code de la sécurité intérieure - art. L251-2
   - Code de la sécurité intérieure - art. L512-4
   - Code de la sécurité intérieure - art. R512-5
 
@@ -297,7 +302,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1523 du 3 novembre 2017 - art. 9
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
