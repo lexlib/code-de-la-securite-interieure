@@ -7,8 +7,8 @@ CONVENTION TYPE INTERCOMMUNALE DE COORDINATION DE LA POLICE MUNICIPALE ET DES FO
 Entre le préfet de... (ou les préfets de...), les maires de..., communes membres de l'établissement public de coopération
 intercommunale à fiscalité propre dénommé..., et le président de cet établissement public de coopération intercommunale pour
 ce qui concerne la mise à disposition des agents de police municipale et de leurs équipements, après avis du procureur de la
-République près le tribunal de grande instance de... (ou des procureurs de la République près les tribunaux de grande
-instance de...), il est convenu ce qui suit : 
+République près le tribunal judiciaire de... (ou des procureurs de la République près les   tribunaux judiciaires de...), il
+est convenu ce qui suit : 
 
 La police municipale de chaque commune membre de l'établissement public de coopération intercommunale et les forces de
 sécurité de l'Etat ont vocation, dans le respect de leurs compétences respectives, à intervenir sur la totalité du territoire
@@ -295,6 +295,11 @@ intercommunale, les maires de... et le préfet (ou les préfets) de... convienne
 mission d'évaluation associant l'inspection générale de l'administration du ministère de l'intérieur, selon des modalités
 précisées en liaison avec l'Association des maires de France.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -309,7 +314,7 @@ _Cite_:
   - Code de la route. - art. L233-1
   - Code de la route. - art. L234-1
   - Code de la route. - art. L235-2
-  - Code de la sécurité intérieure - art. L251-2 (VT)
+  - Code de la sécurité intérieure - art. L251-2
   - Code de la sécurité intérieure - art. L512-5
   - Code de la sécurité intérieure - art. R512-5
 
@@ -319,7 +324,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1523 du 3 novembre 2017 - art. 9
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
