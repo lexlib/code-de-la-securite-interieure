@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-01-01 00:00:01 +0100
+Version Consolidée au 2020-01-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -37802,8 +37802,6 @@ a) Services habilités à formuler des requêtes à l'UIP et à être destinatai
 
 - les services de la direction générale de la sécurité intérieure ;
 
-- l'unité de coordination de la lutte antiterroriste ;
-
 - l'état-major de la direction centrale de la police judiciaire ;
 
 - la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
@@ -38094,7 +38092,6 @@ _Cité par_:
   - Décret n°2014-1566 du 22 décembre 2014 - art. 2 (V)
   - Décret n°2016-1523 du 10 novembre 2016 - art. 1
   - Décret n°2018-714 du 3 août 2018 - art. 12
-  - Code de la sécurité intérieure - art. R232-1-1 (V)
   - Code de la sécurité intérieure - art. R232-13 (V)
   - Code de la sécurité intérieure - art. R232-14 (V)
   - Code de la sécurité intérieure - art. R232-20 (V)
@@ -38106,7 +38103,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-714 du 3 août 2018 - art. 6
+  - Décret n°2020-34 du 20 janvier 2020 - art. 1
 
 _Cite_:
 
@@ -38547,97 +38544,95 @@ _Cite_:
 
 Peuvent avoir accès aux traitements automatisés de données à caractère personnel mentionnés à l'article 230-6 du code de
 procédure pénale dans les conditions prévues à l'article L. 234-4 du présent code les agents individuellement désignés et
-habilités des services mentionnés aux articles L. 811-2 et L. 811-4 suivants : 
+habilités des services mentionnés aux articles L. 811-2 et L. 811-4 suivants :
 
-1° Pour les besoins liés à la protection des intérêts mentionnés au 1° de l'article L. 811-3 : 
+1° Pour les besoins liés à la protection des intérêts mentionnés au 1° de l'article L. 811-3 :
 
-a) La direction générale de la sécurité extérieure ; 
+a) La direction générale de la sécurité extérieure ;
 
-b) La direction du renseignement et de la sécurité de la défense ; 
+b) La direction du renseignement et de la sécurité de la défense ;
 
-c) La direction du renseignement militaire ; 
+c) La direction du renseignement militaire ;
 
-d) La direction générale de la sécurité intérieure ; 
+d) La direction générale de la sécurité intérieure ;
 
 e) Le service à compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers
-clandestins ” ; 
+clandestins ” ;
 
-f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
+f) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
 
-– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
+– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ;
 
 g) Les services du renseignement territorial de la direction centrale de la sécurité publique placés sous l'autorité du
-directeur général de la police nationale ; 
+directeur général de la police nationale ;
 
-h) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
+h) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale :
 
-– la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
+– la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ;
 
-– la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
+– la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ;
 
-2° Pour les besoins liés à la protection des intérêts mentionnés au 4° de l'article L. 811-3 : 
+2° Pour les besoins liés à la protection des intérêts mentionnés au 4° de l'article L. 811-3 :
 
-a) La direction générale de la sécurité extérieure ; 
+a) La direction générale de la sécurité extérieure ;
 
-b) La direction du renseignement et de la sécurité de la défense ; 
+b) La direction du renseignement et de la sécurité de la défense ;
 
-c) La direction du renseignement militaire ; 
+c) La direction du renseignement militaire ;
 
-d) La direction générale de la sécurité intérieure ; 
+d) La direction générale de la sécurité intérieure ;
 
 e) Le service à compétence nationale dénommé “ traitement du renseignement et action contre les circuits financiers
-clandestins ” ; 
+clandestins ” ;
 
-f) La direction nationale du renseignement et des enquêtes douanières ; 
+f) La direction nationale du renseignement et des enquêtes douanières ;
 
-g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense : 
+g) Les services suivants placés sous l'autorité d'emploi du ministre de la défense :
 
-– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ; 
+– les sections de recherches de la gendarmerie maritime, de la gendarmerie de l'air et de la gendarmerie de l'armement ;
 
-h) Les services suivants placés sous l'autorité du directeur général de la police nationale : 
+h) Les services suivants placés sous l'autorité du directeur général de la police nationale :
 
-– les services du renseignement territorial de la direction centrale de la sécurité publique ; 
+– les services du renseignement territorial de la direction centrale de la sécurité publique ;
 
 – l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication de la
-direction centrale de la police judiciaire ; 
+direction centrale de la police judiciaire ;
 
-– la sous-direction antiterroriste de la direction centrale de la police judiciaire ; 
+– la sous-direction antiterroriste de la direction centrale de la police judiciaire ;
 
-– l'unité de coordination de la lutte antiterroriste ; 
+i) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale :
 
-i) Les services suivants placés sous l'autorité du directeur général de la gendarmerie nationale : 
+– la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ;
 
-– la sous-direction de la police judiciaire de la direction des opérations et de l'emploi ; 
+– la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ;
 
-– la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi ; 
+– les sections de recherches de la gendarmerie nationale ;
 
-– les sections de recherches de la gendarmerie nationale ; 
+j) Les services suivants placés sous l'autorité du préfet de police :
 
-j) Les services suivants placés sous l'autorité du préfet de police : 
+– la sous-direction de la sécurité intérieure de la direction du renseignement ;
 
-– la sous-direction de la sécurité intérieure de la direction du renseignement ; 
+– la sous-direction du renseignement territorial de la direction du renseignement ;
 
-– la sous-direction du renseignement territorial de la direction du renseignement ; 
+– la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ;
 
-– la section antiterroriste de la brigade criminelle de la direction régionale de la police judiciaire de Paris ; 
+3° Pour les besoins liés à la protection des intérêts mentionnés au 5° de l'article L. 811-3 :
 
-3° Pour les besoins liés à la protection des intérêts mentionnés au 5° de l'article L. 811-3 : 
+a) La direction générale de la sécurité extérieure ;
 
-a) La direction générale de la sécurité extérieure ; 
+b) La direction du renseignement et de la sécurité de la défense ;
 
-b) La direction du renseignement et de la sécurité de la défense ; 
-
-c) La direction générale de la sécurité intérieure ; 
+c) La direction générale de la sécurité intérieure ;
 
 d) Les services du renseignement territorial de la direction centrale de la sécurité publique placés sous l'autorité du
-directeur général de la police nationale ; 
+directeur général de la police nationale ;
 
 e) La sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi placée sous l'autorité du
-directeur général de la gendarmerie nationale ; 
+directeur général de la gendarmerie nationale ;
 
-f) Les services suivants placés sous l'autorité du préfet de police : 
+f) Les services suivants placés sous l'autorité du préfet de police :
 
-– la sous-direction de la sécurité intérieure de la direction du renseignement ; 
+– la sous-direction de la sécurité intérieure de la direction du renseignement ;
 
 – la sous-direction du renseignement territorial de la direction du renseignement.
 
@@ -38646,11 +38641,10 @@ f) Les services suivants placés sous l'autorité du préfet de police :
 _Cité par_:
 
   - Décret n°2017-1217 du 2 août 2017 (V)
-  - Code de procédure pénale - art. R40-29-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2017-1217 du 2 août 2017 - art. 9
+  - Décret n°2020-34 du 20 janvier 2020 - art. 1
 
 _Cite_:
 
@@ -42611,48 +42605,48 @@ _Cite_:
 ###### Article R285-1
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau
-ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8</td>
+      <td align="center">R. 211-2 à R. 211-8 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-22 à R. 211-25</td>
+R. 211-22 à R. 211-25 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 
@@ -42660,49 +42654,49 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014
 </td>
     </tr>
     <tr>
-      <td align="left">R. 211-26-1</td>
+      <td align="left">R. 211-26-1 </td>
       <td align="left">
 
-Résultant du décret n° 2019-208 du 20 mars 2019
+Résultant du décret n° 2019-208 du 20 mars 2019 
 
 </td>
     </tr>
     <tr>
-      <td align="left">R. 211-27 à R. 211-31</td>
+      <td align="left">R. 211-27 à R. 211-31 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
     </tr>
     <tr>
-      <td>R. 211-32</td>
+      <td>R. 211-32 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1218 du 2 août 2017
+Résultant du décret n° 2017-1218 du 2 août 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-33 et R. 211-34</td>
+      <td align="center">R. 211-33 et R. 211-34 </td>
       <td align="left">
 
 Résultant du décret n° 2017-587 du 20 avril 2017 pris pour l'application de l'article L. 211-11-1 du code de la sécurité
-intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des grands événements
+intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des grands événements 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -42710,34 +42704,34 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 223-2
+R. 223-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
@@ -42747,7 +42741,7 @@ Résultant du décret n° 2017-1522 du 2 novembre 2017
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
       <td align="left">
 
 Résultant du décret n° 2015-26 du 14 janvier 2015 
@@ -42757,73 +42751,81 @@ Résultant du décret n° 2015-26 du 14 janvier 2015
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
       <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
       <td>
 
-Résultant du décret n° 2018-167 du 7 mars 2018
+Résultant du décret n° 2018-167 du 7 mars 2018 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 232-1</td>
+      <td align="center">R. 232-1 </td>
       <td align="center">
 
-Résultant du décret n° 2014-1095 du 26 septembre 2014
+Résultant du décret n° 2014-1095 du 26 septembre 2014 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-1-1</td>
+      <td align="center">R. 232-1-1 </td>
       <td>
 
-Résultant du décret n° 2018-714 du 3 août 2018
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-2 à R. 232-5</td>
+      <td align="center">R. 232-2 à R. 232-5 </td>
       <td>
 
-Résultant du décret n° 2014-1095 du 26 septembre 2014
+Résultant du décret n° 2014-1095 du 26 septembre 2014 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-5-1</td>
+      <td align="center">R. 232-5-1 </td>
       <td>
 
-Résultant du décret n° 2018-714 du 3 août 2018
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 232-12 à R. 232-23
+R. 232-12 à R. 232-14 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2018-714 du 3 août 2018
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1</td>
+      <td align="center">R. 232-15 </td>
+      <td align="left">Résultant du décret n° 2020-34 du 20 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-23 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 234-1 </td>
       <td align="center">
 
 Résultant du décret n° 2018-141 du 27 février 2018 
@@ -42833,33 +42835,33 @@ Résultant du décret n° 2018-141 du 27 février 2018
     <tr>
       <td align="left">
 
-R. 234-2
+R. 234-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1217 du 2 août 2017 
+Résultant du décret n° 2020-34 du 20 janvier 2020 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-1
+R. 236-1 
 
 </td>
       <td align="left">
@@ -42871,7 +42873,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-2 à R. 236-5 
 
 </td>
       <td align="left">
@@ -42883,7 +42885,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-6
+R. 236-6 
 
 </td>
       <td align="left">
@@ -42895,7 +42897,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-7
+R. 236-7 
 
 </td>
       <td align="left">
@@ -42907,7 +42909,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-8
+R. 236-8 
 
 </td>
       <td align="left">
@@ -42919,7 +42921,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-9 à R. 236-10 
 
 </td>
       <td align="left">
@@ -42931,7 +42933,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-11 
 
 </td>
       <td align="left">
@@ -42943,7 +42945,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-12 à R. 236-15 
 
 </td>
       <td align="left">
@@ -42955,7 +42957,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-16 
 
 </td>
       <td align="left">
@@ -42965,7 +42967,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
 </td>
     </tr>
     <tr>
-      <td align="center">R. 236-17</td>
+      <td align="center">R. 236-17 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 
@@ -42975,13 +42977,13 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-18</td>
+R. 236-18 </td>
       <td align="left">Résultant du décret n° 2017-1216 du 2 août 2017 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-19 à R. 236-25
+R. 236-19 à R. 236-25 
 
 </td>
       <td align="left">
@@ -42993,7 +42995,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-26
+R. 236-26 
 
 </td>
       <td align="left">
@@ -43005,7 +43007,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-27 
 
 </td>
       <td align="left">
@@ -43017,7 +43019,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-28 
 
 </td>
       <td align="left">
@@ -43029,7 +43031,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-29 à R. 236-45 
 
 </td>
       <td align="left">
@@ -43041,7 +43043,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-46 à R. 236-53 
 
 </td>
       <td align="left">
@@ -43053,7 +43055,7 @@ Résultant du décret n° 2016-1045 du 29 juillet 2016
     <tr>
       <td align="center">
 
-Au titre IV
+Au titre IV 
 
 </td>
       <td>
@@ -43061,7 +43063,7 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7
+R. 241-1 à R. 241-7 
 
 </td>
       <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
@@ -43069,7 +43071,7 @@ R. 241-1 à R. 241-7
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -43077,34 +43079,34 @@ Au titre V
     <tr>
       <td align="left">
 
-R. 251-1 et R. 251-2
+R. 251-1 et R. 251-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure
+la sécurité intérieure 
 
-(Décrets en Conseil d'Etat et décrets simples)
+(Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -43121,7 +43123,6 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
 
 _Cite_:
 
-  - Décret n°2010-569 du 28 mai 2010 - art. 5
   - Décret n°2013-1113 du 4 décembre 2013
   - Loi n°2013-1168 du 18 décembre 2013
   - Décret n°2014-901 du 18 août 2014
@@ -43134,11 +43135,11 @@ _Cite_:
   - Décret n°2016-1860 du 23 décembre 2016
   - Décret n°2017-1216 du 2 août 2017
   - Décret n°2017-1217 du 2 août 2017
-  - Décret n°2017-1218 du 2 août 2017
   - Décret n°2017-1522 du 2 novembre 2017
   - Décret n°2018-141 du 27 février 2018
   - Décret n°2018-167 du 7 mars 2018
   - Décret n°2018-714 du 3 août 2018
+  - Décret n°2020-34 du 20 janvier 2020
   - Code de la sécurité intérieure - art. L211-11-1
 
 _Codifié par_:
@@ -43147,7 +43148,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-208 du 20 mars 2019 - art. 4
+  - Décret n°2020-34 du 20 janvier 2020 - art. 2
 
 _Cité par_:
 
@@ -43260,18 +43261,18 @@ _Cite_:
 ###### Article R286-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
@@ -43279,86 +43280,78 @@ Au titre Ier
     <tr>
       <td align="left">
 
-R. 211-2 à R. 211-8
+R. 211-2 à R. 211-8 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-22 à R. 211-25
-
-</td>
+R. 211-22 à R. 211-25 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014
+Résultant du décret n° 2014-1253 du 27 octobre 2014 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-26-1
-
-</td>
+R. 211-26-1 </td>
       <td align="left">
 
-Résultant du décret n° 2019-208 du 20 mars 2019</td>
+Résultant du décret n° 2019-208 du 20 mars 2019 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-27 à R. 211-31
-
-</td>
+R. 211-27 à R. 211-31 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-32</td>
+      <td align="center">R. 211-32 </td>
       <td align="left">Résultant du décret n° 2017-1218 du 2 août 2017 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-33 et R. 211-34</td>
+      <td align="center">R. 211-33 et R. 211-34 </td>
       <td align="left">Résultant du décret n° 2017-587 du 20 avril 2017 pris pour l'application de l'article L. 211-11-1 du
 code de la sécurité intérieure et relatif aux autorisations d'accès aux établissements et installations accueillant des
-grands événements</td>
+grands événements </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -43366,30 +43359,30 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2</td>
+      <td align="center">R. 223-2 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
@@ -43399,55 +43392,63 @@ Résultant du décret n° 2017-1522 du 2 novembre 2017
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
       <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
       <td>Résultant du  décret n° 2016-1269 du 28 septembre 2016  </td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
-      <td>Résultant du décret n° 2018-167 du 7 mars 2018</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
+      <td>Résultant du décret n° 2018-167 du 7 mars 2018 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 232-1</td>
-      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014</td>
+      <td align="center">R. 232-1 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-1-1</td>
-      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018</td>
+      <td align="center">R. 232-1-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-2 à R. 232-5</td>
-      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014</td>
+      <td align="center">R. 232-2 à R. 232-5 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-5-1</td>
-      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018</td>
+      <td align="center">R. 232-5-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-12 à R. 232-23</td>
+      <td align="center">R. 232-12 à R. 232-14 </td>
       <td align="left">
 
-Résultant du décret n° 2018-714 du 3 août 2018
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1</td>
+      <td align="center">R. 232-15 </td>
+      <td align="left">Résultant du décret n° 2020-34 du 20 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-23 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 234-1 </td>
       <td align="center">
 
 Résultant du décret n° 2018-141 du 27 février 2018 
@@ -43457,33 +43458,33 @@ Résultant du décret n° 2018-141 du 27 février 2018
     <tr>
       <td align="left">
 
-R. 234-2
+R. 234-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1217 du 2 août 2017 
+Résultant du décret n° 2020-34 du 20 janvier 2020 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-1
+R. 236-1 
 
 </td>
       <td align="left">
@@ -43495,7 +43496,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-2 à R. 236-5 
 
 </td>
       <td align="left">
@@ -43507,7 +43508,7 @@ Résultant du  décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-6
+R. 236-6 
 
 </td>
       <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
@@ -43515,7 +43516,7 @@ R. 236-6
     <tr>
       <td align="center">
 
-R. 236-7
+R. 236-7 
 
 </td>
       <td align="left">Résultant du  décret n° 2013-1113  </td>
@@ -43523,7 +43524,7 @@ R. 236-7
     <tr>
       <td align="center">
 
-R. 236-8
+R. 236-8 
 
 </td>
       <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
@@ -43531,7 +43532,7 @@ R. 236-8
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-9 à R. 236-10 
 
 </td>
       <td align="left">Résultant du  décret n° 2013-1113  </td>
@@ -43539,7 +43540,7 @@ R. 236-9 à R. 236-10
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-11 
 
 </td>
       <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
@@ -43547,7 +43548,7 @@ R. 236-11
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-12 à R. 236-15 
 
 </td>
       <td align="left">Résultant du  décret n° 2013-1113  </td>
@@ -43555,7 +43556,7 @@ R. 236-12 à R. 236-15
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-16 
 
 </td>
       <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
@@ -43563,7 +43564,7 @@ R. 236-16
     <tr>
       <td align="center">
 
-R. 236-17
+R. 236-17 
 
 </td>
       <td align="left">Résultant du décret n° 2013-1113 </td>
@@ -43571,7 +43572,7 @@ R. 236-17
     <tr>
       <td align="center">
 
-R. 236-18
+R. 236-18 
 
 </td>
       <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
@@ -43579,7 +43580,7 @@ R. 236-18
     <tr>
       <td align="center">
 
-R. 236-19 à R. 236-25
+R. 236-19 à R. 236-25 
 
 </td>
       <td align="left">Résultant du  décret n° 2013-1113  </td>
@@ -43587,7 +43588,7 @@ R. 236-19 à R. 236-25
     <tr>
       <td align="center">
 
-R. 236-26
+R. 236-26 
 
 </td>
       <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
@@ -43595,7 +43596,7 @@ R. 236-26
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-27 
 
 </td>
       <td align="left">Résultant du  décret n° 2013-1113  </td>
@@ -43603,7 +43604,7 @@ R. 236-27
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-28 
 
 </td>
       <td align="left">Résultant du  décret n° 2017-1216 du 2 août 2017  </td>
@@ -43611,7 +43612,7 @@ R. 236-28
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-29 à R. 236-45 
 
 </td>
       <td align="left">Résultant du  décret n° 2013-1113  </td>
@@ -43619,7 +43620,7 @@ R. 236-29 à R. 236-45
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-46 à R. 236-53 
 
 </td>
       <td align="left">Résultant du  décret n° 2016-1045 du 29 juillet 2016  </td>
@@ -43627,7 +43628,7 @@ R. 236-46 à R. 236-53
     <tr>
       <td align="center">
 
-Au titre IV
+Au titre IV 
 
 </td>
       <td>
@@ -43635,7 +43636,7 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7
+R. 241-1 à R. 241-7 
 
 </td>
       <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
@@ -43643,7 +43644,7 @@ R. 241-1 à R. 241-7
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -43651,34 +43652,34 @@ Au titre V
     <tr>
       <td align="center">
 
-R. 251-1 et R. 251-2
+R. 251-1 et R. 251-2 
 
 </td>
       <td align="center">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure
+la sécurité intérieure 
 
-(Décrets en Conseil d'Etat et décrets simples)
+(Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -43713,11 +43714,12 @@ _Cite_:
   - Décret n°2018-141 du 27 février 2018
   - Décret n°2018-167 du 7 mars 2018
   - Décret n°2018-714 du 3 août 2018
+  - Décret n°2020-34 du 20 janvier 2020
   - Code de la sécurité intérieure - art. L211-11-1
 
 _Modifié par_:
 
-  - Décret n°2019-208 du 20 mars 2019 - art. 4
+  - Décret n°2020-34 du 20 janvier 2020 - art. 2
 
 _Cité par_:
 
@@ -43828,89 +43830,79 @@ _Cite_:
 ###### Article R287-1
 
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du
-tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8</td>
+      <td align="center">R. 211-2 à R. 211-8 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-11 à R. 211-16, R. 211-18 et R. 211-21</td>
+      <td align="center">R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 </td>
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-22 à R. 211-25
-
-</td>
+R. 211-22 à R. 211-25 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014
+Résultant du décret n° 2014-1253 du 27 octobre 2014 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-26-1
-
-</td>
+R. 211-26-1 </td>
       <td align="left">
 
-Résultant du décret n° 2019-208 du 20 mars 2019
-
-</td>
+Résultant du décret n° 2019-208 du 20 mars 2019 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 211-27 à R. 211-31
-
-</td>
+R. 211-27 à R. 211-31 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -43918,58 +43910,58 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2</td>
+      <td align="center">R. 223-2 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1522 du 2 novembre 2017
+Résultant du décret n° 2017-1522 du 2 novembre 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
-      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
       <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
-      <td>Résultant du décret n° 2018-167 du 7 mars 2018</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
+      <td>Résultant du décret n° 2018-167 du 7 mars 2018 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
@@ -43977,93 +43969,101 @@ Au titre III
     <tr>
       <td align="left">
 
-R. 232-1
+R. 232-1 
 
 </td>
-      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014</td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-1-1</td>
-      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018</td>
+      <td align="center">R. 232-1-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-2 à R. 232-5</td>
-      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014</td>
+      <td align="center">R. 232-2 à R. 232-5 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-5-1</td>
-      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018</td>
+      <td align="center">R. 232-5-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-12 à R. 232-23</td>
+      <td align="center">R. 232-12 à R. 232-14 </td>
       <td align="left">
 
-Résultant du décret n° 2018-714 du 3 août 2018
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 234-1</td>
+      <td align="center">R. 232-15 </td>
+      <td align="left">Résultant du décret n° 2020-34 du 20 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-23 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 234-1 </td>
       <td align="center">
 
-Résultant du décret n° 2018-141 du 27 février 2018
+Résultant du décret n° 2018-141 du 27 février 2018 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-2
+R. 234-2 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 234-3
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1217 du 2 août 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 236-1
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2017-1216 du 2 août 2017
+Résultant du décret n° 2020-34 du 20 janvier 2020 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-1 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2013-1113 
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 236-2 à R. 236-5 
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-6
+R. 236-6 
 
 </td>
       <td align="left">
@@ -44075,7 +44075,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-7
+R. 236-7 
 
 </td>
       <td align="left">
@@ -44087,7 +44087,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-8
+R. 236-8 
 
 </td>
       <td align="left">
@@ -44099,7 +44099,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-9 à R. 236-10 
 
 </td>
       <td align="left">
@@ -44111,7 +44111,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-11 
 
 </td>
       <td align="left">
@@ -44123,7 +44123,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-12 à R. 236-15 
 
 </td>
       <td align="left">
@@ -44135,7 +44135,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-16 
 
 </td>
       <td align="left">
@@ -44145,17 +44145,17 @@ Résultant du décret n° 2017-1216 du 2 août 2017 </td>
     <tr>
       <td align="center">
 
-R. 236-17
+R. 236-17 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2013-1113</td>
+Résultant du décret n° 2013-1113 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-18
+R. 236-18 
 
 </td>
       <td align="left">
@@ -44165,7 +44165,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017 </td>
     <tr>
       <td align="center">
 
-R. 236-19 à R. 236-25
+R. 236-19 à R. 236-25 
 
 </td>
       <td align="left">
@@ -44177,7 +44177,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-26
+R. 236-26 
 
 </td>
       <td align="left">
@@ -44189,7 +44189,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-27 
 
 </td>
       <td align="left">
@@ -44201,7 +44201,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-28 
 
 </td>
       <td align="left">
@@ -44213,7 +44213,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-29 à R. 236-45 
 
 </td>
       <td align="left">
@@ -44225,19 +44225,19 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-46 à R. 236-53 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1045 du 29 juillet 2016 
+Résultant du  décret n° 2016-1045 du 29 juillet 2016  
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre IV
+Au titre IV 
 
 </td>
       <td>
@@ -44245,15 +44245,15 @@ Au titre IV
     <tr>
       <td align="center">
 
-R. 241-1 à R. 241-7
+R. 241-1 à R. 241-7 
 
 </td>
-      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016</td>
+      <td>Résultant du décret n° 2016-1860 du 23 décembre 2016 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -44261,32 +44261,32 @@ Au titre V
     <tr>
       <td align="left">
 
-R. 251-1 et R. 251-2
+R. 251-1 et R. 251-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-3 à R. 251-12
+R. 251-3 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -44312,11 +44312,11 @@ _Cite_:
   - Décret n°2016-1045 du 29 juillet 2016
   - Décret n°2016-1860 du 23 décembre 2016
   - Décret n°2017-1216 du 2 août 2017
-  - Décret n°2017-1217 du 2 août 2017
   - Décret n°2017-1522 du 2 novembre 2017
   - Décret n°2018-141 du 27 février 2018
   - Décret n°2018-167 du 7 mars 2018
   - Décret n°2018-714 du 3 août 2018
+  - Décret n°2020-34 du 20 janvier 2020
 
 _Codifié par_:
 
@@ -44324,7 +44324,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-208 du 20 mars 2019 - art. 4
+  - Décret n°2020-34 du 20 janvier 2020 - art. 2
 
 _Cité par_:
 
@@ -44442,78 +44442,74 @@ _Cite_:
 ###### Article R288-1
 
 Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la
-colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="center">
 
-Au titre Ier
+Au titre Ier 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 211-2 à R. 211-8</td>
+      <td align="center">R. 211-2 à R. 211-8 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 211-11 à R. 211-16, R. 211-18 et R. 211-21
+R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 
 
 </td>
       <td align="center">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie
-réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-R. 211-26-1
-
-</td>
+R. 211-26-1 </td>
       <td>
 
-Résultant du décret n° 2019-208 du 20 mars 2019
-
-</td>
+Résultant du décret n° 2019-208 du 20 mars 2019 </td>
     </tr>
     <tr>
-      <td align="center">R. 211-27 à R. 211-30</td>
+      <td align="center">R. 211-27 à R. 211-30 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 214-1 à R. 214-3</td>
+      <td align="center">R. 214-1 à R. 214-3 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre II
+Au titre II 
 
 </td>
       <td align="center">
@@ -44521,105 +44517,112 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 222-1
+R. 222-1 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168
 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions
-concernant la défense et la sécurité nationale
+concernant la défense et la sécurité nationale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 223-2</td>
+      <td align="center">R. 223-2 </td>
       <td align="center">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 224-1 et R. 224-2
+R. 224-1 et R. 224-2 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1522 du 2 novembre 2017
+Résultant du décret n° 2017-1522 du 2 novembre 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 224-3 à R. 224-6</td>
-      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015</td>
+      <td align="center">R. 224-3 à R. 224-6 </td>
+      <td align="left">Résultant du décret n° 2015-26 du 14 janvier 2015 </td>
     </tr>
     <tr>
       <td>
 
-R. 225-1 à R. 225-5
+R. 225-1 à R. 225-5 
 
 </td>
-      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 
-</td>
+      <td>Résultant du décret n° 2016-1269 du 28 septembre 2016 </td>
     </tr>
     <tr>
-      <td align="center">R. 228-1 à R. 228-6</td>
-      <td>Résultant du décret n° 2018-167 du 7 mars 2018</td>
+      <td align="center">R. 228-1 à R. 228-6 </td>
+      <td>Résultant du décret n° 2018-167 du 7 mars 2018 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au titre III
+Au titre III 
 
 </td>
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center">R. 232-1</td>
+      <td align="center">R. 232-1 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1095 du 26 septembre 2014
+Résultant du décret n° 2014-1095 du 26 septembre 2014 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-1-1</td>
-      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018</td>
+      <td align="center">R. 232-1-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-2 à R. 232-5</td>
-      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014</td>
+      <td align="center">R. 232-2 à R. 232-5 </td>
+      <td align="left">Résultant du décret n° 2014-1095 du 26 septembre 2014 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-5-1</td>
-      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018</td>
+      <td align="center">R. 232-5-1 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
     </tr>
     <tr>
-      <td align="center">R. 232-12 à R. 232-23</td>
+      <td align="center">R. 232-12 à R. 232-14 </td>
       <td align="left">
 
-Résultant du décret n° 2018-714 du 3 août 2018
+Résultant du décret n° 2018-714 du 3 août 2018 
 
 </td>
     </tr>
     <tr>
+      <td align="center">R. 232-15 </td>
+      <td align="left">Résultant du décret n° 2020-34 du 20 janvier 2020 </td>
+    </tr>
+    <tr>
+      <td align="center">R. 232-16 à R. 232-23 </td>
+      <td align="left">Résultant du décret n° 2018-714 du 3 août 2018 </td>
+    </tr>
+    <tr>
       <td align="left">
 
-R. 234-3
+R. 234-3 
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2017-1217 du 2 août 2017
+Résultant du décret n° 2020-34 du 20 janvier 2020 
 
 </td>
     </tr>
     <tr>
-      <td align="center">R. 236-1</td>
+      <td align="center">R. 236-1 </td>
       <td align="center">
 
 Résultant du décret n° 2017-1216 du 2 août 2017 
@@ -44629,7 +44632,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="left">
 
-R. 236-2 à R. 236-5
+R. 236-2 à R. 236-5 
 
 </td>
       <td align="left">
@@ -44641,31 +44644,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-6
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2017-1216 du 2 août 2017 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-R. 236-7
-
-</td>
-      <td align="left">
-
-Résultant du décret n° 2013-1113 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-R. 236-8
+R. 236-6 
 
 </td>
       <td align="left">
@@ -44677,7 +44656,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-9 à R. 236-10
+R. 236-7 
 
 </td>
       <td align="left">
@@ -44689,7 +44668,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-11
+R. 236-8 
 
 </td>
       <td align="left">
@@ -44701,7 +44680,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-12 à R. 236-15
+R. 236-9 à R. 236-10 
 
 </td>
       <td align="left">
@@ -44713,7 +44692,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-16
+R. 236-11 
 
 </td>
       <td align="left">
@@ -44725,7 +44704,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-17
+R. 236-12 à R. 236-15 
 
 </td>
       <td align="left">
@@ -44737,7 +44716,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-18
+R. 236-16 
 
 </td>
       <td align="left">
@@ -44749,7 +44728,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-19 à R. 236-25
+R. 236-17 
 
 </td>
       <td align="left">
@@ -44761,7 +44740,7 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-26
+R. 236-18 
 
 </td>
       <td align="left">
@@ -44773,7 +44752,7 @@ Résultant du décret n° 2017-1216 du 2 août 2017
     <tr>
       <td align="center">
 
-R. 236-27
+R. 236-19 à R. 236-25 
 
 </td>
       <td align="left">
@@ -44785,15 +44764,19 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-28
+R. 236-26 
 
 </td>
-      <td>Résultant du décret n° 2017-1216 du 2 août 2017</td>
+      <td align="left">
+
+Résultant du décret n° 2017-1216 du 2 août 2017 
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-R. 236-29 à R. 236-45
+R. 236-27 
 
 </td>
       <td align="left">
@@ -44805,7 +44788,27 @@ Résultant du décret n° 2013-1113
     <tr>
       <td align="center">
 
-R. 236-46 à R. 236-53
+R. 236-28 
+
+</td>
+      <td>Résultant du décret n° 2017-1216 du 2 août 2017 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-29 à R. 236-45 
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1113 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+R. 236-46 à R. 236-53 
 
 </td>
       <td align="left">
@@ -44817,7 +44820,7 @@ Résultant du décret n° 2016-1045 du 29 juillet 2016
     <tr>
       <td align="center">
 
-Au titre V
+Au titre V 
 
 </td>
       <td align="center">
@@ -44825,32 +44828,32 @@ Au titre V
     <tr>
       <td>
 
-R. 251-1
+R. 251-1 
 
 </td>
       <td>
 
-Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité
+Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12
+R. 251-8, à l'exception des 3° et 4°, R. 251-9 à R. 251-12 
 
 </td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de
-la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) 
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 252-2 à R. 253-4
+R. 252-2 à R. 253-4 
 
 </td>
       <td align="left">
@@ -44875,10 +44878,10 @@ _Cite_:
   - Décret n°2015-26 du 14 janvier 2015
   - Décret n°2016-1045 du 29 juillet 2016
   - Décret n°2017-1216 du 2 août 2017
-  - Décret n°2017-1217 du 2 août 2017
   - Décret n°2017-1522 du 2 novembre 2017
   - Décret n°2018-167 du 7 mars 2018
   - Décret n°2018-714 du 3 août 2018
+  - Décret n°2020-34 du 20 janvier 2020
   - Code de la sécurité intérieure - art. L811-2
 
 _Codifié par_:
@@ -44887,7 +44890,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-208 du 20 mars 2019 - art. 4
+  - Décret n°2020-34 du 20 janvier 2020 - art. 2
 
 _Cité par_:
 
