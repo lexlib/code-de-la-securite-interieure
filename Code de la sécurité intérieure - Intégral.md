@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-01-23
+Version Consolidée au 2020-01-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -37400,13 +37400,20 @@ frontières extérieures.
 
 Peuvent être inscrites au programme PARAFE les personnes majeures ou mineures âgées de douze ans révolus, citoyens de l'Union
 européenne ou ressortissants d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse
-ou ressortissants monégasques ou andorrans ou saint-marinais, ainsi que les personnes majeures ou mineures âgées d'au moins
-douze ans révolus ressortissantes d'un pays tiers, détentrices d'une carte de séjour de membre de la famille d'un citoyen de
-l'Union européenne prévue par la directive n° 2004/38/ CE du Parlement européen et du Conseil du 29 avril 2004 relative au
-droit des citoyens de l'Union et des membres de leurs familles de circuler et de séjourner librement sur le territoire des
-Etats membres, émise par la France ou par un autre Etat membre de l'Union européenne et en cours de validité. L'inscription
-et le maintien au programme PARAFE nécessitent la détention d'un document de voyage doté d'une zone de lecture automatique au
-sens du document 9303 de l'Organisation de l'aviation civile internationale en cours de validité.
+ou ressortissants britanniques ou monégasques ou andorrans ou saint-marinais, ainsi que les personnes majeures ou mineures
+âgées d'au moins douze ans révolus ressortissantes d'un pays tiers, détentrices d'une carte de séjour de membre de la famille
+d'un citoyen de l'Union européenne prévue par la directive n° 2004/38/ CE du Parlement européen et du Conseil du 29 avril
+2004 relative au droit des citoyens de l'Union et des membres de leurs familles de circuler et de séjourner librement sur le
+territoire des Etats membres, émise par la France ou par un autre Etat membre de l'Union européenne et en cours de validité.
+L'inscription et le maintien au programme PARAFE nécessitent la détention d'un document de voyage doté d'une zone de lecture
+automatique au sens du document 9303 de l'Organisation de l'aviation civile internationale en cours de validité.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-239 du 27 mars 2019, ces dispositions entrent en vigueur à la date du retrait du
+Royaume-Uni de l'Union européenne sans accord fondé sur l'article 50 du traité sur l'Union européenne.
+
+Le Royaume-Uni s'est retiré de l'Union européenne le 31 janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -37420,7 +37427,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-238 du 27 mars 2019 - art. 1
+  - Décret n°2019-239 du 27 mars 2019 - art. 1
 
 _Cité par_:
 
@@ -37574,29 +37581,36 @@ _Cité par_:
 
 Peuvent également bénéficier du traitement mentionné à l'article R. 232-6, dans les conditions figurant ci-après, les
 personnes majeures ou mineures âgées de douze ans révolus, citoyens de l'Union européenne ou ressortissants d'un autre Etat
-partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou ressortissants monégasques ou andorrans
-ou saint-marinais, non inscrites au programme PARAFE mais titulaires d'un document de voyage comportant des données
-biométriques et doté d'une zone de lecture automatique au sens du document 9303 de l'Organisation de l'aviation civile
-internationale ou conforme au règlement (CE) n° 2252/2004 du Conseil du 13 décembre 2004 modifié établissant des normes pour
-les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par
-les Etats membres. Dans un tel cas : 
+partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou ressortissants britanniques ou
+monégasques ou andorrans ou saint-marinais, non inscrites au programme PARAFE mais titulaires d'un document de voyage
+comportant des données biométriques et doté d'une zone de lecture automatique au sens du document 9303 de l'Organisation de
+l'aviation civile internationale ou conforme au règlement (CE) n° 2252/2004 du Conseil du 13 décembre 2004 modifié
+établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les
+documents de voyage délivrés par les Etats membres. Dans un tel cas :
 
-1° Les catégories de données à caractère personnel traitées sont les suivantes : 
+1° Les catégories de données à caractère personnel traitées sont les suivantes :
 
-a) Les minuties des empreintes digitales de deux doigts posés à plat du porteur du document de voyage ; 
+a) Les minuties des empreintes digitales de deux doigts posés à plat du porteur du document de voyage ;
 
-a bis) L'image numérisée du visage du porteur du document de voyage prise lors du passage dans le sas ; 
+a bis) L'image numérisée du visage du porteur du document de voyage prise lors du passage dans le sas ;
 
 b) Le nom, le prénom, la date de naissance et la nationalité de l'intéressé, le numéro et la limite de validité du document
-de voyage ; 
+de voyage ;
 
-2° Ces données ne sont pas conservées dans le traitement ; 
+2° Ces données ne sont pas conservées dans le traitement ;
 
-3° Les dispositions du second alinéa de l'article R. 232-9 sont applicables ; 
+3° Les dispositions du second alinéa de l'article R. 232-9 sont applicables ;
 
 4° L'article R. 232-10 est applicable en tant que de besoin, sans préjudice des droits d'accès et de rectification prévus à
 l'article 11 du décret n° 2016-1460 du 28 octobre 2016 modifié autorisant la création d'un traitement de données à caractère
 personnel relatif aux passeports et aux cartes nationales d'identité.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-239 du 27 mars 2019, ces dispositions entrent en vigueur à la date du retrait du
+Royaume-Uni de l'Union européenne sans accord fondé sur l'article 50 du traité sur l'Union européenne.
+
+Le Royaume-Uni s'est retiré de l'Union européenne le 31 janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -37612,12 +37626,12 @@ _Cite_:
 
   - Décret n°2016-1460 du 28 octobre 2016 - art. 11
   - Code de la sécurité intérieure - art. R232-10
-  - Code de la sécurité intérieure - art. R232-6
+  - Code de la sécurité intérieure - art. R232-6 (V)
   - Code de la sécurité intérieure - art. R232-9
 
 _Modifié par_:
 
-  - Décret n°2019-238 du 27 mars 2019 - art. 6
+  - Décret n°2019-239 du 27 mars 2019 - art. 1
 
 _Cité par_:
 
