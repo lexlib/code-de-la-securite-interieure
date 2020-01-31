@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-01-23
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -53437,18 +53437,25 @@ _Cité par_:
 
 Le transfert des armes à feu, munitions et leurs éléments des catégories A1, B et C, à l'exception des douilles non chargées
 et non amorcées du 8° de la catégorie C et des projectiles des munitions classées aux 6°, 7° et 8° de la catégorie C et en
-catégorie D, vers un autre Etat membre est subordonné à l'obtention d'un permis délivré par le ministre chargé des douanes,
-après accord préalable de l'Etat membre de destination, si ce dernier l'exige pour les biens dont il s'agit. Le permis
-comporte notamment les modalités d'expédition et les caractéristiques des biens transférés.
+catégorie D, vers un autre Etat membre est subordonné à l'obtention d'un permis délivré par le chef du service des
+autorisations de mouvements internationaux d'armes, après accord préalable de l'Etat membre de destination, si ce dernier
+l'exige pour les biens dont il s'agit. Le permis comporte notamment les modalités d'expédition et les caractéristiques des
+biens transférés.
 
 Le permis accompagne les biens jusqu'à destination. Il est présenté, ainsi que ces biens, à toute réquisition des autorités
 habilitées.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 18
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cité par_:
 
@@ -53456,24 +53463,24 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R316-13 (VD)
   - Code de la sécurité intérieure - art. R316-19 (V)
   - Code de la sécurité intérieure - art. R316-20 (V)
-  - Code de la sécurité intérieure - art. R316-21 (VD)
-  - Code de la sécurité intérieure - art. R316-28 (M)
+  - Code de la sécurité intérieure - art. R316-21 (V)
+  - Code de la sécurité intérieure - art. R316-28 (V)
   - Code de la sécurité intérieure - art. R316-8 (V)
   - Code de la sécurité intérieure - art. R317-8-1 (VD)
 
 
 ###### Article R316-15
 
-Le ministre chargé des douanes peut délivrer aux armuriers un agrément d'une durée maximale de trois ans pour transférer,
-sans obtenir au préalable le permis mentionné à l'article R. 316-14, vers des armuriers établis dans les autres Etats membres
-des armes à feu, munitions et leurs éléments des catégories A1, B et C.
+Le chef du service des autorisations de mouvements internationaux d'armes peut délivrer aux armuriers un agrément d'une durée
+maximale de trois ans pour transférer, sans obtenir au préalable le permis mentionné à l'article R. 316-14, vers des
+armuriers établis dans les autres Etats membres des armes à feu, munitions et leurs éléments des catégories A1, B et C.
 
 Cet agrément ne dispense pas de l'obtention de l'accord préalable de l'Etat de destination, si ce dernier l'exige, ni de
 l'établissement d'une déclaration de transfert. Celle-ci indique les références de l'accord préalable ou de la liste des
 armes, munitions et leurs éléments pour lesquels l'Etat de destination n'exige pas d'accord préalable et celles de l'agrément
-du ministre chargé des douanes ainsi que les modalités de transfert et les caractéristiques des biens transférés. La
-déclaration de transfert accompagne les biens jusqu'à destination. Elle est présentée, ainsi que ces biens, à toute
-réquisition des autorités habilitées.
+mentionné au premier alinéa ainsi que les modalités de transfert et les caractéristiques des biens transférés. La déclaration
+de transfert accompagne les biens jusqu'à destination. Elle est présentée, ainsi que ces biens, à toute réquisition des
+autorités habilitées.
 
 Lorsque la déclaration de transfert concerne des armes à feu ou leurs éléments, elle est transmise au service des douanes
 avant le jour du transfert selon des modalités fixées par arrêté du ministre chargé des douanes.
@@ -53481,15 +53488,22 @@ avant le jour du transfert selon des modalités fixées par arrêté du ministre
 Un exemplaire des déclarations de transfert de munitions et de leurs éléments est transmis par l'armurier agréé à
 l'administration avant la réalisation du transfert selon des modalités fixées par arrêté du ministre chargé des douanes.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 18
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
+  - Décret n°2020-68 du 30 janvier 2020 - art. 32
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. R316-19 (M)
+  - Code de la sécurité intérieure - art. R316-19 (V)
 
 
 ##### Paragraphe 2 : Transfert d'un Etat membre vers la France<a id=589></a>
@@ -53497,25 +53511,31 @@ _Cité par_:
 ###### Article R316-16
 
 Le transfert d'armes à feu, munitions et leurs éléments des catégories A1, B et C, d'un autre Etat membre vers la France est
-soumis à accord préalable délivré par le ministre chargé des douanes. 
+soumis à accord préalable délivré par le chef du service des autorisations de mouvements internationaux d'armes.
 
 La délivrance de l'accord préalable aux particuliers transférant vers la France des armes à feu, munitions et leurs éléments
 des catégories A1 et B est subordonnée à la production par ces derniers de l'autorisation d'acquisition et de détention
-correspondante. 
+correspondante.
 
 A la réception des biens, le professionnel destinataire inscrit sur l'accord préalable les quantités livrées. Le particulier,
 lorsqu'il s'agit d'armes à feu, munitions et leurs éléments des catégories A1 et B, renvoie le volet n° 2 de l'autorisation
-d'acquisition dûment rempli au préfet. 
+d'acquisition dûment rempli au préfet.
 
 La délivrance de l'accord préalable aux particuliers transférant vers la France des armes, munitions et leurs éléments de la
 catégorie C est subordonnée à la présentation des pièces prévues à l'article R. 312-53. La livraison est effectuée
 conformément aux dispositions de l'article R. 313-23.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 18
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
@@ -53525,37 +53545,44 @@ _Cite_:
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R316-17 (V)
-  - Code de la sécurité intérieure - art. R316-20 (M)
-  - Code de la sécurité intérieure - art. R316-24 (VD)
+  - Code de la sécurité intérieure - art. R316-20 (V)
+  - Code de la sécurité intérieure - art. R316-24 (V)
   - Code de la sécurité intérieure - art. R317-8-1 (VD)
 
 
 ###### Article R316-17
 
-Par dérogation à l'article R. 316-16, sont dispensés de l'accord préalable du ministre chargé des douanes : 
+Par dérogation à l'article R. 316-16, sont dispensés de l'accord préalable du chef du service des autorisations de mouvements
+internationaux d'armes :
 
 1° Le transfert d'armes à feu, munitions et leurs éléments des catégories A1, B et C renvoyés vers la France après exposition
-ou réparation dans un autre Etat membre de l'Union européenne ; 
+ou réparation dans un autre Etat membre de l'Union européenne ;
 
 2° Le transfert temporaire en France des armes de poing et des munitions dont le port est autorisé par arrêté du ministre de
-l'intérieur en application de l'article R. 315-6 ; 
+l'intérieur en application de l'article R. 315-6 ;
 
 3° Le transfert définitif ou temporaire des armes à feu et de leurs éléments à percussion annulaire figurant aux 1° et 2° de
-la catégorie C ; 
+la catégorie C ;
 
 4° Le transfert des douilles non chargées et non amorcées mentionnées au 8° de la catégorie C et des projectiles des
 munitions mentionnées aux 6°, 7° et 8° de la catégorie C et en catégorie D.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 18
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. R311-3 (VD)
-  - Code de la sécurité intérieure - art. R311-4 (VD)
+  - Code de la sécurité intérieure - art. R311-4 (V)
 
 _Cite_:
 
@@ -53580,53 +53607,65 @@ _Créé par_:
 ###### Article R316-19
 
 Les demandes de permis de l'article R. 316-14, de l'agrément de l'article R. 316-15 et de l'accord préalable de l'article R.
-316-16, qui peuvent être présentées sous forme dématérialisée, sont déposées auprès du ministre chargé des douanes. Un arrêté
-du ministre chargé des douanes définit les conditions dans lesquelles sont établis ces documents ainsi que les déclarations
-de l'article R. 316-15 et précise les documents à joindre à la demande. 
+316-16, qui peuvent être présentées sous forme dématérialisée, sont déposées auprès du chef du service des autorisations de
+mouvements internationaux d'armes. Un arrêté du ministre chargé des douanes définit les conditions dans lesquelles sont
+établis ces documents ainsi que les déclarations de l'article R. 316-15 et précise les documents à joindre à la demande.
 
 Le permis et la déclaration mentionnés au précédent alinéa comportent les données permettant l'identification de chaque arme,
 élément d'arme, munition et élément de munition et l'indication que les armes, les éléments d'arme et les munitions ont fait
 l'objet d'un contrôle selon les dispositions de la convention du 1er juillet 1969 pour la reconnaissance réciproque des
 poinçons d'épreuve des armes à feu portatives.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R316-14 (V)
+  - Code de la sécurité intérieure - art. R316-14
   - Code de la sécurité intérieure - art. R316-15 (V)
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. R316-28 (M)
+  - Code de la sécurité intérieure - art. R316-28 (V)
 
 
 ###### Article R316-20
 
-Le ministre chargé des douanes délivre, par écrit ou, le cas échéant, sous format électronique, les permis et les agréments
-de transfert vers un autre Etat membre prévus par les articles R. 316-14 et R. 316-15 dans les conditions fixées à l'article
-R. 316-21, après avis favorable du ministre des affaires étrangères, en fonction de ses attributions, et, pour les agréments
-de transfert, du ministre de l'intérieur. 
+Le chef du service des autorisations de mouvements internationaux d'armes délivre, par écrit ou, le cas échéant, sous format
+électronique, les permis et les agréments de transfert vers un autre Etat membre prévus par les articles R. 316-14 et R.
+316-15 dans les conditions fixées à l'article R. 316-21, après avis favorable du ministre des affaires étrangères, en
+fonction de ses attributions, et, pour les agréments de transfert, du ministre de l'intérieur.
 
 Il délivre dans les mêmes conditions l'accord préalable de transfert vers la France prévu à l'article R. 316-16, après avis
-favorable du ministre de l'intérieur. 
+favorable du ministre de l'intérieur.
 
 Lorsque cet accord préalable de transfert revêt une forme globale, il couvre pendant sa période de validité le transfert de
 matériels identifiés, sans limite de quantité ni de montant, en provenance de fournisseurs identifiés.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. R316-14 (V)
+  - Code de la sécurité intérieure - art. R316-14
   - Code de la sécurité intérieure - art. R316-16 (V)
 
 
@@ -53713,32 +53752,38 @@ _Modifié par_:
 ###### Article R316-23
 
 Le permis de transfert, l'agrément de transfert et l'accord préalable de transfert peuvent être suspendus, modifiés, abrogés
-ou retirés par le ministre chargé des douanes, après avis favorable du ministre des affaires étrangères pour le permis de
-transfert, du ministre des affaires étrangères et du ministre de l'intérieur pour l'agrément de transfert et du ministre de
-l'intérieur pour l'accord préalable de transfert, pour l'un des motifs mentionnés au II de l'article L. 2335-17 du code de la
-défense. 
+ou retirés par le chef du service des autorisations de mouvements internationaux d'armes, après avis favorable du ministre
+des affaires étrangères pour le permis de transfert, du ministre des affaires étrangères et du ministre de l'intérieur pour
+l'agrément de transfert et du ministre de l'intérieur pour l'accord préalable de transfert, pour l'un des motifs mentionnés
+au II de l'article L. 2335-17 du code de la défense.
 
-En cas d'urgence, le ministre chargé des douanes peut suspendre le permis de transfert, l'agrément de transfert ou l'accord
-préalable de transfert sans délai. 
+En cas d'urgence, le chef du service des autorisations de mouvements internationaux d'armes peut suspendre le permis de
+transfert, l'agrément de transfert ou l'accord préalable de transfert sans délai.
 
 La modification, l'abrogation ou le retrait ne peut intervenir qu'après que le titulaire de l'autorisation a été mis à même
 de faire valoir ses observations dans un délai de quinze jours, selon les modalités prévues aux articles L. 121-1, L. 121-2
-et L. 122-1 du code des relations entre le public et l'administration. 
+et L. 122-1 du code des relations entre le public et l'administration.
 
 La décision portant suspension, modification, abrogation ou retrait de l'autorisation d'importation est notifiée au titulaire
-par le ministre chargé des douanes.
+par le chef du service des autorisations de mouvements internationaux d'armes.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
-  - Code de la défense. - art. L2335-17 (V)
-  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+  - Code de la défense. - art. L2335-17
+  - Code des relations entre le public et l'administration - art. L121-1
+  - Code des relations entre le public et l'administration - art. L122-1
 
 
 ###### Article R316-23-1
@@ -53851,34 +53896,40 @@ _Cité par_:
 
 ###### Article R316-28
 
-I. – Le ministre chargé des douanes transmet à chaque Etat membre concerné les informations qu'il recueille en application
-des articles R. 316-14, R. 316-15 et R. 316-19. Il reçoit celles qui lui sont transmises par les autres Etats membres
-concernant les transferts d'armes, munitions et leurs éléments vers la France. 
+I. – Le chef du service des autorisations de mouvements internationaux d'armes transmet à chaque Etat membre concerné les
+informations qu'il recueille en application des articles R. 316-14, R. 316-15 et R. 316-19. Il reçoit celles qui lui sont
+transmises par les autres Etats membres concernant les transferts d'armes, munitions et leurs éléments vers la France.
 
 II. – Le ministre de l'intérieur transmet à chaque Etat membre concerné les informations relatives aux résidents des autres
-Etats membres : 
+Etats membres :
 
-1° Soit qui acquièrent des armes et leurs éléments soumis au régime de droit commun ; 
+1° Soit qui acquièrent des armes et leurs éléments soumis au régime de droit commun ;
 
 2° Soit qui obtiennent une autorisation de détention d'une ou de plusieurs armes ou d'éléments d'arme en France. Il reçoit
-les mêmes informations des autres Etats membres relatives aux personnes résidant en France. 
+les mêmes informations des autres Etats membres relatives aux personnes résidant en France.
 
-III. – Le ministre de l'intérieur communique aux autres Etats membres et à la Commission : 
+III. – Le ministre de l'intérieur communique aux autres Etats membres et à la Commission :
 
 1° La liste des autorités ou services chargés de transmettre et de recevoir des informations relatives à l'acquisition et à
-la détention d'armes, munitions et leurs éléments ; 
+la détention d'armes, munitions et leurs éléments ;
 
 2° Les listes d'armes, munitions et leurs éléments pour lesquels l'autorisation de transfert d'un territoire à l'autre peut
 être donnée sans accord préalable ainsi que celles des armes, munitions et leurs éléments dont l'acquisition est interdite,
-soumise à autorisation ou à déclaration. 
+soumise à autorisation ou à déclaration.
 
 Il est destinataire des mêmes informations communiquées par les Etats membres.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
@@ -53890,70 +53941,83 @@ _Cite_:
 
 ###### Article R316-29
 
-I. – Sont soumis au régime d'autorisation d'importation mentionné au I de l'article L. 2335-1 du code de la défense : 
+I. – Sont soumis au régime d'autorisation d'importation mentionné au I de l'article L. 2335-1 du code de la défense :
 
-1° Les armes, munitions et leurs éléments des catégories A1, B et C ; 
+1° Les armes, munitions et leurs éléments des catégories A1, B et C ;
 
-2° Les armes, munitions et leurs éléments des a, b et c de la catégorie D. 
+2° Les armes, munitions et leurs éléments des a, b et c de la catégorie D.
 
 II. – Les personnes qui souhaitent procéder à l'importation des armes, munitions et leurs éléments mentionnés au I présentent
-une demande d'autorisation d'importation auprès du ministre chargé des douanes, par écrit ou, le cas échéant, sous format
-électronique. Les modalités de présentation de cette demande sont définies par arrêté du ministre chargé des douanes. 
+une demande d'autorisation d'importation auprès du chef du service des autorisations de mouvements internationaux d'armes,
+par écrit ou, le cas échéant, sous format électronique. Les modalités de présentation de cette demande sont définies par
+arrêté du ministre chargé des douanes.
 
 III. – Lorsque la demande d'autorisation concerne des armes, munitions et leurs éléments mentionnés au I destinés à être
 transbordés dans les ports ou les aérodromes de France, elle est établie comme une autorisation de transit mentionnée à
-l'article R. 316-51. 
+l'article R. 316-51.
 
 IV. – Les importations réalisées par les services de l'Etat des armes, des munitions et de leurs éléments mentionnés au I du
 présent article, en provenance des forces armées françaises ou des membres des administrations et services publics mentionnés
 aux articles R. 312-22 et R. 312-23, ne sont pas soumises à autorisation préalable.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-542 du 29 juin 2018 - art. 20
 
 _Cité par_:
 
   - Décret n°2018-542 du 29 juin 2018 - art. 25
   - Décret n°2018-542 du 29 juin 2018 - art. 31
-  - Code de la défense. - art. R2335-1 (VD)
-  - Code de la sécurité intérieure - art. R316-26 (VD)
+  - Code de la défense. - art. R2335-1 (V)
+  - Code de la sécurité intérieure - art. R316-26 (V)
   - Code de la sécurité intérieure - art. R316-31 (V)
   - Code de la sécurité intérieure - art. R317-8-1 (VD)
+
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
   - Code de la défense. - art. L2335-1
   - Code de la sécurité intérieure - art. R312-22
   - Code de la sécurité intérieure - art. R312-23
-  - Code de la sécurité intérieure - art. R316-51 (VD)
+  - Code de la sécurité intérieure - art. R316-51
 
 
 ###### Article R316-30
 
-I. – Les autorisations d'importation mentionnées à l'article R. 316-29 sont accordées par le ministre chargé des douanes,
-après avis favorable, en fonction de leurs attributions respectives, du ministre de l'intérieur ou du ministre des affaires
-étrangères.
+I. – Les autorisations d'importation mentionnées à l'article R. 316-29 sont accordées par le chef du service des
+autorisations de mouvements internationaux d'armes, après avis favorable, en fonction de leurs attributions respectives, du
+ministre de l'intérieur ou du ministre des affaires étrangères.
 
 II. – L'autorisation peut être délivrée sous forme individuelle ou globale, par écrit ou, le cas échéant, sous format
 électronique. Lorsqu'elle revêt une forme globale, elle couvre, pour sa durée de validité, l'importation des armes, munitions
 et leurs éléments identifiés, sans limite de quantité ni de montant, en provenance d'expéditeurs désignés.
 
 III. – Les importations d'armes, munitions et leurs éléments destinés au ministère de la défense, au ministère de l'intérieur
-et au ministère chargé des douanes font l'objet d'autorisations d'importation délivrées sur simple demande adressée au
-ministre chargé des douanes.
+et au ministère chargé des douanes font l'objet d'autorisations d'importation délivrées sur simple demande adressée au chef
+du service des autorisations de mouvements internationaux d'armes.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
 
 _Cité par_:
 
   - Décret n°2018-542 du 29 juin 2018 - art. 31
+
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 
 ###### Article R316-31
@@ -54095,30 +54159,38 @@ _Cite_:
 
 ###### Article R316-35
 
-I. – L'autorisation d'importation peut être suspendue, modifiée, abrogée ou retirée par le ministre chargé des douanes, après
-avis favorable, en fonction de leurs attributions respectives, du ministre de l'intérieur, ou du ministre des affaires
-étrangères, pour l'un des motifs mentionnés au IV de l'article L. 2335-1 du code de la défense. 
+I. – L'autorisation d'importation peut être suspendue, modifiée, abrogée ou retirée par le chef du service des autorisations
+de mouvements internationaux d'armes, après avis favorable, en fonction de leurs attributions respectives, du ministre de
+l'intérieur, ou du ministre des affaires étrangères, pour l'un des motifs mentionnés au IV de l'article L. 2335-1 du code de
+la défense.
 
-En cas d'urgence, le ministre chargé des douanes peut suspendre l'autorisation d'importation sans délai. 
+En cas d'urgence, le chef du service des autorisations de mouvements internationaux d'armes peut suspendre l'autorisation
+d'importation sans délai.
 
 II. – La modification, l'abrogation ou le retrait de l'autorisation d'importation ne peut intervenir qu'après que le
 titulaire de l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les
-modalités prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
+modalités prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.
 
 La décision portant suspension, modification, abrogation ou retrait de l'autorisation d'importation est notifiée au titulaire
-par le ministre chargé des douanes.
+par le chef du service des autorisations de mouvements internationaux d'armes.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
-  - Code de la défense. - art. L2335-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+  - Code de la défense. - art. L2335-1
+  - Code des relations entre le public et l'administration - art. L121-1
+  - Code des relations entre le public et l'administration - art. L122-1
 
 
 ###### Article R316-35-1
@@ -54238,7 +54310,7 @@ _Cite_:
 
 ###### Article R316-40
 
-I. – Sont soumises à autorisation l'exportation des armes à feu, munitions et de leurs éléments ci-dessous énumérés :
+I. – Est soumise à autorisation l'exportation des armes à feu, munitions et de leurs éléments ci-dessous énumérés :
 
 1° Les armes à feu à percussion annulaire, munitions et leurs éléments classées aux 2° et 3° de la catégorie A1, au 1° de la
 catégorie B et aux a bis, b et e du 2° de la catégorie B ;
@@ -54264,17 +54336,22 @@ IV. – Les armes à feu, munitions et leurs éléments mentionnées au I qui fi
 l'article L. 2335-2 du code de la défense sont dispensés de la procédure d'autorisation d'exportation de matériels de guerre
 et matériels assimilés prévue à ce même article.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-542 du 29 juin 2018 - art. 21
 
 _Cité par_:
 
   - Décret n°2018-542 du 29 juin 2018 - art. 25
-  - Code de la sécurité intérieure - art. R316-43 (VD)
   - Code de la sécurité intérieure - art. R316-51 (VD)
+
+_Modifié par_:
+
+  - Décret n°2020-68 du 30 janvier 2020 - art. 33
 
 _Cite_:
 
@@ -54284,23 +54361,29 @@ _Cite_:
 
 ###### Article R316-41
 
-L'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du ministre chargé des douanes par
-écrit ou, le cas échéant, par voie électronique.
+L'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du chef du service des
+autorisations de mouvements internationaux d'armes par écrit ou, le cas échéant, par voie électronique.
 
 Un arrêté du ministre chargé des douanes fixe les caractéristiques du formulaire de demande d'autorisation, la liste des
 pièces à fournir et les conditions techniques et financières à satisfaire par les demandeurs de l'autorisation.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 
 ###### Article R316-42
 
-L'autorisation d'exportation est accordée par le ministre chargé des douanes, après avis favorable, en fonction de leurs
-attributions respectives, des ministres des affaires étrangères ou de l'intérieur.
+L'autorisation d'exportation est accordée par le chef du service des autorisations de mouvements internationaux d'armes,
+après avis favorable, en fonction de leurs attributions respectives, des ministres des affaires étrangères ou de l'intérieur.
 
 Cette autorisation, dénommée licence d'exportation, revêt l'une des formes suivantes :
 
@@ -54319,11 +54402,17 @@ La licence d'exportation est délivrée par écrit ou, le cas échéant, par voi
 
 La licence d'exportation n'est pas cessible.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 
 ###### Article R316-43
@@ -54388,18 +54477,24 @@ _Cite_:
 ###### Article R316-44
 
 I. – La demande de licence d'exportation est traitée dans un délai de soixante jours ouvrables à compter du jour où toutes
-les informations requises ont été fournies au ministre chargé des douanes.
+les informations requises ont été fournies au chef du service des autorisations de mouvements internationaux d'armes.
 
 Dans des circonstances exceptionnelles et pour des raisons dûment justifiées, ce délai peut être étendu à quatre-vingt-dix
 jours ouvrables.
 
 II. – Au terme des délais prévus au I, le silence gardé par l'autorité administrative vaut décision de rejet.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 
 ###### Article R316-45
@@ -54499,41 +54594,49 @@ _Cite_:
 
 ###### Article R316-48
 
-I. – La licence d'exportation est suspendue, modifiée, abrogée ou retirée par le ministre chargé des douanes, après avis
-favorable, selon leurs attributions respectives, des ministres des affaires étrangères ou de l'intérieur, lorsque les
-conditions d'octroi ne sont pas ou plus satisfaites. 
+I. – La licence d'exportation est suspendue, modifiée, abrogée ou retirée par le chef du service des autorisations de
+mouvements internationaux d'armes, après avis favorable, selon leurs attributions respectives, des ministres des affaires
+étrangères ou de l'intérieur, lorsque les conditions d'octroi ne sont pas ou plus satisfaites.
 
-En cas d'urgence, le ministre chargé des douanes suspend l'autorisation d'exportation sans délai. 
-
-La modification, l'abrogation ou le retrait de la licence d'exportation ne peut intervenir qu'après que le titulaire de
-l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
-aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
-
-II. – La licence d'exportation peut être suspendue, modifiée, abrogée ou retirée par le ministre chargé des douanes, après
-avis favorable, selon leurs attributions respectives, des ministres des affaires étrangères ou de l'intérieur, pour des
-raisons de respect des engagements internationaux de la France ou de protection des intérêts essentiels d'ordre public ou de
-sécurité nationale. 
-
-En cas d'urgence, le ministre chargé des douanes peut suspendre la licence d'exportation sans délai. 
+En cas d'urgence, le chef du service des autorisations de mouvements internationaux d'armes suspend l'autorisation
+d'exportation sans délai.
 
 La modification, l'abrogation ou le retrait de la licence d'exportation ne peut intervenir qu'après que le titulaire de
 l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
-aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
+aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.
+
+II. – La licence d'exportation peut être suspendue, modifiée, abrogée ou retirée par le chef du service des autorisations de
+mouvements internationaux d'armes, après avis favorable, selon leurs attributions respectives, des ministres des affaires
+étrangères ou de l'intérieur, pour des raisons de respect des engagements internationaux de la France ou de protection des
+intérêts essentiels d'ordre public ou de sécurité nationale.
+
+En cas d'urgence, le chef du service des autorisations de mouvements internationaux d'armes peut suspendre la licence
+d'exportation sans délai.
+
+La modification, l'abrogation ou le retrait de la licence d'exportation ne peut intervenir qu'après que le titulaire de
+l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
+aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.
 
 III. – Le ministre des affaires étrangères notifie aux autorités compétentes des autres Etats membres les décisions de
 suspension, modification, retrait et abrogation et l'appréciation finale des autorités françaises au terme de la période de
 suspension.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
-  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+  - Code des relations entre le public et l'administration - art. L121-1
+  - Code des relations entre le public et l'administration - art. L122-1
 
 
 ##### Sous-section 3 : Obligations des exportateurs<a id=598></a>
@@ -54654,42 +54757,55 @@ _Modifié par_:
 
 ###### Article R316-53
 
-Le ministre chargé des douanes délivre l'autorisation de transit, après avis favorable, en fonction de leurs attributions
-respectives, des ministres des affaires étrangères et de l'intérieur.
+Le chef du service des autorisations de mouvements internationaux d'armes délivre l'autorisation de transit, après avis
+favorable, en fonction de leurs attributions respectives, des ministres des affaires étrangères et de l'intérieur.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 22
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 
 ###### Article R316-55
 
-L'autorisation de transit peut être modifiée, suspendue, abrogée ou retirée par le ministre chargé des douanes, après avis
-favorable, en fonction de leurs attributions respectives, des ministres des affaires étrangères ou de l'intérieur pour l'un
-des motifs mentionnés au IV de l'article L. 2335-1 du code de la défense. 
+L'autorisation de transit peut être modifiée, suspendue, abrogée ou retirée par le chef du service des autorisations de
+mouvements internationaux d'armes, après avis favorable, en fonction de leurs attributions respectives, des ministres des
+affaires étrangères ou de l'intérieur pour l'un des motifs mentionnés au IV de l'article L. 2335-1 du code de la défense.
 
-En cas d'urgence, le ministre chargé des douanes suspend l'autorisation de transit sans délai. 
+En cas d'urgence, le chef du service des autorisations de mouvements internationaux d'armes suspend l'autorisation de transit
+sans délai.
 
 La modification, l'abrogation ou le retrait de l'autorisation de transit ne peut intervenir qu'après que son titulaire a été
 mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues aux articles L.
-121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
+121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.
 
 La décision portant suspension, modification, abrogation ou retrait de l'autorisation de transit est notifiée à son titulaire
-par le ministre chargé des douanes.
+par le chef du service des autorisations de mouvements internationaux d'armes.
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-909 du 9 mai 2017 - art. 8
+  - Décret n°2020-68 du 30 janvier 2020 - art. 31
 
 _Cite_:
 
-  - Code de la défense. - art. L2335-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
+  - Code de la défense. - art. L2335-1
+  - Code des relations entre le public et l'administration - art. L121-1
+  - Code des relations entre le public et l'administration - art. L122-1
 
 
 ###### Article R316-56
@@ -58410,7 +58526,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">R. 312-3 à R. 312-5</td>
-      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 312-6</td>
@@ -58666,11 +58782,11 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">R. 312-66-8</td>
-      <td align="justify">Résultant du  décret n° 2018-1195 du 20 décembre 2018</td>
+      <td align="justify">Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">R. 312-66-9 à R. 312-67</td>
-      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -58990,7 +59106,7 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
 R. 315-12 et R. 315-13</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -58998,7 +59114,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 315-14</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -59006,7 +59122,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 315-15 à R. 315-18</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 316-1A</td>
@@ -59015,18 +59131,10 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 316-29</td>
+R. 316-29 et R. 316-30</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 316-30</td>
-      <td align="justify">
-
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -59042,7 +59150,7 @@ Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
 R. 316-32 et R. 316-33</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -59050,7 +59158,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-34</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -59058,7 +59166,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 316-35</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -59066,7 +59174,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-35-1</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -59074,15 +59182,19 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 316-36 à R. 316-38</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 316-39 et R. 316-40</td>
+R. 316-39</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-40</td>
+      <td align="justify">Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -59090,7 +59202,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 316-41 et R. 316-42</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -59098,15 +59210,19 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-43</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 316-44 et R. 316-45</td>
+R. 316-44</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2020-68 du 30 janvier 2020</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-45</td>
+      <td align="justify">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -59114,15 +59230,23 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-46</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 316-47 à R. 316-50</td>
+R. 316-47</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-48</td>
+      <td align="justify">Résultant du décret n° 2020-68 du 30 janvier 2020</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-49 et R. 316-50</td>
+      <td align="justify">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -59130,7 +59254,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 317-1</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -59246,8 +59370,9 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
 
 **Nota:**
 
-Conformément à l’article 48, II du décret n° 2018-1195 du 20 décembre 2018 : Les dispositions des lignes concernant les
-articles R. 312-65 à R. 312-67 entrent en vigueur le 1er février 2019.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -59265,7 +59390,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1195 du 20 décembre 2018 - art. 46
+  - Décret n°2020-68 du 30 janvier 2020 - art. 34
 
 
 ###### Article R344-2
@@ -59313,7 +59438,7 @@ _Cité par_:
 
 Pour l'application des dispositions du titre Ier énumérées à l'article R. 344-1 en Polynésie française :
 
-1° Le deuxième alinéa du f du  2° du IV de l'article R. 311-2 est ainsi rédigé :
+1° Le deuxième alinéa du f du 2° du IV de l'article R. 311-2 est ainsi rédigé :
 
 "Ces reproductions d'armes historiques et de collection ne peuvent être importées, mises sur le marché ou cédées que si elles
 sont conformes aux caractéristiques techniques définies par arrêté conjoint du ministre de l'intérieur et des ministres
@@ -59355,8 +59480,8 @@ lieu de leur résidence" sont remplacés par les mots : "au haut-commissaire de 
 a) Aux b et c du 4°, après les mots : "pour la pratique du tir" sont ajoutés les mots : "ou d'une fédération sportive
 territoriale compétente en ce domaine en application des dispositions applicables localement." ;
 
-b) Au a du 7°, les mots : "certificat de résidence" et "sur le territoire français" sont remplacés respectivement par les
-mots : "titre de séjour" et "sur le territoire de la Polynésie française" ;
+b) Au a du 7°, les mots : "certificat de résidence" et "sur le territoire français " sont remplacés respectivement par les
+mots : " titre de séjour" et "sur le territoire de la Polynésie française" ;
 
 c) Au a du 8°, les mots : "avec l'avis du préfet du département concerné, s'il diffère de celui du préfet délivrant
 l'autorisation" sont supprimés ;
@@ -59595,13 +59720,13 @@ c) Au 2°, les mots : "autres que celles définies par l'article L. 762-2 du cod
 lieu où elles se tiennent." sont remplacés par les mots : "autres que des foires et salons par le haut-commissaire de la
 République en Polynésie française." ;
 
-41° A l'article R. 313-26, les mots : "en France" et "hors du territoire national"  sont remplacés respectivement par les
+41° A l'article R. 313-26, les mots : "en France" et "hors du territoire national" sont remplacés respectivement par les
 mots : "sur le territoire de la République" et "hors du territoire de la République" ;
 
 42° A l'article R. 313-32, les mots : “conformément aux prescriptions des articles L. 251 et suivants du code de commerce
 susvisé” sont remplacés par les mots : “conformément aux dispositions applicables localement” ;
 
-43° Au c de l'article R. 313-38, les mots : “ le  code du travail au titre IV du livre VII de sa quatrième partie en matière
+43° Au c de l'article R. 313-38, les mots : “ le code du travail au titre IV du livre VII de sa quatrième partie en matière
 de santé et sécurité au travail, à ses articles L. 8114-1 et L. 8114-2 en matière de contrôle de l'inspection du travail, ou
 au livre II de sa huitième partie en matière de travail illégal ” sont remplacés par les mots : “ les dispositions du droit
 du travail localement applicables en matière de santé et sécurité au travail, de contrôle de l'inspection du travail ou de
@@ -59657,15 +59782,17 @@ l'article R. 316-51 ”.
 
 53° Les I et III de l'article R. 316-30 sont remplacés par les dispositions suivantes :
 
-“ I.-Les autorisations d'importation mentionnées au II de l'article R. 316-29 sont accordées par le ministre chargé des
-douanes après avis favorable, en fonction de leurs attributions respectives, du ministre de l'intérieur ou du ministre des
-affaires étrangères, et les autorisations d'importation mentionnées au III de l'article R. 316-29 sont accordées par le haut-
-commissaire de la République en Polynésie française.
+“ I.-Les autorisations d'importation mentionnées au II de l'article R. 316-29 sont accordées par le chef du service des
+autorisations de mouvements internationaux d'armes après avis favorable, en fonction de leurs attributions respectives, du
+ministre de l'intérieur ou du ministre des affaires étrangères, et les autorisations d'importation mentionnées au III de
+l'article R. 316-29 sont accordées par le haut-commissaire de la République en Polynésie française.
 
 “ III.-Les autorisations d'importation d'armes, de munitions et de leurs éléments destinés au ministère de la défense, au
-ministère de l'intérieur et au ministère chargé des douanes sont délivrées sur simple demande adressée :
+ministère de l'intérieur et au chef du service des autorisations de mouvements internationaux d'armes sont délivrées sur
+simple demande adressée :
 
-“ 1° au ministre chargé des douanes, lorsqu'elles sont mentionnées au II de l'article R. 316-29 ;
+“ 1° au chef du service des autorisations de mouvements internationaux d'armes, lorsqu'elles sont mentionnées au II de
+l'article R. 316-29 ;
 
 “ 2° au haut-commissaire de la République en Polynésie française, lorsqu'elles sont mentionnées au III de l'article R.
 316-29. ” ;
@@ -59675,8 +59802,9 @@ ministère de l'intérieur et au ministère chargé des douanes sont délivrées
 “ Art. R. 316-35.-I.-L'autorisation d'importation peut être suspendue, modifiée, abrogée ou retirée, pour l'un des motifs
 mentionnés au  IV de l'article L. 2335-1 du code de la défense :
 
-“ 1° Par le ministre chargé des douanes après avis favorable, en fonction de leurs attributions respectives, du ministre de
-l'intérieur, ou du ministre des affaires étrangères, pour les autorisations mentionnées au II de l'article R. 316-29 ;
+“ 1° Par le chef du service des autorisations de mouvements internationaux d'armes après avis favorable, en fonction de leurs
+attributions respectives, du ministre de l'intérieur, ou du ministre des affaires étrangères, pour les autorisations
+mentionnées au II de l'article R. 316-29 ;
 
 “ 2° Par le haut-commissaire de la République en Polynésie française pour les autorisations mentionnées au III de l'article
 R. 316-29.
@@ -59688,15 +59816,16 @@ titulaire de l'autorisation a été mis à même de faire valoir ses observation
 modalités prévues aux articles  L. 121-1 ,  L. 121-2 et  L. 122-1 du code des relations entre le public et l'administration.
 
 “ La décision portant suspension, modification, abrogation ou retrait de l'autorisation d'importation est notifiée au
-titulaire par le ministre chargé des douanes pour les autorisations mentionnées au II de l'article R. 316-29 et par le haut-
-commissaire de la République en Polynésie française pour les autorisations mentionnées au III de l'article R. 316-29. ” ;
+titulaire par le chef du service des autorisations de mouvements internationaux d'armes pour les autorisations mentionnées au
+II de l'article R. 316-29 et par le haut-commissaire de la République en Polynésie française pour les autorisations
+mentionnées au III de l'article R. 316-29. ” ;
 
 55° L'article R. 316-41 est remplacé par les dispositions suivantes :
 
-“ Art. R. 316-41.-L'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du ministre
-chargé des douanes par écrit ou, le cas échéant, par voie électronique. Les caractéristiques du formulaire de demande
-d'autorisation, la liste des pièces à fournir et les conditions techniques et financières à satisfaire par les demandeurs de
-l'autorisation sont définies par arrêté du ministre chargé des douanes.
+“ Art. R. 316-41.-L'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du chef du
+service des autorisations de mouvements internationaux d'armes par écrit ou, le cas échéant, par voie électronique. Les
+caractéristiques du formulaire de demande d'autorisation, la liste des pièces à fournir et les conditions techniques et
+financières à satisfaire par les demandeurs de l'autorisation sont définies par arrêté du ministre chargé des douanes.
 
 “ Lorsque l'exportation des armes à feu, munitions et leurs éléments est en provenance de la Polynésie française,
 l'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du haut-commissaire de la
@@ -59707,7 +59836,7 @@ demandeurs de l'autorisation sont définies par arrêté du haut-commissaire de 
 56° Le premier alinéa de l'article R. 316-42 est remplacé par les dispositions suivantes :
 
 “ Lorsque l'exportation est en provenance d'une autre partie du territoire de la République et à destination de la Polynésie
-française, l'autorisation est accordée par le ministre chargé des douanes.
+française, l'autorisation est accordée par le chef du service des autorisations de mouvements internationaux d'armes.
 
 “ Lorsque l'exportation est en provenance de la Polynésie française et à destination d'une autre partie du territoire de la
 République, l'autorisation est accordée par le haut-commissaire de la République en Polynésie française.
@@ -59721,15 +59850,15 @@ accordée par le haut-commissaire de la République en Polynésie française, ap
 “ Art. R. 316-48.-I.-La licence d'exportation est suspendue, modifiée, abrogée ou retirée, lorsque les conditions d'octroi ne
 sont pas ou plus satisfaites :
 
-“ 1° Par le ministre chargé des douanes après avis favorable, en fonction de leurs attributions respectives, du ministre de
-l'intérieur, ou du ministre des affaires étrangères, pour les autorisations mentionnées au premier alinéa de l'article R.
-316-41 ;
+“ 1° Par le chef du service des autorisations de mouvements internationaux d'armes après avis favorable, en fonction de leurs
+attributions respectives, du ministre de l'intérieur, ou du ministre des affaires étrangères, pour les autorisations
+mentionnées au premier alinéa de l'article R. 316-41 ;
 
-“  2° Par le haut-commissaire de la République en Polynésie française pour les autorisations mentionnées au deuxième alinéa
-de l'article R. 316-41 ;
+“ 2° Par le haut-commissaire de la République en Polynésie française pour les autorisations mentionnées au deuxième alinéa de
+l'article R. 316-41 ;
 
-“ 3° Par le ministre chargé des douanes pour les autorisations mentionnées au premier alinéa de l'article R. 316-41
-lorsqu'elles concernent une exportation à destination de la Polynésie française.
+“ 3° Par le chef du service des autorisations de mouvements internationaux d'armes pour les autorisations mentionnées au
+premier alinéa de l'article R. 316-41 lorsqu'elles concernent une exportation à destination de la Polynésie française.
 
 “ En cas d'urgence, l'autorisation d'exportation peut être suspendue sans délai.
 
@@ -59747,9 +59876,10 @@ essentiels d'ordre public ou de sécurité nationale.
 l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
 aux articles  L. 121-1 ,  L. 121-2 et  L. 122-1 du code des relations entre le public et l'administration.
 
-“ III.-Lorsque les décisions de suspension, de modification, de retrait et d'abrogation sont prises par le ministre chargé
-des douanes, ces décisions, ainsi que l'appréciation finale des autorités françaises au terme de la période de suspension,
-sont notifiées aux autorités compétentes des autres Etats membres par le ministre des affaires étrangères. ” ;
+“ III.-Lorsque les décisions de suspension, de modification, de retrait et d'abrogation sont prises par le chef du service
+des autorisations de mouvements internationaux d'armes, ces décisions, ainsi que l'appréciation finale des autorités
+françaises au terme de la période de suspension, sont notifiées aux autorités compétentes des autres Etats membres par le
+ministre des affaires étrangères. ” ;
 
 58° Aux articles R. 317-3-1 et R. 317-4, après les mots : “ du tir ”, sont ajoutés les mots : “ ou d'une fédération sportive
 territoriale compétente en ce domaine en application des dispositions applicables localement, " ;
@@ -59757,9 +59887,15 @@ territoriale compétente en ce domaine en application des dispositions applicabl
 59° A l'article R. 317-6 et au 1° de l'article R. 317-7, après les mots : "en cours de validité" sont ajoutés les mots : "ou
 de l'adhésion à une association de chasse ou de l'autorisation par des propriétaires de chasser sur leurs terres." ;
 
-60° A l'article R. 317-12, le 3° est supprimé. 
+60° A l'article R. 317-12, le 3° est supprimé.
 
 [...]
+
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -59789,7 +59925,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2020-68 du 30 janvier 2020 - art. 35
+  - Décret n°2020-68 du 30 janvier 2020 - art. 36
 
 
 ##### Section 1 : Casinos<a id=649></a>
@@ -61259,7 +61396,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">R. 312-3 à R. 312-5</td>
-      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -61523,7 +61660,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">R. 312-66-9 à R. 312-67</td>
-      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -61659,7 +61796,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">R. 313-23 à R. 313-27</td>
-      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">R. 313-28</td>
@@ -61667,7 +61804,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     </tr>
     <tr>
       <td align="left">R. 313-29</td>
-      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018 </td>
+      <td align="justify">Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -61868,18 +62005,10 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
     <tr>
       <td align="left">
 
-R. 316-29</td>
+R. 316-29 et R. 316-30</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 316-30</td>
-      <td align="justify">
-
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -61895,7 +62024,7 @@ Résultant du décret n° 2018-1195 du 20 décembre 2018</td>
 R. 316-32 et R. 316-33</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -61903,7 +62032,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-34</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -61911,7 +62040,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 316-35</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -61919,7 +62048,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-35-1</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -61927,15 +62056,19 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 316-36 à R. 316-38</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 316-39 et R. 316-40</td>
+R. 316-39</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-40</td>
+      <td align="justify">Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -61943,7 +62076,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 316-41 et R. 316-42</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
@@ -61951,15 +62084,19 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-43</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-44</td>
+      <td align="justify">Résultant du décret n° 2020-68 du 30 janvier 2020</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 316-44 et R. 316-45</td>
+R. 316-45</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -61967,15 +62104,23 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 316-46</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 316-47 à R. 316-50</td>
+R. 316-47</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-48</td>
+      <td align="justify">Résultant du décret n° 2020-68 du 30 janvier 2020</td>
+    </tr>
+    <tr>
+      <td align="left">R. 316-49 et R. 316-50</td>
+      <td align="justify">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -61983,7 +62128,7 @@ Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
 R. 317-1</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -61991,7 +62136,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 317-2</td>
       <td align="justify">
 
-Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -61999,7 +62144,7 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
 R. 317-3 à R. 317-4</td>
       <td align="justify">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
+Résultant du décret n° 2018-542 du 29 juin 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -62007,7 +62152,7 @@ Résultant du  décret n° 2018-542 du 29 juin 2018 </td>
 R. 317-5</td>
       <td align="justify">
 
-Résultant du  décret n° 2017-909 du 9 mai 2017 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -62101,8 +62246,9 @@ Résultant du  décret n° 2014-1253 du 27 octobre 2014 </td>
 
 **Nota:**
 
-Conformément à l’article 48 du décret n° 2018-1195 du 20 décembre 2018 : Les dispositions des lignes concernant les articles
-R. 312-65 à R. 312-67 entrent en vigueur le 1er février 2019.
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
@@ -62120,7 +62266,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1195 du 20 décembre 2018 - art. 46
+  - Décret n°2020-68 du 30 janvier 2020 - art. 37
 
 _Cité par_:
 
@@ -62416,7 +62562,7 @@ l'entreprise, ou du lieu d'élection de domicile, au sens de l'article L. 264-1 
 et les mots : “ préfet du département du lieu d'exercice de l'activité pour laquelle cette arme ou cet élément d'arme est
 susceptible d'être utilisé ” sont remplacés par les mots : “ haut-commissaire de la République en Nouvelle-Calédonie ” ;
 
-34° A l'article R. 312-58-1, les mots : “, ainsi que les théâtres nationaux ” sont supprimés ; 
+34° A l'article R. 312-58-1, les mots : “, ainsi que les théâtres nationaux ” sont supprimés ;
 
 35° L'article R. 312-60 est ainsi rédigé :
 
@@ -62444,7 +62590,7 @@ détenir l'arme correspondante. " ;
 territoriale compétente en ce domaine en application des dispositions applicables localement ” ;
 
 37° ter A l'article R. 312-66-8, les mots : “ le préfet du département du lieu de domicile du demandeur ou du siège de la
-personne morale  ”  sont remplacés par les  mots : “  le haut-commissaire de la République en Nouvelle-Calédonie ” ;
+personne morale ” sont remplacés par les mots : “ le haut-commissaire de la République en Nouvelle-Calédonie ” ;
 
 38° (supprimé) ;
 
@@ -62544,26 +62690,28 @@ l'article R. 316-51. ” ;
 
 55° Les I et III de l'article R. 316-30 sont remplacés par les dispositions suivantes :
 
-“   I.-Les autorisations d'importation mentionnées au II de l'article R. 316-29 sont accordées par le ministre chargé des
-douanes après avis favorable, en fonction de leurs attributions respectives, du ministre de l'intérieur ou du ministre des
-affaires étrangères, et les autorisations d'importation mentionnées au III de l'article R. 316-29 sont accordées par le haut-
-commissaire de la République en Nouvelle-Calédonie.
+“ I.-Les autorisations d'importation mentionnées au II de l'article R. 316-29 sont accordées par le chef du service des
+autorisations de mouvements internationaux d'armes après avis favorable, en fonction de leurs attributions respectives, du
+ministre de l'intérieur ou du ministre des affaires étrangères, et les autorisations d'importation mentionnées au III de
+l'article R. 316-29 sont accordées par le haut-commissaire de la République en Nouvelle-Calédonie.
 
 “ III.-Les autorisations d'importation d'armes, de munitions et de leurs éléments destinés au ministère de la défense, au
 ministère de l'intérieur et au ministère chargé des douanes sont délivrées sur simple demande adressée :
 
-“ 1° Au ministre chargé des douanes, lorsqu'elles sont mentionnées au II de l'article R. 316-29 ;
+“ 1° Au chef du service des autorisations de mouvements internationaux d'armes, lorsqu'elles sont mentionnées au II de
+l'article R. 316-29 ;
 
-“ 2° Au haut-commissaire de la République en Nouvelle-Calédonie, lorsqu'elles sont mentionnées   au III de l'article R.
-316-29. ” ;
+“ 2° Au haut-commissaire de la République en Nouvelle-Calédonie, lorsqu'elles sont mentionnées au III de l'article R. 316-29.
+” ;
 
-56° L'article R. 316-35 est remplacé par les  dispositions suivantes :
+56° L'article R. 316-35 est remplacé par les dispositions suivantes :
 
 “ Art. R. 316-35.-I.-L'autorisation d'importation peut être suspendue, modifiée, abrogée ou retirée, pour l'un des motifs
 mentionnés au IV de l'article L. 2335-1 du code de la défense :
 
-“ 1° Par le ministre chargé des douanes après avis favorable, en fonction de leurs attributions respectives, du ministre de
-l'intérieur, ou du ministre des affaires étrangères, pour les autorisations mentionnées au II de l'article R. 316-29 ;
+“ 1° Par le chef du service des autorisations de mouvements internationaux d'armes après avis favorable, en fonction de leurs
+attributions respectives, du ministre de l'intérieur, ou du ministre des affaires étrangères, pour les autorisations
+mentionnées au II de l'article R. 316-29 ;
 
 “ 2° Par le haut-commissaire de la République en Nouvelle-Calédonie pour les autorisations mentionnées au III de l'article R.
 316-29.
@@ -62575,15 +62723,16 @@ titulaire de l'autorisation a été mis à même de faire valoir ses observation
 modalités prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.
 
 “ La décision portant suspension, modification, abrogation ou retrait de l'autorisation d'importation est notifiée au
-titulaire par le ministre chargé des douanes pour les autorisations mentionnées au II de l'article R. 316-29 et par le. haut-
-commissaire de la République en Nouvelle-Calédonie pour les autorisations mentionnées au III de l'article R. 316-29. ”
+titulaire par le chef du service des autorisations de mouvements internationaux d'armes pour les autorisations mentionnées au
+II de l'article R. 316-29 et par le. haut-commissaire de la République en Nouvelle-Calédonie pour les autorisations
+mentionnées au III de l'article R. 316-29. ”
 
 57° L'article R. 316-41 est remplacé par les dispositions suivantes :
 
-“ Art. R. 316-41.-L'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du ministre
-chargé des douanes par écrit ou, le cas échéant, par voie électronique. Les caractéristiques du formulaire de demande
-d'autorisation, la liste des pièces à fournir et les conditions techniques et financières à satisfaire par les demandeurs de
-l'autorisation sont définies par arrêté du ministre chargé des douanes.
+“ Art. R. 316-41.-L'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du chef du
+service des autorisations de mouvements internationaux d'armes par écrit ou, le cas échéant, par voie électronique. Les
+caractéristiques du formulaire de demande d'autorisation, la liste des pièces à fournir et les conditions techniques et
+financières à satisfaire par les demandeurs de l'autorisation sont définies par arrêté du ministre chargé des douanes.
 
 “ Lorsque l'exportation des armes à feu, munitions et de leurs éléments est en provenance de la Nouvelle-Calédonie,
 l'autorisation d'exportation mentionnée au I de l'article R. 316-40 est sollicitée auprès du haut-commissaire de la
@@ -62594,7 +62743,7 @@ demandeurs de l'autorisation sont définies par arrêté du haut-commissaire de 
 58° Le premier alinéa de l'article R. 316-42 est remplacé par les dispositions suivantes :
 
 “ Lorsque l'exportation est en provenance d'une autre partie du territoire de la République et à destination de la Nouvelle-
-Calédonie, l'autorisation est accordée par le ministre chargé des douanes.
+Calédonie, l'autorisation est accordée par le chef du service des autorisations de mouvements internationaux d'armes.
 
 “ Lorsque l'exportation est en provenance de la Nouvelle-Calédonie et à destination d'une autre partie du territoire de la
 République, l'autorisation est accordée par le haut-commissaire de la République en Nouvelle-Calédonie.
@@ -62608,15 +62757,15 @@ accordée par le haut-commissaire de la République en Nouvelle-Calédonie, apr�
 “ Art. R. 316-48.-I.-La licence d'exportation est suspendue, modifiée, abrogée ou retirée, lorsque les conditions d'octroi ne
 sont pas ou plus satisfaites :
 
-“ 1° Par le ministre chargé des douanes après avis favorable, en fonction de leurs attributions respectives, du ministre de
-l'intérieur, ou du ministre des affaires étrangères, pour les autorisations mentionnées au premier alinéa de l'article R.
-316-41 ;
+“ 1° Par le chef du service des autorisations de mouvements internationaux d'armes après avis favorable, en fonction de leurs
+attributions respectives, du ministre de l'intérieur, ou du ministre des affaires étrangères, pour les autorisations
+mentionnées au premier alinéa de l'article R. 316-41 ;
 
 “ 2° Par le haut-commissaire de la République en Nouvelle-Calédonie pour les autorisations mentionnées au deuxième alinéa de
 l'article R. 316-41 ;
 
-“ 3° Par le ministre chargé des douanes pour les autorisations mentionnées au premier alinéa de l'article R. 316-41
-lorsqu'elles concernent une exportation à destination de la Nouvelle-Calédonie.
+“ 3° Par le chef du service des autorisations de mouvements internationaux d'armes pour les autorisations mentionnées au
+premier alinéa de l'article R. 316-41 lorsqu'elles concernent une exportation à destination de la Nouvelle-Calédonie.
 
 “ En cas d'urgence, l'autorisation d'exportation peut être suspendue sans délai.
 
@@ -62634,9 +62783,10 @@ essentiels d'ordre public ou de sécurité nationale.
 l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
 aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.
 
-“ III.-Lorsque les décisions de suspension, de modification, de retrait et d'abrogation sont prises par le ministre chargé
-des douanes, ces décisions, ainsi que l'appréciation finale des autorités françaises au terme de la période de suspension,
-sont notifiées aux autorités compétentes des autres Etats membres par le ministre des affaires étrangères. ” ;
+“ III.-Lorsque les décisions de suspension, de modification, de retrait et d'abrogation sont prises par le chef du service
+des autorisations de mouvements internationaux d'armes, ces décisions, ainsi que l'appréciation finale des autorités
+françaises au terme de la période de suspension, sont notifiées aux autorités compétentes des autres Etats membres par le
+ministre des affaires étrangères. ” ;
 
 60° A l'article R. 317-1, les mots : " à quatrième alinéas de l'article R. 312-52. " sont remplacés par les mots : " à
 septième alinéas de l'article R. 312-52. " ;
@@ -62679,6 +62829,12 @@ de l'article R. 345-4. " ;
 
 66° A l'article R. 317-12, le 3° est supprimé.
 
+**Nota:**
+
+Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020.
+Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions
+applicables à la date de leur présentation.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -62687,7 +62843,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2020-68 du 30 janvier 2020 - art. 35
+  - Décret n°2020-68 du 30 janvier 2020 - art. 38
 
 
 #### Chapitre VI : Dispositions applicables à Wallis-et-Futuna<a id=666></a>
