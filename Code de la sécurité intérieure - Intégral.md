@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-02-01
+Version Consolidée au 2020-02-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -6384,7 +6384,8 @@ l'article 415 du même code portant sur des fonds provenant de ces mêmes infrac
 10° Le respect de l'obligation d'être couvert, pour faire circuler un véhicule terrestre à moteur, par une assurance
 garantissant la responsabilité civile ;
 
-11° La prévention de l'abandon d'ordures, de déchets, de matériaux ou d'autres objets.
+11° La prévention et la constatation des infractions relatives à l'abandon d'ordures, de déchets, de matériaux ou d'autres
+objets.
 
 Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la
 sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques
@@ -6394,14 +6395,6 @@ Après information du maire de la commune concernée et autorisation des autorit
 peuvent mettre en œuvre sur la voie publique un système de vidéoprotection aux fins d'assurer la protection des abords
 immédiats de leurs bâtiments et installations, dans les lieux particulièrement exposés à des risques d'agression ou de vol.
 Les conditions de mise en œuvre et le type de bâtiments et installations concernés sont définis par décret en Conseil d'Etat.
-
-**Nota:**
-
-Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
-d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
-
-Aux termes de l'article 11 I du décret n° 2017-1523 du 3 novembre 2017, les dispositions de l'article L251-2 entrent en
-vigueur le jour de l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -6429,7 +6422,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-773 du 24 juillet 2019 - art. 9
+  - Loi n°2020-105 du 10 février 2020 - art. 100
 
 _Cite_:
 
