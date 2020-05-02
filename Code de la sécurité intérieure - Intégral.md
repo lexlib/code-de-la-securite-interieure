@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-04-30
+Version Consolidée au 2020-05-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -69963,10 +69963,14 @@ _Cite_:
 
 Tout agent de police municipale détenteur de l'autorisation mentionnée à l'article R. 511-18 ne peut porter, pour
 l'accomplissement des missions mentionnées au paragraphe 2 de la présente sous-section, que des armes, des éléments d'arme et
-des munitions qui lui ont été remis par la commune qui l'emploie. 
+des munitions qui lui ont été remis par la commune qui l'emploie.
 
 Une arme mentionnée aux c et d du 1° ou au 3° de l'article R. 511-12 peut être portée indifféremment par plusieurs agents de
 police municipale détenteurs de l'autorisation mentionnée à l'article R. 511-18 au cours d'une même mission.
+
+Pour l'accomplissement des missions mentionnées au paragraphe 2 de la présente sous-section un agent de police municipale
+détenteur de l'autorisation mentionnée à l'article R. 511-18 ne peut porter qu'une seule arme parmi celles mentionnées aux a
+et b du 1° de l'article R. 511-12.
 
 **Liens relatifs à cet article**
 
@@ -69980,7 +69984,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1616 du 28 novembre 2016 - art. 7
+  - Décret n°2020-511 du 2 mai 2020 - art. 2
 
 _Cite_:
 
@@ -70163,12 +70167,19 @@ détenues par la commune sur autorisation préfectorale.
 
 Cette autorisation est subordonnée au respect des dispositions de l'article R. 511-32. 
 
-Elle est valable, en tant que de besoin, pour l'acquisition et la détention des munitions correspondantes, dans la limite
-d'un stock de cinquante cartouches par arme. 
+Elle est valable, en tant que besoin, pour l'acquisition et la détention des munitions correspondantes : 
+
+1° Au titre du service de voie publique, dans la limite d'un stock de cinquante munitions à projectile expansif par arme ; 
+
+2° Au titre de la formation préalable prévue à l'article R. 511-19, dans la limite d'un stock de trois cents munitions par
+arme pour les modules de formation définis par l'arrêté mentionné à l'article R. 511-22 ; 
+
+3° Au titre de la formation d'entraînement mentionnée à l'article R. 511-21, dans la limite d'un stock de cent munitions par
+arme pour les formations annuelles définies par l'arrêté mentionné à l'article R. 511-22. 
 
 Délivrée pour une durée maximale de cinq ans, l'autorisation de détention par la commune peut être rapportée à tout moment
 pour des motifs d'ordre public ou de sécurité des personnes ou en cas de résiliation de la convention de coordination prévue
-à l'article L. 512-4.
+à l'article L. 512-4. 
 
 L'autorisation de détention est renouvelée dans les mêmes conditions que l'autorisation initiale. 
 
@@ -70192,15 +70203,16 @@ _Codifié par_:
 
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
+  - Décret n°2020-511 du 2 mai 2020 - art. 2
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L512-4 (V)
-  - Code de la sécurité intérieure - art. R511-18 (VD)
-  - Code de la sécurité intérieure - art. R511-32 (VD)
+  - Code de la sécurité intérieure - art. L512-4
+  - Code de la sécurité intérieure - art. R511-18
+  - Code de la sécurité intérieure - art. R511-22
+  - Code de la sécurité intérieure - art. R511-32
 
 _Cité par_:
 
@@ -71226,8 +71238,8 @@ dignité en aucune circonstance.
 
 Il est placé au service du public et se comporte de manière exemplaire envers celui-ci.
 
-Il a le respect absolu des personnes, quelles que soient leur nationalité ou leur origine, leur condition sociale ou leurs
-convictions politiques, religieuses ou philosophiques ainsi que leurs opinions syndicales.
+Il accorde la même attention et le même respect à toute personne et n'établit aucune distinction dans ses actes et ses propos
+de nature à constituer l'une des discriminations énoncées à l'article 225-1 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -71241,7 +71253,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-181 du 16 février 2015 - art. 1
+  - Décret n°2020-511 du 2 mai 2020 - art. 2
+
+_Cite_:
+
+  - Code pénal - art. 225-1
 
 _Cité par_:
 
@@ -72325,7 +72341,7 @@ Au titre Ier
     <tr>
       <td align="center">
 
-R. 511-1 à R. 511-2, R. 511-11 
+R. 511-1 à R. 511-2, R. 511-11
 
 </td>
       <td align="center">
@@ -72338,12 +72354,12 @@ la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="center">
 
-R. 511-12 
+R. 511-12
 
 </td>
       <td align="center">
 
-Résultant du  décret n° 2018-542 du 29 juin 2018
+Résultant du décret n° 2018-542 du 29 juin 2018
 
 </td>
     </tr>
@@ -72385,7 +72401,11 @@ Résultant du décret n° 2015-617 du 3 juin 2015
     </tr>
     <tr>
       <td align="left">R. 511-21</td>
-      <td align="left">Résultant du décret n° 2016-1616 du 28 novembre 2016</td>
+      <td align="left">
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016
+
+</td>
     </tr>
     <tr>
       <td>R. 511-23</td>
@@ -72403,7 +72423,7 @@ R. 511-24
 </td>
       <td>
 
-Résultant du décret n° 2016-1616 du 28 novembre 2016
+Résultant du décret n° 2020-511 du 2 mai 2020
 
 </td>
     </tr>
@@ -72434,9 +72454,25 @@ Résultant du décret n° 2016-1616 du 28 novembre 2016
     <tr>
       <td>
 
-R. 511-29 à R. 511-34
+R. 511-29
 
 </td>
+      <td>
+
+Résultant du décret n° 2013-1113 du 4 décembre 2013
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 511-30</td>
+      <td>
+
+Résultant du décret n°2020-511 du 2 mai 2020
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 511-31 à R. 511-34</td>
       <td>
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013
@@ -72470,7 +72506,7 @@ Résultant du décret n° 2016-1616 du 28 novembre 2016
     <tr>
       <td align="left">
 
-R. 514-1 à R. 514-11 
+R. 514-1 à R. 514-11
 
 </td>
       <td align="left">
@@ -72483,7 +72519,7 @@ la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
     <tr>
       <td align="left">
 
-R. 515-1 
+R. 515-1
 
 </td>
       <td align="left">
@@ -72496,7 +72532,7 @@ aux directeurs de police municipale et modifiant ce code
     <tr>
       <td align="left">
 
-R. 515-2 à R. 515-6 
+R. 515-2 à R. 515-6
 
 </td>
       <td align="left">
@@ -72509,13 +72545,12 @@ réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat 
     <tr>
       <td align="left">
 
-R. 515-7 
+R. 515-7
 
 </td>
       <td align="left">
 
-Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale
-aux directeurs de police municipale et modifiant ce code
+Résultant du décret n° 2020-511 du 2 mai 2020
 
 </td>
     </tr>
@@ -72543,7 +72578,7 @@ Au titre II
     <tr>
       <td align="left">
 
-R. 521-1 à R. 522-2 
+R. 521-1 à R. 522-2
 
 </td>
       <td align="left">
@@ -72583,7 +72618,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2020-511 du 2 mai 2020 - art. 3
 
 _Cité par_:
 
@@ -72824,17 +72859,25 @@ R. 511-1, R. 511-2 et R. 511-11
 </td>
       <td align="left">
 
-Résultant du  décret n° 2015-617 du 3 juin 2015
+Résultant du décret n° 2015-617 du 3 juin 2015
 
 </td>
     </tr>
     <tr>
       <td align="left">R. 511-12</td>
-      <td align="left">Résultant du  décret n° 2018-542 du 29 juin 2018</td>
+      <td align="left">
+
+Résultant du décret n° 2018-542 du 29 juin 2018
+
+</td>
     </tr>
     <tr>
       <td align="left">R. 511-13 à R. 511-17</td>
-      <td align="left">Résultant du  décret n° 2015-617 du 3 juin 2015</td>
+      <td align="left">
+
+Résultant du décret n° 2015-617 du 3 juin 2015
+
+</td>
     </tr>
     <tr>
       <td>
@@ -72874,7 +72917,11 @@ Résultant du décret n° 2015-617 du 3 juin 2015
     </tr>
     <tr>
       <td>R. 511-21</td>
-      <td align="left">Résultant du décret n° 2016-1616 du 28 novembre 2016</td>
+      <td align="left">
+
+Résultant du décret n° 2016-1616 du 28 novembre 2016
+
+</td>
     </tr>
     <tr>
       <td>
@@ -72896,7 +72943,7 @@ R. 511-24
 </td>
       <td>
 
-Résultant du décret n° 2016-1616 du 28 novembre 2016
+Résultant du décret n° 2020-511 du 2 mai 2020
 
 </td>
     </tr>
@@ -72927,9 +72974,25 @@ Résultant du décret n° 2016-1616 du 28 novembre 2016
     <tr>
       <td>
 
-R. 511-28 à R. 511-34
+R. 511-28 et R. 511-29
 
 </td>
+      <td>
+
+Résultant du décret n° 2015-617 du 3 juin 2015
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 511-30</td>
+      <td>
+
+Résultant du décret n° 2020-511 du 2 mai 2020
+
+</td>
+    </tr>
+    <tr>
+      <td>R. 511-31 à R. 511-34</td>
       <td>
 
 Résultant du décret n° 2015-617 du 3 juin 2015
@@ -72989,7 +73052,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 32
+  - Décret n°2020-511 du 2 mai 2020 - art. 3
 
 _Anciens textes_:
 
