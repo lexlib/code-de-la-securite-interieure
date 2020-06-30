@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-05-03
+Version Consolidée au 2020-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -46280,15 +46280,23 @@ production du certificat médical prévu à l'articleL. 312-6du présent code lo
 nécessité la production d'un certificat médical datant de moins d'un an et mentionnant l'absence de contre-indication à la
 pratique du tir ;
 
-c) Avis favorable d'une fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du sport, délégation du
-ministre chargé des sports pour la pratique du tir ;
+c) Avis favorable concernant l'acquisition et la détention d'armes à l'exclusion de leurs éléments, délivré par une
+fédération sportive ayant reçu, au titre de l'article L. 131-14 du code du sport, délégation du ministre chargé des sports
+pour la pratique du tir. Cet avis favorable est subordonné à la pratique régulière du tir. Un arrêté conjoint du ministre de
+l'intérieur, du ministre chargé de l'outre-mer et du ministre chargé des sports précise la liste des fédérations, les
+conditions et les modalités de délivrance des avis favorables, en distinguant la première délivrance et les renouvellements
+d'autorisation de détention d'armes ;
 
-d) Pour les tireurs sportifs mineurs, preuve de la sélection en vue de concours internationaux ;
+d) Pour les mineurs, selon le cas :
 
-e) Pour les mineurs, attestation d'une personne qui exerce l'autorité parentale mentionnant que l'arme est détenue pour la
-pratique du tir sportif ;
+- preuve de la sélection en vue de concours internationaux ;
 
-f) carnet de tir mentionné à l'article R. 312-43 ;
+- attestation d'une personne qui exerce l'autorité parentale mentionnant que l'arme est détenue pour la pratique du tir
+sportif pour les mineurs âgés de douze ans au moins ne participant pas à des compétitions internationales ;
+
+e) (Abrogé)
+
+f) (Abrogé)
 
 5° Pour les autorisations mentionnées à l'articleR. 312-44, déclaration précisant le nombre et la nature des armes mises en
 service au moyen de leurs marques, modèles, numéros et calibres ;
@@ -46298,14 +46306,16 @@ au modèle fixé par l'arrêté prévu à l'article R. 311-6 et mentionnant les 
 
 7° Pour les autorisations mentionnées à l'article R. 312-39 :
 
-a) Pour les personnes majeures ne possédant pas la nationalité française, certificat de résidence ou tout document
-équivalent. Sont dispensés de cette obligation les membres du corps diplomatique ainsi que les membres du corps consulaire
-admis à l'exercice de leur activité sur le territoire français ;
+a) Pour les personnes majeures ne possédant pas la nationalité française, ou un titre de séjour en cours de validité. Sont
+dispensés de cette obligation les membres du corps diplomatique ainsi que les membres du corps consulaire admis à l'exercice
+de leur activité sur le territoire français ;
 
 b) Indication de l'adresse du local professionnel ou de la résidence secondaire pour les personnes demandant à détenir une
 seconde arme pour ce local ou cette résidence ;
 
-c) Attestation du suivi de la formation initiale aux règles de sécurité, de stockage et de manipulation de ces armes ;
+c) Attestation du suivi de la formation initiale aux règles de sécurité, de stockage et de manipulation de ces armes. Un
+arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'outre-mer et du ministre chargé des sports précise les
+modalités de délivrance de cette attestation ;
 
 8° Pour les autorisations mentionnées à l'articleR. 312-27:
 
@@ -46328,7 +46338,21 @@ de l'activité ;
 10° Pour la demande d'exemption prévue à l'articleR. 312-45, justification de la pratique du tir sportif de vitesse apportée
 par la fourniture d'un certificat de la Fédération française de tir.
 
+**Nota:**
+
+Conformément au I de l'article 13 du décret n° 2020-486 du 28 avril 2020, les dispositions de l'article R. 312-5, dans sa
+rédaction résultant du présent décret, entrent en vigueur le premier jour du troisième mois à compter de l'entrée en vigueur
+du présent décret.
+
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2013-700 du 30 juillet 2013 - art. 12, II (VT)
+
+_Codifié par_:
+
+  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 _Cité par_:
 
@@ -46340,23 +46364,16 @@ _Cité par_:
   - Arrêté du 28 avril 2020 - art. 5 (V)
   - Décret n°2020-486 du 28 avril 2020 - art. 13 (V)
   - Code de la sécurité intérieure - art. R312-13 (VD)
+  - Code de la sécurité intérieure - art. R312-45 (VD)
   - Code de la sécurité intérieure - art. R312-45-1 (VD)
   - Code de la sécurité intérieure - art. R312-53 (VD)
   - Code de la sécurité intérieure - art. R312-85 (V)
   - Code de la sécurité intérieure - art. R344-3 (V)
   - Code de la sécurité intérieure - art. R345-4 (V)
 
-_Anciens textes_:
-
-  - Décret n°2013-700 du 30 juillet 2013 - art. 12, II (VT)
-
-_Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 3
+  - Décret n°2020-486 du 28 avril 2020 - art. 3
 
 _Cite_:
 
@@ -46368,8 +46385,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-39
   - Code de la sécurité intérieure - art. R312-40
   - Code de la sécurité intérieure - art. R312-44
-  - Code de la sécurité intérieure - art. R312-45 (VD)
-  - Code de la sécurité intérieure - art. R312-65 (VD)
+  - Code de la sécurité intérieure - art. R312-65
 
 
 ###### Article R312-6
@@ -46737,26 +46753,31 @@ _Cité par_:
 ###### Article R312-17
 
 I.-Doivent se dessaisir de leurs armes, éléments et munitions selon les modalités prévues aux articles R. 312-74 et R. 312-75
-ou les faire neutraliser dans un délai de trois mois : 
+ou les faire neutraliser dans un délai de trois mois :
 
-1° Les bénéficiaires d'autorisations venues à expiration et dont le renouvellement n'a pas été demandé ; 
+1° Les bénéficiaires d'autorisations venues à expiration et dont le renouvellement n'a pas été demandé ;
 
-2° Les bénéficiaires d'autorisations qui n'ont pas respecté l'obligation des séances de tir contrôlées prévues à l'article R.
-312-40 ; 
+2° (Abrogé)
 
 3° Les bénéficiaires d'autorisations qui n'ont pas renouvelé leur licence de la fédération sportive ayant reçu, au titre de
-l'article L. 131-14 du code du sport, délégation du ministre chargé des sports pour la pratique du tir ou du biathlon ; 
+l'article L. 131-14 du code du sport, délégation du ministre chargé des sports pour la pratique du tir ou du biathlon ;
 
-4° Les bénéficiaires d'autorisations nulles de plein droit mentionnées à l'article R. 312-15. 
+4° Les bénéficiaires d'autorisations nulles de plein droit mentionnées à l'article R. 312-15.
 
 II.-Le préfet ordonne la remise ou le dessaisissement de l'arme, de ses éléments ou des munitions dans les conditions prévues
-aux articles L. 312-7 ou L. 312-11 aux personnes suivantes : 
+aux articles L. 312-7 ou L. 312-11 aux personnes suivantes :
 
-1° Les bénéficiaires d'autorisations qui ont été retirées ; 
+1° Les bénéficiaires d'autorisations qui ont été retirées ;
 
-2° Les bénéficiaires d'autorisations dont le renouvellement a été refusé ; 
+2° Les bénéficiaires d'autorisations dont le renouvellement a été refusé ;
 
 3° Les bénéficiaires d'autorisations mentionnés au I qui ne se sont pas dessaisis de leurs armes, éléments ou munitions.
+
+**Nota:**
+
+Conformément au I de l'article 13 du décret n° 2020-486 du 28 avril 2020, les dispositions de l'article R. 312-17, dans sa
+rédaction résultant du présent décret, entrent en vigueur le premier jour du troisième mois à compter de l'entrée en vigueur
+du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -46768,20 +46789,20 @@ _Codifié par_:
 
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
-_Modifié par_:
-
-  - Décret n°2018-542 du 29 juin 2018 - art. 3
-
 _Cité par_:
 
   - Décret n°2020-486 du 28 avril 2020 - art. 13 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-486 du 28 avril 2020 - art. 3
+
 _Cite_:
 
   - Code du sport. - art. L131-14
-  - Code de la sécurité intérieure - art. R312-15 (VD)
-  - Code de la sécurité intérieure - art. R312-40
-  - Code de la sécurité intérieure - art. R312-74 (VD)
+  - Code de la sécurité intérieure - art. R312-15
+  - Code de la sécurité intérieure - art. R312-40 (VD)
+  - Code de la sécurité intérieure - art. R312-74
   - Code de la sécurité intérieure - art. R312-75
 
 
@@ -47632,70 +47653,32 @@ _Cite_:
 ###### Article R312-40
 
 Peuvent être autorisés pour la pratique du tir sportif à acquérir et à détenir des armes, munitions et leurs éléments des 3°
-bis et 7° de la rubrique 1 du I et des 1°, 2°, 4°, 5°, 9° et 10° du II de l'article R. 311-2 : 
+bis et 7° de la rubrique 1 du I et des 1°, 2°, 4°, 5°, 9° et 10° du II de l'article R. 311-2 :
 
 1° Les associations sportives agréées membres d'une fédération sportive ayant reçu, du ministre chargé des sports au titre de
 l'article L. 131-14 du code du sport, délégation pour la pratique du tir, dans la limite d'une arme pour quinze tireurs ou
-fraction de quinze tireurs et d'un maximum de quatre-vingt-dix armes ; 
+fraction de quinze tireurs et d'un maximum de quatre-vingt-dix armes ;
 
 2° Les personnes majeures et les tireurs sélectionnés de moins de dix-huit ans participant à des concours internationaux,
-membres des associations mentionnées au 1° du présent article, titulaires du carnet de tir conforme aux dispositions de
-l'article R. 312-43 du présent code, licenciés d'une fédération ayant reçu du ministre chargé des sports, au titre de
-l'article L. 131-14 du code du sport, délégation pour la pratique du tir et titulaires d'un avis favorable de cette
-fédération, dans la limite de douze armes mentionnées aux 3° bis de la rubrique 1 du I ou 1°, 2°, 4° et 9° du II de l'article
-R. 311-2. 
+membres des associations mentionnées au 1° du présent article, dans la limite de douze armes.
 
 Les personnes âgées de douze ans au moins, ne participant pas à des compétitions internationales, peuvent être autorisées à
-détenir des armes de poing à percussion annulaire à un coup du 1° de la catégorie B, dans la limite de trois, sous réserve
-d'être titulaires d'une licence de tir en cours de validité délivrée par une fédération sportive ayant reçu du ministre
-chargé des sports, au titre de l'article L. 131-14 du code du sport, délégation pour la pratique du tir. 
+détenir des armes de poing à percussion annulaire à un coup du 1° de la catégorie B, dans la limite de trois.
 
 Sauf dans le cadre des concours internationaux, ces armes ne peuvent être utilisées que dans les stands de tir des
-associations mentionnées au 1° du présent article. 
+associations mentionnées au 1° du présent article.
 
-Les autorisations d'acquisition et de détention délivrées au titre du présent 2° sont subordonnées :
-
-- pour les armes et éléments d'armes du 3° bis et du 7° de la rubrique 1 du I de l'article R. 311-2, à la participation à
-trois séances contrôlées de pratique du tir espacées d'au moins deux mois et à la présentation d'un certificat délivré par
-une fédération sportive ayant reçu du ministre chargé des sports au titre de l'article L. 131-14 du code du sport, délégation
-pour la pratique du tir, attestant que la personne pratique régulièrement le tir sportif depuis au moins douze mois et que
-l'arme concernée répond aux spécifications requises pour la pratique d'une discipline de tir officiellement reconnue ;
-
-- pour les autres armes et éléments d'armes, à la participation à trois séances contrôlées de pratique du tir, espacées d'au
-moins deux mois, au cours des douze mois précédant la demande d'autorisation. 
-
-Pour obtenir le renouvellement de son autorisation d'acquisition et de détention d'arme, le détenteur doit justifier de sa
-participation à trois séances contrôlées de pratique du tir, espacées d'au moins deux mois, par période de douze mois pendant
-la durée de l'autorisation. 
-
-Les modalités des séances contrôlées de pratique du tir sont fixées par arrêté conjoint du ministre de l'intérieur et du
-ministre chargé des sports. 
-
-La liste des fédérations, les conditions et les modalités de délivrance des avis favorables sont fixées par arrêté conjoint
-du ministre de l'intérieur et du ministre chargé des sports. 
-
-Les critères de sélection des tireurs devant participer à des concours internationaux sont définis par le ministre chargé des
-sports.
+La fédération sportive ayant reçu du ministre chargé des sports au titre de l'article L. 131-14 du code du sport, délégation
+pour la pratique du tir atteste que les armes et éléments d'armes du 3° bis et du 7° de la rubrique 1 du I de l'article R.
+311-2 répondent aux spécifications requises pour la pratique d'une discipline de tir officiellement reconnue.
 
 **Nota:**
 
-Conformément aux dispositions du III de l'article 33 du décret n° 2018-542 du 29 juin 2018, les personnes qui détiennent des
-armes à feu d'épaule à répétition à canon rayé munies d'un dispositif de rechargement à pompe qui étaient soumises à
-déclaration avant l'entrée en vigueur dudit décret et qui sont classées au f du 2° du II de l'article R. 311-2 du code de la
-sécurité intérieure par ledit décret doivent déposer une demande d'autorisation de détention au titre du 2° de l'article R.
-312-40 du même code, dans un délai d'un an qui suit l'entrée en vigueur du même décret.
-
-En cas d'autorisation, l'arme concernée n'est pas comptabilisée dans le quota prévu au premier alinéa du 2° de l'article R.
-312-40 du code de la sécurité intérieure. Si l'autorisation est refusée, la personne doit se dessaisir de l'arme selon les
-modalités prévues aux articles R. 312-74 et R. 312-75 du même code ou la faire neutraliser dans un délai de six mois suivant
-le refus d'autorisation. Dans ce dernier cas, elle procède à une déclaration sur l'imprimé conforme au modèle fixé par
-l'arrêté prévu à l'article R. 311-6 du même code.
+Conformément au I de l'article 13 du décret n° 2020-486 du 28 avril 2020, les dispositions de l'article R. 312-40, dans sa
+rédaction résultant du présent décret, entrent en vigueur le premier jour du troisième mois à compter de l'entrée en vigueur
+du présent décret.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 _Cité par_:
 
@@ -47716,7 +47699,6 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-41 (VD)
   - Code de la sécurité intérieure - art. R312-42 (VD)
   - Code de la sécurité intérieure - art. R312-43 (VT)
-  - Code de la sécurité intérieure - art. R312-43-1 (VD)
   - Code de la sécurité intérieure - art. R312-47 (VD)
   - Code de la sécurité intérieure - art. R312-48 (VD)
   - Code de la sécurité intérieure - art. R312-49 (VD)
@@ -47735,9 +47717,13 @@ _Anciens textes_:
 
   - Décret n°2013-700 du 30 juillet 2013 - art. 34, I (VT)
 
+_Codifié par_:
+
+  - Décret n°2014-1253 du 27 octobre 2014 - art.
+
 _Modifié par_:
 
-  - Décret n°2018-542 du 29 juin 2018 - art. 3
+  - Décret n°2020-486 du 28 avril 2020 - art. 3
 
 _Cite_:
 
@@ -47816,60 +47802,6 @@ _Cite_:
 
   - Code de la sécurité intérieure - art. R312-40
   - Code de la sécurité intérieure - art. R312-41 (VD)
-
-
-###### Article R312-43
-
-Les personnes mentionnées au 2° de l'article R. 312-40 doivent être titulaires d'un carnet de tir indiquant la date de chaque
-séance contrôlée de pratique du tir.
-
-Ce carnet, délivré par une association sportive agréée mentionnée au 1° de l'article R. 312-40, doit être présenté à toute
-réquisition des services de police ou de gendarmerie.
-
-Les associations sportives agréées mentionnées au 1° de l'article R. 312-40 tiennent un registre journalier indiquant les
-nom, prénom et domicile de toute personne participant à une séance contrôlée de pratique du tir.
-
-Ce registre est tenu à la disposition des fédérations sportives dont relèvent ces associations et doit être présenté à toute
-réquisition des services de police ou de gendarmerie.
-
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé des sports fixe le modèle type du carnet de tir et du
-registre journalier mentionnés aux alinéas précédents.
-
-**Nota:**
-
-Conseil d'Etat, décision N
-  <sup>os </sup>389283, 389993 du 28 septembre 2016 (ECLI:FR:CECHR:2016:389283.20160928), Article 1 : L'article 1
-  <sup>er</sup> et l'annexe du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité
-intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie sont
-annulés en tant qu'ils rendent applicables à la Nouvelle-Calédonie le 5
-  <sup>ème</sup> alinéa de l'article R. 312-43  du code de la sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 16 décembre 1998 - art. 3 (Ab)
-  - Arrêté du 16 décembre 1998 - art. 4 (Ab)
-  - Décret n°2020-486 du 28 avril 2020 - art. 13 (V)
-  - Code de la sécurité intérieure - art. R312-40 (VD)
-  - Code de la sécurité intérieure - art. R344-3 (V)
-  - Code de la sécurité intérieure - art. R345-4 (V)
-
-_Anciens textes_:
-
-  - Décret n°2013-700 du 30 juillet 2013 - art. 35 (VT)
-
-_Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-_Modifié par_:
-
-  - Décret n°2017-909 du 9 mai 2017 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2020-486 du 28 avril 2020 - art. 3
 
 
 ###### Article R312-43-1
@@ -53280,26 +53212,23 @@ _Cité par_:
 
 Le ministre de l'intérieur peut autoriser par arrêté toute personne exposée à des risques exceptionnels d'atteinte à sa vie,
 sur sa demande, à porter et transporter une arme de poing ainsi que les munitions correspondantes dans les limites fixées au
-1° de l'article R. 312-47. 
+1° de l'article R. 312-47.
 
-Le silence gardé par le ministre pendant quatre mois vaut décision de refus. 
+Le silence gardé par le ministre pendant quatre mois vaut décision de refus.
 
-La demande d'autorisation ou de renouvellement d'autorisation comprend : 
+La demande d'autorisation ou de renouvellement d'autorisation comprend :
 
 1° Une attestation de suivi d'une formation initiale aux règles de sécurité, de stockage et de manipulation et d'usage de
-cette arme au cours des douze mois précédant la demande. Cette formation est effectuée au sein d'une association sportive
-agréée pour la pratique du tir, membre d'une fédération ayant reçu délégation du ministre chargé des sports au titre de
-l'article L. 131-14 du code des sports. Le président de l'association sportive agréée ou une personne désignée par lui est
-chargé d'assurer la formation initiale susmentionnée ; 
+cette arme au cours des douze mois précédant la demande, mentionnée au c du 7° de l'article R. 312-5 ;
 
 2° Une justification de la participation à trois séances contrôlées de pratique du tir, espacées d'au moins deux mois, au
 cours des douze mois précédant la demande d'autorisation et un engagement personnel à poursuivre une pratique du tir selon la
-même périodicité et selon les modalités prévues à l'alinéa précédent. 
+même périodicité et selon les modalités prévues à l'alinéa précédent.
 
 Toutefois, à titre exceptionnel, lorsque l'urgence le justifie, il peut être dérogé à l'obligation de fournir le justificatif
-de participation à trois séances de pratique du tir au cours des douze mois précédant la demande. 
+de participation à trois séances de pratique du tir au cours des douze mois précédant la demande.
 
-L'autorisation, délivrée pour une période qui ne peut excéder un an, est renouvelable. Elle peut être retirée à tout moment. 
+L'autorisation, délivrée pour une période qui ne peut excéder un an, est renouvelable. Elle peut être retirée à tout moment.
 
 Le préfet du département du domicile du titulaire de cette autorisation de port d'arme lui délivre, sur présentation des
 pièces mentionnées à l'article R. 312-4, l'autorisation d'acquérir et de détenir, pour la même durée, l'arme de poing et,
@@ -53307,6 +53236,12 @@ dans les limites prévues au 1° de l'article R. 312-47, les munitions correspon
 renouvellement de l'autorisation de port d'arme, l'autorisation d'acquisition et de détention d'arme devient aussitôt
 caduque. Son titulaire se dessaisit alors de l'arme et des munitions selon les modalités prévues aux articles R. 312-74 et R.
 312-75.
+
+**Nota:**
+
+Conformément au I de l'article 13 du décret n° 2020-486 du 28 avril 2020, les dispositions de l'article R. 315-5, dans sa
+rédaction résultant du présent décret, entrent en vigueur le premier jour du troisième mois à compter de l'entrée en vigueur
+du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -53332,7 +53267,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1844 du 29 décembre 2017 - art. 25
+  - Décret n°2020-486 du 28 avril 2020 - art. 5
 
 _Cite_:
 
