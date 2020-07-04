@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-07-01
+Version Consolidée au 2020-07-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -301,735 +301,738 @@ Version Consolidée au 2020-07-01
           - [Section 3 : Participation des associations agréées  aux opérations de secours (art. L725-3 à L725-9)](#298)
             - [Sous-section 1 : Dispositions générales (art. L725-3 à L725-6)](#299)
             - [Sous-section 2 : Participation des membres des associations salariés  aux opérations de secours (art. L725-7 à L725-9)](#300)
-      - [TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION (art. L731-1 à L733-3)](#301)
-        - [Chapitre Ier : Prévention des risques (art. L731-1 à L731-3)](#302)
-          - [Section 1 : Information sur les risques majeurs (art. L731-1)](#303)
-          - [Section 2 : Schéma départemental d'analyse  et de couverture des risques (art. L731-2)](#304)
-          - [Section 3 : Plan communal de sauvegarde (art. L731-3)](#305)
-        - [Chapitre II : Obligations en matière de sécurité civile (art. L732-1 à L732-7)](#306)
-          - [Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population (art. L732-1 à L732-2)](#307)
-          - [Section 2 : Capacité suffisante de communication  radioélectrique des services de secours (art. L732-3 à L732-4)](#308)
-          - [Section 3 : Interopérabilité des réseaux (art. L732-5)](#309)
-          - [Section 4 : Alimentation en énergie des établissements de santé (art. L732-6)](#310)
-          - [Section 5 : Code d'alerte national (art. L732-7)](#311)
-        - [Chapitre III : Déminage (art. L733-1 à L733-3)](#312)
-      - [TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES (art. L741-1 à L742-15)](#313)
-        - [Chapitre Ier : Planification opérationnelle (art. L741-1 à L741-6)](#314)
-          - [Section 1 : Plans Orsec (art. L741-1 à L741-5)](#315)
-          - [Section 2 : Plans particuliers d'intervention (art. L741-6)](#316)
-        - [Chapitre II : Opérations de secours (art. L742-1 à L742-15)](#317)
-          - [Section 1 : Direction des opérations de secours (art. L742-1 à L742-7)](#318)
-          - [Section 2 : Secours aux personnes en détresse (art. L742-8 à L742-10)](#319)
-          - [Section 3 : Prise en charge des dépenses de secours (art. L742-11)](#320)
-          - [Section 4 : Réquisitions (art. L742-12 à L742-15)](#321)
-      - [TITRE V : ÉVALUATION ET CONTRÔLE (art. L751-1 à L752-1)](#322)
-        - [Chapitre Ier : Missions d'évaluation et de contrôle (art. L751-1 à L751-2)](#323)
-        - [Chapitre II : Dispositions pénales (art. L752-1)](#324)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L761-1 à L768-2)](#325)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. L761-1)](#326)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L762-1 à L762-3)](#327)
-        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L763-1)](#328)
-        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L764-1 à L764-2)](#329)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. L765-1 à L765-3)](#330)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L766-1 à L766-4)](#331)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L767-1 à L767-2)](#332)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L768-1 à L768-2)](#333)
-    - [LIVRE VIII : DU RENSEIGNEMENT (art. L801-1 à L898-1)](#334)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L811-1 à L811-4)](#335)
-      - [TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. L821-1 à L822-4)](#336)
-        - [Chapitre Ier : De l'autorisation de mise en œuvre (art. L821-1 à L821-8)](#337)
-        - [Chapitre II : Des renseignements collectés (art. L822-1 à L822-4)](#338)
-      - [TITRE III : DE LA COMMISSION NATIONALE DE CONTRÔLE DES TECHNIQUES DE RENSEIGNEMENT (art. L831-1 à L833-11)](#339)
-        - [Chapitre Ier : Composition et organisation (art. L831-1 à L831-2)](#340)
-        - [Chapitre II : Règles de déontologie et de fonctionnement (art. L832-2 à L832-5)](#341)
-        - [Chapitre III : Missions (art. L833-1 à L833-11)](#342)
-      - [TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ETAT (art. L841-1 à L841-2)](#343)
-      - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION (art. L851-1 à L855-1 C)](#344)
-        - [Chapitre Ier :  Des accès administratifs aux données de connexion (art. L851-1 à L851-7)](#345)
-        - [Chapitre II : Des interceptions de sécurité (art. L852-1 à L852-2)](#346)
-        - [Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques (art. L853-1 à L853-3)](#347)
-        - [Chapitre IV : Des mesures de surveillance des communications électroniques internationales (art. L854-1 à L854-9)](#348)
-        - [Chapitre V : Des mesures de surveillance de certaines communications hertziennes (art. L855-1 A à L855-1 C)](#349)
-      - [TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE (art. L855-1)](#350)
-      - [TITRE VI : DES AGENTS DES SERVICES SPECIALISES DE RENSEIGNEMENT (art. L861-1 à L863-2)](#351)
-        - [Chapitre Ier : De la protection du secret de la défense nationale et de l'anonymat des agents (art. L861-1 à L861-3)](#352)
-        - [Chapitre II : De la protection juridique des agents (art. L862-1 à L862-2)](#353)
-        - [Chapitre III : De l'information des services de renseignement (art. L863-1 à L863-2)](#354)
-      - [TITRE VII : OBLIGATIONS DES OPERATEURS ET PRESTATAIRES DE SERVICES (art. L871-1 à L871-7)](#355)
-      - [TITRE VIII : DISPOSITIONS PENALES (art. L881-1 à L881-2)](#356)
-      - [TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L895-1 à L898-1)](#357)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. L895-1 à L895-2)](#358)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L896-1 à L896-2)](#359)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L897-1 à L897-2)](#360)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. L898-1)](#361)
-  - [Partie réglementaire (art. R113-1 à Annexe 4)](#362)
-    - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. R113-1 à R158-5)](#363)
-      - [TITRE Ier : PRINCIPES GÉNÉRAUX DE LA SÉCURITÉ INTÉRIEURE (art. R113-1 à R114-10)](#364)
-        - [Chapitre III : Protection juridique des personnes  concourant à la sécurité intérieure (art. R113-1 à R113-2)](#365)
-        - [Chapitre IV : Enquêtes administratives (art. R114-1 à R114-10)](#366)
-          - [Section 1  :  Enquêtes administratives en application de l'article L. 114-1 (art. R114-1 à R114-6)](#367)
-          - [Section 2 : Conséquences des enquêtes administratives en application du IV de l'article L. 114-1 (art. R114-6-1 à R114-6-6)](#368)
-          - [Section 3 : Enquêtes administratives en application de l'article L. 114-2 (art. R114-7 à R114-10)](#369)
-      - [TITRE II : ORGANISATION ADMINISTRATIVE (art. R*121-1 à R123-31-1)](#370)
-        - [Chapitre Ier : Institutions nationales (art. R*121-1)](#371)
-        - [Chapitre II : Préfets (art. R*122-1 à D122-58)](#372)
-          - [Section 1 : Dispositions générales (art. R*122-1)](#373)
-          - [Section 2 : Préfet de zone de défense et de sécurité (art. R*122-2 à R122-47)](#374)
-            - [Sous-section 1 : Dispositions générales (art. R*122-2 à R*122-3)](#375)
-            - [Sous-section 2 : Pouvoirs du préfet de zone  de défense et de sécurité (art. R*122-4 à R*122-12)](#376)
-              - [Paragraphe 1 : Pouvoirs généraux du préfet de zone de défense  et de sécurité en matière de sécurité nationale (art. R*122-4 à R*122-7)](#377)
-              - [Paragraphe 2 : Pouvoirs du préfet de zone de défense et de sécurité  en cas de crise ou d'événements d'une particulière gravité (art. R*122-8 à R*122-9)](#378)
-              - [Paragraphe 3 : Autres pouvoirs du préfet  de zone de défense et de sécurité (art. R*122-10 à R*122-12)](#379)
-            - [Sous-section 3 : Préfet délégué pour la défense et la sécurité  auprès du préfet de zone de défense et de sécurité (art. R122-13 à R122-16)](#380)
-            - [Sous-section 4 : Etat-major de zone de défense et de sécurité (art. R122-17 à R122-19)](#381)
-            - [Sous-section 5 : Délégué et correspondant  de zone de défense et de sécurité (art. R122-20 à R122-27)](#382)
-              - [Paragraphe 1 : Délégué de zone de défense et de sécurité (art. R122-20 à R122-25)](#383)
-              - [Paragraphe 2 : Correspondant de zone de défense et de sécurité (art. R122-26 à R122-27)](#384)
-            - [Sous-section 6 : Autorités et services de l'Etat assistant  le préfet de zone de défense et de sécurité (art. R122-28 à R122-37)](#385)
-              - [Paragraphe 1 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière de sécurité civile (art. R122-28 à R122-29)](#386)
-              - [Paragraphe 2 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière d'administration de la police nationale (art. R122-30)](#387)
-              - [Paragraphe 3 : Dispositions diverses (art. D122-38 à R122-37)](#388)
-            - [Sous-section 7 : Dispositions particulières  à la zone de défense et de sécurité de Paris (art. R*122-39 à R*122-44)](#389)
-            - [Sous-section 8 : Dispositions particulières  à la zone de défense et de sécurité Sud (art. R*122-45 à R122-47)](#390)
-          - [Section 3 : Préfet de département (art. R*122-52)](#391)
-          - [Section 4 : Préfet de police (art. R*122-53 à R*122-54)](#392)
-          - [Section 5 : Préfet de police des Bouches-du-Rhône (art. R*122-55)](#393)
-          - [Section 6 : Comité départemental de sécurité (art. D122-56 à D122-58)](#394)
-        - [Chapitre III : Etablissements publics (art. R123-1 à R123-31-1)](#395)
-          - [Section unique :  Institut national des hautes études  de la sécurité et de la justice (art. R123-1 à R123-31-1)](#396)
-            - [Sous-section 1 : Dispositions générales (art. R123-1 à R123-11)](#397)
-              - [Paragraphe 1 : Organisation des sessions de formation (art. D123-3 à D123-7)](#398)
-              - [Paragraphe 2 : L'Observatoire national de la délinquance et des réponses pénales (art. D123-9 à R123-11)](#399)
-            - [Sous-section 2 : Organisation administrative (art. D123-15 à D123-29)](#400)
-            - [Sous-section 3 : Personnel (art. D123-30)](#401)
-            - [Sous-section 4 : Organisation financière (art. D123-31 à R123-31-1)](#402)
-      - [TITRE III : COMPÉTENCES RESPECTIVES DE L'ÉTAT ET DES COLLECTIVITÉS TERRITORIALES EN MATIÈRE DE SÉCURITÉ PUBLIQUE (art. R131-1 à D132-16)](#403)
-        - [Chapitre Ier : Exercice des pouvoirs de police (art. R131-1)](#404)
-        - [Chapitre II : Prévention de la délinquance (art. D132-1 à D132-16)](#405)
-          - [Section 1 : Comité interministériel de prévention  de la délinquance et de la radicalisation (art. D132-1 à D132-4)](#406)
-          - [Section 1 bis : Fonds interministériel pour la prévention de la délinquance (art. R132-4-1 à R132-4-5)](#407)
-          - [Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes (art. D132-5 à R132-6-1)](#408)
-          - [Section 3 : Conseil local de sécurité et de prévention  de la délinquance (art. D132-7 à R132-10-1)](#409)
-          - [Section 4 : Conseil intercommunal de sécurité  et de prévention de la délinquance (art. D132-11 à R132-12-1)](#410)
-          - [Section 5 : Plan de prévention de la délinquance  dans le département (art. D132-13)](#411)
-          - [Section 6 : Dispositions particulières à Paris (art. D132-14 à D132-15)](#412)
-          - [Section 7 : Dispositions particulières au département des Bouches-du-Rhône (art. D132-16)](#413)
-      - [TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE (art. D141-2 à R141-1)](#414)
-        - [Chapitre Ier : Dispositions générales (art. D141-2 à R141-1)](#415)
-      - [TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R*150-1 à R158-5)](#416)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. R151-1 à R151-5-1)](#417)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R152-1 à R152-3)](#418)
-        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. R153-1 à R153-2)](#419)
-        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. D154-3 à R154-4)](#420)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. D155-3 à R155-10)](#421)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D156-3 à R156-13)](#422)
-        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. D157-3 à R157-7)](#423)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. D158-3 à R158-5)](#424)
-    - [LIVRE II : ORDRE ET SÉCURITÉ PUBLICS (art. R211-1 à R288-3)](#425)
-      - [TITRE Ier : ORDRE PUBLIC (art. R211-1 à R214-3)](#426)
-        - [Chapitre Ier : Prévention des atteintes à l'ordre public  lors de manifestations et de rassemblements (art. R211-1 à R211-34)](#427)
-          - [Section 1 : Manifestations sur la voie publique (art. R211-1)](#428)
-          - [Section 2 : Rassemblements festifs à caractère musical (art. R211-2 à R211-9)](#429)
-          - [Section 3 : Attroupements (art. D211-10 à R211-21-1)](#430)
-          - [Section 4 : Manifestations sportives, récréatives  ou culturelles à but lucratif (art. R211-22 à R211-26)](#431)
-          - [Section 5 : Dispositions pénales (art. R211-26-1 à R211-31)](#432)
-            - [Sous-section 1 : Manifestations sur la voie publique (art. R211-26-1)](#433)
-            - [Sous-section 2 : Rassemblements festifs à caractère musical (art. R211-27 à R211-30)](#434)
-            - [Sous-section 3 : Manifestations sportives, récréatives  ou culturelles à but lucratif (art. R211-31)](#435)
-          - [Section 6 : Grands événements (art. R211-32 à R211-34)](#436)
-        - [Chapitre IV : Dispositions diverses (art. R214-1 à R214-3)](#437)
-      - [TITRE II : LUTTE CONTRE LE TERRORISME ET LES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION (art. R222-1 à R228-6)](#438)
-        - [Chapitre II : Accès à des traitements administratifs automatisés et à des données détenues par des opérateurs privés (art. R222-1)](#439)
-        - [Chapitre III : Mise en œuvre de systèmes de vidéoprotection (art. R223-1 à R223-2)](#440)
-        - [Chapitre IV : Interdiction de sortie du territoire (art. R224-1 à R224-6)](#441)
-        - [Chapitre V : Contrôle administratif des retours sur le territoire national (art. R225-1 à R225-4)](#442)
-        - [Chapitre VIII :  Mesures individuelles de contrôle administratif et de surveillance (art. R228-1 à R228-6)](#443)
-          - [Section unique : Placement sous surveillance électronique mobile (art. R228-1 à R228-6)](#444)
-      - [TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES (art. R231-1 à R236-53)](#445)
-        - [Chapitre Ier : Système d'information Schengen de deuxième génération (SIS II) (art. R231-1 à R231-16)](#446)
-          - [Section 1 : Dispositions générales (art. R231-1 à R231-3)](#447)
-          - [Section 2 : Système informatique national du système  d'information Schengen dénommé " N-SIS II " (art. R231-5 à R231-13)](#448)
-          - [Section 3 : L'office N-SIS II et le bureau national Sirene (art. R231-14 à R231-16)](#449)
-        - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. R232-1 à R232-23)](#450)
-          - [Section 1 : Transmission des données (art. R232-1 à R232-1-1)](#451)
-          - [Section 2 : Sanctions (art. R232-2 à R232-5-1)](#452)
-          - [Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE " (art. R232-6 à R232-11-2)](#453)
-          - [Section 4 : Le traitement de données à caractère personnel "système API-PNR France" (art. R232-12 à R232-22)](#454)
-          - [Section 5 : Interdiction de transport (art. R232-23)](#455)
-        - [Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives (art. R234-1 à R234-3)](#456)
-        - [Chapitre VI : Autres traitements automatisés de données personnelles (art. R236-1 à R236-53)](#457)
-          - [Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique" (art. R236-1 à R236-10)](#458)
-          - [Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique" (art. R236-11 à R236-20)](#459)
-          - [Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique " (art. R236-21 à R236-30)](#460)
-          - [Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions " (art. R236-31 à R236-37)](#461)
-          - [Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection " (art. R236-38 à R236-45)](#462)
-          - [Section 6 : Traitements de données à caractère personnel dénommés "Conservation, gestion et exploitation électroniques des documents des services de renseignement territorial" (art. R236-46 à R236-53)](#463)
-      - [TITRE IV : CAMÉRAS MOBILES (art. R241-1 à R241-15)](#464)
-        - [Chapitre unique (art. R241-1 à R241-15)](#465)
-          - [Section 1 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police nationale et des militaires de la gendarmerie nationale (art. R241-1 à R241-7)](#466)
-          - [Section 2 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police municipale (art. R241-8 à R241-15)](#467)
-      - [TITRE V : VIDÉOPROTECTION (art. R251-1 à R253-4)](#468)
-        - [Chapitre Ier : Dispositions générales (art. R251-1 à R251-12)](#469)
-          - [Section 1 : Commission nationale de la vidéoprotection (art. R251-1 à R251-6)](#470)
-          - [Section 2 : Commission départementale de vidéoprotection (art. R251-7 à R251-12)](#471)
-        - [Chapitre II : Autorisation et conditions de fonctionnement (art. R252-1 à R252-12)](#472)
-          - [Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection (art. R252-1 à R252-7)](#473)
-          - [Section 2 : Délivrance et mise en œuvre de l'autorisation (art. R252-8 à R252-12)](#474)
-        - [Chapitre III : Contrôle et droit d'accès (art. R253-1 à R253-4)](#475)
-          - [Section 1 : Contrôle et sanctions (art. R253-1 à R253-2)](#476)
-          - [Section 2 : Droit d'accès et garanties (art. R253-3 à R253-4)](#477)
-      - [TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES (art. R271-1 à R273-9)](#478)
-        - [Chapitre Ier : Dispositions générales (art. R271-1 à R271-8)](#479)
-          - [Section 1 : Obligations à la charge des bailleurs (art. R271-1 à R271-6)](#480)
-          - [Section 2 : Dispositions pénales (art. R271-7 à R271-8)](#481)
-        - [Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement (art. R273-1 à R273-9)](#482)
-          - [Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux (art. R273-1 à R273-3)](#483)
-          - [Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité (art. R273-4 à R273-6)](#484)
-          - [Section 3 : Garages et parcs de stationnement (art. R273-7)](#485)
-          - [Section 4 : Contrôle (art. R273-8)](#486)
-          - [Section 5 : Dispositions pénales (art. R273-9)](#487)
-      - [TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R281-1 à R288-3)](#488)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. R281-1 à R281-3)](#489)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R282-1 à R282-2)](#490)
-        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R283-1 à R283-2)](#491)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R284-1 à R284-2)](#492)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. D285-2 à R285-3)](#493)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D286-2 à R286-3)](#494)
-        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. D287-2 à R287-3)](#495)
-        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. D288-2 à R288-3)](#496)
-    - [LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES (art. R311-1 à R346-2-1)](#497)
-      - [TITRE Ier : ARMES ET MUNITIONS (art. R311-1 à R317-14)](#498)
-        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-7)](#499)
-          - [Section 1 : Définitions (art. R311-1)](#500)
-          - [Section 2 : Classement des matériels de guerre, armes et munitions (art. R311-2 à R311-4-1)](#501)
-          - [Section 3 : Marquage (art. R311-5 à R311-5-2)](#502)
-          - [Section 4 : Dispositions diverses (art. R311-6 à R311-7)](#503)
-        - [Chapitre II : Acquisition et détention (art. R312-1 à R312-90)](#504)
-          - [Section 1 : Dispositions générales (art. R312-1 à R312-66)](#505)
-            - [Sous-section 1 : Interdiction d'acquisition par les mineurs (art. R312-1)](#506)
-            - [Sous-section 2 : Armes soumises à autorisation (art. R312-2 à R312-51)](#507)
-              - [Paragraphe 1 : Autorité compétente pour délivrer des autorisations (art. R312-2 à R312-3)](#508)
-              - [Paragraphe 2 : Dépôt et instruction des demandes d'autorisation (art. R312-4 à R312-8)](#509)
-              - [Paragraphe 3 : Décision (art. R312-9 à R312-12)](#510)
-              - [Paragraphe 4 : Validité de l'autorisation (art. R312-13 à R312-19)](#511)
-              - [Paragraphe 5 : Conditions générales de délivrance de l'autorisation (art. R312-21)](#512)
-              - [Paragraphe 6 : Conditions particulières de délivrance d'autorisation (art. R312-22 à R312-44-1)](#513)
-                - [Sous-paragraphe  1 : Fonctionnaires et agents publics (art. R312-22 à R312-25)](#514)
-                - [Sous-paragraphe 1 bis : Agents des organisations internationales et des institutions, organes, organismes et services de l'Union européenne (art. R312-25-1)](#515)
-                - [Sous-paragraphe  2 : Spectacles (art. R312-26)](#516)
-                - [Sous-paragraphe  3 : Collectivités publiques, musées, collections (art. R312-27 à R312-29)](#517)
-                - [Sous-paragraphe  4 : Essais industriels (art. R312-30)](#518)
-                - [Sous-paragraphe  5 : Experts judiciaires (art. R312-31 à R312-36)](#519)
-                - [Sous-paragraphe  7 : Personnes exposées à des risques sérieux du fait de leur activité professionnelle (art. R312-39 à R312-39-1)](#520)
-                - [Sous-paragraphe  8 : Tir sportif (art. R312-40 à R312-43-1)](#521)
-                - [Sous-paragraphe  9 : Tir forain (art. R312-44)](#522)
-                - [Sous-paragraphe 10 : Formation dans les métiers de l'armurerie et de l'armement (art. R312-44-1)](#523)
-              - [Paragraphe 7 : Acquisition et détention des systèmes d'alimentation, des réducteurs de son et des munitions (art. R312-45 à R312-49)](#524)
-              - [Paragraphe 8 : Dispositions diverses (art. R312-50 à R312-51)](#525)
-            - [Sous-section 3 : Armes soumises à déclaration (art. R312-52 à R312-63)](#526)
-              - [Paragraphe 1 : Acquisition et détention des armes (art. R312-52 à R312-58-1)](#527)
-              - [Paragraphe 2 : Acquisition et détention de munitions (art. R312-60 à R312-63)](#528)
-            - [Sous-section 4 : Dispositions diverses (art. R312-65 à R312-66)](#529)
-          - [Section 2 : Collectionneurs (art. R312-66-1 à R312-66-20)](#530)
-            - [Sous-section 1 : Dispositions générales (art. R312-66-1 à R312-66-4)](#531)
-            - [Sous-section 2 : Délivrance, suspension et retrait de la carte (art. R312-66-5 à R312-66-17)](#532)
-              - [Paragraphe 1 : Dépôt et instruction des demandes (art. R312-66-5 à R312-66-7)](#533)
-              - [Paragraphe 2 : Décision (art. R312-66-8 à R312-66-14)](#534)
-              - [Paragraphe 3 : Validité de la carte (art. R312-66-15)](#535)
-              - [Paragraphe 4 : Carte de collectionneur et dessaisissement des armes (art. R312-66-16 à R312-66-17)](#536)
-            - [Sous-section 3 : Obligations du collectionneur titulaire de la carte (art. R312-66-18 à R312-66-20)](#537)
-              - [Paragraphe 1 : Acquisition et détention d'armes et de munitions (art. R312-66-18)](#538)
-              - [Paragraphe 2 : Conservation et transport (art. R312-66-19 à R312-66-20)](#539)
-          - [Section 3 : Injonctions préfectorales (art. R312-67 à R312-76)](#540)
-            - [Sous-section 1 : Dispositions générales (art. R312-67)](#541)
-            - [Sous-section 2 : Remise d'une arme à l'autorité administrative (art. R312-68 à R312-73)](#542)
-            - [Sous-section 3 : Dessaisissement (art. R312-74 à R312-76)](#543)
-          - [Section 4 : Fichiers (art. R312-77 à R312-90)](#544)
-            - [Sous-section 1 : Fichier national des interdits d'acquisition et de détention d'armes (FINIADA) (art. R312-77 à R312-83)](#545)
-            - [Sous-section 2 :  Système d'information sur les armes (SIA) (art. R312-84 à R312-90)](#546)
-        - [Chapitre III : Fabrication et commerce (art. R313-1 à R313-46)](#547)
-          - [Section 1 : Agrément d'armurier (art. R313-1 à R313-7-1)](#548)
-          - [Section 2 : Autorisation d'ouverture du commerce de détail (art. R313-8 à R313-19)](#549)
-            - [Sous-section 1 : Conditions de délivrance (art. R313-8 à R313-12)](#550)
-            - [Sous-section 2 : Obligations du commerçant titulaire de l'autorisation (art. R313-13 à R313-15-1)](#551)
-            - [Sous-section 3 : Mesures de sécurité (art. R313-16 à R313-17)](#552)
-            - [Sous-section 4 : Conditions de suspension ou de retrait (art. R313-18 à R313-19)](#553)
-          - [Section 3 : Vente au détail hors d'un local fixe et permanent (art. R313-20 à R313-23)](#554)
-          - [Section 4 : Obligations de l'armurier et du courtier dans la procédure de cession des armes et munitions (art. R313-24 à R313-26)](#555)
-          - [Section 4 bis : Refus de conclure une transaction suspecte (art. R313-26-1)](#556)
-          - [Section 5 : Déclaration d'ouverture d'un établissement destiné à la fabrication ou au commerce, autre que de détail, des armes, munitions et leurs éléments des catégories A1, B, C et D (art. R313-27)](#557)
-          - [Section 6 : Fabrication et commerce des armes, munitions et leurs éléments des catégories A1 et B  et intermédiation des armes de toute catégorie, munitions et de leurs éléments (art. R313-28 à R313-46)](#558)
-            - [Sous-section 1 : Autorisation de fabrication, de commerce et d'intermédiation (art. R313-28 à R313-38-2)](#559)
-            - [Sous-section 2 : Obligations des titulaires de l'autorisation (art. R313-39 à R313-45)](#560)
-            - [Sous-section 3 : Mesures de sécurité (art. R313-46)](#561)
-        - [Chapitre IV : Conservation, perte et transfert de propriété (art. R314-1 à R314-20)](#562)
-          - [Section 1 : Conservation (art. R314-1 à R314-11)](#563)
-            - [Sous-section 1 : Dispositions générales (art. R314-1 à R314-4)](#564)
-            - [Sous-section 2 : Activités privées (art. R314-5 à R314-6)](#565)
-            - [Sous-section 3 : Spectacles (art. R314-7)](#566)
-            - [Sous-section 4 : Tir sportif (art. R314-8)](#567)
-            - [Sous-section 5 : Tir forain (art. R314-9)](#568)
-            - [Sous-section 6 : Collectivités publiques, musées et collections (art. R314-10)](#569)
-            - [Sous-section 7 : Etablissements de formation (art. R314-11)](#570)
-          - [Section 2 : Perte et vol (art. R314-12 à R314-15)](#571)
-          - [Section 3 : Transfert de propriété (art. R314-16 à R314-20)](#572)
-            - [Sous-section 1 : Armes soumises à autorisation (art. R314-16 à R314-18)](#573)
-            - [Sous-section 2 : Armes soumises à déclaration (art. R314-19 à R314-20)](#574)
-        - [Chapitre V : Port et transport (art. R315-1 à R315-18)](#575)
-          - [Section 1 : Autorisation de port et de transport (art. R315-1 à R315-10)](#576)
-            - [Sous-section 1 : Règles générales (art. R315-1 à R315-4)](#577)
-            - [Sous-section 2 : Situations particulières (art. R315-5 à R315-7)](#578)
-            - [Sous-section 3 : Situation des fonctionnaires (art. R315-8 à R315-10)](#579)
-          - [Section 2 : Sécurité des expéditions et des transports des armes (art. R315-12 à R315-18)](#580)
-        - [Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations (art. R316-1A à R316-56)](#581)
-          - [Section 1 : Dispositions générales relatives à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-1 à R316-3)](#582)
-          - [Section 2 : Régime de droit commun relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-4 à R316-25)](#583)
-            - [Sous-section 1 : Acquisition et détention (art. R316-4 à R316-13)](#584)
-              - [Paragraphe 1 : Acquisition et détention par un résident d'un autre Etat membre de l'Union européenne (art. R316-4 à R316-5)](#585)
-              - [Paragraphe 2 : Acquisition dans un autre Etat membre par une personne résidant en France (art. R316-6)](#586)
-              - [Paragraphe 3 : Carte européenne d'arme à feu et détention au cours d'un voyage dans l'Union européenne (art. R316-7 à R316-11)](#587)
-              - [Paragraphe 4 : Acquisition et détention en vue d'un transfert vers un autre Etat membre (art. R316-12 à R316-13)](#588)
-            - [Sous-section 2 : Transfert entre Etats membres (art. R316-14 à R316-24)](#589)
-              - [Paragraphe 1 : Transfert vers un autre Etat membre (art. R316-14 à R316-15)](#590)
-              - [Paragraphe 2 : Transfert d'un Etat membre vers la France (art. R316-16 à R316-18)](#591)
-              - [Paragraphe 3 : Dispositions diverses (art. R316-19 à R316-24)](#592)
-            - [Sous-section 3 : Dispositions diverses (art. R316-25)](#593)
-          - [Section 3 : Régime particulier relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-26 à R316-27)](#594)
-          - [Section 4 : Dispositions communes au régime de droit commun et au régime particulier relatifs à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-28)](#595)
-          - [Section 5 : Importation des armes, munitions et leurs éléments des catégories A1, B, C et D (art. R316-29 à R316-37)](#596)
-          - [Section 6 : Exportation des armes à feu, munitions et leurs éléments des catégories A1, B, C et D (art. R316-38 à R316-50)](#597)
-            - [Sous-section 1 : Dispositions générales (art. R316-38 à R316-39)](#598)
-            - [Sous-section 2 : Autorisations d'exportation et dérogations (art. R316-40 à R316-48)](#599)
-            - [Sous-section 3 : Obligations des exportateurs (art. R316-49 à R316-50)](#600)
-          - [Section 7 : Autorisations de transit par route (art. D316-54 à R316-56)](#601)
-        - [Chapitre VII : Dispositions pénales (art. R317-1 à R317-14)](#602)
-          - [Section 1 : Acquisition et détention (art. R317-1 à R317-8)](#603)
-          - [Section 1 bis : Transfert entre Etats membres de l'Union européenne, acquisition et détention par un résident d'un Etat membre (art. R317-8-1 à R317-8-2)](#604)
-          - [Section 2 : Commerce de détail (art. R317-9 à R317-9-1)](#605)
-          - [Section 3 : Conservation (art. R317-10)](#606)
-          - [Section 4 : Port et transport (art. R317-11 à R317-12)](#607)
-          - [Section 4 bis : Collectionneurs (art. R317-12-1)](#608)
-          - [Section 5 : Peines complémentaires applicables aux personnes physiques et aux personnes morales (art. R317-13 à R317-14)](#609)
-      - [TITRE II : JEUX DE HASARD, CASINOS, LOTERIES (art. R321-1 à R324-4)](#610)
-        - [Chapitre Ier : Casinos (art. R321-1 à R321-39)](#611)
-          - [Section liminaire : Dispositions générales (art. R321-1 à R321-1-1)](#612)
-          - [Section 1 : Autorisation d'ouverture et d'exploitation de jeux (art. R321-2 à R321-20)](#613)
-            - [Sous-section 1 : Délivrance de l'autorisation (art. R321-2 à R321-6-1)](#614)
-              - [Paragraphe 1 : Dispositions applicables aux casinos régis par l'article L. 321-1 (art. R321-2 à R321-5)](#615)
-              - [Paragraphe 2 : Dispositions applicables aux casinos régis par l'article L. 321-3 (art. R321-5-1 à R321-5-4)](#616)
-              - [Paragraphe 3 : Dispositions communes (art. R321-6 à R321-6-1)](#617)
-            - [Sous-section 2 : Commission consultative des jeux de cercles et de casinos (art. R321-7 à R321-12)](#618)
-            - [Sous-section 3 : Jeux susceptibles d'être autorisés dans les casinos (art. D321-13 à R321-17)](#619)
-            - [Sous-section 4 : Evolution des données du dossier d'autorisation (art. R321-18 à R321-20)](#620)
-          - [Section 2 : Appareils de jeux (art. D321-22 à R321-26)](#621)
-          - [Section 3 : Accès aux salles de jeux (art. R321-27 à R321-28-1)](#622)
-            - [Sous-section 1 : Dispositions communes (art. R321-27 à R321-28)](#623)
-            - [Sous-section 2 : Dispositions applicables aux casinos régis par l'article L. 321-3 (art. R321-28-1)](#624)
-          - [Section 4 : Fonctionnement des casinos (art. R321-29 à R321-37)](#625)
-            - [Sous-section 1 : Obligations (art. R321-29 à R321-30-1)](#626)
-            - [Sous-section 2 : Personnel des jeux des casinos régis par l'article L. 321-1 (art. R321-31 à R321-36)](#627)
-            - [Sous-section 2 bis : Personnel des jeux des casinos régis par l'article L. 321-3 (art. R321-36-1 à R321-36-7)](#628)
-            - [Sous-section 3 : Prélèvements (art. R321-37)](#629)
-          - [Section 5 : Contrôle (art. R321-38 à R321-38-4)](#630)
-            - [Sous-section 1 : Dispositions communes (art. R321-38)](#631)
-            - [Sous-section 2 : Dispositions relatives aux casinos régis par l'article L. 321-3 (art. R321-38-1 à R321-38-4)](#632)
-          - [Section 6 : Conditions d'application (art. R321-39)](#633)
-        - [Chapitre Ier bis : Compétitions de jeux vidéo (art. R321-40 à R321-50)](#634)
-        - [Chapitre II : Loteries (art. D322-1 à D322-8)](#635)
-          - [Section 1 : Loteries d'objets mobiliers exclusivement destinées à des actes de bienfaisance, à l'encouragement des arts ou au financement d'activités sportives à but non lucratif (art. D322-1 à D322-3)](#636)
-          - [Section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines (art. D322-4)](#637)
-          - [Section 3 : Jeux et concours organisés par les publications de presse (art. D322-5 à D322-8)](#638)
-        - [Chapitre III : Dispositions communes (art. D323-4 à R323-5)](#639)
-        - [Chapitre IV : Dispositions pénales (art. R324-1 à R324-4)](#640)
-      - [TITRE III : FERMETURE ADMINISTRATIVE DE CERTAINS ÉTABLISSEMENTS (art. R332-1 à R333-1)](#641)
-        - [Chapitre II : Etablissements de vente à emporter de boissons alcoolisées ou d'aliments préparés sur place (art. R332-1)](#642)
-        - [Chapitre III : Etablissements diffusant de la musique (art. R333-1)](#643)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R341-1 à R346-2-1)](#644)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin (art. R341-1)](#645)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R342-1)](#646)
-        - [Chapitre III : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R343-1-A à R343-13)](#647)
-          - [Section 1 : Casinos (art. D343-2 à R343-12)](#648)
-          - [Section 2 : Dispositions pénales (art. R343-13)](#649)
-        - [Chapitre IV : Dispositions applicables en Polynésie française (art. R344-1 à R344-45)](#650)
-          - [Section 1 : Casinos (art. R344-4 à R344-36)](#651)
-            - [Sous-section 1 : Dispositions générales (art. R344-4 à R344-5)](#652)
-            - [Sous-section 2 : Autorisation d'ouverture et d'exploitation de jeux (art. R344-6 à R344-13)](#653)
-            - [Sous-section 3 : Jeux et appareils de jeux (art. R344-14 à R344-18)](#654)
-            - [Sous-section 4 : Accès aux salles de jeux (art. R344-19 à R344-21)](#655)
-            - [Sous-section 5 : Fonctionnement des casinos (art. R344-22 à R344-33)](#656)
-              - [Paragraphe 1 : Obligations (art. R344-22 à R344-27)](#657)
-              - [Paragraphe 2 : Employés (art. R344-28 à R344-33)](#658)
-            - [Sous-section 6 : Contrôle (art. R344-34)](#659)
-            - [Sous-section 7 : Conditions d'application (art. R344-35)](#660)
-            - [Sous-section 8 : Dispositions pénales (art. R344-36)](#661)
-          - [Section 2 : Loteries (art. R344-37 à R344-45)](#662)
-            - [Sous-section 1 : Loteries offertes au public et organisées dans un but social, culturel, scientifique, éducatif ou sportif (art. R344-37)](#663)
-            - [Sous-section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines ou des fêtes traditionnelles (art. R344-38 à R344-43)](#664)
-            - [Sous-section 3 : Contrôle (art. R344-44)](#665)
-            - [Sous-section 4 : Conditions d'application (art. R344-45)](#666)
-        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. D345-2 à R345-4)](#667)
-        - [Chapitre VI : Dispositions applicables à Wallis-et-Futuna (art. D346-1 à R346-2-1)](#668)
-    - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE (art. R411-1 à R448-2)](#669)
-      - [TITRE Ier : POLICE NATIONALE (art. R411-1 à R413-54)](#670)
-        - [Chapitre Ier : Missions et personnels  de la police nationale (art. R411-1 à R411-34)](#671)
-          - [Section 1 : Dispositions générales (art. R411-1)](#672)
-          - [Section 2 : Fonctionnaires actifs (art. R411-2 à R411-3)](#673)
-          - [Section 3 : Adjoints de sécurité (art. R411-4 à R411-12)](#674)
-            - [Sous-section 1 : Dispositions générales (art. R411-4)](#675)
-            - [Sous-section 2 : Missions (art. R411-5 à R411-7)](#676)
-            - [Sous-section 3 : Recrutement (art. R411-8 à R411-9)](#677)
-            - [Sous-section 4 : Formation et validation de l'expérience professionnelle (art. R411-10 à R411-12)](#678)
-          - [Section 4 : Réserve civile (art. D411-17 à R411-34)](#679)
-            - [Sous-section 1 : Dispositions communes aux réservistes de la police nationale (art. D411-17 à R411-16)](#680)
-            - [Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité (art. D411-25 à R411-24)](#681)
-            - [Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale (art. D411-31 à R411-30)](#682)
-            - [Sous-section 4 : Dispositions relatives aux réservistes ayant eu la qualité d'adjoint de sécurité pendant au moins trois ans (art. D411-35 à R411-34)](#683)
-        - [Chapitre III : Etablissements publics de la police nationale (art. R413-1 à R413-54)](#684)
-          - [Section 1 : Ecole nationale supérieure de la police (art. R413-1 à R413-26)](#685)
-            - [Sous-section 1 : Dispositions générales (art. R413-1 à R413-2)](#686)
-            - [Sous-section 2 : Organisation administrative (art. R413-3 à R413-16)](#687)
-            - [Sous-section 3 : Organisation pédagogique (art. R413-17 à R413-21)](#688)
-            - [Sous-section 4 : Organisation financière (art. R413-22 à R413-26)](#689)
-          - [Section 2 : Institut national de police scientifique (art. R413-27 à R413-54)](#690)
-            - [Sous-section 1 : Dispositions générales (art. R413-27 à R413-31)](#691)
-            - [Sous-section 2 : Organisation administrative (art. R413-32 à R413-41)](#692)
-            - [Sous-section 3 : Conseil scientifique (art. R413-42 à R413-46)](#693)
-            - [Sous-section 4 : Organisation financière (art. R413-47 à R413-54)](#694)
-      - [TITRE II : GENDARMERIE NATIONALE (art. R421-1)](#695)
-        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. R421-1)](#696)
-      - [TITRE III : DISPOSITIONS COMMUNES (art. R431-1 à R434-33)](#697)
-        - [Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques (art. R431-1 à R431-8)](#698)
-          - [Section 1 : Répartition des attributions (art. R431-1 à R431-5)](#699)
-          - [Section 2 : Organisation de la coopération (art. R431-6 à R431-8)](#700)
-        - [Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale (art. R434-1 à R434-33)](#701)
-          - [Section 1 : Dispositions générales (art. R434-1 à R434-3)](#702)
-          - [Section 2 : Principes généraux (art. R434-4 à R434-13)](#703)
-            - [Sous-section 1 : Autorité et protection (art. R434-4 à R434-7)](#704)
-            - [Sous-section 2 : Devoirs du policier et du gendarme (art. R434-8 à R434-13)](#705)
-          - [Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale (art. R434-14 à R434-27)](#706)
-            - [Sous-section 1 : Relation avec la population et respect des libertés (art. R434-14 à R434-22)](#707)
-            - [Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie (art. R434-23 à R434-27)](#708)
-          - [Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale (art. R434-28 à R434-33)](#709)
-            - [Sous-section 1 : Dispositions propres à la police nationale (art. R434-28 à R434-30)](#710)
-            - [Sous-section 2 : Dispositions propres à la gendarmerie nationale (art. R434-31 à R434-33)](#711)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R441-1 à R448-2)](#712)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. R441-1)](#713)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R442-1)](#714)
-        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. R443-1)](#715)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R444-1)](#716)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. R445-1 à R445-2)](#717)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R446-1 à R446-2)](#718)
-        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. R447-1 à R447-2)](#719)
-        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. R448-1 à R448-2)](#720)
-    - [LIVRE V : POLICES MUNICIPALES (art. R511-1 à R546-6)](#721)
-      - [TITRE Ier : AGENTS DE POLICE MUNICIPALE (art. R511-1 à R515-21)](#722)
-        - [Chapitre Ier : Missions, recrutement et modalités d'exercice (art. R511-1 à R511-42)](#723)
-          - [Section 1 : Missions (art. R511-1)](#724)
-          - [Section 2 : Nomination et agrément (art. R511-2)](#725)
-          - [Section 3 : Carte professionnelle, tenue et équipements (art. D511-3 à D511-10)](#726)
-            - [Sous-section 1 : Carte professionnelle (art. D511-3 à D511-5)](#727)
-            - [Sous-section 2 : Tenue (art. D511-6 à D511-8)](#728)
-            - [Sous-section 3 : Véhicules (art. D511-9 à D511-10)](#729)
-          - [Section 4 : Port d'armes (art. R511-11 à R511-34)](#730)
-            - [Sous-section 1 : Armement des agents de police municipale (art. R511-12 à R511-29)](#731)
-              - [Paragraphe 1 : Armes susceptibles d'être autorisées (art. R511-12 à R511-13)](#732)
-              - [Paragraphe 2 : Missions pouvant justifier le port d'armes (art. R511-14 à R511-17)](#733)
-              - [Paragraphe 3 : Autorisation (art. R511-18 à R511-20)](#734)
-              - [Paragraphe 4 : Formation et entraînement (art. R511-21 à R511-22-2)](#735)
-              - [Paragraphe 5 : Conditions de port et d'emploi des armes (art. R511-23 à R511-29)](#736)
-            - [Sous-section 2 : Acquisition, détention  et conservation des armes par la commune (art. R511-30 à R511-34)](#737)
-          - [Section 5 : Formation continue (art. R511-35 à R511-40)](#738)
-          - [Section 6 : Dispositions diverses (art. D511-41 à R511-42)](#739)
-        - [Chapitre II : Organisation des services (art. R512-1 à R512-8)](#740)
-          - [Section 1 : Mise en commun des agents de police municipale (art. R512-1 à R512-4)](#741)
-          - [Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat (art. R512-5 à R512-6)](#742)
-          - [Section 3 : Convention locale de sûreté des transports collectifs (art. R512-7 à R512-8)](#743)
-        - [Chapitre IV : Commission consultative des polices municipales (art. R514-1 à R514-11)](#744)
-          - [Section 1 : Composition (art. R514-1 à R514-5)](#745)
-          - [Section 2 : Fonctionnement (art. R514-6 à R514-11)](#746)
-        - [Chapitre V : Déontologie des agents de police municipale (art. R515-1 à R515-21)](#747)
-          - [Section 1 : Dispositions générales (art. R515-1 à R515-6)](#748)
-          - [Section 2 : Devoirs généraux des agents de police municipale (art. R515-7 à R515-16)](#749)
-          - [Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement (art. R515-17 à R515-20)](#750)
-          - [Section 4 : Du contrôle des polices municipales (art. R515-21)](#751)
-      - [TITRE II : GARDES CHAMPÊTRES (art. R521-1 à R522-2)](#752)
-        - [Chapitre Ier : Missions (art. R521-1)](#753)
-        - [Chapitre II : Nomination, agrément et modalités d'exercice (art. D522-3 à R522-2)](#754)
-      - [TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS (art. R531-1 à R532-1)](#755)
-        - [Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police (art. R531-1 à R531-11)](#756)
-          - [Section 1 : Missions (art. R531-1 à R531-2)](#757)
-          - [Section 2 : Recrutement et agrément (art. R531-3 à R531-9)](#758)
-          - [Section 3 : Carte professionnelle, tenue et équipements (art. R531-10)](#759)
-          - [Section 4 : Convention de coordination avec la police nationale (art. R531-11)](#760)
-        - [Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police (art. R532-1)](#761)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R542-1 à R546-6)](#762)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R542-1)](#763)
-        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R543-1)](#764)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R544-1)](#765)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. D545-2 à R545-5)](#766)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D546-1-1 à R546-6)](#767)
-    - [LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R611-1 à R648-1)](#768)
-      - [TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES (art. R611-1 à R617-5)](#769)
-        - [Chapitre Ier : Dispositions générales (art. R611-1 à R611-2)](#770)
-        - [Chapitre II : Conditions d'exercice (art. R612-1 à R612-42)](#771)
-          - [Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales (art. R612-1 à R612-4)](#772)
-          - [Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales (art. R612-5 à R612-11)](#773)
-          - [Section 3 : Autorisation d'exercice des employés (art. R612-12 à R612-23)](#774)
-            - [Sous-section 1 : Délivrance de la carte professionnelle (art. R612-12 à R612-18-1)](#775)
-            - [Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice (art. R612-19 à R612-23)](#776)
-          - [Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés (art. R612-24 à R612-42)](#777)
-            - [Sous-section 1 : Dispositions générales (art. R612-24 à R612-32)](#778)
-            - [Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants (art. R612-33 à R612-36)](#779)
-            - [Sous-section 3 : Dispositions spécifiques aux employés (art. R612-37 à R612-42)](#780)
-        - [Chapitre III : Modalités d'exercice (art. R613-1 à R613-92)](#781)
-          - [Section 1 : Dispositions générales (art. R613-1 à R613-4)](#782)
-            - [Sous-section 1 : Tenue (art. R613-1 à R613-2)](#783)
-            - [Sous-section 2 : Activités exercées avec le port d'une arme (art. R613-3 à R613-3-7)](#784)
-              - [Paragraphe 1 : Catégories et types d'arme (art. R613-3)](#785)
-              - [Paragraphe 2 : Acquisition et détention (art. R613-3-1)](#786)
-              - [Paragraphe 3 : Importation (art. R613-3-2)](#787)
-              - [Paragraphe 4 : Transport (art. R613-3-3)](#788)
-              - [Paragraphe 5 : Conservation (art. R613-3-4 à R613-3-5)](#789)
-              - [Paragraphe 6 : Conditions particulières d'usage (art. R613-3-6 à R613-3-7)](#790)
-            - [Sous-section 3 : Véhicules (art. R613-4)](#791)
-          - [Section 2 : Activités de surveillance et de gardiennage (art. R613-5 à R613-19)](#792)
-            - [Sous-section 1 : Missions (art. R613-5 à R613-16-3)](#793)
-              - [Paragraphe 1 : Autorisation de la surveillance des biens sur la voie publique (art. R613-5)](#794)
-              - [Paragraphe 2 : Agrément des employés des entreprises de surveillance et de gardiennage pour l'inspection visuelle et la fouille des bagages à main et les palpations de sécurité (art. R613-6 à R613-9)](#795)
-              - [Paragraphe 3 : Agrément des membres des services d'ordre affectés à la sécurité d'une manifestation sportive, récréative ou culturelle (art. R613-10 à R613-15)](#796)
-              - [Paragraphe 4 : Utilisation de chiens (art. R613-16)](#797)
-              - [Paragraphe 5 : Utilisation des armes de la catégorie D (art. R613-16-1 à R613-16-3)](#798)
-            - [Sous-section 2 : Coordination avec les services de la police nationale et de la gendarmerie nationale (art. D613-17 à R613-19)](#799)
-          - [Section 2 bis : Activités de surveillance armée (art. R613-23-1 à R613-23-11)](#800)
-            - [Sous-section 1 : Conditions d'exercice (art. R613-23-1 à R613-23-4)](#801)
-            - [Sous-section 2 : Acquisition et détention (art. R613-23-5)](#802)
-            - [Sous-section 3 : Port d'armes (art. R613-23-6 à R613-23-10)](#803)
-            - [Sous-section 4 : Conservation des armes (art. R613-23-11)](#804)
-          - [Section 3 : Activités de transport de fonds (art. R613-24 à D613-87)](#805)
-            - [Sous-section 1 : Dispositions générales (art. R613-24 à R613-34)](#806)
-            - [Sous-section 2 : Véhicules de transport de fonds (art. R613-35 à R613-39)](#807)
-            - [Sous-section 3 : Tenue (art. R613-40)](#808)
-            - [Sous-section 4 : Port d'arme (art. R613-41 à R613-44)](#809)
-            - [Sous-section 5 : Dispositifs de neutralisation (art. R613-47 à R613-58)](#810)
-              - [Paragraphe 1 : Fonds transportés (art. R613-47 à R613-52)](#811)
-              - [Paragraphe 2 : Fonds délivrés ou déposés dans un automate bancaire (art. R613-53 à R613-56)](#812)
-              - [Paragraphe 3 : Commission technique (art. R613-57 à R613-58)](#813)
-            - [Sous-section 6 : Sécurisation des locaux des entreprises de transports de fonds (art. D613-59)](#814)
-            - [Sous-section 7 : Sécurisation des locaux des personnes faisant appel aux entreprises de transport de fonds et de leurs accès (art. D613-60 à D613-75)](#815)
-              - [Paragraphe 1 : Dispositions générales (art. D613-60 à D613-71)](#816)
-              - [Paragraphe 2 : Dispositions spécifiques applicables aux personnes exploitant des magasins de commerce de détail ou faisant partie d'un ensemble commercial (art. D613-72 à D613-73)](#817)
-              - [Paragraphe 3 : Dispositions spécifiques applicables aux locaux abritant des distributeurs et guichets automatiques de banque (art. D613-74 à D613-75)](#818)
-            - [Sous-section 9 : Commission départementale de la sécurité des transports de fonds (art. D613-84 à D613-87)](#819)
-          - [Section 4 : Activités de protection de l'intégrité physique des personnes (art. R613-88 à R613-92)](#820)
-            - [Sous-section unique : Port d'armes (art. R613-88 à R613-92)](#821)
-        - [Chapitre IV : Services de sécurité des bailleurs d'immeuble (art. R614-1 à R614-10)](#822)
-          - [Section 1 : Conditions d'acquisition, de détention et de conservation des armes par les personnes morales (art. R614-1 à R614-3)](#823)
-          - [Section 2 : Autorisation de port d'arme individuel (art. R614-4 à R614-5)](#824)
-          - [Section 3 : Formation préalable (art. R614-6 à R614-8)](#825)
-          - [Section 4 : Conditions de port et de conservation des armes par les employés (art. R614-9 à R614-10)](#826)
-        - [Chapitre VI : Activité privée de protection des navires (art. R616-1 à R616-14)](#827)
-          - [Section 1 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales (art. R616-2 à R616-5)](#828)
-            - [Sous-section 1 : Certification des entreprises privées de protection des navires (art. R616-2)](#829)
-            - [Sous-section 2 : Autorisation d'exercice provisoire des entreprises privées de protection des navires (art. R616-3 à R616-5)](#830)
-          - [Section 2 : Autorisation d'exercice des employés (art. R616-6 à R616-10)](#831)
-            - [Sous-section  1 : Délivrance de la carte professionnelle (art. R616-6 à R616-9)](#832)
-            - [Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle (art. R616-10)](#833)
-          - [Section 3 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés (art. R616-11 à R616-13)](#834)
-          - [Section 4 : Constatation des infractions pénales à bord des navires (art. R616-14)](#835)
-        - [Chapitre VII : Dispositions pénales (art. R617-1 à R617-5)](#836)
-          - [Section 1 : Dispositions générales (art. R617-1)](#837)
-          - [Section 2 : Activités de surveillance et de gardiennage (art. R617-2 à R617-3)](#838)
-          - [Section 2 bis : Activités de surveillance armée (art. R617-3-1)](#839)
-          - [Section 3 : Activités de transport de fonds (art. R617-4)](#840)
-          - [Section 4 : Activités de protection physique des personnes (art. R617-5)](#841)
-      - [TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES (art. R621-1 à R624-1)](#842)
-        - [Chapitre Ier : Dispositions générales (art. R621-1)](#843)
-        - [Chapitre II : Conditions d'exercice (art. R622-1 à R622-35)](#844)
-          - [Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales (art. R622-1 à R622-3-2)](#845)
-          - [Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales (art. R622-4 à R622-9)](#846)
-          - [Section 3 : Autorisation d'exercice des employés (art. R622-10 à R622-21)](#847)
-            - [Sous-section 1 : Délivrance de la carte professionnelle (art. R622-10 à R622-16)](#848)
-            - [Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice (art. R622-17 à R622-21)](#849)
-          - [Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés (art. R622-22 à R622-35)](#850)
-            - [Sous-section 1 : Dispositions générales (art. R622-22 à R622-27)](#851)
-            - [Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants (art. R622-28 à R622-31)](#852)
-            - [Sous-section 3 : Dispositions spécifiques aux employés (art. R622-34 à R622-35)](#853)
-        - [Chapitre IV : Dispositions pénales (art. R624-1)](#854)
-      - [TITRE II BIS : FORMATION AUX ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R625-1 à R625-21)](#855)
-        - [Chapitre Ier : Dispositions générales (art. R625-1)](#856)
-        - [Chapitre II : Conditions d'exercice (art. R625-2 à R625-20)](#857)
-          - [Section 1 : Autorisation d'exercice des prestataires de formation (art. R625-2 à R625-6)](#858)
-          - [Section 2 : Certification des prestataires de formation (art. R625-7)](#859)
-          - [Section 3 : Formation continue (art. R625-8)](#860)
-          - [Section 4 : Obligations des prestataires de formation (art. R625-9 à R625-20)](#861)
-        - [Chapitre III : Dispositions pénales (art. R625-21)](#862)
-      - [TITRE III : CONSEIL NATIONAL DES ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R631-1 à R635-1)](#863)
-        - [Chapitre Ier : Dispositions générales (art. R631-1 à R631-32)](#864)
-          - [Section unique :  Code de déontologie des personnes physiques ou morales exerçant des activités privées de sécurité (art. R631-1 à R631-32)](#865)
-            - [Sous-section 1 : Dispositions générales (art. R631-1 à R631-3)](#866)
-            - [Sous-section 2 : Devoirs communs à tous les acteurs de la sécurité privée (art. R631-4 à R631-14)](#867)
-            - [Sous-section 3 : Devoirs des entreprises et de leurs dirigeants (art. R631-15 à R631-24)](#868)
-            - [Sous-section 4 : Devoirs des salariés (art. R631-25 à R631-27)](#869)
-            - [Sous-section 5 : Devoirs spécifiques à certaines activités (art. R631-28 à R631-32)](#870)
-              - [Paragraphe 1 : Profession libérale de recherches privées (art. R631-28 à R631-31)](#871)
-              - [Paragraphe 2 : Activité cynophile (art. R631-32)](#872)
-        - [Chapitre II : Missions et fonctionnement du Conseil national des activités privées de sécurité (art. R632-1 à R632-23)](#873)
-          - [Section 1 : Dispositions générales (art. R632-1)](#874)
-          - [Section 2 : Organisation administrative et fonctionnement (art. R632-2 à R632-23)](#875)
-            - [Sous-section 1 : Collège (art. R632-2 à R632-8)](#876)
-            - [Sous-section 2 : Commission nationale d'agrément et de contrôle (art. R632-9 à R632-12)](#877)
-            - [Sous-section 3 : Directeur et agents du Conseil national des activités privées de sécurité (art. R632-13 à R632-16-1)](#878)
-            - [Sous-section 4 : Organisation financière (art. R632-17 à R632-19)](#879)
-            - [Sous-section 5 : Dispositions communes au collège et à la Commission nationale d'agrément et de contrôle (art. R632-20 à R632-23)](#880)
-        - [Chapitre III : Commissions locales d'agrément et de contrôle (art. R633-1 à R633-10)](#881)
-          - [Section 1 : Organisation administrative et fonctionnement (art. R633-1 à R633-6)](#882)
-          - [Section 2 : Procédures devant les commissions locales  d'agrément et de contrôle (art. R633-7 à R633-10)](#883)
-        - [Chapitre IV : Contrôles (art. R634-1 à R634-7)](#884)
-          - [Section 1 : Exercice de l'action disciplinaire (art. R634-1 à R634-2)](#885)
-          - [Section 2 : Sanctions disciplinaires (art. R634-3 à R634-7)](#886)
-        - [Chapitre V : Dispositions finales (art. R635-1)](#887)
-      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R641-1 à R648-1)](#888)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. R641-1)](#889)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. D642-2 à R642-1)](#890)
-        - [Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin (art. D643-2 à R643-1)](#891)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. D644-2 à R644-1)](#892)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. D645-2 à R645-4)](#893)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D646-2 à R646-4)](#894)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. D647-2 à R647-4)](#895)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R648-1)](#896)
-    - [LIVRE VII : SÉCURITÉ CIVILE (art. D711-10 à R768-6)](#897)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D711-10 à D711-12)](#898)
-        - [Chapitre unique :  Missions de la sécurité civile (art. D711-10 à D711-12)](#899)
-          - [Section 2 : Conseil départemental de sécurité civile (art. D711-10 à D711-12)](#900)
-      - [TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE (art. R723-1 à R725-13)](#901)
-        - [Chapitre III : Sapeurs-pompiers (art. R723-1 à R723-91)](#902)
-          - [Section unique :  Sapeurs-pompiers volontaires (art. R723-1 à R723-91)](#903)
-            - [Sous-section 1 : Dispositions générales (art. R723-1 à R723-5)](#904)
-            - [Sous-section 2 : Engagement citoyen (art. D723-8 à R723-63)](#905)
-              - [Paragraphe 1 : Engagements des sapeurs-pompiers volontaires (art. D723-8 à R723-12)](#906)
-                - [Sous-paragraphe  1 : Premier engagement de sapeur-pompier volontaire (art. D723-8 à R723-10)](#907)
-                - [Sous-paragraphe  2 : Premier grade (art. R723-11 à R723-12)](#908)
-              - [Paragraphe 2 : Gestion (art. R723-13 à R723-14)](#909)
-              - [Paragraphe 3 : Déroulement du volontariat (art. R723-15 à R723-56)](#910)
-                - [Sous-paragraphe  1 : Période probatoire (art. R723-15)](#911)
-                - [Sous-paragraphe  2 : Formation (art. R723-16)](#912)
-                - [Sous-paragraphe  3 : Changements de grade (art. R723-17 à R723-34)](#913)
-                - [Sous-paragraphe  4 : Discipline (art. R723-35 à R723-44)](#914)
-                - [Sous-paragraphe  5 : Renouvellement de l'engagement (art. R723-45)](#915)
-                - [Sous-paragraphe  6 : Suspension de l'engagement (art. R723-46 à R723-50)](#916)
-                - [Sous-paragraphe  7 : Changement d'autorité de gestion (art. R723-51)](#917)
-                - [Sous-paragraphe  8 : Cessation d'activité (art. R723-52 à R723-56)](#918)
-              - [Paragraphe 4 : Distinctions (art. R723-61 à R723-63)](#919)
-                - [Sous-paragraphe  2 : Honorariat (art. R723-61 à R723-63)](#920)
-            - [Sous-section 3 : Instances consultatives (art. D723-64 à R723-78)](#921)
-              - [Paragraphe 1 : Conseil national des sapeurs-pompiers volontaires (art. D723-64 à D723-72)](#922)
-              - [Paragraphe 2 : Comité consultatif départemental des sapeurs-pompiers volontaires (art. R723-73)](#923)
-              - [Paragraphe 3 : Comité de centre ou intercentres d'incendie et de secours (art. R723-74)](#924)
-              - [Paragraphe 4 : Comité consultatif communal ou intercommunal de sapeurs-pompiers volontaires (art. R723-75)](#925)
-              - [Paragraphe 5 : Commission nationale de changement de grade des officiers de sapeurs-pompiers volontaires (art. R723-76)](#926)
-              - [Paragraphe 6 : Conseil de discipline départemental (art. R723-77)](#927)
-              - [Paragraphe 7 : Dispositions communes (art. R723-78)](#928)
-            - [Sous-section 4 : Catégories particulières de sapeurs-pompiers volontaires (art. R723-79 à R723-91)](#929)
-              - [Paragraphe 1 : Membres du service de santé et de secours médical (art. R723-79 à R723-85)](#930)
-              - [Paragraphe 2 : Sapeurs-pompiers professionnels, personnels militaires et personnels de l'aviation civile (art. R723-86 à R723-87)](#931)
-              - [Paragraphe 3 : Jeunes sapeurs-pompiers et personnels issus des professions de la sécurité (art. R723-88 à R723-89)](#932)
-              - [Paragraphe 4 : Experts (art. R723-90)](#933)
-              - [Paragraphe 5 : Engagements saisonniers (art. R723-91)](#934)
-        - [Chapitre V : Associations de sécurité civile (art. R725-1 à R725-13)](#935)
-          - [Section 1 : Agrément des associations (art. R725-1 à R725-12)](#936)
-            - [Sous-section 1 : Dispositions générales (art. R725-1 à R725-4)](#937)
-            - [Sous-section 2 : Procédure d'agrément (art. R725-5 à R725-9)](#938)
-            - [Sous-section 3 : Obligations de l'association agréée (art. R725-10 à R725-11)](#939)
-            - [Sous-section 4 : Dispositions particulières à Paris et aux départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne (art. R725-12)](#940)
-          - [Section 2 : Participation des associations agréées aux opérations de secours (art. R725-13)](#941)
-      - [TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION (art. R731-1 à R733-16)](#942)
-        - [Chapitre Ier : Prévention des risques (art. R731-1 à R731-10)](#943)
-        - [Chapitre II : Obligations en matière de sécurité civile (art. R732-1 à R732-34)](#944)
-          - [Section 1 : Maintien de la satisfaction des besoins prioritaires de la population (art. R732-1 à R732-8)](#945)
-          - [Section 2 : Capacité suffisante de communication radioélectrique des services de secours (art. R732-9 à R732-10)](#946)
-          - [Section 3 : Interopérabilité des réseaux (art. D732-11)](#947)
-          - [Section 3 bis : Agence du numérique de la sécurité civile (art. R732-11-1 à D732-11-20)](#948)
-            - [Sous-section 1 : Dispositions générales (art. R732-11-1 à R732-11-4)](#949)
-            - [Sous-section 2 : Organisation administrative (art. R732-11-5 à R732-11-15)](#950)
-            - [Sous-section 3 : Organisation financière (art. R732-11-16 à R732-11-18)](#951)
-            - [Sous-section 4 : Gestion du système d'information et de commandement unifié "NexSIS 18-112" (art. D732-11-19 à D732-11-20)](#952)
-          - [Section 3 ter : Système d'information et de commandement unifié "NexSIS 18-112" (art. D732-11-21 à D732-11-23)](#953)
-          - [Section 4 : Alimentation en énergie des établissements de santé (art. R732-12 à R732-18)](#954)
-            - [Sous-section 1 : Sécurité des établissements de santé en cas de défaillance du réseau d'énergie (art. R732-12 à R732-14)](#955)
-            - [Sous-section 2 : Sécurité des personnes hébergées dans des établissements médico-sociaux en cas de défaillance du réseau d'énergie (art. R732-15 à R732-18)](#956)
-          - [Section 5 : Code d'alerte national (art. R732-19 à R732-34)](#957)
-            - [Sous-section 1 : Dispositions générales (art. R732-19 à R732-21)](#958)
-            - [Sous-section 2 : Alerte (art. R732-22 à R732-27)](#959)
-            - [Sous-section 3 : Diffusion des consignes de sécurité à la population par les services de radiodiffusion sonore et de télévision (art. R732-28 à R732-29)](#960)
-            - [Sous-section 4 : Fin de l'alerte (art. R732-30 à R732-32)](#961)
-            - [Sous-section 5 : Fonctionnement et maintenance des dispositifs d'alerte (art. R732-33 à R732-34)](#962)
-        - [Chapitre III : Déminage (art. R733-1 à R733-16)](#963)
-          - [Section 1 : Compétences respectives des services placés sous l'autorité du ministre chargé de la sécurité civile et du ministre de la défense en matière de recherche, de neutralisation, d'enlèvement et de destruction des munitions et des explosifs (art. R733-1 à R733-2)](#964)
-          - [Section 2 : Modalités de traitement de la pollution pyrotechnique des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur (art. R733-3 à R733-13)](#965)
-            - [Sous-section 1 : Dispositions générales (art. R733-3 à R733-7)](#966)
-            - [Sous-section 2 : Dispositions relatives aux opérations de dépollution pyrotechnique effectuées dans le cadre d'un changement d'utilisation ou de la délivrance d'un titre d'occupation (art. R733-8)](#967)
-            - [Sous-section 3 : Dispositions relatives aux opérations de dépollution pyrotechnique dans le cadre des cessions des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur (art. R733-9 à R733-12)](#968)
-            - [Sous-section 4 : Attestations (art. R733-13)](#969)
-          - [Section 3 : Coopération interministérielle (art. R733-14 à R733-15)](#970)
-          - [Section 4 : Dispositions diverses (art. R733-16)](#971)
-      - [TITRE IV : ORGANISATION DES SECOURS ET GESTION DES CRISES (art. R741-1 à D742-21)](#972)
-        - [Chapitre Ier : Planification opérationnelle (art. R741-1 à R741-48)](#973)
-          - [Section 1 : Plans Orsec (art. R741-1 à R741-17)](#974)
-            - [Sous-section 1 : Principes communs des plans Orsec (art. R741-1 à R741-6)](#975)
-            - [Sous-section 2 : Plan Orsec départemental (art. R741-7 à R741-10)](#976)
-            - [Sous-section 3 : Plan Orsec de zone (art. R741-11 à R741-14)](#977)
-            - [Sous-section 4 : Plan Orsec maritime (art. R741-15 à R741-17)](#978)
-          - [Section 2 : Plans particuliers d'intervention (art. R741-18 à R741-38)](#979)
-            - [Sous-section 1 : Caractéristiques des installations et ouvrages dont les risques imposent un plan particulier d'intervention (art. R741-18 à R741-20)](#980)
-            - [Sous-section 2 : Contenu du plan particulier d'intervention (art. R741-21 à R741-23)](#981)
-            - [Sous-section 3 : Procédures de consultation, d'adoption et de publicité (art. R741-24 à R741-32)](#982)
-            - [Sous-section 4 : Plans particuliers d'intervention concernant certains aménagements hydrauliques (art. R741-33 à R741-38)](#983)
-          - [Section 3 : Planifications opérationnelles propres des acteurs concourant à la sécurité civile (art. R741-39 à R741-48)](#984)
-            - [Sous-section 1 : Plan d'opération interne des installations classées pour la protection de l'environnement (art. R741-39 à R741-40)](#985)
-            - [Sous-section 2 : Plan de sécurité et d'intervention des canalisations de transport de gaz, d'hydrocarbures ou de produits chimiques (art. R741-41)](#986)
-            - [Sous-section 3 : Plan d'intervention et de sécurité d'ouvrages et d'infrastructures de transport (art. R741-42 à R741-44)](#987)
-            - [Sous-section 4 : Plan interne de crise pour le maintien de la satisfaction des besoins prioritaires de la population (art. R741-45)](#988)
-            - [Sous-section 5 : Préparation du système de santé (art. R741-46)](#989)
-            - [Sous-section 6 : Plan d'organisation des établissements assurant l'hébergement des personnes âgées (art. D741-47)](#990)
-            - [Sous-section 7 : Plan d'alerte et d'urgence au profit des personnes âgées et des personnes handicapées (art. R741-48)](#991)
-        - [Chapitre II : Opérations de secours (art. R*742-1 à D742-21)](#992)
-          - [Section 1 : Secours, recherche et sauvetage des personnes en détresse en mer (art. R*742-1 à R742-15)](#993)
-          - [Section 2 : Recherche et sauvetage des aéronefs en détresse en temps de paix (art. D742-16 à D742-21)](#994)
-      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D761-4 à R768-6)](#995)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. D761-4 à R761-3)](#996)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. D762-4 à R762-3)](#997)
-        - [Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin (art. D763-6 à R763-5)](#998)
-        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. D764-6 à R764-5)](#999)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. D765-3 à R765-7)](#1000)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D766-3 à R766-6)](#1001)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. D767-3 à R767-7)](#1002)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. D768-3 à R768-6)](#1003)
-    - [LIVRE VIII : DU RENSEIGNEMENT (art. R811-1 à R898-1)](#1004)
-      - [TITRE IER : DISPOSITIONS GÉNÉRALES (art. R811-1 à R811-2)](#1005)
-      - [TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R821-1 à R823-2)](#1006)
-        - [Chapitre Ier : De l'autorisation de mise en œuvre (art. R821-1)](#1007)
-        - [Chapitre III : Des organes compétents (art. D823-3 à R823-2)](#1008)
-      - [TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT (art. R841-2)](#1009)
-      - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R851-1 à R853-3)](#1010)
-        - [Chapitre Ier : Des accès administratifs aux données de connexion (art. R851-1 à R851-10)](#1011)
-          - [Section 1 : Services autres que les services spécialisés de renseignement pouvant être autorisés à accéder aux données de connexion (art. R851-1 à R851-4)](#1012)
-          - [Section 2 : Données de connexion susceptibles d'être recueillies (art. R851-5)](#1013)
-          - [Section 3 : Conditions d'accès aux données de connexion (art. R851-6 à R851-10)](#1014)
-        - [Chapitre II : Des interceptions de sécurité (art. R852-1 à R852-3)](#1015)
-        - [Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques (art. R853-1 à R853-3)](#1016)
-      - [TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE (art. R855-1)](#1017)
-      - [TITRE VII : OBLIGATIONS DES OPÉRATEURS ET PRESTATAIRES DE SERVICES (art. R871-1 à R873-2)](#1018)
-        - [Chapitre Ier : Obligations en matière de cryptologie (art. R871-1 à R871-5)](#1019)
-        - [Chapitre II : Obligations liées à la mise en place des techniques de renseignement (art. R872-1 à R872-6)](#1020)
-        - [Chapitre III : Compensations financières (art. R873-1 à R873-2)](#1021)
-      - [TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R891-1 à R898-1)](#1022)
-        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. R891-1)](#1023)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. R892-1)](#1024)
-        - [Chapitre V : Dispositions applicables en Polynésie française (art. R895-1)](#1025)
-        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R896-1 à R896-2)](#1026)
-        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. R897-1)](#1027)
-        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R898-1)](#1028)
-    - [Annexes (art. Annexe 1 à Annexe 4)](#1029)
+      - [Titre II BIS : FORMATIONS AUX PREMIERS SECOURS (art. L726-1 à L726-2)](#301)
+        - [Chapitre Ier : Autorisations de prestation de formation aux premiers secours (art. L726-1)](#302)
+        - [Chapitre II : Enseignement à la pratique des premiers secours (art. L726-2)](#303)
+      - [TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION (art. L731-1 à L733-3)](#304)
+        - [Chapitre Ier : Prévention des risques (art. L731-1 à L731-3)](#305)
+          - [Section 1 : Information sur les risques majeurs (art. L731-1)](#306)
+          - [Section 2 : Schéma départemental d'analyse  et de couverture des risques (art. L731-2)](#307)
+          - [Section 3 : Plan communal de sauvegarde (art. L731-3)](#308)
+        - [Chapitre II : Obligations en matière de sécurité civile (art. L732-1 à L732-7)](#309)
+          - [Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population (art. L732-1 à L732-2)](#310)
+          - [Section 2 : Capacité suffisante de communication  radioélectrique des services de secours (art. L732-3 à L732-4)](#311)
+          - [Section 3 : Interopérabilité des réseaux (art. L732-5)](#312)
+          - [Section 4 : Alimentation en énergie des établissements de santé (art. L732-6)](#313)
+          - [Section 5 : Code d'alerte national (art. L732-7)](#314)
+        - [Chapitre III : Déminage (art. L733-1 à L733-3)](#315)
+      - [TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES (art. L741-1 à L742-15)](#316)
+        - [Chapitre Ier : Planification opérationnelle (art. L741-1 à L741-6)](#317)
+          - [Section 1 : Plans Orsec (art. L741-1 à L741-5)](#318)
+          - [Section 2 : Plans particuliers d'intervention (art. L741-6)](#319)
+        - [Chapitre II : Opérations de secours (art. L742-1 à L742-15)](#320)
+          - [Section 1 : Direction des opérations de secours (art. L742-1 à L742-7)](#321)
+          - [Section 2 : Secours aux personnes en détresse (art. L742-8 à L742-10)](#322)
+          - [Section 3 : Prise en charge des dépenses de secours (art. L742-11)](#323)
+          - [Section 4 : Réquisitions (art. L742-12 à L742-15)](#324)
+      - [TITRE V : ÉVALUATION ET CONTRÔLE (art. L751-1 à L752-1)](#325)
+        - [Chapitre Ier : Missions d'évaluation et de contrôle (art. L751-1 à L751-2)](#326)
+        - [Chapitre II : Dispositions pénales (art. L752-1)](#327)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L761-1 à L768-2)](#328)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. L761-1)](#329)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L762-1 à L762-3)](#330)
+        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L763-1)](#331)
+        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. L764-1 à L764-2)](#332)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. L765-1 à L765-3)](#333)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L766-1 à L766-4)](#334)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L767-1 à L767-2)](#335)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. L768-1 à L768-2)](#336)
+    - [LIVRE VIII : DU RENSEIGNEMENT (art. L801-1 à L898-1)](#337)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. L811-1 à L811-4)](#338)
+      - [TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. L821-1 à L822-4)](#339)
+        - [Chapitre Ier : De l'autorisation de mise en œuvre (art. L821-1 à L821-8)](#340)
+        - [Chapitre II : Des renseignements collectés (art. L822-1 à L822-4)](#341)
+      - [TITRE III : DE LA COMMISSION NATIONALE DE CONTRÔLE DES TECHNIQUES DE RENSEIGNEMENT (art. L831-1 à L833-11)](#342)
+        - [Chapitre Ier : Composition et organisation (art. L831-1 à L831-2)](#343)
+        - [Chapitre II : Règles de déontologie et de fonctionnement (art. L832-2 à L832-5)](#344)
+        - [Chapitre III : Missions (art. L833-1 à L833-11)](#345)
+      - [TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ETAT (art. L841-1 à L841-2)](#346)
+      - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION (art. L851-1 à L855-1 C)](#347)
+        - [Chapitre Ier :  Des accès administratifs aux données de connexion (art. L851-1 à L851-7)](#348)
+        - [Chapitre II : Des interceptions de sécurité (art. L852-1 à L852-2)](#349)
+        - [Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques (art. L853-1 à L853-3)](#350)
+        - [Chapitre IV : Des mesures de surveillance des communications électroniques internationales (art. L854-1 à L854-9)](#351)
+        - [Chapitre V : Des mesures de surveillance de certaines communications hertziennes (art. L855-1 A à L855-1 C)](#352)
+      - [TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE (art. L855-1)](#353)
+      - [TITRE VI : DES AGENTS DES SERVICES SPECIALISES DE RENSEIGNEMENT (art. L861-1 à L863-2)](#354)
+        - [Chapitre Ier : De la protection du secret de la défense nationale et de l'anonymat des agents (art. L861-1 à L861-3)](#355)
+        - [Chapitre II : De la protection juridique des agents (art. L862-1 à L862-2)](#356)
+        - [Chapitre III : De l'information des services de renseignement (art. L863-1 à L863-2)](#357)
+      - [TITRE VII : OBLIGATIONS DES OPERATEURS ET PRESTATAIRES DE SERVICES (art. L871-1 à L871-7)](#358)
+      - [TITRE VIII : DISPOSITIONS PENALES (art. L881-1 à L881-2)](#359)
+      - [TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L895-1 à L898-1)](#360)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. L895-1 à L895-2)](#361)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. L896-1 à L896-2)](#362)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. L897-1 à L897-2)](#363)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. L898-1)](#364)
+  - [Partie réglementaire (art. R113-1 à Annexe 4)](#365)
+    - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. R113-1 à R158-5)](#366)
+      - [TITRE Ier : PRINCIPES GÉNÉRAUX DE LA SÉCURITÉ INTÉRIEURE (art. R113-1 à R114-10)](#367)
+        - [Chapitre III : Protection juridique des personnes  concourant à la sécurité intérieure (art. R113-1 à R113-2)](#368)
+        - [Chapitre IV : Enquêtes administratives (art. R114-1 à R114-10)](#369)
+          - [Section 1  :  Enquêtes administratives en application de l'article L. 114-1 (art. R114-1 à R114-6)](#370)
+          - [Section 2 : Conséquences des enquêtes administratives en application du IV de l'article L. 114-1 (art. R114-6-1 à R114-6-6)](#371)
+          - [Section 3 : Enquêtes administratives en application de l'article L. 114-2 (art. R114-7 à R114-10)](#372)
+      - [TITRE II : ORGANISATION ADMINISTRATIVE (art. R*121-1 à R123-31-1)](#373)
+        - [Chapitre Ier : Institutions nationales (art. R*121-1)](#374)
+        - [Chapitre II : Préfets (art. R*122-1 à D122-58)](#375)
+          - [Section 1 : Dispositions générales (art. R*122-1)](#376)
+          - [Section 2 : Préfet de zone de défense et de sécurité (art. R*122-2 à R122-47)](#377)
+            - [Sous-section 1 : Dispositions générales (art. R*122-2 à R*122-3)](#378)
+            - [Sous-section 2 : Pouvoirs du préfet de zone  de défense et de sécurité (art. R*122-4 à R*122-12)](#379)
+              - [Paragraphe 1 : Pouvoirs généraux du préfet de zone de défense  et de sécurité en matière de sécurité nationale (art. R*122-4 à R*122-7)](#380)
+              - [Paragraphe 2 : Pouvoirs du préfet de zone de défense et de sécurité  en cas de crise ou d'événements d'une particulière gravité (art. R*122-8 à R*122-9)](#381)
+              - [Paragraphe 3 : Autres pouvoirs du préfet  de zone de défense et de sécurité (art. R*122-10 à R*122-12)](#382)
+            - [Sous-section 3 : Préfet délégué pour la défense et la sécurité  auprès du préfet de zone de défense et de sécurité (art. R122-13 à R122-16)](#383)
+            - [Sous-section 4 : Etat-major de zone de défense et de sécurité (art. R122-17 à R122-19)](#384)
+            - [Sous-section 5 : Délégué et correspondant  de zone de défense et de sécurité (art. R122-20 à R122-27)](#385)
+              - [Paragraphe 1 : Délégué de zone de défense et de sécurité (art. R122-20 à R122-25)](#386)
+              - [Paragraphe 2 : Correspondant de zone de défense et de sécurité (art. R122-26 à R122-27)](#387)
+            - [Sous-section 6 : Autorités et services de l'Etat assistant  le préfet de zone de défense et de sécurité (art. R122-28 à R122-37)](#388)
+              - [Paragraphe 1 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière de sécurité civile (art. R122-28 à R122-29)](#389)
+              - [Paragraphe 2 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière d'administration de la police nationale (art. R122-30)](#390)
+              - [Paragraphe 3 : Dispositions diverses (art. D122-38 à R122-37)](#391)
+            - [Sous-section 7 : Dispositions particulières  à la zone de défense et de sécurité de Paris (art. R*122-39 à R*122-44)](#392)
+            - [Sous-section 8 : Dispositions particulières  à la zone de défense et de sécurité Sud (art. R*122-45 à R122-47)](#393)
+          - [Section 3 : Préfet de département (art. R*122-52)](#394)
+          - [Section 4 : Préfet de police (art. R*122-53 à R*122-54)](#395)
+          - [Section 5 : Préfet de police des Bouches-du-Rhône (art. R*122-55)](#396)
+          - [Section 6 : Comité départemental de sécurité (art. D122-56 à D122-58)](#397)
+        - [Chapitre III : Etablissements publics (art. R123-1 à R123-31-1)](#398)
+          - [Section unique :  Institut national des hautes études  de la sécurité et de la justice (art. R123-1 à R123-31-1)](#399)
+            - [Sous-section 1 : Dispositions générales (art. R123-1 à R123-11)](#400)
+              - [Paragraphe 1 : Organisation des sessions de formation (art. D123-3 à D123-7)](#401)
+              - [Paragraphe 2 : L'Observatoire national de la délinquance et des réponses pénales (art. D123-9 à R123-11)](#402)
+            - [Sous-section 2 : Organisation administrative (art. D123-15 à D123-29)](#403)
+            - [Sous-section 3 : Personnel (art. D123-30)](#404)
+            - [Sous-section 4 : Organisation financière (art. D123-31 à R123-31-1)](#405)
+      - [TITRE III : COMPÉTENCES RESPECTIVES DE L'ÉTAT ET DES COLLECTIVITÉS TERRITORIALES EN MATIÈRE DE SÉCURITÉ PUBLIQUE (art. R131-1 à D132-16)](#406)
+        - [Chapitre Ier : Exercice des pouvoirs de police (art. R131-1)](#407)
+        - [Chapitre II : Prévention de la délinquance (art. D132-1 à D132-16)](#408)
+          - [Section 1 : Comité interministériel de prévention  de la délinquance et de la radicalisation (art. D132-1 à D132-4)](#409)
+          - [Section 1 bis : Fonds interministériel pour la prévention de la délinquance (art. R132-4-1 à R132-4-5)](#410)
+          - [Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes (art. D132-5 à R132-6-1)](#411)
+          - [Section 3 : Conseil local de sécurité et de prévention  de la délinquance (art. D132-7 à R132-10-1)](#412)
+          - [Section 4 : Conseil intercommunal de sécurité  et de prévention de la délinquance (art. D132-11 à R132-12-1)](#413)
+          - [Section 5 : Plan de prévention de la délinquance  dans le département (art. D132-13)](#414)
+          - [Section 6 : Dispositions particulières à Paris (art. D132-14 à D132-15)](#415)
+          - [Section 7 : Dispositions particulières au département des Bouches-du-Rhône (art. D132-16)](#416)
+      - [TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE (art. D141-2 à R141-1)](#417)
+        - [Chapitre Ier : Dispositions générales (art. D141-2 à R141-1)](#418)
+      - [TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R*150-1 à R158-5)](#419)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. R151-1 à R151-5-1)](#420)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R152-1 à R152-3)](#421)
+        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. R153-1 à R153-2)](#422)
+        - [Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon (art. D154-3 à R154-4)](#423)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. D155-3 à R155-10)](#424)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D156-3 à R156-13)](#425)
+        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. D157-3 à R157-7)](#426)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises (art. D158-3 à R158-5)](#427)
+    - [LIVRE II : ORDRE ET SÉCURITÉ PUBLICS (art. R211-1 à R288-3)](#428)
+      - [TITRE Ier : ORDRE PUBLIC (art. R211-1 à R214-3)](#429)
+        - [Chapitre Ier : Prévention des atteintes à l'ordre public  lors de manifestations et de rassemblements (art. R211-1 à R211-34)](#430)
+          - [Section 1 : Manifestations sur la voie publique (art. R211-1)](#431)
+          - [Section 2 : Rassemblements festifs à caractère musical (art. R211-2 à R211-9)](#432)
+          - [Section 3 : Attroupements (art. D211-10 à R211-21-1)](#433)
+          - [Section 4 : Manifestations sportives, récréatives  ou culturelles à but lucratif (art. R211-22 à R211-26)](#434)
+          - [Section 5 : Dispositions pénales (art. R211-26-1 à R211-31)](#435)
+            - [Sous-section 1 : Manifestations sur la voie publique (art. R211-26-1)](#436)
+            - [Sous-section 2 : Rassemblements festifs à caractère musical (art. R211-27 à R211-30)](#437)
+            - [Sous-section 3 : Manifestations sportives, récréatives  ou culturelles à but lucratif (art. R211-31)](#438)
+          - [Section 6 : Grands événements (art. R211-32 à R211-34)](#439)
+        - [Chapitre IV : Dispositions diverses (art. R214-1 à R214-3)](#440)
+      - [TITRE II : LUTTE CONTRE LE TERRORISME ET LES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION (art. R222-1 à R228-6)](#441)
+        - [Chapitre II : Accès à des traitements administratifs automatisés et à des données détenues par des opérateurs privés (art. R222-1)](#442)
+        - [Chapitre III : Mise en œuvre de systèmes de vidéoprotection (art. R223-1 à R223-2)](#443)
+        - [Chapitre IV : Interdiction de sortie du territoire (art. R224-1 à R224-6)](#444)
+        - [Chapitre V : Contrôle administratif des retours sur le territoire national (art. R225-1 à R225-4)](#445)
+        - [Chapitre VIII :  Mesures individuelles de contrôle administratif et de surveillance (art. R228-1 à R228-6)](#446)
+          - [Section unique : Placement sous surveillance électronique mobile (art. R228-1 à R228-6)](#447)
+      - [TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES (art. R231-1 à R236-53)](#448)
+        - [Chapitre Ier : Système d'information Schengen de deuxième génération (SIS II) (art. R231-1 à R231-16)](#449)
+          - [Section 1 : Dispositions générales (art. R231-1 à R231-3)](#450)
+          - [Section 2 : Système informatique national du système  d'information Schengen dénommé " N-SIS II " (art. R231-5 à R231-13)](#451)
+          - [Section 3 : L'office N-SIS II et le bureau national Sirene (art. R231-14 à R231-16)](#452)
+        - [Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux (art. R232-1 à R232-23)](#453)
+          - [Section 1 : Transmission des données (art. R232-1 à R232-1-1)](#454)
+          - [Section 2 : Sanctions (art. R232-2 à R232-5-1)](#455)
+          - [Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE " (art. R232-6 à R232-11-2)](#456)
+          - [Section 4 : Le traitement de données à caractère personnel "système API-PNR France" (art. R232-12 à R232-22)](#457)
+          - [Section 5 : Interdiction de transport (art. R232-23)](#458)
+        - [Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives (art. R234-1 à R234-3)](#459)
+        - [Chapitre VI : Autres traitements automatisés de données personnelles (art. R236-1 à R236-53)](#460)
+          - [Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique" (art. R236-1 à R236-10)](#461)
+          - [Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique" (art. R236-11 à R236-20)](#462)
+          - [Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique " (art. R236-21 à R236-30)](#463)
+          - [Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions " (art. R236-31 à R236-37)](#464)
+          - [Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection " (art. R236-38 à R236-45)](#465)
+          - [Section 6 : Traitements de données à caractère personnel dénommés "Conservation, gestion et exploitation électroniques des documents des services de renseignement territorial" (art. R236-46 à R236-53)](#466)
+      - [TITRE IV : CAMÉRAS MOBILES (art. R241-1 à R241-15)](#467)
+        - [Chapitre unique (art. R241-1 à R241-15)](#468)
+          - [Section 1 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police nationale et des militaires de la gendarmerie nationale (art. R241-1 à R241-7)](#469)
+          - [Section 2 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police municipale (art. R241-8 à R241-15)](#470)
+      - [TITRE V : VIDÉOPROTECTION (art. R251-1 à R253-4)](#471)
+        - [Chapitre Ier : Dispositions générales (art. R251-1 à R251-12)](#472)
+          - [Section 1 : Commission nationale de la vidéoprotection (art. R251-1 à R251-6)](#473)
+          - [Section 2 : Commission départementale de vidéoprotection (art. R251-7 à R251-12)](#474)
+        - [Chapitre II : Autorisation et conditions de fonctionnement (art. R252-1 à R252-12)](#475)
+          - [Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection (art. R252-1 à R252-7)](#476)
+          - [Section 2 : Délivrance et mise en œuvre de l'autorisation (art. R252-8 à R252-12)](#477)
+        - [Chapitre III : Contrôle et droit d'accès (art. R253-1 à R253-4)](#478)
+          - [Section 1 : Contrôle et sanctions (art. R253-1 à R253-2)](#479)
+          - [Section 2 : Droit d'accès et garanties (art. R253-3 à R253-4)](#480)
+      - [TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES (art. R271-1 à R273-9)](#481)
+        - [Chapitre Ier : Dispositions générales (art. R271-1 à R271-8)](#482)
+          - [Section 1 : Obligations à la charge des bailleurs (art. R271-1 à R271-6)](#483)
+          - [Section 2 : Dispositions pénales (art. R271-7 à R271-8)](#484)
+        - [Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement (art. R273-1 à R273-9)](#485)
+          - [Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux (art. R273-1 à R273-3)](#486)
+          - [Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité (art. R273-4 à R273-6)](#487)
+          - [Section 3 : Garages et parcs de stationnement (art. R273-7)](#488)
+          - [Section 4 : Contrôle (art. R273-8)](#489)
+          - [Section 5 : Dispositions pénales (art. R273-9)](#490)
+      - [TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R281-1 à R288-3)](#491)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion (art. R281-1 à R281-3)](#492)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R282-1 à R282-2)](#493)
+        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R283-1 à R283-2)](#494)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R284-1 à R284-2)](#495)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. D285-2 à R285-3)](#496)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D286-2 à R286-3)](#497)
+        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. D287-2 à R287-3)](#498)
+        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. D288-2 à R288-3)](#499)
+    - [LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES (art. R311-1 à R346-2-1)](#500)
+      - [TITRE Ier : ARMES ET MUNITIONS (art. R311-1 à R317-14)](#501)
+        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-7)](#502)
+          - [Section 1 : Définitions (art. R311-1)](#503)
+          - [Section 2 : Classement des matériels de guerre, armes et munitions (art. R311-2 à R311-4-1)](#504)
+          - [Section 3 : Marquage (art. R311-5 à R311-5-2)](#505)
+          - [Section 4 : Dispositions diverses (art. R311-6 à R311-7)](#506)
+        - [Chapitre II : Acquisition et détention (art. R312-1 à R312-90)](#507)
+          - [Section 1 : Dispositions générales (art. R312-1 à R312-66)](#508)
+            - [Sous-section 1 : Interdiction d'acquisition par les mineurs (art. R312-1)](#509)
+            - [Sous-section 2 : Armes soumises à autorisation (art. R312-2 à R312-51)](#510)
+              - [Paragraphe 1 : Autorité compétente pour délivrer des autorisations (art. R312-2 à R312-3)](#511)
+              - [Paragraphe 2 : Dépôt et instruction des demandes d'autorisation (art. R312-4 à R312-8)](#512)
+              - [Paragraphe 3 : Décision (art. R312-9 à R312-12)](#513)
+              - [Paragraphe 4 : Validité de l'autorisation (art. R312-13 à R312-19)](#514)
+              - [Paragraphe 5 : Conditions générales de délivrance de l'autorisation (art. R312-21)](#515)
+              - [Paragraphe 6 : Conditions particulières de délivrance d'autorisation (art. R312-22 à R312-44-1)](#516)
+                - [Sous-paragraphe  1 : Fonctionnaires et agents publics (art. R312-22 à R312-25)](#517)
+                - [Sous-paragraphe 1 bis : Agents des organisations internationales et des institutions, organes, organismes et services de l'Union européenne (art. R312-25-1)](#518)
+                - [Sous-paragraphe  2 : Spectacles (art. R312-26)](#519)
+                - [Sous-paragraphe  3 : Collectivités publiques, musées, collections (art. R312-27 à R312-29)](#520)
+                - [Sous-paragraphe  4 : Essais industriels (art. R312-30)](#521)
+                - [Sous-paragraphe  5 : Experts judiciaires (art. R312-31 à R312-36)](#522)
+                - [Sous-paragraphe  7 : Personnes exposées à des risques sérieux du fait de leur activité professionnelle (art. R312-39 à R312-39-1)](#523)
+                - [Sous-paragraphe  8 : Tir sportif (art. R312-40 à R312-43-1)](#524)
+                - [Sous-paragraphe  9 : Tir forain (art. R312-44)](#525)
+                - [Sous-paragraphe 10 : Formation dans les métiers de l'armurerie et de l'armement (art. R312-44-1)](#526)
+              - [Paragraphe 7 : Acquisition et détention des systèmes d'alimentation, des réducteurs de son et des munitions (art. R312-45 à R312-49)](#527)
+              - [Paragraphe 8 : Dispositions diverses (art. R312-50 à R312-51)](#528)
+            - [Sous-section 3 : Armes soumises à déclaration (art. R312-52 à R312-63)](#529)
+              - [Paragraphe 1 : Acquisition et détention des armes (art. R312-52 à R312-58-1)](#530)
+              - [Paragraphe 2 : Acquisition et détention de munitions (art. R312-60 à R312-63)](#531)
+            - [Sous-section 4 : Dispositions diverses (art. R312-65 à R312-66)](#532)
+          - [Section 2 : Collectionneurs (art. R312-66-1 à R312-66-20)](#533)
+            - [Sous-section 1 : Dispositions générales (art. R312-66-1 à R312-66-4)](#534)
+            - [Sous-section 2 : Délivrance, suspension et retrait de la carte (art. R312-66-5 à R312-66-17)](#535)
+              - [Paragraphe 1 : Dépôt et instruction des demandes (art. R312-66-5 à R312-66-7)](#536)
+              - [Paragraphe 2 : Décision (art. R312-66-8 à R312-66-14)](#537)
+              - [Paragraphe 3 : Validité de la carte (art. R312-66-15)](#538)
+              - [Paragraphe 4 : Carte de collectionneur et dessaisissement des armes (art. R312-66-16 à R312-66-17)](#539)
+            - [Sous-section 3 : Obligations du collectionneur titulaire de la carte (art. R312-66-18 à R312-66-20)](#540)
+              - [Paragraphe 1 : Acquisition et détention d'armes et de munitions (art. R312-66-18)](#541)
+              - [Paragraphe 2 : Conservation et transport (art. R312-66-19 à R312-66-20)](#542)
+          - [Section 3 : Injonctions préfectorales (art. R312-67 à R312-76)](#543)
+            - [Sous-section 1 : Dispositions générales (art. R312-67)](#544)
+            - [Sous-section 2 : Remise d'une arme à l'autorité administrative (art. R312-68 à R312-73)](#545)
+            - [Sous-section 3 : Dessaisissement (art. R312-74 à R312-76)](#546)
+          - [Section 4 : Fichiers (art. R312-77 à R312-90)](#547)
+            - [Sous-section 1 : Fichier national des interdits d'acquisition et de détention d'armes (FINIADA) (art. R312-77 à R312-83)](#548)
+            - [Sous-section 2 :  Système d'information sur les armes (SIA) (art. R312-84 à R312-90)](#549)
+        - [Chapitre III : Fabrication et commerce (art. R313-1 à R313-46)](#550)
+          - [Section 1 : Agrément d'armurier (art. R313-1 à R313-7-1)](#551)
+          - [Section 2 : Autorisation d'ouverture du commerce de détail (art. R313-8 à R313-19)](#552)
+            - [Sous-section 1 : Conditions de délivrance (art. R313-8 à R313-12)](#553)
+            - [Sous-section 2 : Obligations du commerçant titulaire de l'autorisation (art. R313-13 à R313-15-1)](#554)
+            - [Sous-section 3 : Mesures de sécurité (art. R313-16 à R313-17)](#555)
+            - [Sous-section 4 : Conditions de suspension ou de retrait (art. R313-18 à R313-19)](#556)
+          - [Section 3 : Vente au détail hors d'un local fixe et permanent (art. R313-20 à R313-23)](#557)
+          - [Section 4 : Obligations de l'armurier et du courtier dans la procédure de cession des armes et munitions (art. R313-24 à R313-26)](#558)
+          - [Section 4 bis : Refus de conclure une transaction suspecte (art. R313-26-1)](#559)
+          - [Section 5 : Déclaration d'ouverture d'un établissement destiné à la fabrication ou au commerce, autre que de détail, des armes, munitions et leurs éléments des catégories A1, B, C et D (art. R313-27)](#560)
+          - [Section 6 : Fabrication et commerce des armes, munitions et leurs éléments des catégories A1 et B  et intermédiation des armes de toute catégorie, munitions et de leurs éléments (art. R313-28 à R313-46)](#561)
+            - [Sous-section 1 : Autorisation de fabrication, de commerce et d'intermédiation (art. R313-28 à R313-38-2)](#562)
+            - [Sous-section 2 : Obligations des titulaires de l'autorisation (art. R313-39 à R313-45)](#563)
+            - [Sous-section 3 : Mesures de sécurité (art. R313-46)](#564)
+        - [Chapitre IV : Conservation, perte et transfert de propriété (art. R314-1 à R314-20)](#565)
+          - [Section 1 : Conservation (art. R314-1 à R314-11)](#566)
+            - [Sous-section 1 : Dispositions générales (art. R314-1 à R314-4)](#567)
+            - [Sous-section 2 : Activités privées (art. R314-5 à R314-6)](#568)
+            - [Sous-section 3 : Spectacles (art. R314-7)](#569)
+            - [Sous-section 4 : Tir sportif (art. R314-8)](#570)
+            - [Sous-section 5 : Tir forain (art. R314-9)](#571)
+            - [Sous-section 6 : Collectivités publiques, musées et collections (art. R314-10)](#572)
+            - [Sous-section 7 : Etablissements de formation (art. R314-11)](#573)
+          - [Section 2 : Perte et vol (art. R314-12 à R314-15)](#574)
+          - [Section 3 : Transfert de propriété (art. R314-16 à R314-20)](#575)
+            - [Sous-section 1 : Armes soumises à autorisation (art. R314-16 à R314-18)](#576)
+            - [Sous-section 2 : Armes soumises à déclaration (art. R314-19 à R314-20)](#577)
+        - [Chapitre V : Port et transport (art. R315-1 à R315-18)](#578)
+          - [Section 1 : Autorisation de port et de transport (art. R315-1 à R315-10)](#579)
+            - [Sous-section 1 : Règles générales (art. R315-1 à R315-4)](#580)
+            - [Sous-section 2 : Situations particulières (art. R315-5 à R315-7)](#581)
+            - [Sous-section 3 : Situation des fonctionnaires (art. R315-8 à R315-10)](#582)
+          - [Section 2 : Sécurité des expéditions et des transports des armes (art. R315-12 à R315-18)](#583)
+        - [Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations (art. R316-1A à R316-56)](#584)
+          - [Section 1 : Dispositions générales relatives à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-1 à R316-3)](#585)
+          - [Section 2 : Régime de droit commun relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-4 à R316-25)](#586)
+            - [Sous-section 1 : Acquisition et détention (art. R316-4 à R316-13)](#587)
+              - [Paragraphe 1 : Acquisition et détention par un résident d'un autre Etat membre de l'Union européenne (art. R316-4 à R316-5)](#588)
+              - [Paragraphe 2 : Acquisition dans un autre Etat membre par une personne résidant en France (art. R316-6)](#589)
+              - [Paragraphe 3 : Carte européenne d'arme à feu et détention au cours d'un voyage dans l'Union européenne (art. R316-7 à R316-11)](#590)
+              - [Paragraphe 4 : Acquisition et détention en vue d'un transfert vers un autre Etat membre (art. R316-12 à R316-13)](#591)
+            - [Sous-section 2 : Transfert entre Etats membres (art. R316-14 à R316-24)](#592)
+              - [Paragraphe 1 : Transfert vers un autre Etat membre (art. R316-14 à R316-15)](#593)
+              - [Paragraphe 2 : Transfert d'un Etat membre vers la France (art. R316-16 à R316-18)](#594)
+              - [Paragraphe 3 : Dispositions diverses (art. R316-19 à R316-24)](#595)
+            - [Sous-section 3 : Dispositions diverses (art. R316-25)](#596)
+          - [Section 3 : Régime particulier relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-26 à R316-27)](#597)
+          - [Section 4 : Dispositions communes au régime de droit commun et au régime particulier relatifs à l'acquisition, à la détention et aux transferts au sein de l'Union européenne (art. R316-28)](#598)
+          - [Section 5 : Importation des armes, munitions et leurs éléments des catégories A1, B, C et D (art. R316-29 à R316-37)](#599)
+          - [Section 6 : Exportation des armes à feu, munitions et leurs éléments des catégories A1, B, C et D (art. R316-38 à R316-50)](#600)
+            - [Sous-section 1 : Dispositions générales (art. R316-38 à R316-39)](#601)
+            - [Sous-section 2 : Autorisations d'exportation et dérogations (art. R316-40 à R316-48)](#602)
+            - [Sous-section 3 : Obligations des exportateurs (art. R316-49 à R316-50)](#603)
+          - [Section 7 : Autorisations de transit par route (art. D316-54 à R316-56)](#604)
+        - [Chapitre VII : Dispositions pénales (art. R317-1 à R317-14)](#605)
+          - [Section 1 : Acquisition et détention (art. R317-1 à R317-8)](#606)
+          - [Section 1 bis : Transfert entre Etats membres de l'Union européenne, acquisition et détention par un résident d'un Etat membre (art. R317-8-1 à R317-8-2)](#607)
+          - [Section 2 : Commerce de détail (art. R317-9 à R317-9-1)](#608)
+          - [Section 3 : Conservation (art. R317-10)](#609)
+          - [Section 4 : Port et transport (art. R317-11 à R317-12)](#610)
+          - [Section 4 bis : Collectionneurs (art. R317-12-1)](#611)
+          - [Section 5 : Peines complémentaires applicables aux personnes physiques et aux personnes morales (art. R317-13 à R317-14)](#612)
+      - [TITRE II : JEUX DE HASARD, CASINOS, LOTERIES (art. R321-1 à R324-4)](#613)
+        - [Chapitre Ier : Casinos (art. R321-1 à R321-39)](#614)
+          - [Section liminaire : Dispositions générales (art. R321-1 à R321-1-1)](#615)
+          - [Section 1 : Autorisation d'ouverture et d'exploitation de jeux (art. R321-2 à R321-20)](#616)
+            - [Sous-section 1 : Délivrance de l'autorisation (art. R321-2 à R321-6-1)](#617)
+              - [Paragraphe 1 : Dispositions applicables aux casinos régis par l'article L. 321-1 (art. R321-2 à R321-5)](#618)
+              - [Paragraphe 2 : Dispositions applicables aux casinos régis par l'article L. 321-3 (art. R321-5-1 à R321-5-4)](#619)
+              - [Paragraphe 3 : Dispositions communes (art. R321-6 à R321-6-1)](#620)
+            - [Sous-section 2 : Commission consultative des jeux de cercles et de casinos (art. R321-7 à R321-12)](#621)
+            - [Sous-section 3 : Jeux susceptibles d'être autorisés dans les casinos (art. D321-13 à R321-17)](#622)
+            - [Sous-section 4 : Evolution des données du dossier d'autorisation (art. R321-18 à R321-20)](#623)
+          - [Section 2 : Appareils de jeux (art. D321-22 à R321-26)](#624)
+          - [Section 3 : Accès aux salles de jeux (art. R321-27 à R321-28-1)](#625)
+            - [Sous-section 1 : Dispositions communes (art. R321-27 à R321-28)](#626)
+            - [Sous-section 2 : Dispositions applicables aux casinos régis par l'article L. 321-3 (art. R321-28-1)](#627)
+          - [Section 4 : Fonctionnement des casinos (art. R321-29 à R321-37)](#628)
+            - [Sous-section 1 : Obligations (art. R321-29 à R321-30-1)](#629)
+            - [Sous-section 2 : Personnel des jeux des casinos régis par l'article L. 321-1 (art. R321-31 à R321-36)](#630)
+            - [Sous-section 2 bis : Personnel des jeux des casinos régis par l'article L. 321-3 (art. R321-36-1 à R321-36-7)](#631)
+            - [Sous-section 3 : Prélèvements (art. R321-37)](#632)
+          - [Section 5 : Contrôle (art. R321-38 à R321-38-4)](#633)
+            - [Sous-section 1 : Dispositions communes (art. R321-38)](#634)
+            - [Sous-section 2 : Dispositions relatives aux casinos régis par l'article L. 321-3 (art. R321-38-1 à R321-38-4)](#635)
+          - [Section 6 : Conditions d'application (art. R321-39)](#636)
+        - [Chapitre Ier bis : Compétitions de jeux vidéo (art. R321-40 à R321-50)](#637)
+        - [Chapitre II : Loteries (art. D322-1 à D322-8)](#638)
+          - [Section 1 : Loteries d'objets mobiliers exclusivement destinées à des actes de bienfaisance, à l'encouragement des arts ou au financement d'activités sportives à but non lucratif (art. D322-1 à D322-3)](#639)
+          - [Section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines (art. D322-4)](#640)
+          - [Section 3 : Jeux et concours organisés par les publications de presse (art. D322-5 à D322-8)](#641)
+        - [Chapitre III : Dispositions communes (art. D323-4 à R323-5)](#642)
+        - [Chapitre IV : Dispositions pénales (art. R324-1 à R324-4)](#643)
+      - [TITRE III : FERMETURE ADMINISTRATIVE DE CERTAINS ÉTABLISSEMENTS (art. R332-1 à R333-1)](#644)
+        - [Chapitre II : Etablissements de vente à emporter de boissons alcoolisées ou d'aliments préparés sur place (art. R332-1)](#645)
+        - [Chapitre III : Etablissements diffusant de la musique (art. R333-1)](#646)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R341-1 à R346-2-1)](#647)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin (art. R341-1)](#648)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R342-1)](#649)
+        - [Chapitre III : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R343-1-A à R343-13)](#650)
+          - [Section 1 : Casinos (art. D343-2 à R343-12)](#651)
+          - [Section 2 : Dispositions pénales (art. R343-13)](#652)
+        - [Chapitre IV : Dispositions applicables en Polynésie française (art. R344-1 à R344-45)](#653)
+          - [Section 1 : Casinos (art. R344-4 à R344-36)](#654)
+            - [Sous-section 1 : Dispositions générales (art. R344-4 à R344-5)](#655)
+            - [Sous-section 2 : Autorisation d'ouverture et d'exploitation de jeux (art. R344-6 à R344-13)](#656)
+            - [Sous-section 3 : Jeux et appareils de jeux (art. R344-14 à R344-18)](#657)
+            - [Sous-section 4 : Accès aux salles de jeux (art. R344-19 à R344-21)](#658)
+            - [Sous-section 5 : Fonctionnement des casinos (art. R344-22 à R344-33)](#659)
+              - [Paragraphe 1 : Obligations (art. R344-22 à R344-27)](#660)
+              - [Paragraphe 2 : Employés (art. R344-28 à R344-33)](#661)
+            - [Sous-section 6 : Contrôle (art. R344-34)](#662)
+            - [Sous-section 7 : Conditions d'application (art. R344-35)](#663)
+            - [Sous-section 8 : Dispositions pénales (art. R344-36)](#664)
+          - [Section 2 : Loteries (art. R344-37 à R344-45)](#665)
+            - [Sous-section 1 : Loteries offertes au public et organisées dans un but social, culturel, scientifique, éducatif ou sportif (art. R344-37)](#666)
+            - [Sous-section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines ou des fêtes traditionnelles (art. R344-38 à R344-43)](#667)
+            - [Sous-section 3 : Contrôle (art. R344-44)](#668)
+            - [Sous-section 4 : Conditions d'application (art. R344-45)](#669)
+        - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie (art. D345-2 à R345-4)](#670)
+        - [Chapitre VI : Dispositions applicables à Wallis-et-Futuna (art. D346-1 à R346-2-1)](#671)
+    - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE (art. R411-1 à R448-2)](#672)
+      - [TITRE Ier : POLICE NATIONALE (art. R411-1 à R413-54)](#673)
+        - [Chapitre Ier : Missions et personnels  de la police nationale (art. R411-1 à R411-34)](#674)
+          - [Section 1 : Dispositions générales (art. R411-1)](#675)
+          - [Section 2 : Fonctionnaires actifs (art. R411-2 à R411-3)](#676)
+          - [Section 3 : Adjoints de sécurité (art. R411-4 à R411-12)](#677)
+            - [Sous-section 1 : Dispositions générales (art. R411-4)](#678)
+            - [Sous-section 2 : Missions (art. R411-5 à R411-7)](#679)
+            - [Sous-section 3 : Recrutement (art. R411-8 à R411-9)](#680)
+            - [Sous-section 4 : Formation et validation de l'expérience professionnelle (art. R411-10 à R411-12)](#681)
+          - [Section 4 : Réserve civile (art. D411-17 à R411-34)](#682)
+            - [Sous-section 1 : Dispositions communes aux réservistes de la police nationale (art. D411-17 à R411-16)](#683)
+            - [Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité (art. D411-25 à R411-24)](#684)
+            - [Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale (art. D411-31 à R411-30)](#685)
+            - [Sous-section 4 : Dispositions relatives aux réservistes ayant eu la qualité d'adjoint de sécurité pendant au moins trois ans (art. D411-35 à R411-34)](#686)
+        - [Chapitre III : Etablissements publics de la police nationale (art. R413-1 à R413-54)](#687)
+          - [Section 1 : Ecole nationale supérieure de la police (art. R413-1 à R413-26)](#688)
+            - [Sous-section 1 : Dispositions générales (art. R413-1 à R413-2)](#689)
+            - [Sous-section 2 : Organisation administrative (art. R413-3 à R413-16)](#690)
+            - [Sous-section 3 : Organisation pédagogique (art. R413-17 à R413-21)](#691)
+            - [Sous-section 4 : Organisation financière (art. R413-22 à R413-26)](#692)
+          - [Section 2 : Institut national de police scientifique (art. R413-27 à R413-54)](#693)
+            - [Sous-section 1 : Dispositions générales (art. R413-27 à R413-31)](#694)
+            - [Sous-section 2 : Organisation administrative (art. R413-32 à R413-41)](#695)
+            - [Sous-section 3 : Conseil scientifique (art. R413-42 à R413-46)](#696)
+            - [Sous-section 4 : Organisation financière (art. R413-47 à R413-54)](#697)
+      - [TITRE II : GENDARMERIE NATIONALE (art. R421-1)](#698)
+        - [Chapitre Ier : Missions et personnels de la gendarmerie nationale (art. R421-1)](#699)
+      - [TITRE III : DISPOSITIONS COMMUNES (art. R431-1 à R434-33)](#700)
+        - [Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques (art. R431-1 à R431-8)](#701)
+          - [Section 1 : Répartition des attributions (art. R431-1 à R431-5)](#702)
+          - [Section 2 : Organisation de la coopération (art. R431-6 à R431-8)](#703)
+        - [Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale (art. R434-1 à R434-33)](#704)
+          - [Section 1 : Dispositions générales (art. R434-1 à R434-3)](#705)
+          - [Section 2 : Principes généraux (art. R434-4 à R434-13)](#706)
+            - [Sous-section 1 : Autorité et protection (art. R434-4 à R434-7)](#707)
+            - [Sous-section 2 : Devoirs du policier et du gendarme (art. R434-8 à R434-13)](#708)
+          - [Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale (art. R434-14 à R434-27)](#709)
+            - [Sous-section 1 : Relation avec la population et respect des libertés (art. R434-14 à R434-22)](#710)
+            - [Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie (art. R434-23 à R434-27)](#711)
+          - [Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale (art. R434-28 à R434-33)](#712)
+            - [Sous-section 1 : Dispositions propres à la police nationale (art. R434-28 à R434-30)](#713)
+            - [Sous-section 2 : Dispositions propres à la gendarmerie nationale (art. R434-31 à R434-33)](#714)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R441-1 à R448-2)](#715)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. R441-1)](#716)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R442-1)](#717)
+        - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. R443-1)](#718)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R444-1)](#719)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. R445-1 à R445-2)](#720)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R446-1 à R446-2)](#721)
+        - [Chapitre VII : Dispositions applicables à Wallis et Futuna (art. R447-1 à R447-2)](#722)
+        - [Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises (art. R448-1 à R448-2)](#723)
+    - [LIVRE V : POLICES MUNICIPALES (art. R511-1 à R546-6)](#724)
+      - [TITRE Ier : AGENTS DE POLICE MUNICIPALE (art. R511-1 à R515-21)](#725)
+        - [Chapitre Ier : Missions, recrutement et modalités d'exercice (art. R511-1 à R511-42)](#726)
+          - [Section 1 : Missions (art. R511-1)](#727)
+          - [Section 2 : Nomination et agrément (art. R511-2)](#728)
+          - [Section 3 : Carte professionnelle, tenue et équipements (art. D511-3 à D511-10)](#729)
+            - [Sous-section 1 : Carte professionnelle (art. D511-3 à D511-5)](#730)
+            - [Sous-section 2 : Tenue (art. D511-6 à D511-8)](#731)
+            - [Sous-section 3 : Véhicules (art. D511-9 à D511-10)](#732)
+          - [Section 4 : Port d'armes (art. R511-11 à R511-34)](#733)
+            - [Sous-section 1 : Armement des agents de police municipale (art. R511-12 à R511-29)](#734)
+              - [Paragraphe 1 : Armes susceptibles d'être autorisées (art. R511-12 à R511-13)](#735)
+              - [Paragraphe 2 : Missions pouvant justifier le port d'armes (art. R511-14 à R511-17)](#736)
+              - [Paragraphe 3 : Autorisation (art. R511-18 à R511-20)](#737)
+              - [Paragraphe 4 : Formation et entraînement (art. R511-21 à R511-22-2)](#738)
+              - [Paragraphe 5 : Conditions de port et d'emploi des armes (art. R511-23 à R511-29)](#739)
+            - [Sous-section 2 : Acquisition, détention  et conservation des armes par la commune (art. R511-30 à R511-34)](#740)
+          - [Section 5 : Formation continue (art. R511-35 à R511-40)](#741)
+          - [Section 6 : Dispositions diverses (art. D511-41 à R511-42)](#742)
+        - [Chapitre II : Organisation des services (art. R512-1 à R512-8)](#743)
+          - [Section 1 : Mise en commun des agents de police municipale (art. R512-1 à R512-4)](#744)
+          - [Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat (art. R512-5 à R512-6)](#745)
+          - [Section 3 : Convention locale de sûreté des transports collectifs (art. R512-7 à R512-8)](#746)
+        - [Chapitre IV : Commission consultative des polices municipales (art. R514-1 à R514-11)](#747)
+          - [Section 1 : Composition (art. R514-1 à R514-5)](#748)
+          - [Section 2 : Fonctionnement (art. R514-6 à R514-11)](#749)
+        - [Chapitre V : Déontologie des agents de police municipale (art. R515-1 à R515-21)](#750)
+          - [Section 1 : Dispositions générales (art. R515-1 à R515-6)](#751)
+          - [Section 2 : Devoirs généraux des agents de police municipale (art. R515-7 à R515-16)](#752)
+          - [Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement (art. R515-17 à R515-20)](#753)
+          - [Section 4 : Du contrôle des polices municipales (art. R515-21)](#754)
+      - [TITRE II : GARDES CHAMPÊTRES (art. R521-1 à R522-2)](#755)
+        - [Chapitre Ier : Missions (art. R521-1)](#756)
+        - [Chapitre II : Nomination, agrément et modalités d'exercice (art. D522-3 à R522-2)](#757)
+      - [TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS (art. R531-1 à R532-1)](#758)
+        - [Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police (art. R531-1 à R531-11)](#759)
+          - [Section 1 : Missions (art. R531-1 à R531-2)](#760)
+          - [Section 2 : Recrutement et agrément (art. R531-3 à R531-9)](#761)
+          - [Section 3 : Carte professionnelle, tenue et équipements (art. R531-10)](#762)
+          - [Section 4 : Convention de coordination avec la police nationale (art. R531-11)](#763)
+        - [Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police (art. R532-1)](#764)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R542-1 à R546-6)](#765)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R542-1)](#766)
+        - [Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin (art. R543-1)](#767)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R544-1)](#768)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. D545-2 à R545-5)](#769)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D546-1-1 à R546-6)](#770)
+    - [LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R611-1 à R648-1)](#771)
+      - [TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES (art. R611-1 à R617-5)](#772)
+        - [Chapitre Ier : Dispositions générales (art. R611-1 à R611-2)](#773)
+        - [Chapitre II : Conditions d'exercice (art. R612-1 à R612-42)](#774)
+          - [Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales (art. R612-1 à R612-4)](#775)
+          - [Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales (art. R612-5 à R612-11)](#776)
+          - [Section 3 : Autorisation d'exercice des employés (art. R612-12 à R612-23)](#777)
+            - [Sous-section 1 : Délivrance de la carte professionnelle (art. R612-12 à R612-18-1)](#778)
+            - [Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice (art. R612-19 à R612-23)](#779)
+          - [Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés (art. R612-24 à R612-42)](#780)
+            - [Sous-section 1 : Dispositions générales (art. R612-24 à R612-32)](#781)
+            - [Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants (art. R612-33 à R612-36)](#782)
+            - [Sous-section 3 : Dispositions spécifiques aux employés (art. R612-37 à R612-42)](#783)
+        - [Chapitre III : Modalités d'exercice (art. R613-1 à R613-92)](#784)
+          - [Section 1 : Dispositions générales (art. R613-1 à R613-4)](#785)
+            - [Sous-section 1 : Tenue (art. R613-1 à R613-2)](#786)
+            - [Sous-section 2 : Activités exercées avec le port d'une arme (art. R613-3 à R613-3-7)](#787)
+              - [Paragraphe 1 : Catégories et types d'arme (art. R613-3)](#788)
+              - [Paragraphe 2 : Acquisition et détention (art. R613-3-1)](#789)
+              - [Paragraphe 3 : Importation (art. R613-3-2)](#790)
+              - [Paragraphe 4 : Transport (art. R613-3-3)](#791)
+              - [Paragraphe 5 : Conservation (art. R613-3-4 à R613-3-5)](#792)
+              - [Paragraphe 6 : Conditions particulières d'usage (art. R613-3-6 à R613-3-7)](#793)
+            - [Sous-section 3 : Véhicules (art. R613-4)](#794)
+          - [Section 2 : Activités de surveillance et de gardiennage (art. R613-5 à R613-19)](#795)
+            - [Sous-section 1 : Missions (art. R613-5 à R613-16-3)](#796)
+              - [Paragraphe 1 : Autorisation de la surveillance des biens sur la voie publique (art. R613-5)](#797)
+              - [Paragraphe 2 : Agrément des employés des entreprises de surveillance et de gardiennage pour l'inspection visuelle et la fouille des bagages à main et les palpations de sécurité (art. R613-6 à R613-9)](#798)
+              - [Paragraphe 3 : Agrément des membres des services d'ordre affectés à la sécurité d'une manifestation sportive, récréative ou culturelle (art. R613-10 à R613-15)](#799)
+              - [Paragraphe 4 : Utilisation de chiens (art. R613-16)](#800)
+              - [Paragraphe 5 : Utilisation des armes de la catégorie D (art. R613-16-1 à R613-16-3)](#801)
+            - [Sous-section 2 : Coordination avec les services de la police nationale et de la gendarmerie nationale (art. D613-17 à R613-19)](#802)
+          - [Section 2 bis : Activités de surveillance armée (art. R613-23-1 à R613-23-11)](#803)
+            - [Sous-section 1 : Conditions d'exercice (art. R613-23-1 à R613-23-4)](#804)
+            - [Sous-section 2 : Acquisition et détention (art. R613-23-5)](#805)
+            - [Sous-section 3 : Port d'armes (art. R613-23-6 à R613-23-10)](#806)
+            - [Sous-section 4 : Conservation des armes (art. R613-23-11)](#807)
+          - [Section 3 : Activités de transport de fonds (art. R613-24 à D613-87)](#808)
+            - [Sous-section 1 : Dispositions générales (art. R613-24 à R613-34)](#809)
+            - [Sous-section 2 : Véhicules de transport de fonds (art. R613-35 à R613-39)](#810)
+            - [Sous-section 3 : Tenue (art. R613-40)](#811)
+            - [Sous-section 4 : Port d'arme (art. R613-41 à R613-44)](#812)
+            - [Sous-section 5 : Dispositifs de neutralisation (art. R613-47 à R613-58)](#813)
+              - [Paragraphe 1 : Fonds transportés (art. R613-47 à R613-52)](#814)
+              - [Paragraphe 2 : Fonds délivrés ou déposés dans un automate bancaire (art. R613-53 à R613-56)](#815)
+              - [Paragraphe 3 : Commission technique (art. R613-57 à R613-58)](#816)
+            - [Sous-section 6 : Sécurisation des locaux des entreprises de transports de fonds (art. D613-59)](#817)
+            - [Sous-section 7 : Sécurisation des locaux des personnes faisant appel aux entreprises de transport de fonds et de leurs accès (art. D613-60 à D613-75)](#818)
+              - [Paragraphe 1 : Dispositions générales (art. D613-60 à D613-71)](#819)
+              - [Paragraphe 2 : Dispositions spécifiques applicables aux personnes exploitant des magasins de commerce de détail ou faisant partie d'un ensemble commercial (art. D613-72 à D613-73)](#820)
+              - [Paragraphe 3 : Dispositions spécifiques applicables aux locaux abritant des distributeurs et guichets automatiques de banque (art. D613-74 à D613-75)](#821)
+            - [Sous-section 9 : Commission départementale de la sécurité des transports de fonds (art. D613-84 à D613-87)](#822)
+          - [Section 4 : Activités de protection de l'intégrité physique des personnes (art. R613-88 à R613-92)](#823)
+            - [Sous-section unique : Port d'armes (art. R613-88 à R613-92)](#824)
+        - [Chapitre IV : Services de sécurité des bailleurs d'immeuble (art. R614-1 à R614-10)](#825)
+          - [Section 1 : Conditions d'acquisition, de détention et de conservation des armes par les personnes morales (art. R614-1 à R614-3)](#826)
+          - [Section 2 : Autorisation de port d'arme individuel (art. R614-4 à R614-5)](#827)
+          - [Section 3 : Formation préalable (art. R614-6 à R614-8)](#828)
+          - [Section 4 : Conditions de port et de conservation des armes par les employés (art. R614-9 à R614-10)](#829)
+        - [Chapitre VI : Activité privée de protection des navires (art. R616-1 à R616-14)](#830)
+          - [Section 1 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales (art. R616-2 à R616-5)](#831)
+            - [Sous-section 1 : Certification des entreprises privées de protection des navires (art. R616-2)](#832)
+            - [Sous-section 2 : Autorisation d'exercice provisoire des entreprises privées de protection des navires (art. R616-3 à R616-5)](#833)
+          - [Section 2 : Autorisation d'exercice des employés (art. R616-6 à R616-10)](#834)
+            - [Sous-section  1 : Délivrance de la carte professionnelle (art. R616-6 à R616-9)](#835)
+            - [Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle (art. R616-10)](#836)
+          - [Section 3 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés (art. R616-11 à R616-13)](#837)
+          - [Section 4 : Constatation des infractions pénales à bord des navires (art. R616-14)](#838)
+        - [Chapitre VII : Dispositions pénales (art. R617-1 à R617-5)](#839)
+          - [Section 1 : Dispositions générales (art. R617-1)](#840)
+          - [Section 2 : Activités de surveillance et de gardiennage (art. R617-2 à R617-3)](#841)
+          - [Section 2 bis : Activités de surveillance armée (art. R617-3-1)](#842)
+          - [Section 3 : Activités de transport de fonds (art. R617-4)](#843)
+          - [Section 4 : Activités de protection physique des personnes (art. R617-5)](#844)
+      - [TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES (art. R621-1 à R624-1)](#845)
+        - [Chapitre Ier : Dispositions générales (art. R621-1)](#846)
+        - [Chapitre II : Conditions d'exercice (art. R622-1 à R622-35)](#847)
+          - [Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales (art. R622-1 à R622-3-2)](#848)
+          - [Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales (art. R622-4 à R622-9)](#849)
+          - [Section 3 : Autorisation d'exercice des employés (art. R622-10 à R622-21)](#850)
+            - [Sous-section 1 : Délivrance de la carte professionnelle (art. R622-10 à R622-16)](#851)
+            - [Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice (art. R622-17 à R622-21)](#852)
+          - [Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés (art. R622-22 à R622-35)](#853)
+            - [Sous-section 1 : Dispositions générales (art. R622-22 à R622-27)](#854)
+            - [Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants (art. R622-28 à R622-31)](#855)
+            - [Sous-section 3 : Dispositions spécifiques aux employés (art. R622-34 à R622-35)](#856)
+        - [Chapitre IV : Dispositions pénales (art. R624-1)](#857)
+      - [TITRE II BIS : FORMATION AUX ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R625-1 à R625-21)](#858)
+        - [Chapitre Ier : Dispositions générales (art. R625-1)](#859)
+        - [Chapitre II : Conditions d'exercice (art. R625-2 à R625-20)](#860)
+          - [Section 1 : Autorisation d'exercice des prestataires de formation (art. R625-2 à R625-6)](#861)
+          - [Section 2 : Certification des prestataires de formation (art. R625-7)](#862)
+          - [Section 3 : Formation continue (art. R625-8)](#863)
+          - [Section 4 : Obligations des prestataires de formation (art. R625-9 à R625-20)](#864)
+        - [Chapitre III : Dispositions pénales (art. R625-21)](#865)
+      - [TITRE III : CONSEIL NATIONAL DES ACTIVITÉS PRIVÉES DE SÉCURITÉ (art. R631-1 à R635-1)](#866)
+        - [Chapitre Ier : Dispositions générales (art. R631-1 à R631-32)](#867)
+          - [Section unique :  Code de déontologie des personnes physiques ou morales exerçant des activités privées de sécurité (art. R631-1 à R631-32)](#868)
+            - [Sous-section 1 : Dispositions générales (art. R631-1 à R631-3)](#869)
+            - [Sous-section 2 : Devoirs communs à tous les acteurs de la sécurité privée (art. R631-4 à R631-14)](#870)
+            - [Sous-section 3 : Devoirs des entreprises et de leurs dirigeants (art. R631-15 à R631-24)](#871)
+            - [Sous-section 4 : Devoirs des salariés (art. R631-25 à R631-27)](#872)
+            - [Sous-section 5 : Devoirs spécifiques à certaines activités (art. R631-28 à R631-32)](#873)
+              - [Paragraphe 1 : Profession libérale de recherches privées (art. R631-28 à R631-31)](#874)
+              - [Paragraphe 2 : Activité cynophile (art. R631-32)](#875)
+        - [Chapitre II : Missions et fonctionnement du Conseil national des activités privées de sécurité (art. R632-1 à R632-23)](#876)
+          - [Section 1 : Dispositions générales (art. R632-1)](#877)
+          - [Section 2 : Organisation administrative et fonctionnement (art. R632-2 à R632-23)](#878)
+            - [Sous-section 1 : Collège (art. R632-2 à R632-8)](#879)
+            - [Sous-section 2 : Commission nationale d'agrément et de contrôle (art. R632-9 à R632-12)](#880)
+            - [Sous-section 3 : Directeur et agents du Conseil national des activités privées de sécurité (art. R632-13 à R632-16-1)](#881)
+            - [Sous-section 4 : Organisation financière (art. R632-17 à R632-19)](#882)
+            - [Sous-section 5 : Dispositions communes au collège et à la Commission nationale d'agrément et de contrôle (art. R632-20 à R632-23)](#883)
+        - [Chapitre III : Commissions locales d'agrément et de contrôle (art. R633-1 à R633-10)](#884)
+          - [Section 1 : Organisation administrative et fonctionnement (art. R633-1 à R633-6)](#885)
+          - [Section 2 : Procédures devant les commissions locales  d'agrément et de contrôle (art. R633-7 à R633-10)](#886)
+        - [Chapitre IV : Contrôles (art. R634-1 à R634-7)](#887)
+          - [Section 1 : Exercice de l'action disciplinaire (art. R634-1 à R634-2)](#888)
+          - [Section 2 : Sanctions disciplinaires (art. R634-3 à R634-7)](#889)
+        - [Chapitre V : Dispositions finales (art. R635-1)](#890)
+      - [TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R641-1 à R648-1)](#891)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. R641-1)](#892)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. D642-2 à R642-1)](#893)
+        - [Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin (art. D643-2 à R643-1)](#894)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. D644-2 à R644-1)](#895)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. D645-2 à R645-4)](#896)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D646-2 à R646-4)](#897)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. D647-2 à R647-4)](#898)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R648-1)](#899)
+    - [LIVRE VII : SÉCURITÉ CIVILE (art. D711-10 à R768-6)](#900)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D711-10 à D711-12)](#901)
+        - [Chapitre unique :  Missions de la sécurité civile (art. D711-10 à D711-12)](#902)
+          - [Section 2 : Conseil départemental de sécurité civile (art. D711-10 à D711-12)](#903)
+      - [TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE (art. R723-1 à R725-13)](#904)
+        - [Chapitre III : Sapeurs-pompiers (art. R723-1 à R723-91)](#905)
+          - [Section unique :  Sapeurs-pompiers volontaires (art. R723-1 à R723-91)](#906)
+            - [Sous-section 1 : Dispositions générales (art. R723-1 à R723-5)](#907)
+            - [Sous-section 2 : Engagement citoyen (art. D723-8 à R723-63)](#908)
+              - [Paragraphe 1 : Engagements des sapeurs-pompiers volontaires (art. D723-8 à R723-12)](#909)
+                - [Sous-paragraphe  1 : Premier engagement de sapeur-pompier volontaire (art. D723-8 à R723-10)](#910)
+                - [Sous-paragraphe  2 : Premier grade (art. R723-11 à R723-12)](#911)
+              - [Paragraphe 2 : Gestion (art. R723-13 à R723-14)](#912)
+              - [Paragraphe 3 : Déroulement du volontariat (art. R723-15 à R723-56)](#913)
+                - [Sous-paragraphe  1 : Période probatoire (art. R723-15)](#914)
+                - [Sous-paragraphe  2 : Formation (art. R723-16)](#915)
+                - [Sous-paragraphe  3 : Changements de grade (art. R723-17 à R723-34)](#916)
+                - [Sous-paragraphe  4 : Discipline (art. R723-35 à R723-44)](#917)
+                - [Sous-paragraphe  5 : Renouvellement de l'engagement (art. R723-45)](#918)
+                - [Sous-paragraphe  6 : Suspension de l'engagement (art. R723-46 à R723-50)](#919)
+                - [Sous-paragraphe  7 : Changement d'autorité de gestion (art. R723-51)](#920)
+                - [Sous-paragraphe  8 : Cessation d'activité (art. R723-52 à R723-56)](#921)
+              - [Paragraphe 4 : Distinctions (art. R723-61 à R723-63)](#922)
+                - [Sous-paragraphe  2 : Honorariat (art. R723-61 à R723-63)](#923)
+            - [Sous-section 3 : Instances consultatives (art. D723-64 à R723-78)](#924)
+              - [Paragraphe 1 : Conseil national des sapeurs-pompiers volontaires (art. D723-64 à D723-72)](#925)
+              - [Paragraphe 2 : Comité consultatif départemental des sapeurs-pompiers volontaires (art. R723-73)](#926)
+              - [Paragraphe 3 : Comité de centre ou intercentres d'incendie et de secours (art. R723-74)](#927)
+              - [Paragraphe 4 : Comité consultatif communal ou intercommunal de sapeurs-pompiers volontaires (art. R723-75)](#928)
+              - [Paragraphe 5 : Commission nationale de changement de grade des officiers de sapeurs-pompiers volontaires (art. R723-76)](#929)
+              - [Paragraphe 6 : Conseil de discipline départemental (art. R723-77)](#930)
+              - [Paragraphe 7 : Dispositions communes (art. R723-78)](#931)
+            - [Sous-section 4 : Catégories particulières de sapeurs-pompiers volontaires (art. R723-79 à R723-91)](#932)
+              - [Paragraphe 1 : Membres du service de santé et de secours médical (art. R723-79 à R723-85)](#933)
+              - [Paragraphe 2 : Sapeurs-pompiers professionnels, personnels militaires et personnels de l'aviation civile (art. R723-86 à R723-87)](#934)
+              - [Paragraphe 3 : Jeunes sapeurs-pompiers et personnels issus des professions de la sécurité (art. R723-88 à R723-89)](#935)
+              - [Paragraphe 4 : Experts (art. R723-90)](#936)
+              - [Paragraphe 5 : Engagements saisonniers (art. R723-91)](#937)
+        - [Chapitre V : Associations de sécurité civile (art. R725-1 à R725-13)](#938)
+          - [Section 1 : Agrément des associations (art. R725-1 à R725-12)](#939)
+            - [Sous-section 1 : Dispositions générales (art. R725-1 à R725-4)](#940)
+            - [Sous-section 2 : Procédure d'agrément (art. R725-5 à R725-9)](#941)
+            - [Sous-section 3 : Obligations de l'association agréée (art. R725-10 à R725-11)](#942)
+            - [Sous-section 4 : Dispositions particulières à Paris et aux départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne (art. R725-12)](#943)
+          - [Section 2 : Participation des associations agréées aux opérations de secours (art. R725-13)](#944)
+      - [TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION (art. R731-1 à R733-16)](#945)
+        - [Chapitre Ier : Prévention des risques (art. R731-1 à R731-10)](#946)
+        - [Chapitre II : Obligations en matière de sécurité civile (art. R732-1 à R732-34)](#947)
+          - [Section 1 : Maintien de la satisfaction des besoins prioritaires de la population (art. R732-1 à R732-8)](#948)
+          - [Section 2 : Capacité suffisante de communication radioélectrique des services de secours (art. R732-9 à R732-10)](#949)
+          - [Section 3 : Interopérabilité des réseaux (art. D732-11)](#950)
+          - [Section 3 bis : Agence du numérique de la sécurité civile (art. R732-11-1 à D732-11-20)](#951)
+            - [Sous-section 1 : Dispositions générales (art. R732-11-1 à R732-11-4)](#952)
+            - [Sous-section 2 : Organisation administrative (art. R732-11-5 à R732-11-15)](#953)
+            - [Sous-section 3 : Organisation financière (art. R732-11-16 à R732-11-18)](#954)
+            - [Sous-section 4 : Gestion du système d'information et de commandement unifié "NexSIS 18-112" (art. D732-11-19 à D732-11-20)](#955)
+          - [Section 3 ter : Système d'information et de commandement unifié "NexSIS 18-112" (art. D732-11-21 à D732-11-23)](#956)
+          - [Section 4 : Alimentation en énergie des établissements de santé (art. R732-12 à R732-18)](#957)
+            - [Sous-section 1 : Sécurité des établissements de santé en cas de défaillance du réseau d'énergie (art. R732-12 à R732-14)](#958)
+            - [Sous-section 2 : Sécurité des personnes hébergées dans des établissements médico-sociaux en cas de défaillance du réseau d'énergie (art. R732-15 à R732-18)](#959)
+          - [Section 5 : Code d'alerte national (art. R732-19 à R732-34)](#960)
+            - [Sous-section 1 : Dispositions générales (art. R732-19 à R732-21)](#961)
+            - [Sous-section 2 : Alerte (art. R732-22 à R732-27)](#962)
+            - [Sous-section 3 : Diffusion des consignes de sécurité à la population par les services de radiodiffusion sonore et de télévision (art. R732-28 à R732-29)](#963)
+            - [Sous-section 4 : Fin de l'alerte (art. R732-30 à R732-32)](#964)
+            - [Sous-section 5 : Fonctionnement et maintenance des dispositifs d'alerte (art. R732-33 à R732-34)](#965)
+        - [Chapitre III : Déminage (art. R733-1 à R733-16)](#966)
+          - [Section 1 : Compétences respectives des services placés sous l'autorité du ministre chargé de la sécurité civile et du ministre de la défense en matière de recherche, de neutralisation, d'enlèvement et de destruction des munitions et des explosifs (art. R733-1 à R733-2)](#967)
+          - [Section 2 : Modalités de traitement de la pollution pyrotechnique des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur (art. R733-3 à R733-13)](#968)
+            - [Sous-section 1 : Dispositions générales (art. R733-3 à R733-7)](#969)
+            - [Sous-section 2 : Dispositions relatives aux opérations de dépollution pyrotechnique effectuées dans le cadre d'un changement d'utilisation ou de la délivrance d'un titre d'occupation (art. R733-8)](#970)
+            - [Sous-section 3 : Dispositions relatives aux opérations de dépollution pyrotechnique dans le cadre des cessions des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur (art. R733-9 à R733-12)](#971)
+            - [Sous-section 4 : Attestations (art. R733-13)](#972)
+          - [Section 3 : Coopération interministérielle (art. R733-14 à R733-15)](#973)
+          - [Section 4 : Dispositions diverses (art. R733-16)](#974)
+      - [TITRE IV : ORGANISATION DES SECOURS ET GESTION DES CRISES (art. R741-1 à D742-21)](#975)
+        - [Chapitre Ier : Planification opérationnelle (art. R741-1 à R741-48)](#976)
+          - [Section 1 : Plans Orsec (art. R741-1 à R741-17)](#977)
+            - [Sous-section 1 : Principes communs des plans Orsec (art. R741-1 à R741-6)](#978)
+            - [Sous-section 2 : Plan Orsec départemental (art. R741-7 à R741-10)](#979)
+            - [Sous-section 3 : Plan Orsec de zone (art. R741-11 à R741-14)](#980)
+            - [Sous-section 4 : Plan Orsec maritime (art. R741-15 à R741-17)](#981)
+          - [Section 2 : Plans particuliers d'intervention (art. R741-18 à R741-38)](#982)
+            - [Sous-section 1 : Caractéristiques des installations et ouvrages dont les risques imposent un plan particulier d'intervention (art. R741-18 à R741-20)](#983)
+            - [Sous-section 2 : Contenu du plan particulier d'intervention (art. R741-21 à R741-23)](#984)
+            - [Sous-section 3 : Procédures de consultation, d'adoption et de publicité (art. R741-24 à R741-32)](#985)
+            - [Sous-section 4 : Plans particuliers d'intervention concernant certains aménagements hydrauliques (art. R741-33 à R741-38)](#986)
+          - [Section 3 : Planifications opérationnelles propres des acteurs concourant à la sécurité civile (art. R741-39 à R741-48)](#987)
+            - [Sous-section 1 : Plan d'opération interne des installations classées pour la protection de l'environnement (art. R741-39 à R741-40)](#988)
+            - [Sous-section 2 : Plan de sécurité et d'intervention des canalisations de transport de gaz, d'hydrocarbures ou de produits chimiques (art. R741-41)](#989)
+            - [Sous-section 3 : Plan d'intervention et de sécurité d'ouvrages et d'infrastructures de transport (art. R741-42 à R741-44)](#990)
+            - [Sous-section 4 : Plan interne de crise pour le maintien de la satisfaction des besoins prioritaires de la population (art. R741-45)](#991)
+            - [Sous-section 5 : Préparation du système de santé (art. R741-46)](#992)
+            - [Sous-section 6 : Plan d'organisation des établissements assurant l'hébergement des personnes âgées (art. D741-47)](#993)
+            - [Sous-section 7 : Plan d'alerte et d'urgence au profit des personnes âgées et des personnes handicapées (art. R741-48)](#994)
+        - [Chapitre II : Opérations de secours (art. R*742-1 à D742-21)](#995)
+          - [Section 1 : Secours, recherche et sauvetage des personnes en détresse en mer (art. R*742-1 à R742-15)](#996)
+          - [Section 2 : Recherche et sauvetage des aéronefs en détresse en temps de paix (art. D742-16 à D742-21)](#997)
+      - [TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D761-4 à R768-6)](#998)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. D761-4 à R761-3)](#999)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. D762-4 à R762-3)](#1000)
+        - [Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin (art. D763-6 à R763-5)](#1001)
+        - [Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. D764-6 à R764-5)](#1002)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. D765-3 à R765-7)](#1003)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. D766-3 à R766-6)](#1004)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. D767-3 à R767-7)](#1005)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. D768-3 à R768-6)](#1006)
+    - [LIVRE VIII : DU RENSEIGNEMENT (art. R811-1 à R898-1)](#1007)
+      - [TITRE IER : DISPOSITIONS GÉNÉRALES (art. R811-1 à R811-2)](#1008)
+      - [TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R821-1 à R823-2)](#1009)
+        - [Chapitre Ier : De l'autorisation de mise en œuvre (art. R821-1)](#1010)
+        - [Chapitre III : Des organes compétents (art. D823-3 à R823-2)](#1011)
+      - [TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT (art. R841-2)](#1012)
+      - [TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION (art. R851-1 à R853-3)](#1013)
+        - [Chapitre Ier : Des accès administratifs aux données de connexion (art. R851-1 à R851-10)](#1014)
+          - [Section 1 : Services autres que les services spécialisés de renseignement pouvant être autorisés à accéder aux données de connexion (art. R851-1 à R851-4)](#1015)
+          - [Section 2 : Données de connexion susceptibles d'être recueillies (art. R851-5)](#1016)
+          - [Section 3 : Conditions d'accès aux données de connexion (art. R851-6 à R851-10)](#1017)
+        - [Chapitre II : Des interceptions de sécurité (art. R852-1 à R852-3)](#1018)
+        - [Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques (art. R853-1 à R853-3)](#1019)
+      - [TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE (art. R855-1)](#1020)
+      - [TITRE VII : OBLIGATIONS DES OPÉRATEURS ET PRESTATAIRES DE SERVICES (art. R871-1 à R873-2)](#1021)
+        - [Chapitre Ier : Obligations en matière de cryptologie (art. R871-1 à R871-5)](#1022)
+        - [Chapitre II : Obligations liées à la mise en place des techniques de renseignement (art. R872-1 à R872-6)](#1023)
+        - [Chapitre III : Compensations financières (art. R873-1 à R873-2)](#1024)
+      - [TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R891-1 à R898-1)](#1025)
+        - [Chapitre Ier : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. R891-1)](#1026)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. R892-1)](#1027)
+        - [Chapitre V : Dispositions applicables en Polynésie française (art. R895-1)](#1028)
+        - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie (art. R896-1 à R896-2)](#1029)
+        - [Chapitre VII : Dispositions applicables à Wallis-et-Futuna (art. R897-1)](#1030)
+        - [Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R898-1)](#1031)
+    - [Annexes (art. Annexe 1 à Annexe 4)](#1032)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE<a id=2></a>
@@ -21023,9 +21026,22 @@ _Codifié par_:
 
 ###### Article L721-1
 
-Toute personne concourt par son comportement à la sécurité civile. En fonction des situations auxquelles elle est confrontée
-et dans la mesure de ses possibilités, elle veille à prévenir les services de secours et à prendre les premières dispositions
-nécessaires.
+I.- Toute personne concourt par son comportement à la sécurité civile. En fonction des situations auxquelles elle est
+confrontée et dans la mesure de ses possibilités, elle veille à prévenir les services de secours et à prendre les premières
+dispositions nécessaires.
+
+II.-Quiconque porte assistance de manière bénévole à une personne en situation apparente de péril grave et imminent est un
+citoyen sauveteur et bénéficie de la qualité de collaborateur occasionnel du service public.
+
+Le citoyen sauveteur effectue, jusqu'à l'arrivée des services de secours, les gestes de premiers secours par, le cas échéant,
+la mise en œuvre de compressions thoraciques, associées ou non à l'utilisation d'un défibrillateur automatisé externe.
+
+Les diligences normales mentionnées au troisième alinéa de l'article 121-3 du code pénal s'apprécient, pour le citoyen
+sauveteur, au regard notamment de l'urgence dans laquelle il intervient ainsi que des informations dont il dispose au moment
+de son intervention.
+
+Lorsqu'il résulte un préjudice du fait de son intervention, le citoyen sauveteur est exonéré de toute responsabilité civile,
+sauf en cas de faute lourde ou intentionnelle de sa part.
 
 **Liens relatifs à cet article**
 
@@ -21033,9 +21049,9 @@ _Anciens textes_:
 
   - Loi n°2004-811 du 13 août 2004 - art. 4 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2020-840 du 3 juillet 2020 - art. 1
 
 _Cité par_:
 
@@ -21061,9 +21077,9 @@ nationale, les personnels de la police nationale et les agents de l'Etat, des co
 ou au maintien de la continuité de la vie nationale, les membres des associations ayant la sécurité civile dans leur objet
 social, ainsi que les réservistes de la sécurité civile.
 
-Les diligences normales mentionnées à l'article 121-3 du code pénal sont appréciées, pour les personnes mentionnées au
-présent article lorsqu'elles concourent aux missions de sécurité civile, au regard notamment de l'urgence dans laquelle
-s'exercent leurs missions ainsi que des informations dont elles disposent au moment de leur intervention.
+Les diligences normales mentionnées au troisième alinéa de l'article 121-3 du code pénal s'apprécient, pour les personnes
+mentionnées au présent article lorsqu'elles concourent aux missions de sécurité civile, au regard notamment de l'urgence dans
+laquelle s'exercent leurs missions ainsi que des informations dont elles disposent au moment de leur intervention.
 
 **Liens relatifs à cet article**
 
@@ -21090,9 +21106,9 @@ _Anciens textes_:
 
   - Loi n°2004-811 du 13 août 2004 - art. 2 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2020-840 du 3 juillet 2020 - art. 1
 
 _Cite_:
 
@@ -22100,8 +22116,6 @@ aux populations.
 Elles seules peuvent contribuer à la mise en place des dispositifs de sécurité civile dans le cadre de rassemblements de
 personnes.
 
-Par ailleurs, elles peuvent assurer des actions d'enseignement et de formation en matière de secourisme.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -22115,9 +22129,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L725-5 (V)
   - Code de la sécurité intérieure - art. R725-1 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2020-840 du 3 juillet 2020 - art. 6 (V)
 
 _Codifié par_:
 
@@ -22312,11 +22326,45 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION<a id=301></a>
+### Titre II BIS : FORMATIONS AUX PREMIERS SECOURS<a id=301></a>
 
-#### Chapitre Ier : Prévention des risques<a id=302></a>
+#### Chapitre Ier : Autorisations de prestation de formation aux premiers secours<a id=302></a>
 
-##### Section 1 : Information sur les risques majeurs<a id=303></a>
+###### Article L726-1
+
+Les actions d'enseignement et de formation en matière de secourisme sont assurées par des organismes habilités parmi les
+services des établissements de santé dont la liste est fixée par décret et les services publics auxquels appartiennent les
+acteurs de la sécurité civile mentionnés aux premier et deuxième alinéas de l'article L. 721-2 ou par des associations de
+sécurité civile agréées au titre de l'article L. 725-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-840 du 3 juillet 2020 - art. 6 (V)
+
+
+#### Chapitre II : Enseignement à la pratique des premiers secours<a id=303></a>
+
+###### Article L726-2
+
+Les titulaires d'une formation initiale aux premiers secours qui participent aux opérations de secours organisées sous le
+contrôle des autorités publiques ou aux dispositifs prévisionnels de secours ou qui assurent une mission d'enseignement aux
+premiers secours bénéficient d'une formation continue en vue de maintenir ou parfaire leurs qualifications et leurs
+compétences.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-840 du 3 juillet 2020 - art. 6 (V)
+
+
+### TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION<a id=304></a>
+
+#### Chapitre Ier : Prévention des risques<a id=305></a>
+
+##### Section 1 : Information sur les risques majeurs<a id=306></a>
 
 ###### Article L731-1
 
@@ -22339,7 +22387,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Schéma départemental d'analyse  et de couverture des risques<a id=304></a>
+##### Section 2 : Schéma départemental d'analyse  et de couverture des risques<a id=307></a>
 
 ###### Article L731-2
 
@@ -22369,7 +22417,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Plan communal de sauvegarde<a id=305></a>
+##### Section 3 : Plan communal de sauvegarde<a id=308></a>
 
 ###### Article L731-3
 
@@ -22418,9 +22466,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Obligations en matière de sécurité civile<a id=306></a>
+#### Chapitre II : Obligations en matière de sécurité civile<a id=309></a>
 
-##### Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population<a id=307></a>
+##### Section 1 : Maintien de la satisfaction  des besoins prioritaires de la population<a id=310></a>
 
 ###### Article L732-1
 
@@ -22491,7 +22539,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Capacité suffisante de communication  radioélectrique des services de secours<a id=308></a>
+##### Section 2 : Capacité suffisante de communication  radioélectrique des services de secours<a id=311></a>
 
 ###### Article L732-3
 
@@ -22547,7 +22595,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Interopérabilité des réseaux<a id=309></a>
+##### Section 3 : Interopérabilité des réseaux<a id=312></a>
 
 ###### Article L732-5
 
@@ -22579,7 +22627,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Alimentation en énergie des établissements de santé<a id=310></a>
+##### Section 4 : Alimentation en énergie des établissements de santé<a id=313></a>
 
 ###### Article L732-6
 
@@ -22610,7 +22658,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 5 : Code d'alerte national<a id=311></a>
+##### Section 5 : Code d'alerte national<a id=314></a>
 
 ###### Article L732-7
 
@@ -22637,7 +22685,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Déminage<a id=312></a>
+#### Chapitre III : Déminage<a id=315></a>
 
 ###### Article L733-1
 
@@ -22719,11 +22767,11 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES<a id=313></a>
+### TITRE IV : ORGANISATION DES SECOURS  ET GESTION DES CRISES<a id=316></a>
 
-#### Chapitre Ier : Planification opérationnelle<a id=314></a>
+#### Chapitre Ier : Planification opérationnelle<a id=317></a>
 
-##### Section 1 : Plans Orsec<a id=315></a>
+##### Section 1 : Plans Orsec<a id=318></a>
 
 ###### Article L741-1
 
@@ -22890,7 +22938,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Plans particuliers d'intervention<a id=316></a>
+##### Section 2 : Plans particuliers d'intervention<a id=319></a>
 
 ###### Article L741-6
 
@@ -22944,9 +22992,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Opérations de secours<a id=317></a>
+#### Chapitre II : Opérations de secours<a id=320></a>
 
-##### Section 1 : Direction des opérations de secours<a id=318></a>
+##### Section 1 : Direction des opérations de secours<a id=321></a>
 
 ###### Article L742-1
 
@@ -23176,7 +23224,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 2 : Secours aux personnes en détresse<a id=319></a>
+##### Section 2 : Secours aux personnes en détresse<a id=322></a>
 
 ###### Article L742-8
 
@@ -23265,7 +23313,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 3 : Prise en charge des dépenses de secours<a id=320></a>
+##### Section 3 : Prise en charge des dépenses de secours<a id=323></a>
 
 ###### Article L742-11
 
@@ -23312,7 +23360,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-##### Section 4 : Réquisitions<a id=321></a>
+##### Section 4 : Réquisitions<a id=324></a>
 
 ###### Article L742-12
 
@@ -23429,9 +23477,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE V : ÉVALUATION ET CONTRÔLE<a id=322></a>
+### TITRE V : ÉVALUATION ET CONTRÔLE<a id=325></a>
 
-#### Chapitre Ier : Missions d'évaluation et de contrôle<a id=323></a>
+#### Chapitre Ier : Missions d'évaluation et de contrôle<a id=326></a>
 
 ###### Article L751-1
 
@@ -23498,7 +23546,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Dispositions pénales<a id=324></a>
+#### Chapitre II : Dispositions pénales<a id=327></a>
 
 ###### Article L752-1
 
@@ -23529,9 +23577,9 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=325></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=328></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=326></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=329></a>
 
 ###### Article L761-1
 
@@ -23554,7 +23602,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=327></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=330></a>
 
 ###### Article L762-1
 
@@ -23664,7 +23712,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=328></a>
+#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=331></a>
 
 ###### Article L763-1
 
@@ -23690,7 +23738,7 @@ _Modifié par_:
   - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
-#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=329></a>
+#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=332></a>
 
 ###### Article L764-1
 
@@ -23742,22 +23790,24 @@ _Cite_:
   - Code de la sécurité intérieure - art. L723-4 (V)
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=330></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=333></a>
 
 ###### Article L765-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale,  les dispositions suivantes : 
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2020-840 du 3 juillet 2020 visant à créer
+le statut de citoyen sauveteur, lutter contre l'arrêt cardiaque et sensibiliser aux gestes qui sauvent, les dispositions
+suivantes :
 
-1° Au titre Ier : l'article L. 711-1 ; 
+1° Au titre Ier : l'article L. 711-1 ;
 
-2° Au titre II : les articles L. 721-1 à L. 723-1, L. 723-3 à L. 723-5, L. 725-1 et L. 725-3 à L. 725-6 ; 
+2° Au titre II : les articles L. 721-1 à L. 723-1, L. 723-3 à L. 723-5, L. 725-1 et L. 725-3 à L. 725-6 ;
 
-3° Au titre III : les articles L. 731-2 à L. 732-2 et L. 732-5 à L. 732-7, L. 733-1 à L. 733-3 ; 
+2° bis Au titre II bis : les articles L. 726-1 et L. 726-2 ;
+
+3° Au titre III : les articles L. 731-2 à L. 732-2 et L. 732-5 à L. 732-7, L. 733-1 à L. 733-3 ;
 
 4° Au titre IV : les articles L. 741-1, L. 741-2, L. 741-4 à L. 741-6, L. 742-1, L. 742-2, L. 742-5, L. 742-6, L. 742-8 à L.
-742-13 et L. 742-15 ; 
+742-13 et L. 742-15 ;
 
 5° Au titre V : les articles L. 751-1 à L. 752-1.
 
@@ -23765,7 +23815,7 @@ procédure pénale,  les dispositions suivantes :
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2020-840 du 3 juillet 2020 - art. 7
 
 _Cite_:
 
@@ -23982,22 +24032,24 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=331></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=334></a>
 
 ###### Article L766-1
 
-Sont applicables en  Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la
-lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la
-procédure pénale,  les dispositions suivantes : 
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2020-840 du 3 juillet 2020 visant à créer
+le statut de citoyen sauveteur, lutter contre l'arrêt cardiaque et sensibiliser aux gestes qui sauvent, les dispositions
+suivantes :
 
-1° Au titre Ier : l'article L. 711-1 ; 
+1° Au titre Ier : l'article L. 711-1 ;
 
-2° Au titre II : les articles L. 721-1 à L. 722-1, L. 725-1 et L. 725-3 à L. 725-6 ; 
+2° Au titre II : les articles L. 721-1 à L. 722-1, L. 725-1 et L. 725-3 à L. 725-6 ;
 
-3° Au titre III : les articles L. 731-2 à L. 732-2 et L. 732-5 à L. 732-7, L. 733-1 à L. 733-3 ; 
+2° bis Au titre II bis : les articles L. 726-1 et L. 726-2 ;
+
+3° Au titre III : les articles L. 731-2 à L. 732-2 et L. 732-5 à L. 732-7, L. 733-1 à L. 733-3 ;
 
 4° Au titre IV : les articles L. 741-1 à L. 741-6, 
-L. 742-1 à L. 742-3, L. 742-5, L. 742-6, L. 742-8 à L. 742-13 et L. 742-15 ; 
+L. 742-1 à L. 742-3, L. 742-5, L. 742-6, L. 742-8 à L. 742-13 et L. 742-15 ;
 
 5° Au titre V : les articles L. 751-1 à L. 752-1.
 
@@ -24005,7 +24057,7 @@ L. 742-1 à L. 742-3, L. 742-5, L. 742-6, L. 742-8 à L. 742-13 et L. 742-15 ;
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2020-840 du 3 juillet 2020 - art. 7
 
 _Cite_:
 
@@ -24265,15 +24317,17 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=332></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=335></a>
 
 ###### Article L767-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016
-renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties
-de la procédure pénale, les dispositions suivantes : 
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2020-840 du 3 juillet 2020 visant
+à créer le statut de citoyen sauveteur, lutter contre l'arrêt cardiaque et sensibiliser aux gestes qui sauvent, les
+dispositions suivantes :
 
-1° Au titre II : les articles L. 721-1 et L. 721-2 ; 
+1° Au titre II : les articles L. 721-1 et L. 721-2 ;
+
+1° bis Au titre II bis : les articles L. 726-1 et L. 726-2
 
 2° Au titre III : les articles L. 733-1 à L. 733-3 ; 
 
@@ -24284,7 +24338,7 @@ L. 742-1, L. 742-3, L. 742-5, L. 742-6, L. 742-8 à L. 742-10 et L. 742-12.
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 119
+  - Loi n°2020-840 du 3 juillet 2020 - art. 7
 
 _Cite_:
 
@@ -24376,7 +24430,7 @@ _Cité par_:
   - Arrêté du 5 novembre 2013 - art. 8 (V)
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=333></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=336></a>
 
 ###### Article L768-1
 
@@ -24456,7 +24510,7 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-## LIVRE VIII : DU RENSEIGNEMENT<a id=334></a>
+## LIVRE VIII : DU RENSEIGNEMENT<a id=337></a>
 
 ###### Article L801-1
 
@@ -24502,7 +24556,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L855-1 (V)
 
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=335></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=338></a>
 
 ###### Article L811-1
 
@@ -24733,9 +24787,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L811-3
 
 
-### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=336></a>
+### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=339></a>
 
-#### Chapitre Ier : De l'autorisation de mise en œuvre<a id=337></a>
+#### Chapitre Ier : De l'autorisation de mise en œuvre<a id=340></a>
 
 ###### Article L821-1
 
@@ -24967,7 +25021,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L833-8
 
 
-#### Chapitre II : Des renseignements collectés<a id=338></a>
+#### Chapitre II : Des renseignements collectés<a id=341></a>
 
 ###### Article L822-1
 
@@ -25080,9 +25134,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L854-8 (V)
 
 
-### TITRE III : DE LA COMMISSION NATIONALE DE CONTRÔLE DES TECHNIQUES DE RENSEIGNEMENT<a id=339></a>
+### TITRE III : DE LA COMMISSION NATIONALE DE CONTRÔLE DES TECHNIQUES DE RENSEIGNEMENT<a id=342></a>
 
-#### Chapitre Ier : Composition et organisation<a id=340></a>
+#### Chapitre Ier : Composition et organisation<a id=343></a>
 
 ###### Article L831-1
 
@@ -25149,7 +25203,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L831-1
 
 
-#### Chapitre II : Règles de déontologie et de fonctionnement<a id=341></a>
+#### Chapitre II : Règles de déontologie et de fonctionnement<a id=344></a>
 
 ###### Article L832-2
 
@@ -25233,7 +25287,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L833-3 (V)
 
 
-#### Chapitre III : Missions<a id=342></a>
+#### Chapitre III : Missions<a id=345></a>
 
 ###### Article L833-1
 
@@ -25482,7 +25536,7 @@ _Créé par_:
   - Loi n°2015-912 du 24 juillet 2015 - art. 2
 
 
-### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ETAT<a id=343></a>
+### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ETAT<a id=346></a>
 
 ###### Article L841-1
 
@@ -25557,9 +25611,9 @@ _Modifié par_:
   - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
-### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION<a id=344></a>
+### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES A AUTORISATION<a id=347></a>
 
-#### Chapitre Ier :  Des accès administratifs aux données de connexion<a id=345></a>
+#### Chapitre Ier :  Des accès administratifs aux données de connexion<a id=348></a>
 
 ###### Article L851-1
 
@@ -25824,7 +25878,7 @@ _Cite_:
   - Code pénal - art. 226-15
 
 
-#### Chapitre II : Des interceptions de sécurité<a id=346></a>
+#### Chapitre II : Des interceptions de sécurité<a id=349></a>
 
 ###### Article L852-1
 
@@ -25913,7 +25967,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L851-1 (V)
 
 
-#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques<a id=347></a>
+#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques<a id=350></a>
 
 ###### Article L853-1
 
@@ -26066,7 +26120,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R853-3 (V)
 
 
-#### Chapitre IV : Des mesures de surveillance des communications électroniques internationales<a id=348></a>
+#### Chapitre IV : Des mesures de surveillance des communications électroniques internationales<a id=351></a>
 
 ###### Article L854-1
 
@@ -26408,7 +26462,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L854-6
 
 
-#### Chapitre V : Des mesures de surveillance de certaines communications hertziennes<a id=349></a>
+#### Chapitre V : Des mesures de surveillance de certaines communications hertziennes<a id=352></a>
 
 ###### Article L855-1 A
 
@@ -26493,7 +26547,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L855-1 A (V)
 
 
-### TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE<a id=350></a>
+### TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE<a id=353></a>
 
 ###### Article L855-1
 
@@ -26538,9 +26592,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L852-1
 
 
-### TITRE VI : DES AGENTS DES SERVICES SPECIALISES DE RENSEIGNEMENT<a id=351></a>
+### TITRE VI : DES AGENTS DES SERVICES SPECIALISES DE RENSEIGNEMENT<a id=354></a>
 
-#### Chapitre Ier : De la protection du secret de la défense nationale et de l'anonymat des agents<a id=352></a>
+#### Chapitre Ier : De la protection du secret de la défense nationale et de l'anonymat des agents<a id=355></a>
 
 ###### Article L861-1
 
@@ -26673,7 +26727,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L833-8 (V)
 
 
-#### Chapitre II : De la protection juridique des agents<a id=353></a>
+#### Chapitre II : De la protection juridique des agents<a id=356></a>
 
 ###### Article L862-1
 
@@ -26710,7 +26764,7 @@ _Créé par_:
   - Loi n°2015-912 du 24 juillet 2015 - art. 8
 
 
-#### Chapitre III : De l'information des services de renseignement<a id=354></a>
+#### Chapitre III : De l'information des services de renseignement<a id=357></a>
 
 ###### Article L863-1
 
@@ -26769,7 +26823,7 @@ _Modifié par_:
   - Loi n°2016-987 du 21 juillet 2016 - art. 17
 
 
-### TITRE VII : OBLIGATIONS DES OPERATEURS ET PRESTATAIRES DE SERVICES<a id=355></a>
+### TITRE VII : OBLIGATIONS DES OPERATEURS ET PRESTATAIRES DE SERVICES<a id=358></a>
 
 ###### Article L871-1
 
@@ -26977,7 +27031,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L854-7 (V)
 
 
-### TITRE VIII : DISPOSITIONS PENALES<a id=356></a>
+### TITRE VIII : DISPOSITIONS PENALES<a id=359></a>
 
 ###### Article L881-1
 
@@ -27031,9 +27085,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L871-4
 
 
-### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=357></a>
+### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=360></a>
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=358></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=361></a>
 
 ###### Article L895-1
 
@@ -27089,7 +27143,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L871-6
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=359></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=362></a>
 
 ###### Article L896-1
 
@@ -27145,7 +27199,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L871-6
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=360></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=363></a>
 
 ###### Article L897-1
 
@@ -27195,7 +27249,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L871-6
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=361></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=364></a>
 
 ###### Article L898-1
 
@@ -27237,13 +27291,13 @@ _Modifié par_:
   - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
 
 
-# Partie réglementaire<a id=362></a>
+# Partie réglementaire<a id=365></a>
 
-## LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE<a id=363></a>
+## LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE<a id=366></a>
 
-### TITRE Ier : PRINCIPES GÉNÉRAUX DE LA SÉCURITÉ INTÉRIEURE<a id=364></a>
+### TITRE Ier : PRINCIPES GÉNÉRAUX DE LA SÉCURITÉ INTÉRIEURE<a id=367></a>
 
-#### Chapitre III : Protection juridique des personnes  concourant à la sécurité intérieure<a id=365></a>
+#### Chapitre III : Protection juridique des personnes  concourant à la sécurité intérieure<a id=368></a>
 
 ###### Article R113-1
 
@@ -27301,9 +27355,9 @@ _Cité par_:
   - Décret n°2017-97 du 26 janvier 2017 - art. 1 (V)
 
 
-#### Chapitre IV : Enquêtes administratives<a id=366></a>
+#### Chapitre IV : Enquêtes administratives<a id=369></a>
 
-##### Section 1  :  Enquêtes administratives en application de l'article L. 114-1<a id=367></a>
+##### Section 1  :  Enquêtes administratives en application de l'article L. 114-1<a id=370></a>
 
 ###### Article R114-1
 
@@ -27743,7 +27797,7 @@ _Nouveaux textes_:
   - Code de la sécurité intérieure - art. R234-1 (V)
 
 
-##### Section 2 : Conséquences des enquêtes administratives en application du IV de l'article L. 114-1<a id=368></a>
+##### Section 2 : Conséquences des enquêtes administratives en application du IV de l'article L. 114-1<a id=371></a>
 
 ###### Article R114-6-1
 
@@ -27970,7 +28024,7 @@ _Modifié par_:
   - Décret n°2018-887 du 12 octobre 2018 - art. 4
 
 
-##### Section 3 : Enquêtes administratives en application de l'article L. 114-2<a id=369></a>
+##### Section 3 : Enquêtes administratives en application de l'article L. 114-2<a id=372></a>
 
 ###### Article R114-7
 
@@ -28172,9 +28226,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R114-8 (V)
 
 
-### TITRE II : ORGANISATION ADMINISTRATIVE<a id=370></a>
+### TITRE II : ORGANISATION ADMINISTRATIVE<a id=373></a>
 
-#### Chapitre Ier : Institutions nationales<a id=371></a>
+#### Chapitre Ier : Institutions nationales<a id=374></a>
 
 ###### Article R*121-1
 
@@ -28199,9 +28253,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R*158-1 (VD)
 
 
-#### Chapitre II : Préfets<a id=372></a>
+#### Chapitre II : Préfets<a id=375></a>
 
-##### Section 1 : Dispositions générales<a id=373></a>
+##### Section 1 : Dispositions générales<a id=376></a>
 
 ###### Article R*122-1
 
@@ -28238,9 +28292,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R*158-1 (VD)
 
 
-##### Section 2 : Préfet de zone de défense et de sécurité<a id=374></a>
+##### Section 2 : Préfet de zone de défense et de sécurité<a id=377></a>
 
-##### Sous-section 1 : Dispositions générales<a id=375></a>
+##### Sous-section 1 : Dispositions générales<a id=378></a>
 
 ###### Article R*122-2
 
@@ -28292,9 +28346,9 @@ _Anciens textes_:
   - Code de la défense. - art. R*1311-1, III (VT)
 
 
-##### Sous-section 2 : Pouvoirs du préfet de zone  de défense et de sécurité<a id=376></a>
+##### Sous-section 2 : Pouvoirs du préfet de zone  de défense et de sécurité<a id=379></a>
 
-##### Paragraphe 1 : Pouvoirs généraux du préfet de zone de défense  et de sécurité en matière de sécurité nationale<a id=377></a>
+##### Paragraphe 1 : Pouvoirs généraux du préfet de zone de défense  et de sécurité en matière de sécurité nationale<a id=380></a>
 
 ###### Article R*122-4
 
@@ -28525,7 +28579,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R*155-1  (VD)
 
 
-##### Paragraphe 2 : Pouvoirs du préfet de zone de défense et de sécurité  en cas de crise ou d'événements d'une particulière gravité<a id=378></a>
+##### Paragraphe 2 : Pouvoirs du préfet de zone de défense et de sécurité  en cas de crise ou d'événements d'une particulière gravité<a id=381></a>
 
 ###### Article R*122-8
 
@@ -28604,7 +28658,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R*122-8
 
 
-##### Paragraphe 3 : Autres pouvoirs du préfet  de zone de défense et de sécurité<a id=379></a>
+##### Paragraphe 3 : Autres pouvoirs du préfet  de zone de défense et de sécurité<a id=382></a>
 
 ###### Article R*122-10
 
@@ -28682,7 +28736,7 @@ _Anciens textes_:
   - Code de la défense. - art. R*1311-14 (VT)
 
 
-##### Sous-section 3 : Préfet délégué pour la défense et la sécurité  auprès du préfet de zone de défense et de sécurité<a id=380></a>
+##### Sous-section 3 : Préfet délégué pour la défense et la sécurité  auprès du préfet de zone de défense et de sécurité<a id=383></a>
 
 ###### Article R122-13
 
@@ -28798,7 +28852,7 @@ _Anciens textes_:
   - Code de la défense. - art. R1311-18 (VT)
 
 
-##### Sous-section 4 : Etat-major de zone de défense et de sécurité<a id=381></a>
+##### Sous-section 4 : Etat-major de zone de défense et de sécurité<a id=384></a>
 
 ###### Article R122-17
 
@@ -28875,9 +28929,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R*122-41 (VD)
 
 
-##### Sous-section 5 : Délégué et correspondant  de zone de défense et de sécurité<a id=382></a>
+##### Sous-section 5 : Délégué et correspondant  de zone de défense et de sécurité<a id=385></a>
 
-##### Paragraphe 1 : Délégué de zone de défense et de sécurité<a id=383></a>
+##### Paragraphe 1 : Délégué de zone de défense et de sécurité<a id=386></a>
 
 ###### Article R122-20
 
@@ -29026,7 +29080,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R122-47 (VD)
 
 
-##### Paragraphe 2 : Correspondant de zone de défense et de sécurité<a id=384></a>
+##### Paragraphe 2 : Correspondant de zone de défense et de sécurité<a id=387></a>
 
 ###### Article R122-26
 
@@ -29071,9 +29125,9 @@ _Anciens textes_:
   - Code de la défense. - art. R*1311-24, alinéa 2 (VT)
 
 
-##### Sous-section 6 : Autorités et services de l'Etat assistant  le préfet de zone de défense et de sécurité<a id=385></a>
+##### Sous-section 6 : Autorités et services de l'Etat assistant  le préfet de zone de défense et de sécurité<a id=388></a>
 
-##### Paragraphe 1 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière de sécurité civile<a id=386></a>
+##### Paragraphe 1 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière de sécurité civile<a id=389></a>
 
 ###### Article R122-28
 
@@ -29125,7 +29179,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R122-28 (VD)
 
 
-##### Paragraphe 2 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière d'administration de la police nationale<a id=387></a>
+##### Paragraphe 2 : Autorités et services de l'Etat assistant le préfet de zone de défense  et de sécurité en matière d'administration de la police nationale<a id=390></a>
 
 ###### Article R122-30
 
@@ -29143,7 +29197,7 @@ _Modifié par_:
   - Décret n°2014-296 du 6 mars 2014 - art. 8
 
 
-##### Paragraphe 3 : Dispositions diverses<a id=388></a>
+##### Paragraphe 3 : Dispositions diverses<a id=391></a>
 
 ###### Article D122-38
 
@@ -29379,7 +29433,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R*122-41-1 (V)
 
 
-##### Sous-section 7 : Dispositions particulières  à la zone de défense et de sécurité de Paris<a id=389></a>
+##### Sous-section 7 : Dispositions particulières  à la zone de défense et de sécurité de Paris<a id=392></a>
 
 ###### Article R*122-39
 
@@ -29581,7 +29635,7 @@ _Créé par_:
   - Décret n°2013-1112 du 4 décembre 2013 - art.
 
 
-##### Sous-section 8 : Dispositions particulières  à la zone de défense et de sécurité Sud<a id=390></a>
+##### Sous-section 8 : Dispositions particulières  à la zone de défense et de sécurité Sud<a id=393></a>
 
 ###### Article R*122-45
 
@@ -29752,7 +29806,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R122-35 (VD)
 
 
-##### Section 3 : Préfet de département<a id=391></a>
+##### Section 3 : Préfet de département<a id=394></a>
 
 ###### Article R*122-52
 
@@ -29776,7 +29830,7 @@ _Créé par_:
   - Décret n°2013-1112 du 4 décembre 2013 - art.
 
 
-##### Section 4 : Préfet de police<a id=392></a>
+##### Section 4 : Préfet de police<a id=395></a>
 
 ###### Article R*122-53
 
@@ -29825,7 +29879,7 @@ _Modifié par_:
   - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
-##### Section 5 : Préfet de police des Bouches-du-Rhône<a id=393></a>
+##### Section 5 : Préfet de police des Bouches-du-Rhône<a id=396></a>
 
 ###### Article R*122-55
 
@@ -29849,7 +29903,7 @@ _Créé par_:
   - Décret n°2013-1112 du 4 décembre 2013 - art.
 
 
-##### Section 6 : Comité départemental de sécurité<a id=394></a>
+##### Section 6 : Comité départemental de sécurité<a id=397></a>
 
 ###### Article D122-56
 
@@ -29930,11 +29984,11 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre III : Etablissements publics<a id=395></a>
+#### Chapitre III : Etablissements publics<a id=398></a>
 
-##### Section unique :  Institut national des hautes études  de la sécurité et de la justice<a id=396></a>
+##### Section unique :  Institut national des hautes études  de la sécurité et de la justice<a id=399></a>
 
-##### Sous-section 1 : Dispositions générales<a id=397></a>
+##### Sous-section 1 : Dispositions générales<a id=400></a>
 
 ###### Article R123-1
 
@@ -30014,7 +30068,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R123-8 (VD)
 
 
-##### Paragraphe 1 : Organisation des sessions de formation<a id=398></a>
+##### Paragraphe 1 : Organisation des sessions de formation<a id=401></a>
 
 ###### Article D123-3
 
@@ -30141,7 +30195,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Paragraphe 2 : L'Observatoire national de la délinquance et des réponses pénales<a id=399></a>
+##### Paragraphe 2 : L'Observatoire national de la délinquance et des réponses pénales<a id=402></a>
 
 ###### Article D123-9
 
@@ -30415,7 +30469,7 @@ _Modifié par_:
   - Décret n°2015-1213 du 1er octobre 2015 - art. 1
 
 
-##### Sous-section 2 : Organisation administrative<a id=400></a>
+##### Sous-section 2 : Organisation administrative<a id=403></a>
 
 ###### Article D123-15
 
@@ -30890,7 +30944,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R123-2 (V)
 
 
-##### Sous-section 3 : Personnel<a id=401></a>
+##### Sous-section 3 : Personnel<a id=404></a>
 
 ###### Article D123-30
 
@@ -30913,7 +30967,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 4 : Organisation financière<a id=402></a>
+##### Sous-section 4 : Organisation financière<a id=405></a>
 
 ###### Article D123-31
 
@@ -31086,9 +31140,9 @@ _Cité par_:
   - Code de la défense. - art. R1132-33-3 (V)
 
 
-### TITRE III : COMPÉTENCES RESPECTIVES DE L'ÉTAT ET DES COLLECTIVITÉS TERRITORIALES EN MATIÈRE DE SÉCURITÉ PUBLIQUE<a id=403></a>
+### TITRE III : COMPÉTENCES RESPECTIVES DE L'ÉTAT ET DES COLLECTIVITÉS TERRITORIALES EN MATIÈRE DE SÉCURITÉ PUBLIQUE<a id=406></a>
 
-#### Chapitre Ier : Exercice des pouvoirs de police<a id=404></a>
+#### Chapitre Ier : Exercice des pouvoirs de police<a id=407></a>
 
 ###### Article R131-1
 
@@ -31111,9 +31165,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R155-5 (V)
 
 
-#### Chapitre II : Prévention de la délinquance<a id=405></a>
+#### Chapitre II : Prévention de la délinquance<a id=408></a>
 
-##### Section 1 : Comité interministériel de prévention  de la délinquance et de la radicalisation<a id=406></a>
+##### Section 1 : Comité interministériel de prévention  de la délinquance et de la radicalisation<a id=409></a>
 
 ###### Article D132-1
 
@@ -31218,7 +31272,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. D132-1
 
 
-##### Section 1 bis : Fonds interministériel pour la prévention de la délinquance<a id=407></a>
+##### Section 1 bis : Fonds interministériel pour la prévention de la délinquance<a id=410></a>
 
 ###### Article R132-4-1
 
@@ -31325,7 +31379,7 @@ _Créé par_:
   - Décret n°2019-1259 du 28 novembre 2019 - art. 1
 
 
-##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes<a id=408></a>
+##### Section 2 : Conseil départemental de prévention de la délinquance et de la radicalisation et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes<a id=411></a>
 
 ###### Article D132-5
 
@@ -31470,7 +31524,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L132-10-1
 
 
-##### Section 3 : Conseil local de sécurité et de prévention  de la délinquance<a id=409></a>
+##### Section 3 : Conseil local de sécurité et de prévention  de la délinquance<a id=412></a>
 
 ###### Article D132-7
 
@@ -31630,7 +31684,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R132-4-1
 
 
-##### Section 4 : Conseil intercommunal de sécurité  et de prévention de la délinquance<a id=410></a>
+##### Section 4 : Conseil intercommunal de sécurité  et de prévention de la délinquance<a id=413></a>
 
 ###### Article D132-11
 
@@ -31710,7 +31764,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R132-4-1
 
 
-##### Section 5 : Plan de prévention de la délinquance  dans le département<a id=411></a>
+##### Section 5 : Plan de prévention de la délinquance  dans le département<a id=414></a>
 
 ###### Article D132-13
 
@@ -31743,7 +31797,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. D132-5 (V)
 
 
-##### Section 6 : Dispositions particulières à Paris<a id=412></a>
+##### Section 6 : Dispositions particulières à Paris<a id=415></a>
 
 ###### Article D132-14
 
@@ -31827,7 +31881,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. D132-14
 
 
-##### Section 7 : Dispositions particulières au département des Bouches-du-Rhône<a id=413></a>
+##### Section 7 : Dispositions particulières au département des Bouches-du-Rhône<a id=416></a>
 
 ###### Article D132-16
 
@@ -31845,9 +31899,9 @@ _Modifié par_:
   - Décret n°2019-1415 du 19 décembre 2019 - art. 2
 
 
-### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE<a id=414></a>
+### TITRE IV : DÉONTOLOGIE DE LA SÉCURITÉ INTÉRIEURE<a id=417></a>
 
-#### Chapitre Ier : Dispositions générales<a id=415></a>
+#### Chapitre Ier : Dispositions générales<a id=418></a>
 
 ###### Article D141-2
 
@@ -32116,7 +32170,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=416></a>
+### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=419></a>
 
 ###### Article R*150-1
 
@@ -32194,7 +32248,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R154-2 (VD)
 
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=417></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=420></a>
 
 ###### Article R151-1
 
@@ -32349,7 +32403,7 @@ _Créé par_:
   - Décret n°2019-1497 du 28 décembre 2019 - art. 2
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=418></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=421></a>
 
 ###### Article R152-1
 
@@ -32444,7 +32498,7 @@ _Anciens textes_:
   - Code de la défense. - art. R*1631-2, 1° (V)
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=419></a>
+#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=422></a>
 
 ###### Article R153-1
 
@@ -32492,7 +32546,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R132-4-4
 
 
-#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=420></a>
+#### Chapitre IV : Dispositions particulières  à Saint-Pierre-et-Miquelon<a id=423></a>
 
 ###### Article D154-3
 
@@ -32583,7 +32637,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=421></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=424></a>
 
 ###### Article D155-3
 
@@ -33260,7 +33314,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=422></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=425></a>
 
 ###### Article D156-3
 
@@ -33908,7 +33962,7 @@ _Modifié par_:
   - Décret n°2019-1497 du 28 décembre 2019 - art. 2
 
 
-#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=423></a>
+#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=426></a>
 
 ###### Article D157-3
 
@@ -34394,7 +34448,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=424></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes  et antarctiques françaises<a id=427></a>
 
 ###### Article D158-3
 
@@ -34783,13 +34837,13 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-## LIVRE II : ORDRE ET SÉCURITÉ PUBLICS<a id=425></a>
+## LIVRE II : ORDRE ET SÉCURITÉ PUBLICS<a id=428></a>
 
-### TITRE Ier : ORDRE PUBLIC<a id=426></a>
+### TITRE Ier : ORDRE PUBLIC<a id=429></a>
 
-#### Chapitre Ier : Prévention des atteintes à l'ordre public  lors de manifestations et de rassemblements<a id=427></a>
+#### Chapitre Ier : Prévention des atteintes à l'ordre public  lors de manifestations et de rassemblements<a id=430></a>
 
-##### Section 1 : Manifestations sur la voie publique<a id=428></a>
+##### Section 1 : Manifestations sur la voie publique<a id=431></a>
 
 ###### Article R211-1
 
@@ -34814,7 +34868,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L211-1
 
 
-##### Section 2 : Rassemblements festifs à caractère musical<a id=429></a>
+##### Section 2 : Rassemblements festifs à caractère musical<a id=432></a>
 
 ###### Article R211-2
 
@@ -35073,7 +35127,7 @@ _Modifié par_:
   - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
-##### Section 3 : Attroupements<a id=430></a>
+##### Section 3 : Attroupements<a id=433></a>
 
 ###### Article D211-10
 
@@ -35507,7 +35561,7 @@ _Modifié par_:
   - Décret n°2018-583 du 6 juillet 2018 - art. 8
 
 
-##### Section 4 : Manifestations sportives, récréatives  ou culturelles à but lucratif<a id=431></a>
+##### Section 4 : Manifestations sportives, récréatives  ou culturelles à but lucratif<a id=434></a>
 
 ###### Article R211-22
 
@@ -35691,9 +35745,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 5 : Dispositions pénales<a id=432></a>
+##### Section 5 : Dispositions pénales<a id=435></a>
 
-##### Sous-section 1 : Manifestations sur la voie publique<a id=433></a>
+##### Sous-section 1 : Manifestations sur la voie publique<a id=436></a>
 
 ###### Article R211-26-1
 
@@ -35712,7 +35766,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L211-4
 
 
-##### Sous-section 2 : Rassemblements festifs à caractère musical<a id=434></a>
+##### Sous-section 2 : Rassemblements festifs à caractère musical<a id=437></a>
 
 ###### Article R211-27
 
@@ -35834,7 +35888,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R211-27 (VD)
 
 
-##### Sous-section 3 : Manifestations sportives, récréatives  ou culturelles à but lucratif<a id=435></a>
+##### Sous-section 3 : Manifestations sportives, récréatives  ou culturelles à but lucratif<a id=438></a>
 
 ###### Article R211-31
 
@@ -35869,7 +35923,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R211-24 (VD)
 
 
-##### Section 6 : Grands événements<a id=436></a>
+##### Section 6 : Grands événements<a id=439></a>
 
 ###### Article R211-32
 
@@ -36016,7 +36070,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L211-11-1
 
 
-#### Chapitre IV : Dispositions diverses<a id=437></a>
+#### Chapitre IV : Dispositions diverses<a id=440></a>
 
 ###### Article R214-1
 
@@ -36091,9 +36145,9 @@ _Anciens textes_:
   - Code pénal - art. R431-5, III (VT)
 
 
-### TITRE II : LUTTE CONTRE LE TERRORISME ET LES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION<a id=438></a>
+### TITRE II : LUTTE CONTRE LE TERRORISME ET LES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION<a id=441></a>
 
-#### Chapitre II : Accès à des traitements administratifs automatisés et à des données détenues par des opérateurs privés<a id=439></a>
+#### Chapitre II : Accès à des traitements administratifs automatisés et à des données détenues par des opérateurs privés<a id=442></a>
 
 ###### Article R222-1
 
@@ -36140,7 +36194,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L222-1
 
 
-#### Chapitre III : Mise en œuvre de systèmes de vidéoprotection<a id=440></a>
+#### Chapitre III : Mise en œuvre de systèmes de vidéoprotection<a id=443></a>
 
 ###### Article R223-1
 
@@ -36203,7 +36257,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R288-1 (M)
 
 
-#### Chapitre IV : Interdiction de sortie du territoire<a id=441></a>
+#### Chapitre IV : Interdiction de sortie du territoire<a id=444></a>
 
 ###### Article R224-1
 
@@ -36399,7 +36453,7 @@ _Créé par_:
   - Décret n°2015-26 du 14 janvier 2015 - art. 1
 
 
-#### Chapitre V : Contrôle administratif des retours sur le territoire national<a id=442></a>
+#### Chapitre V : Contrôle administratif des retours sur le territoire national<a id=445></a>
 
 ###### Article R225-1
 
@@ -36510,9 +36564,9 @@ _Créé par_:
   - Décret n°2016-1269 du 28 septembre 2016 - art. 1
 
 
-#### Chapitre VIII :  Mesures individuelles de contrôle administratif et de surveillance<a id=443></a>
+#### Chapitre VIII :  Mesures individuelles de contrôle administratif et de surveillance<a id=446></a>
 
-##### Section unique : Placement sous surveillance électronique mobile<a id=444></a>
+##### Section unique : Placement sous surveillance électronique mobile<a id=447></a>
 
 ###### Article R228-1
 
@@ -36634,11 +36688,11 @@ _Cite_:
   - Code de la sécurité intérieure - art. L228-3
 
 
-### TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES<a id=445></a>
+### TITRE III : TRAITEMENTS AUTOMATISÉS DE DONNÉES  PERSONNELLES ET ENQUÊTES ADMINISTRATIVES<a id=448></a>
 
-#### Chapitre Ier : Système d'information Schengen de deuxième génération (SIS II)<a id=446></a>
+#### Chapitre Ier : Système d'information Schengen de deuxième génération (SIS II)<a id=449></a>
 
-##### Section 1 : Dispositions générales<a id=447></a>
+##### Section 1 : Dispositions générales<a id=450></a>
 
 ###### Article R231-1
 
@@ -36723,7 +36777,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R841-2 (V)
 
 
-##### Section 2 : Système informatique national du système  d'information Schengen dénommé " N-SIS II "<a id=448></a>
+##### Section 2 : Système informatique national du système  d'information Schengen dénommé " N-SIS II "<a id=451></a>
 
 ###### Article R231-5
 
@@ -37087,7 +37141,7 @@ _Modifié par_:
   - Décret n°2016-1956 du 28 décembre 2016 - art. 17
 
 
-##### Section 3 : L'office N-SIS II et le bureau national Sirene<a id=449></a>
+##### Section 3 : L'office N-SIS II et le bureau national Sirene<a id=452></a>
 
 ###### Article R231-14
 
@@ -37148,9 +37202,9 @@ _Modifié par_:
   - Décret n°2016-1956 du 28 décembre 2016 - art. 21
 
 
-#### Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux<a id=450></a>
+#### Chapitre II : Traitements automatisés de données recueillies  à l'occasion de déplacements internationaux<a id=453></a>
 
-##### Section 1 : Transmission des données<a id=451></a>
+##### Section 1 : Transmission des données<a id=454></a>
 
 ###### Article R232-1
 
@@ -37225,7 +37279,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R232-15 (M)
 
 
-##### Section 2 : Sanctions<a id=452></a>
+##### Section 2 : Sanctions<a id=455></a>
 
 ###### Article R232-2
 
@@ -37384,7 +37438,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R232-1-1
 
 
-##### Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE "<a id=453></a>
+##### Section 3 : Traitement automatisé de données personnelles dénommé " PARAFE "<a id=456></a>
 
 ###### Article R232-6
 
@@ -37667,7 +37721,7 @@ _Créé par_:
   - Décret n°2019-238 du 27 mars 2019 - art. 7
 
 
-##### Section 4 : Le traitement de données à caractère personnel "système API-PNR France"<a id=454></a>
+##### Section 4 : Le traitement de données à caractère personnel "système API-PNR France"<a id=457></a>
 
 ###### Article R232-12
 
@@ -38567,7 +38621,7 @@ _Anciens textes_:
   - Code de la sécurité intérieure - art. R232-18 (T)
 
 
-##### Section 5 : Interdiction de transport<a id=455></a>
+##### Section 5 : Interdiction de transport<a id=458></a>
 
 ###### Article R232-23
 
@@ -38584,7 +38638,7 @@ _Anciens textes_:
   - Code de la sécurité intérieure - art. R232-19 (T)
 
 
-#### Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives<a id=456></a>
+#### Chapitre IV : Consultation des traitements automatisés de données personnelles aux fins d'enquêtes administratives<a id=459></a>
 
 ###### Article R234-1
 
@@ -38787,9 +38841,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L811-4
 
 
-#### Chapitre VI : Autres traitements automatisés de données personnelles<a id=457></a>
+#### Chapitre VI : Autres traitements automatisés de données personnelles<a id=460></a>
 
-##### Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique"<a id=458></a>
+##### Section 1 : Traitement automatisé de données à caractère personnel dénommé "Enquêtes administratives liées à la sécurité publique"<a id=461></a>
 
 ###### Article R236-1
 
@@ -39099,7 +39153,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique"<a id=459></a>
+##### Section 2 : Traitement de données à caractère personnel dénommé  "Prévention des atteintes à la sécurité publique"<a id=462></a>
 
 ###### Article R236-11
 
@@ -39463,7 +39517,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique "<a id=460></a>
+##### Section 3 : Traitement de données à caractère personnel dénommé " Gestion de l'information et prévention des atteintes à la sécurité publique "<a id=463></a>
 
 ###### Article R236-21
 
@@ -39790,7 +39844,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions "<a id=461></a>
+##### Section 4 : Traitement de données à caractère personnel dénommé " Gestion des sollicitations et des interventions "<a id=464></a>
 
 ###### Article R236-31
 
@@ -40026,7 +40080,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection "<a id=462></a>
+##### Section 5 : Traitement de données à caractère personnel dénommé " Sécurisation des interventions et demandes particulières de protection "<a id=465></a>
 
 ###### Article R236-38
 
@@ -40287,7 +40341,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 6 : Traitements de données à caractère personnel dénommés "Conservation, gestion et exploitation électroniques des documents des services de renseignement territorial"<a id=463></a>
+##### Section 6 : Traitements de données à caractère personnel dénommés "Conservation, gestion et exploitation électroniques des documents des services de renseignement territorial"<a id=466></a>
 
 ###### Article R236-46
 
@@ -40471,11 +40525,11 @@ _Créé par_:
   - Décret n°2016-1045 du 29 juillet 2016 - art. 1
 
 
-### TITRE IV : CAMÉRAS MOBILES<a id=464></a>
+### TITRE IV : CAMÉRAS MOBILES<a id=467></a>
 
-#### Chapitre unique<a id=465></a>
+#### Chapitre unique<a id=468></a>
 
-##### Section 1 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police nationale et des militaires de la gendarmerie nationale<a id=466></a>
+##### Section 1 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police nationale et des militaires de la gendarmerie nationale<a id=469></a>
 
 ###### Article R241-1
 
@@ -40682,7 +40736,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R241-1 (V)
 
 
-##### Section 2 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police municipale<a id=467></a>
+##### Section 2 : Traitements de données à caractère personnel provenant des caméras individuelles des agents de la police municipale<a id=470></a>
 
 ###### Article R241-8
 
@@ -40891,11 +40945,11 @@ _Créé par_:
   - Décret n°2019-140 du 27 février 2019 - art. 1
 
 
-### TITRE V : VIDÉOPROTECTION<a id=468></a>
+### TITRE V : VIDÉOPROTECTION<a id=471></a>
 
-#### Chapitre Ier : Dispositions générales<a id=469></a>
+#### Chapitre Ier : Dispositions générales<a id=472></a>
 
-##### Section 1 : Commission nationale de la vidéoprotection<a id=470></a>
+##### Section 1 : Commission nationale de la vidéoprotection<a id=473></a>
 
 ###### Article R251-1
 
@@ -41123,7 +41177,7 @@ _Abrogé par_:
   - Décret n°2018-785 du 12 septembre 2018 - art. 18
 
 
-##### Section 2 : Commission départementale de vidéoprotection<a id=471></a>
+##### Section 2 : Commission départementale de vidéoprotection<a id=474></a>
 
 ###### Article R251-7
 
@@ -41293,9 +41347,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre II : Autorisation et conditions de fonctionnement<a id=472></a>
+#### Chapitre II : Autorisation et conditions de fonctionnement<a id=475></a>
 
-##### Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection<a id=473></a>
+##### Section 1 : Demande d'autorisation d'installation  d'un système de vidéoprotection<a id=476></a>
 
 ###### Article R252-1
 
@@ -41566,7 +41620,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Délivrance et mise en œuvre de l'autorisation<a id=474></a>
+##### Section 2 : Délivrance et mise en œuvre de l'autorisation<a id=477></a>
 
 ###### Article R252-8
 
@@ -41720,9 +41774,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L252-3
 
 
-#### Chapitre III : Contrôle et droit d'accès<a id=475></a>
+#### Chapitre III : Contrôle et droit d'accès<a id=478></a>
 
-##### Section 1 : Contrôle et sanctions<a id=476></a>
+##### Section 1 : Contrôle et sanctions<a id=479></a>
 
 ###### Article R253-1
 
@@ -41791,7 +41845,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Droit d'accès et garanties<a id=477></a>
+##### Section 2 : Droit d'accès et garanties<a id=480></a>
 
 ###### Article R253-3
 
@@ -41849,11 +41903,11 @@ _Cite_:
   - Code de la sécurité intérieure - art. L253-5 (V)
 
 
-### TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES<a id=478></a>
+### TITRE VII : GARDIENNAGE ET SURVEILLANCE DES IMMEUBLES<a id=481></a>
 
-#### Chapitre Ier : Dispositions générales<a id=479></a>
+#### Chapitre Ier : Dispositions générales<a id=482></a>
 
-##### Section 1 : Obligations à la charge des bailleurs<a id=480></a>
+##### Section 1 : Obligations à la charge des bailleurs<a id=483></a>
 
 ###### Article R271-1
 
@@ -42051,7 +42105,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R271-8 (VD)
 
 
-##### Section 2 : Dispositions pénales<a id=481></a>
+##### Section 2 : Dispositions pénales<a id=484></a>
 
 ###### Article R271-7
 
@@ -42115,9 +42169,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R271-6 (VD)
 
 
-#### Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement<a id=482></a>
+#### Chapitre III : Locaux commerciaux et professionnels,  garages et parcs de stationnement<a id=485></a>
 
-##### Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux<a id=483></a>
+##### Section 1 : Surveillance des commerces de détail,  des grandes surfaces et des centres commerciaux<a id=486></a>
 
 ###### Article R273-1
 
@@ -42224,7 +42278,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-1 (VD)
 
 
-##### Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité<a id=484></a>
+##### Section 2 : Surveillance de locaux  impliquant un risque pour la sécurité<a id=487></a>
 
 ###### Article R273-4
 
@@ -42326,7 +42380,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-4 (VD)
 
 
-##### Section 3 : Garages et parcs de stationnement<a id=485></a>
+##### Section 3 : Garages et parcs de stationnement<a id=488></a>
 
 ###### Article R273-7
 
@@ -42362,7 +42416,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-1 (VD)
 
 
-##### Section 4 : Contrôle<a id=486></a>
+##### Section 4 : Contrôle<a id=489></a>
 
 ###### Article R273-8
 
@@ -42391,7 +42445,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R273-9 (VD)
 
 
-##### Section 5 : Dispositions pénales<a id=487></a>
+##### Section 5 : Dispositions pénales<a id=490></a>
 
 ###### Article R273-9
 
@@ -42422,9 +42476,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R273-8 (VD)
 
 
-### TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=488></a>
+### TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=491></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=489></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe,  la Guyane, la Martinique et La Réunion<a id=492></a>
 
 ###### Article R281-1
 
@@ -42477,7 +42531,7 @@ _Créé par_:
   - Décret n°2019-1497 du 28 décembre 2019 - art. 3
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=490></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=493></a>
 
 ###### Article R282-1
 
@@ -42540,7 +42594,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R251-7
 
 
-#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=491></a>
+#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=494></a>
 
 ###### Article R283-1
 
@@ -42627,7 +42681,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R252-10 (VD)
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=492></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=495></a>
 
 ###### Article R284-1
 
@@ -42694,7 +42748,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R251-8 (VD)
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=493></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=496></a>
 
 ###### Article D285-2
 
@@ -43350,7 +43404,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R285-1 (M)
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=494></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=497></a>
 
 ###### Article D286-2
 
@@ -43919,7 +43973,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R286-1
 
 
-#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=495></a>
+#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=498></a>
 
 ###### Article D287-2
 
@@ -44531,7 +44585,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R287-1 (M)
 
 
-#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=496></a>
+#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=499></a>
 
 ###### Article D288-2
 
@@ -45077,13 +45131,13 @@ _Cite_:
   - Code de la sécurité intérieure - art. R288-1 (M)
 
 
-## LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES<a id=497></a>
+## LIVRE III : POLICES ADMINISTRATIVES SPÉCIALES<a id=500></a>
 
-### TITRE Ier : ARMES ET MUNITIONS<a id=498></a>
+### TITRE Ier : ARMES ET MUNITIONS<a id=501></a>
 
-#### Chapitre Ier : Dispositions générales<a id=499></a>
+#### Chapitre Ier : Dispositions générales<a id=502></a>
 
-##### Section 1 : Définitions<a id=500></a>
+##### Section 1 : Définitions<a id=503></a>
 
 ###### Article R311-1
 
@@ -45342,7 +45396,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L313-2
 
 
-##### Section 2 : Classement des matériels de guerre, armes et munitions<a id=501></a>
+##### Section 2 : Classement des matériels de guerre, armes et munitions<a id=504></a>
 
 ###### Article R311-2
 
@@ -45898,7 +45952,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-8 (V)
 
 
-##### Section 3 : Marquage<a id=502></a>
+##### Section 3 : Marquage<a id=505></a>
 
 ###### Article R311-5
 
@@ -45980,7 +46034,7 @@ _Modifié par_:
   - Décret n°2020-486 du 28 avril 2020 - art. 2
 
 
-##### Section 4 : Dispositions diverses<a id=503></a>
+##### Section 4 : Dispositions diverses<a id=506></a>
 
 ###### Article R311-6
 
@@ -46054,11 +46108,11 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre II : Acquisition et détention<a id=504></a>
+#### Chapitre II : Acquisition et détention<a id=507></a>
 
-##### Section 1 : Dispositions générales<a id=505></a>
+##### Section 1 : Dispositions générales<a id=508></a>
 
-##### Sous-section 1 : Interdiction d'acquisition par les mineurs<a id=506></a>
+##### Sous-section 1 : Interdiction d'acquisition par les mineurs<a id=509></a>
 
 ###### Article R312-1
 
@@ -46100,9 +46154,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Sous-section 2 : Armes soumises à autorisation<a id=507></a>
+##### Sous-section 2 : Armes soumises à autorisation<a id=510></a>
 
-##### Paragraphe 1 : Autorité compétente pour délivrer des autorisations<a id=508></a>
+##### Paragraphe 1 : Autorité compétente pour délivrer des autorisations<a id=511></a>
 
 ###### Article R312-2
 
@@ -46200,7 +46254,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Paragraphe 2 : Dépôt et instruction des demandes d'autorisation<a id=509></a>
+##### Paragraphe 2 : Dépôt et instruction des demandes d'autorisation<a id=512></a>
 
 ###### Article R312-4
 
@@ -46504,7 +46558,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L312-6 (V)
 
 
-##### Paragraphe 3 : Décision<a id=510></a>
+##### Paragraphe 3 : Décision<a id=513></a>
 
 ###### Article R312-9
 
@@ -46610,7 +46664,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Paragraphe 4 : Validité de l'autorisation<a id=511></a>
+##### Paragraphe 4 : Validité de l'autorisation<a id=514></a>
 
 ###### Article R312-13
 
@@ -46882,7 +46936,7 @@ _Cite_:
   - Code du patrimoine - art. R111-1 (V)
 
 
-##### Paragraphe 5 : Conditions générales de délivrance de l'autorisation<a id=512></a>
+##### Paragraphe 5 : Conditions générales de délivrance de l'autorisation<a id=515></a>
 
 ###### Article R312-21
 
@@ -46947,9 +47001,9 @@ _Modifié par_:
   - Décret n°2018-1195 du 20 décembre 2018 - art. 29
 
 
-##### Paragraphe 6 : Conditions particulières de délivrance d'autorisation<a id=513></a>
+##### Paragraphe 6 : Conditions particulières de délivrance d'autorisation<a id=516></a>
 
-##### Sous-paragraphe  1 : Fonctionnaires et agents publics<a id=514></a>
+##### Sous-paragraphe  1 : Fonctionnaires et agents publics<a id=517></a>
 
 ###### Article R312-22
 
@@ -47144,7 +47198,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-24 (VD)
 
 
-##### Sous-paragraphe 1 bis : Agents des organisations internationales et des institutions, organes, organismes et services de l'Union européenne<a id=515></a>
+##### Sous-paragraphe 1 bis : Agents des organisations internationales et des institutions, organes, organismes et services de l'Union européenne<a id=518></a>
 
 ###### Article R312-25-1
 
@@ -47185,7 +47239,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-85 (V)
 
 
-##### Sous-paragraphe  2 : Spectacles<a id=516></a>
+##### Sous-paragraphe  2 : Spectacles<a id=519></a>
 
 ###### Article R312-26
 
@@ -47227,7 +47281,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Sous-paragraphe  3 : Collectivités publiques, musées, collections<a id=517></a>
+##### Sous-paragraphe  3 : Collectivités publiques, musées, collections<a id=520></a>
 
 ###### Article R312-27
 
@@ -47348,7 +47402,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-27 (VD)
 
 
-##### Sous-paragraphe  4 : Essais industriels<a id=518></a>
+##### Sous-paragraphe  4 : Essais industriels<a id=521></a>
 
 ###### Article R312-30
 
@@ -47380,7 +47434,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-47 (VD)
 
 
-##### Sous-paragraphe  5 : Experts judiciaires<a id=519></a>
+##### Sous-paragraphe  5 : Experts judiciaires<a id=522></a>
 
 ###### Article R312-31
 
@@ -47564,7 +47618,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Sous-paragraphe  7 : Personnes exposées à des risques sérieux du fait de leur activité professionnelle<a id=520></a>
+##### Sous-paragraphe  7 : Personnes exposées à des risques sérieux du fait de leur activité professionnelle<a id=523></a>
 
 ###### Article R312-39
 
@@ -47648,7 +47702,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R314-8 (VD)
 
 
-##### Sous-paragraphe  8 : Tir sportif<a id=521></a>
+##### Sous-paragraphe  8 : Tir sportif<a id=524></a>
 
 ###### Article R312-40
 
@@ -47857,7 +47911,7 @@ _Modifié par_:
   - Décret n°2020-486 du 28 avril 2020 - art. 3
 
 
-##### Sous-paragraphe  9 : Tir forain<a id=522></a>
+##### Sous-paragraphe  9 : Tir forain<a id=525></a>
 
 ###### Article R312-44
 
@@ -47890,7 +47944,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-paragraphe 10 : Formation dans les métiers de l'armurerie et de l'armement<a id=523></a>
+##### Sous-paragraphe 10 : Formation dans les métiers de l'armurerie et de l'armement<a id=526></a>
 
 ###### Article R312-44-1
 
@@ -47915,7 +47969,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-3 (VD)
 
 
-##### Paragraphe 7 : Acquisition et détention des systèmes d'alimentation, des réducteurs de son et des munitions<a id=524></a>
+##### Paragraphe 7 : Acquisition et détention des systèmes d'alimentation, des réducteurs de son et des munitions<a id=527></a>
 
 ###### Article R312-45
 
@@ -48139,7 +48193,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-40
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=525></a>
+##### Paragraphe 8 : Dispositions diverses<a id=528></a>
 
 ###### Article R312-50
 
@@ -48207,9 +48261,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-74
 
 
-##### Sous-section 3 : Armes soumises à déclaration<a id=526></a>
+##### Sous-section 3 : Armes soumises à déclaration<a id=529></a>
 
-##### Paragraphe 1 : Acquisition et détention des armes<a id=527></a>
+##### Paragraphe 1 : Acquisition et détention des armes<a id=530></a>
 
 ###### Article R312-52
 
@@ -48585,7 +48639,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-85 (V)
 
 
-##### Paragraphe 2 : Acquisition et détention de munitions<a id=528></a>
+##### Paragraphe 2 : Acquisition et détention de munitions<a id=531></a>
 
 ###### Article R312-60
 
@@ -48689,7 +48743,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=529></a>
+##### Sous-section 4 : Dispositions diverses<a id=532></a>
 
 ###### Article R312-65
 
@@ -48770,9 +48824,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R316-34 (V)
 
 
-##### Section 2 : Collectionneurs<a id=530></a>
+##### Section 2 : Collectionneurs<a id=533></a>
 
-##### Sous-section 1 : Dispositions générales<a id=531></a>
+##### Sous-section 1 : Dispositions générales<a id=534></a>
 
 ###### Article R312-66-1
 
@@ -48861,9 +48915,9 @@ _Créé par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 4
 
 
-##### Sous-section 2 : Délivrance, suspension et retrait de la carte<a id=532></a>
+##### Sous-section 2 : Délivrance, suspension et retrait de la carte<a id=535></a>
 
-##### Paragraphe 1 : Dépôt et instruction des demandes<a id=533></a>
+##### Paragraphe 1 : Dépôt et instruction des demandes<a id=536></a>
 
 ###### Article R312-66-5
 
@@ -48978,7 +49032,7 @@ _Créé par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 4
 
 
-##### Paragraphe 2 : Décision<a id=534></a>
+##### Paragraphe 2 : Décision<a id=537></a>
 
 ###### Article R312-66-8
 
@@ -49163,7 +49217,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-12-1 (VD)
 
 
-##### Paragraphe 3 : Validité de la carte<a id=535></a>
+##### Paragraphe 3 : Validité de la carte<a id=538></a>
 
 ###### Article R312-66-15
 
@@ -49182,7 +49236,7 @@ _Créé par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 4
 
 
-##### Paragraphe 4 : Carte de collectionneur et dessaisissement des armes<a id=536></a>
+##### Paragraphe 4 : Carte de collectionneur et dessaisissement des armes<a id=539></a>
 
 ###### Article R312-66-16
 
@@ -49239,9 +49293,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-74
 
 
-##### Sous-section 3 : Obligations du collectionneur titulaire de la carte<a id=537></a>
+##### Sous-section 3 : Obligations du collectionneur titulaire de la carte<a id=540></a>
 
-##### Paragraphe 1 : Acquisition et détention d'armes et de munitions<a id=538></a>
+##### Paragraphe 1 : Acquisition et détention d'armes et de munitions<a id=541></a>
 
 ###### Article R312-66-18
 
@@ -49261,7 +49315,7 @@ _Créé par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 4
 
 
-##### Paragraphe 2 : Conservation et transport<a id=539></a>
+##### Paragraphe 2 : Conservation et transport<a id=542></a>
 
 ###### Article R312-66-19
 
@@ -49320,9 +49374,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R315-2 (VD)
 
 
-##### Section 3 : Injonctions préfectorales<a id=540></a>
+##### Section 3 : Injonctions préfectorales<a id=543></a>
 
-##### Sous-section 1 : Dispositions générales<a id=541></a>
+##### Sous-section 1 : Dispositions générales<a id=544></a>
 
 ###### Article R312-67
 
@@ -49370,7 +49424,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R312-66-16 (VD)
 
 
-##### Sous-section 2 : Remise d'une arme à l'autorité administrative<a id=542></a>
+##### Sous-section 2 : Remise d'une arme à l'autorité administrative<a id=545></a>
 
 ###### Article R312-68
 
@@ -49560,7 +49614,7 @@ _Modifié par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 5
 
 
-##### Sous-section 3 : Dessaisissement<a id=543></a>
+##### Sous-section 3 : Dessaisissement<a id=546></a>
 
 ###### Article R312-74
 
@@ -49682,9 +49736,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L312-12 (V)
 
 
-##### Section 4 : Fichiers<a id=544></a>
+##### Section 4 : Fichiers<a id=547></a>
 
-##### Sous-section 1 : Fichier national des interdits d'acquisition et de détention d'armes (FINIADA)<a id=545></a>
+##### Sous-section 1 : Fichier national des interdits d'acquisition et de détention d'armes (FINIADA)<a id=548></a>
 
 ###### Article R312-77
 
@@ -49920,7 +49974,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2020-487 du 28 avril 2020 - art. 1
 
 
-##### Sous-section 2 :  Système d'information sur les armes (SIA)<a id=546></a>
+##### Sous-section 2 :  Système d'information sur les armes (SIA)<a id=549></a>
 
 ###### Article R312-84
 
@@ -50403,9 +50457,9 @@ _Créé par_:
   - Décret n°2020-487 du 28 avril 2020 - art. 1
 
 
-#### Chapitre III : Fabrication et commerce<a id=547></a>
+#### Chapitre III : Fabrication et commerce<a id=550></a>
 
-##### Section 1 : Agrément d'armurier<a id=548></a>
+##### Section 1 : Agrément d'armurier<a id=551></a>
 
 ###### Article R313-1
 
@@ -50771,9 +50825,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-7 (VD)
 
 
-##### Section 2 : Autorisation d'ouverture du commerce de détail<a id=549></a>
+##### Section 2 : Autorisation d'ouverture du commerce de détail<a id=552></a>
 
-##### Sous-section 1 : Conditions de délivrance<a id=550></a>
+##### Sous-section 1 : Conditions de délivrance<a id=553></a>
 
 ###### Article R313-8
 
@@ -50953,7 +51007,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L313-3
 
 
-##### Sous-section 2 : Obligations du commerçant titulaire de l'autorisation<a id=551></a>
+##### Sous-section 2 : Obligations du commerçant titulaire de l'autorisation<a id=554></a>
 
 ###### Article R313-13
 
@@ -51109,7 +51163,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-9-1 (V)
 
 
-##### Sous-section 3 : Mesures de sécurité<a id=552></a>
+##### Sous-section 3 : Mesures de sécurité<a id=555></a>
 
 ###### Article R313-16
 
@@ -51232,7 +51286,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-40 (VD)
 
 
-##### Sous-section 4 : Conditions de suspension ou de retrait<a id=553></a>
+##### Sous-section 4 : Conditions de suspension ou de retrait<a id=556></a>
 
 ###### Article R313-18
 
@@ -51317,7 +51371,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-28
 
 
-##### Section 3 : Vente au détail hors d'un local fixe et permanent<a id=554></a>
+##### Section 3 : Vente au détail hors d'un local fixe et permanent<a id=557></a>
 
 ###### Article R313-20
 
@@ -51530,7 +51584,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R316-16 (V)
 
 
-##### Section 4 : Obligations de l'armurier et du courtier dans la procédure de cession des armes et munitions<a id=555></a>
+##### Section 4 : Obligations de l'armurier et du courtier dans la procédure de cession des armes et munitions<a id=558></a>
 
 ###### Article R313-24
 
@@ -51656,7 +51710,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-53
 
 
-##### Section 4 bis : Refus de conclure une transaction suspecte<a id=556></a>
+##### Section 4 bis : Refus de conclure une transaction suspecte<a id=559></a>
 
 ###### Article R313-26-1
 
@@ -51692,7 +51746,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L313-6
 
 
-##### Section 5 : Déclaration d'ouverture d'un établissement destiné à la fabrication ou au commerce, autre que de détail, des armes, munitions et leurs éléments des catégories A1, B, C et D<a id=557></a>
+##### Section 5 : Déclaration d'ouverture d'un établissement destiné à la fabrication ou au commerce, autre que de détail, des armes, munitions et leurs éléments des catégories A1, B, C et D<a id=560></a>
 
 ###### Article R313-27
 
@@ -51740,9 +51794,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R316-43 (VD)
 
 
-##### Section 6 : Fabrication et commerce des armes, munitions et leurs éléments des catégories A1 et B  et intermédiation des armes de toute catégorie, munitions et de leurs éléments<a id=558></a>
+##### Section 6 : Fabrication et commerce des armes, munitions et leurs éléments des catégories A1 et B  et intermédiation des armes de toute catégorie, munitions et de leurs éléments<a id=561></a>
 
-##### Sous-section 1 : Autorisation de fabrication, de commerce et d'intermédiation<a id=559></a>
+##### Sous-section 1 : Autorisation de fabrication, de commerce et d'intermédiation<a id=562></a>
 
 ###### Article R313-28
 
@@ -52214,7 +52268,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-38 (VD)
 
 
-##### Sous-section 2 : Obligations des titulaires de l'autorisation<a id=560></a>
+##### Sous-section 2 : Obligations des titulaires de l'autorisation<a id=563></a>
 
 ###### Article R313-39
 
@@ -52372,7 +52426,7 @@ _Créé par_:
   - Décret n°2017-909 du 9 mai 2017 - art. 5
 
 
-##### Sous-section 3 : Mesures de sécurité<a id=561></a>
+##### Sous-section 3 : Mesures de sécurité<a id=564></a>
 
 ###### Article R313-46
 
@@ -52386,11 +52440,11 @@ _Créé par_:
   - Décret n°2017-909 du 9 mai 2017 - art. 5
 
 
-#### Chapitre IV : Conservation, perte et transfert de propriété<a id=562></a>
+#### Chapitre IV : Conservation, perte et transfert de propriété<a id=565></a>
 
-##### Section 1 : Conservation<a id=563></a>
+##### Section 1 : Conservation<a id=566></a>
 
-##### Sous-section 1 : Dispositions générales<a id=564></a>
+##### Sous-section 1 : Dispositions générales<a id=567></a>
 
 ###### Article R314-1
 
@@ -52513,7 +52567,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-10 (VD)
 
 
-##### Sous-section 2 : Activités privées<a id=565></a>
+##### Sous-section 2 : Activités privées<a id=568></a>
 
 ###### Article R314-5
 
@@ -52574,7 +52628,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R314-5 (VD)
 
 
-##### Sous-section 3 : Spectacles<a id=566></a>
+##### Sous-section 3 : Spectacles<a id=569></a>
 
 ###### Article R314-7
 
@@ -52611,7 +52665,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R314-5
 
 
-##### Sous-section 4 : Tir sportif<a id=567></a>
+##### Sous-section 4 : Tir sportif<a id=570></a>
 
 ###### Article R314-8
 
@@ -52666,7 +52720,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-10 (VD)
 
 
-##### Sous-section 5 : Tir forain<a id=568></a>
+##### Sous-section 5 : Tir forain<a id=571></a>
 
 ###### Article R314-9
 
@@ -52694,7 +52748,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-10 (VD)
 
 
-##### Sous-section 6 : Collectivités publiques, musées et collections<a id=569></a>
+##### Sous-section 6 : Collectivités publiques, musées et collections<a id=572></a>
 
 ###### Article R314-10
 
@@ -52745,7 +52799,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-16
 
 
-##### Sous-section 7 : Etablissements de formation<a id=570></a>
+##### Sous-section 7 : Etablissements de formation<a id=573></a>
 
 ###### Article R314-11
 
@@ -52761,7 +52815,7 @@ _Créé par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 13
 
 
-##### Section 2 : Perte et vol<a id=571></a>
+##### Section 2 : Perte et vol<a id=574></a>
 
 ###### Article R314-12
 
@@ -52873,9 +52927,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-24
 
 
-##### Section 3 : Transfert de propriété<a id=572></a>
+##### Section 3 : Transfert de propriété<a id=575></a>
 
-##### Sous-section 1 : Armes soumises à autorisation<a id=573></a>
+##### Sous-section 1 : Armes soumises à autorisation<a id=576></a>
 
 ###### Article R314-16
 
@@ -52998,7 +53052,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-12
 
 
-##### Sous-section 2 : Armes soumises à déclaration<a id=574></a>
+##### Sous-section 2 : Armes soumises à déclaration<a id=577></a>
 
 ###### Article R314-19
 
@@ -53068,11 +53122,11 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-3 (VD)
 
 
-#### Chapitre V : Port et transport<a id=575></a>
+#### Chapitre V : Port et transport<a id=578></a>
 
-##### Section 1 : Autorisation de port et de transport<a id=576></a>
+##### Section 1 : Autorisation de port et de transport<a id=579></a>
 
-##### Sous-section 1 : Règles générales<a id=577></a>
+##### Sous-section 1 : Règles générales<a id=580></a>
 
 ###### Article R315-1
 
@@ -53206,7 +53260,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-11 (VD)
 
 
-##### Sous-section 2 : Situations particulières<a id=578></a>
+##### Sous-section 2 : Situations particulières<a id=581></a>
 
 ###### Article R315-5
 
@@ -53347,7 +53401,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R315-5
 
 
-##### Sous-section 3 : Situation des fonctionnaires<a id=579></a>
+##### Sous-section 3 : Situation des fonctionnaires<a id=582></a>
 
 ###### Article R315-8
 
@@ -53427,7 +53481,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R315-1 (VD)
 
 
-##### Section 2 : Sécurité des expéditions et des transports des armes<a id=580></a>
+##### Section 2 : Sécurité des expéditions et des transports des armes<a id=583></a>
 
 ###### Article R315-12
 
@@ -53665,7 +53719,7 @@ _Modifié par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 16
 
 
-#### Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations<a id=581></a>
+#### Chapitre VI : Acquisition, détention et transferts au sein de l'Union européenne, importations et exportations<a id=584></a>
 
 ###### Article R316-1A
 
@@ -53679,7 +53733,7 @@ _Créé par_:
   - Décret n°2018-1195 du 20 décembre 2018 - art. 35
 
 
-##### Section 1 : Dispositions générales relatives à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=582></a>
+##### Section 1 : Dispositions générales relatives à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=585></a>
 
 ###### Article R316-1
 
@@ -53758,11 +53812,11 @@ _Créé par_:
   - Décret n°2017-909 du 9 mai 2017 - art. 8
 
 
-##### Section 2 : Régime de droit commun relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=583></a>
+##### Section 2 : Régime de droit commun relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=586></a>
 
-##### Sous-section 1 : Acquisition et détention<a id=584></a>
+##### Sous-section 1 : Acquisition et détention<a id=587></a>
 
-##### Paragraphe 1 : Acquisition et détention par un résident d'un autre Etat membre de l'Union européenne<a id=585></a>
+##### Paragraphe 1 : Acquisition et détention par un résident d'un autre Etat membre de l'Union européenne<a id=588></a>
 
 ###### Article R316-4
 
@@ -53822,7 +53876,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R311-6
 
 
-##### Paragraphe 2 : Acquisition dans un autre Etat membre par une personne résidant en France<a id=586></a>
+##### Paragraphe 2 : Acquisition dans un autre Etat membre par une personne résidant en France<a id=589></a>
 
 ###### Article R316-6
 
@@ -53840,7 +53894,7 @@ _Modifié par_:
   - Décret n°2018-542 du 29 juin 2018 - art. 18
 
 
-##### Paragraphe 3 : Carte européenne d'arme à feu et détention au cours d'un voyage dans l'Union européenne<a id=587></a>
+##### Paragraphe 3 : Carte européenne d'arme à feu et détention au cours d'un voyage dans l'Union européenne<a id=590></a>
 
 ###### Article R316-7
 
@@ -53965,7 +54019,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-8-2 (VD)
 
 
-##### Paragraphe 4 : Acquisition et détention en vue d'un transfert vers un autre Etat membre<a id=588></a>
+##### Paragraphe 4 : Acquisition et détention en vue d'un transfert vers un autre Etat membre<a id=591></a>
 
 ###### Article R316-12
 
@@ -54027,9 +54081,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-8-1 (VD)
 
 
-##### Sous-section 2 : Transfert entre Etats membres<a id=589></a>
+##### Sous-section 2 : Transfert entre Etats membres<a id=592></a>
 
-##### Paragraphe 1 : Transfert vers un autre Etat membre<a id=590></a>
+##### Paragraphe 1 : Transfert vers un autre Etat membre<a id=593></a>
 
 ###### Article R316-14
 
@@ -54104,7 +54158,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R316-19 (V)
 
 
-##### Paragraphe 2 : Transfert d'un Etat membre vers la France<a id=591></a>
+##### Paragraphe 2 : Transfert d'un Etat membre vers la France<a id=594></a>
 
 ###### Article R316-16
 
@@ -54200,7 +54254,7 @@ _Créé par_:
   - Décret n°2017-909 du 9 mai 2017 - art. 8
 
 
-##### Paragraphe 3 : Dispositions diverses<a id=592></a>
+##### Paragraphe 3 : Dispositions diverses<a id=595></a>
 
 ###### Article R316-19
 
@@ -54422,7 +54476,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-8-1 (VD)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=593></a>
+##### Sous-section 3 : Dispositions diverses<a id=596></a>
 
 ###### Article R316-25
 
@@ -54440,7 +54494,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R316-4 (V)
 
 
-##### Section 3 : Régime particulier relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=594></a>
+##### Section 3 : Régime particulier relatif à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=597></a>
 
 ###### Article R316-26
 
@@ -54490,7 +54544,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R317-8-1 (VD)
 
 
-##### Section 4 : Dispositions communes au régime de droit commun et au régime particulier relatifs à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=595></a>
+##### Section 4 : Dispositions communes au régime de droit commun et au régime particulier relatifs à l'acquisition, à la détention et aux transferts au sein de l'Union européenne<a id=598></a>
 
 ###### Article R316-28
 
@@ -54535,7 +54589,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R316-19 (V)
 
 
-##### Section 5 : Importation des armes, munitions et leurs éléments des catégories A1, B, C et D<a id=596></a>
+##### Section 5 : Importation des armes, munitions et leurs éléments des catégories A1, B, C et D<a id=599></a>
 
 ###### Article R316-29
 
@@ -54847,9 +54901,9 @@ _Cite_:
   - Code de la défense. - art. L2335-6 (V)
 
 
-##### Section 6 : Exportation des armes à feu, munitions et leurs éléments des catégories A1, B, C et D<a id=597></a>
+##### Section 6 : Exportation des armes à feu, munitions et leurs éléments des catégories A1, B, C et D<a id=600></a>
 
-##### Sous-section 1 : Dispositions générales<a id=598></a>
+##### Sous-section 1 : Dispositions générales<a id=601></a>
 
 ###### Article R316-38
 
@@ -54904,7 +54958,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R311-1
 
 
-##### Sous-section 2 : Autorisations d'exportation et dérogations<a id=599></a>
+##### Sous-section 2 : Autorisations d'exportation et dérogations<a id=602></a>
 
 ###### Article R316-40
 
@@ -55237,7 +55291,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. L122-1
 
 
-##### Sous-section 3 : Obligations des exportateurs<a id=600></a>
+##### Sous-section 3 : Obligations des exportateurs<a id=603></a>
 
 ###### Article R316-49
 
@@ -55285,7 +55339,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R316-38 (V)
 
 
-##### Section 7 : Autorisations de transit par route<a id=601></a>
+##### Section 7 : Autorisations de transit par route<a id=604></a>
 
 ###### Article D316-54
 
@@ -55418,9 +55472,9 @@ _Créé par_:
   - Décret n°2017-909 du 9 mai 2017 - art. 8
 
 
-#### Chapitre VII : Dispositions pénales<a id=602></a>
+#### Chapitre VII : Dispositions pénales<a id=605></a>
 
-##### Section 1 : Acquisition et détention<a id=603></a>
+##### Section 1 : Acquisition et détention<a id=606></a>
 
 ###### Article R317-1
 
@@ -55702,7 +55756,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Section 1 bis : Transfert entre Etats membres de l'Union européenne, acquisition et détention par un résident d'un Etat membre<a id=604></a>
+##### Section 1 bis : Transfert entre Etats membres de l'Union européenne, acquisition et détention par un résident d'un Etat membre<a id=607></a>
 
 ###### Article R317-8-1
 
@@ -55768,7 +55822,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R316-7
 
 
-##### Section 2 : Commerce de détail<a id=605></a>
+##### Section 2 : Commerce de détail<a id=608></a>
 
 ###### Article R317-9
 
@@ -55811,7 +55865,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R313-15-1 (V)
 
 
-##### Section 3 : Conservation<a id=606></a>
+##### Section 3 : Conservation<a id=609></a>
 
 ###### Article R317-10
 
@@ -55874,7 +55928,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R314-9
 
 
-##### Section 4 : Port et transport<a id=607></a>
+##### Section 4 : Port et transport<a id=610></a>
 
 ###### Article R317-11
 
@@ -55967,7 +56021,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R345-4 (V)
 
 
-##### Section 4 bis : Collectionneurs<a id=608></a>
+##### Section 4 bis : Collectionneurs<a id=611></a>
 
 ###### Article R317-12-1
 
@@ -55985,7 +56039,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-66-14
 
 
-##### Section 5 : Peines complémentaires applicables aux personnes physiques et aux personnes morales<a id=609></a>
+##### Section 5 : Peines complémentaires applicables aux personnes physiques et aux personnes morales<a id=612></a>
 
 ###### Article R317-13
 
@@ -56044,11 +56098,11 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-### TITRE II : JEUX DE HASARD, CASINOS, LOTERIES<a id=610></a>
+### TITRE II : JEUX DE HASARD, CASINOS, LOTERIES<a id=613></a>
 
-#### Chapitre Ier : Casinos<a id=611></a>
+#### Chapitre Ier : Casinos<a id=614></a>
 
-##### Section liminaire : Dispositions générales<a id=612></a>
+##### Section liminaire : Dispositions générales<a id=615></a>
 
 ###### Article R321-1
 
@@ -56107,11 +56161,11 @@ _Cite_:
   - Code de la sécurité intérieure - art. L321-3
 
 
-##### Section 1 : Autorisation d'ouverture et d'exploitation de jeux<a id=613></a>
+##### Section 1 : Autorisation d'ouverture et d'exploitation de jeux<a id=616></a>
 
-##### Sous-section 1 : Délivrance de l'autorisation<a id=614></a>
+##### Sous-section 1 : Délivrance de l'autorisation<a id=617></a>
 
-##### Paragraphe 1 : Dispositions applicables aux casinos régis par l'article L. 321-1<a id=615></a>
+##### Paragraphe 1 : Dispositions applicables aux casinos régis par l'article L. 321-1<a id=618></a>
 
 ###### Article R321-2
 
@@ -56245,7 +56299,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R321-3 (VD)
 
 
-##### Paragraphe 2 : Dispositions applicables aux casinos régis par l'article L. 321-3<a id=616></a>
+##### Paragraphe 2 : Dispositions applicables aux casinos régis par l'article L. 321-3<a id=619></a>
 
 ###### Article R321-5-1
 
@@ -56357,7 +56411,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Paragraphe 3 : Dispositions communes<a id=617></a>
+##### Paragraphe 3 : Dispositions communes<a id=620></a>
 
 ###### Article R321-6
 
@@ -56395,7 +56449,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Sous-section 2 : Commission consultative des jeux de cercles et de casinos<a id=618></a>
+##### Sous-section 2 : Commission consultative des jeux de cercles et de casinos<a id=621></a>
 
 ###### Article R321-7
 
@@ -56621,7 +56675,7 @@ _Modifié par_:
   - Décret n°2017-913 du 9 mai 2017 - art. 5
 
 
-##### Sous-section 3 : Jeux susceptibles d'être autorisés dans les casinos<a id=619></a>
+##### Sous-section 3 : Jeux susceptibles d'être autorisés dans les casinos<a id=622></a>
 
 ###### Article D321-13
 
@@ -56926,7 +56980,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Sous-section 4 : Evolution des données du dossier d'autorisation<a id=620></a>
+##### Sous-section 4 : Evolution des données du dossier d'autorisation<a id=623></a>
 
 ###### Article R321-18
 
@@ -57023,7 +57077,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Section 2 : Appareils de jeux<a id=621></a>
+##### Section 2 : Appareils de jeux<a id=624></a>
 
 ###### Article D321-22
 
@@ -57185,9 +57239,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Section 3 : Accès aux salles de jeux<a id=622></a>
+##### Section 3 : Accès aux salles de jeux<a id=625></a>
 
-##### Sous-section 1 : Dispositions communes<a id=623></a>
+##### Sous-section 1 : Dispositions communes<a id=626></a>
 
 ###### Article R321-27
 
@@ -57292,7 +57346,7 @@ _Cite_:
   - Code de procédure pénale - art. R59
 
 
-##### Sous-section 2 : Dispositions applicables aux casinos régis par l'article L. 321-3<a id=624></a>
+##### Sous-section 2 : Dispositions applicables aux casinos régis par l'article L. 321-3<a id=627></a>
 
 ###### Article R321-28-1
 
@@ -57314,9 +57368,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Section 4 : Fonctionnement des casinos<a id=625></a>
+##### Section 4 : Fonctionnement des casinos<a id=628></a>
 
-##### Sous-section 1 : Obligations<a id=626></a>
+##### Sous-section 1 : Obligations<a id=629></a>
 
 ###### Article R321-29
 
@@ -57417,7 +57471,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Sous-section 2 : Personnel des jeux des casinos régis par l'article L. 321-1<a id=627></a>
+##### Sous-section 2 : Personnel des jeux des casinos régis par l'article L. 321-1<a id=630></a>
 
 ###### Article R321-31
 
@@ -57603,7 +57657,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Sous-section 2 bis : Personnel des jeux des casinos régis par l'article L. 321-3<a id=628></a>
+##### Sous-section 2 bis : Personnel des jeux des casinos régis par l'article L. 321-3<a id=631></a>
 
 ###### Article R321-36-1
 
@@ -57791,7 +57845,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-##### Sous-section 3 : Prélèvements<a id=629></a>
+##### Sous-section 3 : Prélèvements<a id=632></a>
 
 ###### Article R321-37
 
@@ -57833,9 +57887,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R321-39 (VD)
 
 
-##### Section 5 : Contrôle<a id=630></a>
+##### Section 5 : Contrôle<a id=633></a>
 
-##### Sous-section 1 : Dispositions communes<a id=631></a>
+##### Sous-section 1 : Dispositions communes<a id=634></a>
 
 ###### Article R321-38
 
@@ -57860,7 +57914,7 @@ _Cité par_:
   - DEPLACE: Décret n°2017-914 du 9 mai 2017 - art. 9
 
 
-##### Sous-section 2 : Dispositions relatives aux casinos régis par l'article L. 321-3<a id=632></a>
+##### Sous-section 2 : Dispositions relatives aux casinos régis par l'article L. 321-3<a id=635></a>
 
 ###### Article R321-38-1
 
@@ -57935,7 +57989,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. Annexe 4 (V)
 
 
-##### Section 6 : Conditions d'application<a id=633></a>
+##### Section 6 : Conditions d'application<a id=636></a>
 
 ###### Article R321-39
 
@@ -57986,7 +58040,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L321-3
 
 
-#### Chapitre Ier bis : Compétitions de jeux vidéo<a id=634></a>
+#### Chapitre Ier bis : Compétitions de jeux vidéo<a id=637></a>
 
 ###### Article R321-40
 
@@ -58244,9 +58298,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L321-11 (V)
 
 
-#### Chapitre II : Loteries<a id=635></a>
+#### Chapitre II : Loteries<a id=638></a>
 
-##### Section 1 : Loteries d'objets mobiliers exclusivement destinées à des actes de bienfaisance, à l'encouragement des arts ou au financement d'activités sportives à but non lucratif<a id=636></a>
+##### Section 1 : Loteries d'objets mobiliers exclusivement destinées à des actes de bienfaisance, à l'encouragement des arts ou au financement d'activités sportives à but non lucratif<a id=639></a>
 
 ###### Article D322-1
 
@@ -58306,7 +58360,7 @@ _Modifié par_:
   - Décret n°2015-317 du 19 mars 2015 - art. 1
 
 
-##### Section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines<a id=637></a>
+##### Section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines<a id=640></a>
 
 ###### Article D322-4
 
@@ -58347,7 +58401,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. D345-5 (VD)
 
 
-##### Section 3 : Jeux et concours organisés par les publications de presse<a id=638></a>
+##### Section 3 : Jeux et concours organisés par les publications de presse<a id=641></a>
 
 ###### Article D322-5
 
@@ -58417,7 +58471,7 @@ _Créé par_:
   - Décret n°2016-1466 du 28 octobre 2016 - art. 1
 
 
-#### Chapitre III : Dispositions communes<a id=639></a>
+#### Chapitre III : Dispositions communes<a id=642></a>
 
 ###### Article D323-4
 
@@ -58508,7 +58562,7 @@ _Créé par_:
   - Décret n°2017-913 du 9 mai 2017 - art. 2
 
 
-#### Chapitre IV : Dispositions pénales<a id=640></a>
+#### Chapitre IV : Dispositions pénales<a id=643></a>
 
 ###### Article R324-1
 
@@ -58604,9 +58658,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R321-44 (V)
 
 
-### TITRE III : FERMETURE ADMINISTRATIVE DE CERTAINS ÉTABLISSEMENTS<a id=641></a>
+### TITRE III : FERMETURE ADMINISTRATIVE DE CERTAINS ÉTABLISSEMENTS<a id=644></a>
 
-#### Chapitre II : Etablissements de vente à emporter de boissons alcoolisées ou d'aliments préparés sur place<a id=642></a>
+#### Chapitre II : Etablissements de vente à emporter de boissons alcoolisées ou d'aliments préparés sur place<a id=645></a>
 
 ###### Article R332-1
 
@@ -58638,7 +58692,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R344-1 (M)
 
 
-#### Chapitre III : Etablissements diffusant de la musique<a id=643></a>
+#### Chapitre III : Etablissements diffusant de la musique<a id=646></a>
 
 ###### Article R333-1
 
@@ -58670,9 +58724,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R344-1 (M)
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=644></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=647></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin<a id=645></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion, Saint-Barthélemy et Saint-Martin<a id=648></a>
 
 ###### Article R341-1
 
@@ -58694,7 +58748,7 @@ _Modifié par_:
   - Décret n°2020-487 du 28 avril 2020 - art. 2
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=646></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=649></a>
 
 ###### Article R342-1
 
@@ -58712,7 +58766,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre III : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=647></a>
+#### Chapitre III : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=650></a>
 
 ###### Article R343-1-A
 
@@ -58727,7 +58781,7 @@ _Créé par_:
   - Décret n°2020-487 du 28 avril 2020 - art. 2
 
 
-##### Section 1 : Casinos<a id=648></a>
+##### Section 1 : Casinos<a id=651></a>
 
 ###### Article D343-2
 
@@ -59030,7 +59084,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Section 2 : Dispositions pénales<a id=649></a>
+##### Section 2 : Dispositions pénales<a id=652></a>
 
 ###### Article R343-13
 
@@ -59079,7 +59133,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R343-6 (VD)
 
 
-#### Chapitre IV : Dispositions applicables en Polynésie française<a id=650></a>
+#### Chapitre IV : Dispositions applicables en Polynésie française<a id=653></a>
 
 ###### Article R344-1
 
@@ -60796,9 +60850,9 @@ _Modifié par_:
   - Décret n°2020-487 du 28 avril 2020 - art. 2
 
 
-##### Section 1 : Casinos<a id=651></a>
+##### Section 1 : Casinos<a id=654></a>
 
-##### Sous-section 1 : Dispositions générales<a id=652></a>
+##### Sous-section 1 : Dispositions générales<a id=655></a>
 
 ###### Article R344-4
 
@@ -60851,7 +60905,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Autorisation d'ouverture et d'exploitation de jeux<a id=653></a>
+##### Sous-section 2 : Autorisation d'ouverture et d'exploitation de jeux<a id=656></a>
 
 ###### Article R344-6
 
@@ -61153,7 +61207,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 3 : Jeux et appareils de jeux<a id=654></a>
+##### Sous-section 3 : Jeux et appareils de jeux<a id=657></a>
 
 ###### Article R344-14
 
@@ -61305,7 +61359,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 4 : Accès aux salles de jeux<a id=655></a>
+##### Sous-section 4 : Accès aux salles de jeux<a id=658></a>
 
 ###### Article R344-19
 
@@ -61431,9 +61485,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R344-36 (VD)
 
 
-##### Sous-section 5 : Fonctionnement des casinos<a id=656></a>
+##### Sous-section 5 : Fonctionnement des casinos<a id=659></a>
 
-##### Paragraphe 1 : Obligations<a id=657></a>
+##### Paragraphe 1 : Obligations<a id=660></a>
 
 ###### Article R344-22
 
@@ -61582,7 +61636,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Paragraphe 2 : Employés<a id=658></a>
+##### Paragraphe 2 : Employés<a id=661></a>
 
 ###### Article R344-28
 
@@ -61746,7 +61800,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R344-36 (VD)
 
 
-##### Sous-section 6 : Contrôle<a id=659></a>
+##### Sous-section 6 : Contrôle<a id=662></a>
 
 ###### Article R344-34
 
@@ -61772,7 +61826,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R344-23 (VD)
 
 
-##### Sous-section 7 : Conditions d'application<a id=660></a>
+##### Sous-section 7 : Conditions d'application<a id=663></a>
 
 ###### Article R344-35
 
@@ -61805,7 +61859,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R344-31 (VD)
 
 
-##### Sous-section 8 : Dispositions pénales<a id=661></a>
+##### Sous-section 8 : Dispositions pénales<a id=664></a>
 
 ###### Article R344-36
 
@@ -61845,9 +61899,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R344-33 (VD)
 
 
-##### Section 2 : Loteries<a id=662></a>
+##### Section 2 : Loteries<a id=665></a>
 
-##### Sous-section 1 : Loteries offertes au public et organisées dans un but social, culturel, scientifique, éducatif ou sportif<a id=663></a>
+##### Sous-section 1 : Loteries offertes au public et organisées dans un but social, culturel, scientifique, éducatif ou sportif<a id=666></a>
 
 ###### Article R344-37
 
@@ -61888,7 +61942,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines ou des fêtes traditionnelles<a id=664></a>
+##### Sous-section 2 : Loteries et appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines ou des fêtes traditionnelles<a id=667></a>
 
 ###### Article R344-38
 
@@ -62074,7 +62128,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 3 : Contrôle<a id=665></a>
+##### Sous-section 3 : Contrôle<a id=668></a>
 
 ###### Article R344-44
 
@@ -62096,7 +62150,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 4 : Conditions d'application<a id=666></a>
+##### Sous-section 4 : Conditions d'application<a id=669></a>
 
 ###### Article R344-45
 
@@ -62123,7 +62177,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=667></a>
+#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie<a id=670></a>
 
 ###### Article D345-2
 
@@ -63958,7 +64012,7 @@ _Modifié par_:
   - Décret n°2020-487 du 28 avril 2020 - art. 2
 
 
-#### Chapitre VI : Dispositions applicables à Wallis-et-Futuna<a id=668></a>
+#### Chapitre VI : Dispositions applicables à Wallis-et-Futuna<a id=671></a>
 
 ###### Article D346-1
 
@@ -64394,13 +64448,13 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R346-1-1 (VD)
 
 
-## LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE<a id=669></a>
+## LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE<a id=672></a>
 
-### TITRE Ier : POLICE NATIONALE<a id=670></a>
+### TITRE Ier : POLICE NATIONALE<a id=673></a>
 
-#### Chapitre Ier : Missions et personnels  de la police nationale<a id=671></a>
+#### Chapitre Ier : Missions et personnels  de la police nationale<a id=674></a>
 
-##### Section 1 : Dispositions générales<a id=672></a>
+##### Section 1 : Dispositions générales<a id=675></a>
 
 ###### Article R411-1
 
@@ -64430,7 +64484,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R448-1 (VD)
 
 
-##### Section 2 : Fonctionnaires actifs<a id=673></a>
+##### Section 2 : Fonctionnaires actifs<a id=676></a>
 
 ###### Article R411-2
 
@@ -64512,9 +64566,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Adjoints de sécurité<a id=674></a>
+##### Section 3 : Adjoints de sécurité<a id=677></a>
 
-##### Sous-section 1 : Dispositions générales<a id=675></a>
+##### Sous-section 1 : Dispositions générales<a id=678></a>
 
 ###### Article R411-4
 
@@ -64552,7 +64606,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R447-2 (VD)
 
 
-##### Sous-section 2 : Missions<a id=676></a>
+##### Sous-section 2 : Missions<a id=679></a>
 
 ###### Article R411-5
 
@@ -64661,7 +64715,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 3 : Recrutement<a id=677></a>
+##### Sous-section 3 : Recrutement<a id=680></a>
 
 ###### Article R411-8
 
@@ -64769,7 +64823,7 @@ _Modifié par_:
   - Décret n°2015-76 du 27 janvier 2015 - art. 1
 
 
-##### Sous-section 4 : Formation et validation de l'expérience professionnelle<a id=678></a>
+##### Sous-section 4 : Formation et validation de l'expérience professionnelle<a id=681></a>
 
 ###### Article R411-10
 
@@ -64850,9 +64904,9 @@ _Cite_:
   - Code de l'éducation - art. L335-5
 
 
-##### Section 4 : Réserve civile<a id=679></a>
+##### Section 4 : Réserve civile<a id=682></a>
 
-##### Sous-section 1 : Dispositions communes aux réservistes de la police nationale<a id=680></a>
+##### Sous-section 1 : Dispositions communes aux réservistes de la police nationale<a id=683></a>
 
 ###### Article D411-17
 
@@ -65079,7 +65133,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité<a id=681></a>
+##### Sous-section 2 : Dispositions relatives aux réservistes retraités  de la police nationale tenus à l'obligation de disponibilité<a id=684></a>
 
 ###### Article D411-25
 
@@ -65187,7 +65241,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L411-8 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale<a id=682></a>
+##### Sous-section 3 : Dispositions relatives aux volontaires  dans la réserve civile de la police nationale<a id=685></a>
 
 ###### Article D411-31
 
@@ -65378,7 +65432,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L411-11
 
 
-##### Sous-section 4 : Dispositions relatives aux réservistes ayant eu la qualité d'adjoint de sécurité pendant au moins trois ans<a id=683></a>
+##### Sous-section 4 : Dispositions relatives aux réservistes ayant eu la qualité d'adjoint de sécurité pendant au moins trois ans<a id=686></a>
 
 ###### Article D411-35
 
@@ -65434,11 +65488,11 @@ _Créé par_:
   - Décret n°2016-1199 du 5 septembre 2016 - art. 2
 
 
-#### Chapitre III : Etablissements publics de la police nationale<a id=684></a>
+#### Chapitre III : Etablissements publics de la police nationale<a id=687></a>
 
-##### Section 1 : Ecole nationale supérieure de la police<a id=685></a>
+##### Section 1 : Ecole nationale supérieure de la police<a id=688></a>
 
-##### Sous-section 1 : Dispositions générales<a id=686></a>
+##### Sous-section 1 : Dispositions générales<a id=689></a>
 
 ###### Article R413-1
 
@@ -65507,7 +65561,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Organisation administrative<a id=687></a>
+##### Sous-section 2 : Organisation administrative<a id=690></a>
 
 ###### Article R413-3
 
@@ -65966,7 +66020,7 @@ _Modifié par_:
   - Décret n°2018-322 du 2 mai 2018 - art. 12
 
 
-##### Sous-section 3 : Organisation pédagogique<a id=688></a>
+##### Sous-section 3 : Organisation pédagogique<a id=691></a>
 
 ###### Article R413-17
 
@@ -66109,7 +66163,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 4 : Organisation financière<a id=689></a>
+##### Sous-section 4 : Organisation financière<a id=692></a>
 
 ###### Article R413-22
 
@@ -66247,9 +66301,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Institut national de police scientifique<a id=690></a>
+##### Section 2 : Institut national de police scientifique<a id=693></a>
 
-##### Sous-section 1 : Dispositions générales<a id=691></a>
+##### Sous-section 1 : Dispositions générales<a id=694></a>
 
 ###### Article R413-27
 
@@ -66403,7 +66457,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Organisation administrative<a id=692></a>
+##### Sous-section 2 : Organisation administrative<a id=695></a>
 
 ###### Article R413-32
 
@@ -66724,7 +66778,7 @@ _Modifié par_:
   - Décret n°2016-389 du 30 mars 2016 - art. 8
 
 
-##### Sous-section 3 : Conseil scientifique<a id=693></a>
+##### Sous-section 3 : Conseil scientifique<a id=696></a>
 
 ###### Article R413-42
 
@@ -66909,7 +66963,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 4 : Organisation financière<a id=694></a>
+##### Sous-section 4 : Organisation financière<a id=697></a>
 
 ###### Article R413-47
 
@@ -67118,9 +67172,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE II : GENDARMERIE NATIONALE<a id=695></a>
+### TITRE II : GENDARMERIE NATIONALE<a id=698></a>
 
-#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=696></a>
+#### Chapitre Ier : Missions et personnels de la gendarmerie nationale<a id=699></a>
 
 ###### Article R421-1
 
@@ -67138,11 +67192,11 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE III : DISPOSITIONS COMMUNES<a id=697></a>
+### TITRE III : DISPOSITIONS COMMUNES<a id=700></a>
 
-#### Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques<a id=698></a>
+#### Chapitre Ier : Répartition des attributions et organisation de la coopération en matière de sécurité et de paix publiques<a id=701></a>
 
-##### Section 1 : Répartition des attributions<a id=699></a>
+##### Section 1 : Répartition des attributions<a id=702></a>
 
 ###### Article R431-1
 
@@ -67270,7 +67324,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Organisation de la coopération<a id=700></a>
+##### Section 2 : Organisation de la coopération<a id=703></a>
 
 ###### Article R431-6
 
@@ -67345,9 +67399,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale<a id=701></a>
+#### Chapitre IV : Déontologie de la police nationale  et de la gendarmerie nationale<a id=704></a>
 
-##### Section 1 : Dispositions générales<a id=702></a>
+##### Section 1 : Dispositions générales<a id=705></a>
 
 ###### Article R434-1
 
@@ -67424,9 +67478,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Principes généraux<a id=703></a>
+##### Section 2 : Principes généraux<a id=706></a>
 
-##### Sous-section 1 : Autorité et protection<a id=704></a>
+##### Sous-section 1 : Autorité et protection<a id=707></a>
 
 ###### Article R434-4
 
@@ -67533,7 +67587,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Devoirs du policier et du gendarme<a id=705></a>
+##### Sous-section 2 : Devoirs du policier et du gendarme<a id=708></a>
 
 ###### Article R434-8
 
@@ -67653,9 +67707,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale<a id=706></a>
+##### Section 3 : Dispositions communes à la police nationale  et à la gendarmerie nationale<a id=709></a>
 
-##### Sous-section 1 : Relation avec la population et respect des libertés<a id=707></a>
+##### Sous-section 1 : Relation avec la population et respect des libertés<a id=710></a>
 
 ###### Article R434-14
 
@@ -67846,7 +67900,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie<a id=708></a>
+##### Sous-section 2 : Contrôle de l'action de la police et de la gendarmerie<a id=711></a>
 
 ###### Article R434-23
 
@@ -67949,9 +68003,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale<a id=709></a>
+##### Section 4 : Dispositions propres à la police nationale  ou à la gendarmerie nationale<a id=712></a>
 
-##### Sous-section 1 : Dispositions propres à la police nationale<a id=710></a>
+##### Sous-section 1 : Dispositions propres à la police nationale<a id=713></a>
 
 ###### Article R434-28
 
@@ -68015,7 +68069,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Dispositions propres à la gendarmerie nationale<a id=711></a>
+##### Sous-section 2 : Dispositions propres à la gendarmerie nationale<a id=714></a>
 
 ###### Article R434-31
 
@@ -68076,9 +68130,9 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=712></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=715></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=713></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=716></a>
 
 ###### Article R441-1
 
@@ -68092,7 +68146,7 @@ _Créé par_:
   - Décret n°2019-1497 du 28 décembre 2019 - art. 4
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=714></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=717></a>
 
 ###### Article R442-1
 
@@ -68126,7 +68180,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-4
 
 
-#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=715></a>
+#### Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin<a id=718></a>
 
 ###### Article R443-1
 
@@ -68152,7 +68206,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=716></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=719></a>
 
 ###### Article R444-1
 
@@ -68174,7 +68228,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=717></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=720></a>
 
 ###### Article R445-1
 
@@ -68398,7 +68452,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-4 (VD)
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=718></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=721></a>
 
 ###### Article R446-1
 
@@ -68612,7 +68666,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-9
 
 
-#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=719></a>
+#### Chapitre VII : Dispositions applicables à Wallis et Futuna<a id=722></a>
 
 ###### Article R447-1
 
@@ -68828,7 +68882,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R411-9 (VD)
 
 
-#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=720></a>
+#### Chapitre VIII : Dispositions applicables  dans les Terres australes et antarctiques françaises<a id=723></a>
 
 ###### Article R448-1
 
@@ -69020,13 +69074,13 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-## LIVRE V : POLICES MUNICIPALES<a id=721></a>
+## LIVRE V : POLICES MUNICIPALES<a id=724></a>
 
-### TITRE Ier : AGENTS DE POLICE MUNICIPALE<a id=722></a>
+### TITRE Ier : AGENTS DE POLICE MUNICIPALE<a id=725></a>
 
-#### Chapitre Ier : Missions, recrutement et modalités d'exercice<a id=723></a>
+#### Chapitre Ier : Missions, recrutement et modalités d'exercice<a id=726></a>
 
-##### Section 1 : Missions<a id=724></a>
+##### Section 1 : Missions<a id=727></a>
 
 ###### Article R511-1
 
@@ -69071,7 +69125,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R545-3 (VD)
 
 
-##### Section 2 : Nomination et agrément<a id=725></a>
+##### Section 2 : Nomination et agrément<a id=728></a>
 
 ###### Article R511-2
 
@@ -69107,9 +69161,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L511-2 (V)
 
 
-##### Section 3 : Carte professionnelle, tenue et équipements<a id=726></a>
+##### Section 3 : Carte professionnelle, tenue et équipements<a id=729></a>
 
-##### Sous-section 1 : Carte professionnelle<a id=727></a>
+##### Sous-section 1 : Carte professionnelle<a id=730></a>
 
 ###### Article D511-3
 
@@ -69199,7 +69253,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 2 : Tenue<a id=728></a>
+##### Sous-section 2 : Tenue<a id=731></a>
 
 ###### Article D511-6
 
@@ -69282,7 +69336,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Sous-section 3 : Véhicules<a id=729></a>
+##### Sous-section 3 : Véhicules<a id=732></a>
 
 ###### Article D511-9
 
@@ -69332,7 +69386,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. D545-4 (VD)
 
 
-##### Section 4 : Port d'armes<a id=730></a>
+##### Section 4 : Port d'armes<a id=733></a>
 
 ###### Article R511-11
 
@@ -69372,9 +69426,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-47
 
 
-##### Sous-section 1 : Armement des agents de police municipale<a id=731></a>
+##### Sous-section 1 : Armement des agents de police municipale<a id=734></a>
 
-##### Paragraphe 1 : Armes susceptibles d'être autorisées<a id=732></a>
+##### Paragraphe 1 : Armes susceptibles d'être autorisées<a id=735></a>
 
 ###### Article R511-12
 
@@ -69481,7 +69535,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R511-12 (VD)
 
 
-##### Paragraphe 2 : Missions pouvant justifier le port d'armes<a id=733></a>
+##### Paragraphe 2 : Missions pouvant justifier le port d'armes<a id=736></a>
 
 ###### Article R511-14
 
@@ -69606,7 +69660,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R511-12 (VD)
 
 
-##### Paragraphe 3 : Autorisation<a id=734></a>
+##### Paragraphe 3 : Autorisation<a id=737></a>
 
 ###### Article R511-18
 
@@ -69721,7 +69775,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L511-2 (V)
 
 
-##### Paragraphe 4 : Formation et entraînement<a id=735></a>
+##### Paragraphe 4 : Formation et entraînement<a id=738></a>
 
 ###### Article R511-21
 
@@ -69868,7 +69922,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L314-4
 
 
-##### Paragraphe 5 : Conditions de port et d'emploi des armes<a id=736></a>
+##### Paragraphe 5 : Conditions de port et d'emploi des armes<a id=739></a>
 
 ###### Article R511-23
 
@@ -70093,7 +70147,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R545-1 (VT)
 
 
-##### Sous-section 2 : Acquisition, détention  et conservation des armes par la commune<a id=737></a>
+##### Sous-section 2 : Acquisition, détention  et conservation des armes par la commune<a id=740></a>
 
 ###### Article R511-30
 
@@ -70269,7 +70323,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 5 : Formation continue<a id=738></a>
+##### Section 5 : Formation continue<a id=741></a>
 
 ###### Article R511-35
 
@@ -70445,7 +70499,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R511-37 (VD)
 
 
-##### Section 6 : Dispositions diverses<a id=739></a>
+##### Section 6 : Dispositions diverses<a id=742></a>
 
 ###### Article D511-41
 
@@ -70482,9 +70536,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art. 9
 
 
-#### Chapitre II : Organisation des services<a id=740></a>
+#### Chapitre II : Organisation des services<a id=743></a>
 
-##### Section 1 : Mise en commun des agents de police municipale<a id=741></a>
+##### Section 1 : Mise en commun des agents de police municipale<a id=744></a>
 
 ###### Article R512-1
 
@@ -70628,7 +70682,7 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2212-14 (VT)
 
 
-##### Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat<a id=742></a>
+##### Section 2 : Convention de coordination des interventions  de la police municipale et des forces de sécurité de l'Etat<a id=745></a>
 
 ###### Article R512-5
 
@@ -70690,7 +70744,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L512-4 (V)
 
 
-##### Section 3 : Convention locale de sûreté des transports collectifs<a id=743></a>
+##### Section 3 : Convention locale de sûreté des transports collectifs<a id=746></a>
 
 ###### Article R512-7
 
@@ -70746,9 +70800,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L511-1
 
 
-#### Chapitre IV : Commission consultative des polices municipales<a id=744></a>
+#### Chapitre IV : Commission consultative des polices municipales<a id=747></a>
 
-##### Section 1 : Composition<a id=745></a>
+##### Section 1 : Composition<a id=748></a>
 
 ###### Article R514-1
 
@@ -70909,7 +70963,7 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2212-6, alinéa 1 (VT)
 
 
-##### Section 2 : Fonctionnement<a id=746></a>
+##### Section 2 : Fonctionnement<a id=749></a>
 
 ###### Article R514-6
 
@@ -71036,9 +71090,9 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2212-10 (VT)
 
 
-#### Chapitre V : Déontologie des agents de police municipale<a id=747></a>
+#### Chapitre V : Déontologie des agents de police municipale<a id=750></a>
 
-##### Section 1 : Dispositions générales<a id=748></a>
+##### Section 1 : Dispositions générales<a id=751></a>
 
 ###### Article R515-1
 
@@ -71164,7 +71218,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 2 : Devoirs généraux des agents de police municipale<a id=749></a>
+##### Section 2 : Devoirs généraux des agents de police municipale<a id=752></a>
 
 ###### Article R515-7
 
@@ -71414,7 +71468,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement<a id=750></a>
+##### Section 3 : Droits et devoirs respectifs des agents de police municipale  et des autorités de commandement<a id=753></a>
 
 ###### Article R515-17
 
@@ -71524,7 +71578,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-##### Section 4 : Du contrôle des polices municipales<a id=751></a>
+##### Section 4 : Du contrôle des polices municipales<a id=754></a>
 
 ###### Article R515-21
 
@@ -71552,9 +71606,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L513-1 (V)
 
 
-### TITRE II : GARDES CHAMPÊTRES<a id=752></a>
+### TITRE II : GARDES CHAMPÊTRES<a id=755></a>
 
-#### Chapitre Ier : Missions<a id=753></a>
+#### Chapitre Ier : Missions<a id=756></a>
 
 ###### Article R521-1
 
@@ -71599,7 +71653,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R545-3 (VD)
 
 
-#### Chapitre II : Nomination, agrément et modalités d'exercice<a id=754></a>
+#### Chapitre II : Nomination, agrément et modalités d'exercice<a id=757></a>
 
 ###### Article D522-3
 
@@ -71693,11 +71747,11 @@ _Anciens textes_:
   - Code général des collectivités territoriales - art. R2213-59 (VT)
 
 
-### TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS<a id=755></a>
+### TITRE III : DISPOSITIONS PARTICULIÈRES APPLICABLES À PARIS<a id=758></a>
 
-#### Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police<a id=756></a>
+#### Chapitre Ier : Agents de la ville de Paris  chargés d'un service de police<a id=759></a>
 
-##### Section 1 : Missions<a id=757></a>
+##### Section 1 : Missions<a id=760></a>
 
 ###### Article R531-1
 
@@ -71764,7 +71818,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1
 
 
-##### Section 2 : Recrutement et agrément<a id=758></a>
+##### Section 2 : Recrutement et agrément<a id=761></a>
 
 ###### Article R531-3
 
@@ -72007,7 +72061,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1
 
 
-##### Section 3 : Carte professionnelle, tenue et équipements<a id=759></a>
+##### Section 3 : Carte professionnelle, tenue et équipements<a id=762></a>
 
 ###### Article R531-10
 
@@ -72037,7 +72091,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1 (V)
 
 
-##### Section 4 : Convention de coordination avec la police nationale<a id=760></a>
+##### Section 4 : Convention de coordination avec la police nationale<a id=763></a>
 
 ###### Article R531-11
 
@@ -72064,7 +72118,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L531-1 (V)
 
 
-#### Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police<a id=761></a>
+#### Chapitre II : Agents de surveillance de Paris  placés sous l'autorité du préfet de police<a id=764></a>
 
 ###### Article R532-1
 
@@ -72102,9 +72156,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L532-1 (V)
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=762></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=765></a>
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=763></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=766></a>
 
 ###### Article R542-1
 
@@ -72122,7 +72176,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=764></a>
+#### Chapitre III : Dispositions particulières à Saint-Barthélemy  et Saint-Martin<a id=767></a>
 
 ###### Article R543-1
 
@@ -72145,7 +72199,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=765></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=768></a>
 
 ###### Article R544-1
 
@@ -72163,7 +72217,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=766></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=769></a>
 
 ###### Article D545-2
 
@@ -72689,7 +72743,7 @@ _Créé par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art.
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=767></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=770></a>
 
 ###### Article D546-1-1
 
@@ -73245,11 +73299,11 @@ _Anciens textes_:
   - Code de la sécurité intérieure - art. R546-3 (T)
 
 
-## LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=768></a>
+## LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=771></a>
 
-### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES<a id=769></a>
+### TITRE Ier : ACTIVITÉS PRIVÉES DE SURVEILLANCE ET DE GARDIENNAGE, DE TRANSPORT DE FONDS, DE PROTECTION PHYSIQUE DES PERSONNES ET DE PROTECTION DES NAVIRES<a id=772></a>
 
-#### Chapitre Ier : Dispositions générales<a id=770></a>
+#### Chapitre Ier : Dispositions générales<a id=773></a>
 
 ###### Article R611-1
 
@@ -73324,9 +73378,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R646-1 (M)
 
 
-#### Chapitre II : Conditions d'exercice<a id=771></a>
+#### Chapitre II : Conditions d'exercice<a id=774></a>
 
-##### Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales<a id=772></a>
+##### Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales<a id=775></a>
 
 ###### Article R612-1
 
@@ -73494,7 +73548,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L612-8
 
 
-##### Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales<a id=773></a>
+##### Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales<a id=776></a>
 
 ###### Article R612-5
 
@@ -73808,9 +73862,9 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-##### Section 3 : Autorisation d'exercice des employés<a id=774></a>
+##### Section 3 : Autorisation d'exercice des employés<a id=777></a>
 
-##### Sous-section 1 : Délivrance de la carte professionnelle<a id=775></a>
+##### Sous-section 1 : Délivrance de la carte professionnelle<a id=778></a>
 
 ###### Article R612-12
 
@@ -74072,7 +74126,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L612-20
 
 
-##### Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice<a id=776></a>
+##### Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice<a id=779></a>
 
 ###### Article R612-19
 
@@ -74247,9 +74301,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R612-19 (V)
 
 
-##### Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés<a id=777></a>
+##### Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés<a id=780></a>
 
-##### Sous-section 1 : Dispositions générales<a id=778></a>
+##### Sous-section 1 : Dispositions générales<a id=781></a>
 
 ###### Article R612-24
 
@@ -74713,7 +74767,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R633-4 (VD)
 
 
-##### Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants<a id=779></a>
+##### Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants<a id=782></a>
 
 ###### Article R612-33
 
@@ -74802,7 +74856,7 @@ _Modifié par_:
   - Décret n°2017-1844 du 29 décembre 2017 - art. 5
 
 
-##### Sous-section 3 : Dispositions spécifiques aux employés<a id=780></a>
+##### Sous-section 3 : Dispositions spécifiques aux employés<a id=783></a>
 
 ###### Article R612-37
 
@@ -75007,11 +75061,11 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre III : Modalités d'exercice<a id=781></a>
+#### Chapitre III : Modalités d'exercice<a id=784></a>
 
-##### Section 1 : Dispositions générales<a id=782></a>
+##### Section 1 : Dispositions générales<a id=785></a>
 
-##### Sous-section 1 : Tenue<a id=783></a>
+##### Sous-section 1 : Tenue<a id=786></a>
 
 ###### Article R613-1
 
@@ -75068,9 +75122,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-1 (V)
 
 
-##### Sous-section 2 : Activités exercées avec le port d'une arme<a id=784></a>
+##### Sous-section 2 : Activités exercées avec le port d'une arme<a id=787></a>
 
-##### Paragraphe 1 : Catégories et types d'arme<a id=785></a>
+##### Paragraphe 1 : Catégories et types d'arme<a id=788></a>
 
 ###### Article R613-3
 
@@ -75185,7 +75239,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-41
 
 
-##### Paragraphe 2 : Acquisition et détention<a id=786></a>
+##### Paragraphe 2 : Acquisition et détention<a id=789></a>
 
 ###### Article R613-3-1
 
@@ -75237,7 +75291,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-3
 
 
-##### Paragraphe 3 : Importation<a id=787></a>
+##### Paragraphe 3 : Importation<a id=790></a>
 
 ###### Article R613-3-2
 
@@ -75263,7 +75317,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-3-1
 
 
-##### Paragraphe 4 : Transport<a id=788></a>
+##### Paragraphe 4 : Transport<a id=791></a>
 
 ###### Article R613-3-3
 
@@ -75282,7 +75336,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-1 (V)
 
 
-##### Paragraphe 5 : Conservation<a id=789></a>
+##### Paragraphe 5 : Conservation<a id=792></a>
 
 ###### Article R613-3-4
 
@@ -75344,7 +75398,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-1 (V)
 
 
-##### Paragraphe 6 : Conditions particulières d'usage<a id=790></a>
+##### Paragraphe 6 : Conditions particulières d'usage<a id=793></a>
 
 ###### Article R613-3-6
 
@@ -75382,7 +75436,7 @@ _Cite_:
   - Code pénal - art. 122-5
 
 
-##### Sous-section 3 : Véhicules<a id=791></a>
+##### Sous-section 3 : Véhicules<a id=794></a>
 
 ###### Article R613-4
 
@@ -75414,11 +75468,11 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-1 (V)
 
 
-##### Section 2 : Activités de surveillance et de gardiennage<a id=792></a>
+##### Section 2 : Activités de surveillance et de gardiennage<a id=795></a>
 
-##### Sous-section 1 : Missions<a id=793></a>
+##### Sous-section 1 : Missions<a id=796></a>
 
-##### Paragraphe 1 : Autorisation de la surveillance des biens sur la voie publique<a id=794></a>
+##### Paragraphe 1 : Autorisation de la surveillance des biens sur la voie publique<a id=797></a>
 
 ###### Article R613-5
 
@@ -75450,7 +75504,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-1 (V)
 
 
-##### Paragraphe 2 : Agrément des employés des entreprises de surveillance et de gardiennage pour l'inspection visuelle et la fouille des bagages à main et les palpations de sécurité<a id=795></a>
+##### Paragraphe 2 : Agrément des employés des entreprises de surveillance et de gardiennage pour l'inspection visuelle et la fouille des bagages à main et les palpations de sécurité<a id=798></a>
 
 ###### Article R613-6
 
@@ -75552,7 +75606,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-1844 du 29 décembre 2017 - art. 13
 
 
-##### Paragraphe 3 : Agrément des membres des services d'ordre affectés à la sécurité d'une manifestation sportive, récréative ou culturelle<a id=796></a>
+##### Paragraphe 3 : Agrément des membres des services d'ordre affectés à la sécurité d'une manifestation sportive, récréative ou culturelle<a id=799></a>
 
 ###### Article R613-10
 
@@ -75704,7 +75758,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-1844 du 29 décembre 2017 - art. 13
 
 
-##### Paragraphe 4 : Utilisation de chiens<a id=797></a>
+##### Paragraphe 4 : Utilisation de chiens<a id=800></a>
 
 ###### Article R613-16
 
@@ -75732,7 +75786,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-2-1 (V)
 
 
-##### Paragraphe 5 : Utilisation des armes de la catégorie D<a id=798></a>
+##### Paragraphe 5 : Utilisation des armes de la catégorie D<a id=801></a>
 
 ###### Article R613-16-1
 
@@ -75848,7 +75902,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-3
 
 
-##### Sous-section 2 : Coordination avec les services de la police nationale et de la gendarmerie nationale<a id=799></a>
+##### Sous-section 2 : Coordination avec les services de la police nationale et de la gendarmerie nationale<a id=802></a>
 
 ###### Article D613-17
 
@@ -76009,9 +76063,9 @@ _Cité par_:
   - DEPLACE: Décret n°2017-1844 du 29 décembre 2017 - art. 13
 
 
-##### Section 2 bis : Activités de surveillance armée<a id=800></a>
+##### Section 2 bis : Activités de surveillance armée<a id=803></a>
 
-##### Sous-section 1 : Conditions d'exercice<a id=801></a>
+##### Sous-section 1 : Conditions d'exercice<a id=804></a>
 
 ###### Article R613-23-1
 
@@ -76153,7 +76207,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L611-1
 
 
-##### Sous-section 2 : Acquisition et détention<a id=802></a>
+##### Sous-section 2 : Acquisition et détention<a id=805></a>
 
 ###### Article R613-23-5
 
@@ -76191,7 +76245,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-3-1
 
 
-##### Sous-section 3 : Port d'armes<a id=803></a>
+##### Sous-section 3 : Port d'armes<a id=806></a>
 
 ###### Article R613-23-6
 
@@ -76271,7 +76325,7 @@ _Créé par_:
   - Décret n°2017-1844 du 29 décembre 2017 - art. 13
 
 
-##### Sous-section 4 : Conservation des armes<a id=804></a>
+##### Sous-section 4 : Conservation des armes<a id=807></a>
 
 ###### Article R613-23-11
 
@@ -76312,9 +76366,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-3-6
 
 
-##### Section 3 : Activités de transport de fonds<a id=805></a>
+##### Section 3 : Activités de transport de fonds<a id=808></a>
 
-##### Sous-section 1 : Dispositions générales<a id=806></a>
+##### Sous-section 1 : Dispositions générales<a id=809></a>
 
 ###### Article R613-24
 
@@ -76729,7 +76783,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Véhicules de transport de fonds<a id=807></a>
+##### Sous-section 2 : Véhicules de transport de fonds<a id=810></a>
 
 ###### Article R613-35
 
@@ -76895,7 +76949,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R645-3 (V)
 
 
-##### Sous-section 3 : Tenue<a id=808></a>
+##### Sous-section 3 : Tenue<a id=811></a>
 
 ###### Article R613-40
 
@@ -76925,7 +76979,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-29 (V)
 
 
-##### Sous-section 4 : Port d'arme<a id=809></a>
+##### Sous-section 4 : Port d'arme<a id=812></a>
 
 ###### Article R613-41
 
@@ -77071,9 +77125,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R617-4 (V)
 
 
-##### Sous-section 5 : Dispositifs de neutralisation<a id=810></a>
+##### Sous-section 5 : Dispositifs de neutralisation<a id=813></a>
 
-##### Paragraphe 1 : Fonds transportés<a id=811></a>
+##### Paragraphe 1 : Fonds transportés<a id=814></a>
 
 ###### Article R613-47
 
@@ -77293,7 +77347,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Paragraphe 2 : Fonds délivrés ou déposés dans un automate bancaire<a id=812></a>
+##### Paragraphe 2 : Fonds délivrés ou déposés dans un automate bancaire<a id=815></a>
 
 ###### Article R613-53
 
@@ -77437,7 +77491,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-55 (VD)
 
 
-##### Paragraphe 3 : Commission technique<a id=813></a>
+##### Paragraphe 3 : Commission technique<a id=816></a>
 
 ###### Article R613-57
 
@@ -77525,7 +77579,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-57
 
 
-##### Sous-section 6 : Sécurisation des locaux des entreprises de transports de fonds<a id=814></a>
+##### Sous-section 6 : Sécurisation des locaux des entreprises de transports de fonds<a id=817></a>
 
 ###### Article D613-59
 
@@ -77553,9 +77607,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 7 : Sécurisation des locaux des personnes faisant appel aux entreprises de transport de fonds et de leurs accès<a id=815></a>
+##### Sous-section 7 : Sécurisation des locaux des personnes faisant appel aux entreprises de transport de fonds et de leurs accès<a id=818></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=816></a>
+##### Paragraphe 1 : Dispositions générales<a id=819></a>
 
 ###### Article D613-60
 
@@ -77948,7 +78002,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. D613-87 (VD)
 
 
-##### Paragraphe 2 : Dispositions spécifiques applicables aux personnes exploitant des magasins de commerce de détail ou faisant partie d'un ensemble commercial<a id=817></a>
+##### Paragraphe 2 : Dispositions spécifiques applicables aux personnes exploitant des magasins de commerce de détail ou faisant partie d'un ensemble commercial<a id=820></a>
 
 ###### Article D613-72
 
@@ -78045,7 +78099,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. D613-84 (VD)
 
 
-##### Paragraphe 3 : Dispositions spécifiques applicables aux locaux abritant des distributeurs et guichets automatiques de banque<a id=818></a>
+##### Paragraphe 3 : Dispositions spécifiques applicables aux locaux abritant des distributeurs et guichets automatiques de banque<a id=821></a>
 
 ###### Article D613-74
 
@@ -78165,7 +78219,7 @@ _Modifié par_:
   - Décret n°2015-744 du 24 juin 2015 - art. 1
 
 
-##### Sous-section 9 : Commission départementale de la sécurité des transports de fonds<a id=819></a>
+##### Sous-section 9 : Commission départementale de la sécurité des transports de fonds<a id=822></a>
 
 ###### Article D613-84
 
@@ -78339,9 +78393,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. D645-5 (VD)
 
 
-##### Section 4 : Activités de protection de l'intégrité physique des personnes<a id=820></a>
+##### Section 4 : Activités de protection de l'intégrité physique des personnes<a id=823></a>
 
-##### Sous-section unique : Port d'armes<a id=821></a>
+##### Sous-section unique : Port d'armes<a id=824></a>
 
 ###### Article R613-88
 
@@ -78469,9 +78523,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-74
 
 
-#### Chapitre IV : Services de sécurité des bailleurs d'immeuble<a id=822></a>
+#### Chapitre IV : Services de sécurité des bailleurs d'immeuble<a id=825></a>
 
-##### Section 1 : Conditions d'acquisition, de détention et de conservation des armes par les personnes morales<a id=823></a>
+##### Section 1 : Conditions d'acquisition, de détention et de conservation des armes par les personnes morales<a id=826></a>
 
 ###### Article R614-1
 
@@ -78568,7 +78622,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R614-1 (VD)
 
 
-##### Section 2 : Autorisation de port d'arme individuel<a id=824></a>
+##### Section 2 : Autorisation de port d'arme individuel<a id=827></a>
 
 ###### Article R614-4
 
@@ -78644,7 +78698,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R614-1 (VD)
 
 
-##### Section 3 : Formation préalable<a id=825></a>
+##### Section 3 : Formation préalable<a id=828></a>
 
 ###### Article R614-6
 
@@ -78739,7 +78793,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R614-6 (VD)
 
 
-##### Section 4 : Conditions de port et de conservation des armes par les employés<a id=826></a>
+##### Section 4 : Conditions de port et de conservation des armes par les employés<a id=829></a>
 
 ###### Article R614-9
 
@@ -78786,7 +78840,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre VI : Activité privée de protection des navires<a id=827></a>
+#### Chapitre VI : Activité privée de protection des navires<a id=830></a>
 
 ###### Article R616-1
 
@@ -78809,9 +78863,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R646-1 (M)
 
 
-##### Section 1 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales<a id=828></a>
+##### Section 1 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales<a id=831></a>
 
-##### Sous-section 1 : Certification des entreprises privées de protection des navires<a id=829></a>
+##### Sous-section 1 : Certification des entreprises privées de protection des navires<a id=832></a>
 
 ###### Article R616-2
 
@@ -78852,7 +78906,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R616-3 (V)
 
 
-##### Sous-section 2 : Autorisation d'exercice provisoire des entreprises privées de protection des navires<a id=830></a>
+##### Sous-section 2 : Autorisation d'exercice provisoire des entreprises privées de protection des navires<a id=833></a>
 
 ###### Article R616-3
 
@@ -78908,9 +78962,9 @@ _Créé par_:
   - Décret n°2014-1415 du 28 novembre 2014 - art. 3
 
 
-##### Section 2 : Autorisation d'exercice des employés<a id=831></a>
+##### Section 2 : Autorisation d'exercice des employés<a id=834></a>
 
-##### Sous-section  1 : Délivrance de la carte professionnelle<a id=832></a>
+##### Sous-section  1 : Délivrance de la carte professionnelle<a id=835></a>
 
 ###### Article R616-6
 
@@ -78985,7 +79039,7 @@ _Créé par_:
   - Décret n°2014-1415 du 28 novembre 2014 - art. 3
 
 
-##### Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle<a id=833></a>
+##### Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle<a id=836></a>
 
 ###### Article R616-10
 
@@ -79013,7 +79067,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R612-22
 
 
-##### Section 3 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés<a id=834></a>
+##### Section 3 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés<a id=837></a>
 
 ###### Article R616-11
 
@@ -79105,7 +79159,7 @@ _Modifié par_:
   - Décret n°2018-1270 du 26 décembre 2018 - art. 3
 
 
-##### Section 4 : Constatation des infractions pénales à bord des navires<a id=835></a>
+##### Section 4 : Constatation des infractions pénales à bord des navires<a id=838></a>
 
 ###### Article R616-14
 
@@ -79124,9 +79178,9 @@ _Créé par_:
   - Décret n°2014-1415 du 28 novembre 2014 - art. 3
 
 
-#### Chapitre VII : Dispositions pénales<a id=836></a>
+#### Chapitre VII : Dispositions pénales<a id=839></a>
 
-##### Section 1 : Dispositions générales<a id=837></a>
+##### Section 1 : Dispositions générales<a id=840></a>
 
 ###### Article R617-1
 
@@ -79200,7 +79254,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R647-1 (V)
 
 
-##### Section 2 : Activités de surveillance et de gardiennage<a id=838></a>
+##### Section 2 : Activités de surveillance et de gardiennage<a id=841></a>
 
 ###### Article R617-2
 
@@ -79322,7 +79376,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. D613-17 (VD)
 
 
-##### Section 2 bis : Activités de surveillance armée<a id=839></a>
+##### Section 2 bis : Activités de surveillance armée<a id=842></a>
 
 ###### Article R617-3-1
 
@@ -79366,7 +79420,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-3
 
 
-##### Section 3 : Activités de transport de fonds<a id=840></a>
+##### Section 3 : Activités de transport de fonds<a id=843></a>
 
 ###### Article R617-4
 
@@ -79401,7 +79455,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R613-47
 
 
-##### Section 4 : Activités de protection physique des personnes<a id=841></a>
+##### Section 4 : Activités de protection physique des personnes<a id=844></a>
 
 ###### Article R617-5
 
@@ -79443,9 +79497,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R312-75
 
 
-### TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES<a id=842></a>
+### TITRE II : ACTIVITÉS DES AGENCES DE RECHERCHES PRIVÉES<a id=845></a>
 
-#### Chapitre Ier : Dispositions générales<a id=843></a>
+#### Chapitre Ier : Dispositions générales<a id=846></a>
 
 ###### Article R621-1
 
@@ -79473,9 +79527,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L621-1 (V)
 
 
-#### Chapitre II : Conditions d'exercice<a id=844></a>
+#### Chapitre II : Conditions d'exercice<a id=847></a>
 
-##### Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales<a id=845></a>
+##### Section 1 : Agrément des exploitants individuels et des dirigeants et gérants de personnes morales<a id=848></a>
 
 ###### Article R622-1
 
@@ -79581,7 +79635,7 @@ _Créé par_:
   - Décret n°2016-515 du 26 avril 2016 - art. 40
 
 
-##### Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales<a id=846></a>
+##### Section 2 : Autorisation d'exercice délivrée aux exploitants individuels et aux personnes morales<a id=849></a>
 
 ###### Article R622-4
 
@@ -79798,9 +79852,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Section 3 : Autorisation d'exercice des employés<a id=847></a>
+##### Section 3 : Autorisation d'exercice des employés<a id=850></a>
 
-##### Sous-section 1 : Délivrance de la carte professionnelle<a id=848></a>
+##### Sous-section 1 : Délivrance de la carte professionnelle<a id=851></a>
 
 ###### Article R622-10
 
@@ -80012,7 +80066,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R624-1 (VD)
 
 
-##### Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice<a id=849></a>
+##### Sous-section 2 : Autorisation préalable d'accès à la formation professionnelle et autorisation provisoire d'exercice<a id=852></a>
 
 ###### Article R622-17
 
@@ -80165,9 +80219,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R622-17 (V)
 
 
-##### Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés<a id=850></a>
+##### Section 4 : Aptitude professionnelle des exploitants individuels, des dirigeants, des gérants et des employés<a id=853></a>
 
-##### Sous-section 1 : Dispositions générales<a id=851></a>
+##### Sous-section 1 : Dispositions générales<a id=854></a>
 
 ###### Article R622-22
 
@@ -80502,7 +80556,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R633-4 (VD)
 
 
-##### Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants<a id=852></a>
+##### Sous-section 2 : Dispositions spécifiques aux exploitants individuels, aux dirigeants et aux gérants<a id=855></a>
 
 ###### Article R622-28
 
@@ -80588,7 +80642,7 @@ _Modifié par_:
   - Décret n°2017-1844 du 29 décembre 2017 - art. 6
 
 
-##### Sous-section 3 : Dispositions spécifiques aux employés<a id=853></a>
+##### Sous-section 3 : Dispositions spécifiques aux employés<a id=856></a>
 
 ###### Article R622-34
 
@@ -80642,7 +80696,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre IV : Dispositions pénales<a id=854></a>
+#### Chapitre IV : Dispositions pénales<a id=857></a>
 
 ###### Article R624-1
 
@@ -80675,9 +80729,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R622-16 (VD)
 
 
-### TITRE II BIS : FORMATION AUX ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=855></a>
+### TITRE II BIS : FORMATION AUX ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=858></a>
 
-#### Chapitre Ier : Dispositions générales<a id=856></a>
+#### Chapitre Ier : Dispositions générales<a id=859></a>
 
 ###### Article R625-1
 
@@ -80697,9 +80751,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L625-2 (V)
 
 
-#### Chapitre II : Conditions d'exercice<a id=857></a>
+#### Chapitre II : Conditions d'exercice<a id=860></a>
 
-##### Section 1 : Autorisation d'exercice des prestataires de formation<a id=858></a>
+##### Section 1 : Autorisation d'exercice des prestataires de formation<a id=861></a>
 
 ###### Article R625-2
 
@@ -80901,7 +80955,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R625-2 (VD)
 
 
-##### Section 2 : Certification des prestataires de formation<a id=859></a>
+##### Section 2 : Certification des prestataires de formation<a id=862></a>
 
 ###### Article R625-7
 
@@ -80941,7 +80995,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R625-2 (V)
 
 
-##### Section 3 : Formation continue<a id=860></a>
+##### Section 3 : Formation continue<a id=863></a>
 
 ###### Article R625-8
 
@@ -80977,7 +81031,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R625-7
 
 
-##### Section 4 : Obligations des prestataires de formation<a id=861></a>
+##### Section 4 : Obligations des prestataires de formation<a id=864></a>
 
 ###### Article R625-9
 
@@ -81225,7 +81279,7 @@ _Créé par_:
   - Décret n°2017-1844 du 29 décembre 2017 - art. 19
 
 
-#### Chapitre III : Dispositions pénales<a id=862></a>
+#### Chapitre III : Dispositions pénales<a id=865></a>
 
 ###### Article R625-21
 
@@ -81262,13 +81316,13 @@ _Cite_:
   - Code de la sécurité intérieure - art. R625-18
 
 
-### TITRE III : CONSEIL NATIONAL DES ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=863></a>
+### TITRE III : CONSEIL NATIONAL DES ACTIVITÉS PRIVÉES DE SÉCURITÉ<a id=866></a>
 
-#### Chapitre Ier : Dispositions générales<a id=864></a>
+#### Chapitre Ier : Dispositions générales<a id=867></a>
 
-##### Section unique :  Code de déontologie des personnes physiques ou morales exerçant des activités privées de sécurité<a id=865></a>
+##### Section unique :  Code de déontologie des personnes physiques ou morales exerçant des activités privées de sécurité<a id=868></a>
 
-##### Sous-section 1 : Dispositions générales<a id=866></a>
+##### Sous-section 1 : Dispositions générales<a id=869></a>
 
 ###### Article R631-1
 
@@ -81359,7 +81413,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Devoirs communs à tous les acteurs de la sécurité privée<a id=867></a>
+##### Sous-section 2 : Devoirs communs à tous les acteurs de la sécurité privée<a id=870></a>
 
 ###### Article R631-4
 
@@ -81659,7 +81713,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 3 : Devoirs des entreprises et de leurs dirigeants<a id=868></a>
+##### Sous-section 3 : Devoirs des entreprises et de leurs dirigeants<a id=871></a>
 
 ###### Article R631-15
 
@@ -81959,7 +82013,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 4 : Devoirs des salariés<a id=869></a>
+##### Sous-section 4 : Devoirs des salariés<a id=872></a>
 
 ###### Article R631-25
 
@@ -82040,9 +82094,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 5 : Devoirs spécifiques à certaines activités<a id=870></a>
+##### Sous-section 5 : Devoirs spécifiques à certaines activités<a id=873></a>
 
-##### Paragraphe 1 : Profession libérale de recherches privées<a id=871></a>
+##### Paragraphe 1 : Profession libérale de recherches privées<a id=874></a>
 
 ###### Article R631-28
 
@@ -82169,7 +82223,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Paragraphe 2 : Activité cynophile<a id=872></a>
+##### Paragraphe 2 : Activité cynophile<a id=875></a>
 
 ###### Article R631-32
 
@@ -82193,9 +82247,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre II : Missions et fonctionnement du Conseil national des activités privées de sécurité<a id=873></a>
+#### Chapitre II : Missions et fonctionnement du Conseil national des activités privées de sécurité<a id=876></a>
 
-##### Section 1 : Dispositions générales<a id=874></a>
+##### Section 1 : Dispositions générales<a id=877></a>
 
 ###### Article R632-1
 
@@ -82223,9 +82277,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R647-1 (M)
 
 
-##### Section 2 : Organisation administrative et fonctionnement<a id=875></a>
+##### Section 2 : Organisation administrative et fonctionnement<a id=878></a>
 
-##### Sous-section 1 : Collège<a id=876></a>
+##### Sous-section 1 : Collège<a id=879></a>
 
 ###### Article R632-2
 
@@ -82521,7 +82575,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Commission nationale d'agrément et de contrôle<a id=877></a>
+##### Sous-section 2 : Commission nationale d'agrément et de contrôle<a id=880></a>
 
 ###### Article R632-9
 
@@ -82667,7 +82721,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R632-9 (VD)
 
 
-##### Sous-section 3 : Directeur et agents du Conseil national des activités privées de sécurité<a id=878></a>
+##### Sous-section 3 : Directeur et agents du Conseil national des activités privées de sécurité<a id=881></a>
 
 ###### Article R632-13
 
@@ -82841,7 +82895,7 @@ _Cité par_:
   - Arrêté du 20 avril 2017 - art. (V)
 
 
-##### Sous-section 4 : Organisation financière<a id=879></a>
+##### Sous-section 4 : Organisation financière<a id=882></a>
 
 ###### Article R632-17
 
@@ -82926,7 +82980,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 5 : Dispositions communes au collège et à la Commission nationale d'agrément et de contrôle<a id=880></a>
+##### Sous-section 5 : Dispositions communes au collège et à la Commission nationale d'agrément et de contrôle<a id=883></a>
 
 ###### Article R632-20
 
@@ -83018,9 +83072,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre III : Commissions locales d'agrément et de contrôle<a id=881></a>
+#### Chapitre III : Commissions locales d'agrément et de contrôle<a id=884></a>
 
-##### Section 1 : Organisation administrative et fonctionnement<a id=882></a>
+##### Section 1 : Organisation administrative et fonctionnement<a id=885></a>
 
 ###### Article R633-1
 
@@ -83255,7 +83309,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R647-1 (M)
 
 
-##### Section 2 : Procédures devant les commissions locales  d'agrément et de contrôle<a id=883></a>
+##### Section 2 : Procédures devant les commissions locales  d'agrément et de contrôle<a id=886></a>
 
 ###### Article R633-7
 
@@ -83331,9 +83385,9 @@ _Modifié par_:
   - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
-#### Chapitre IV : Contrôles<a id=884></a>
+#### Chapitre IV : Contrôles<a id=887></a>
 
-##### Section 1 : Exercice de l'action disciplinaire<a id=885></a>
+##### Section 1 : Exercice de l'action disciplinaire<a id=888></a>
 
 ###### Article R634-1
 
@@ -83395,7 +83449,7 @@ _Modifié par_:
   - Décret n°2016-515 du 26 avril 2016 - art. 7
 
 
-##### Section 2 : Sanctions disciplinaires<a id=886></a>
+##### Section 2 : Sanctions disciplinaires<a id=889></a>
 
 ###### Article R634-3
 
@@ -83531,7 +83585,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L634-4 (V)
 
 
-#### Chapitre V : Dispositions finales<a id=887></a>
+#### Chapitre V : Dispositions finales<a id=890></a>
 
 ###### Article R635-1
 
@@ -83573,9 +83627,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R648-1 (V)
 
 
-### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=888></a>
+### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=891></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=889></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=892></a>
 
 ###### Article R641-1
 
@@ -83589,7 +83643,7 @@ _Créé par_:
   - Décret n°2019-1497 du 28 décembre 2019 - art. 5
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=890></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=893></a>
 
 ###### Article D642-2
 
@@ -83671,7 +83725,7 @@ _Modifié par_:
   - Décret n°2019-1497 du 28 décembre 2019 - art. 5
 
 
-#### Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin<a id=891></a>
+#### Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin<a id=894></a>
 
 ###### Article D643-2
 
@@ -83724,7 +83778,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=892></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=895></a>
 
 ###### Article D644-2
 
@@ -83773,7 +83827,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=893></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=896></a>
 
 ###### Article D645-2
 
@@ -84951,7 +85005,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R645-1 (V)
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=894></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=897></a>
 
 ###### Article D646-2
 
@@ -85896,7 +85950,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R646-1 (M)
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=895></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=898></a>
 
 ###### Article D647-2
 
@@ -86837,7 +86891,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R647-1 (V)
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=896></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=899></a>
 
 ###### Article R648-1
 
@@ -87132,13 +87186,13 @@ _Cite_:
   - Code de la sécurité intérieure - art. R635-1
 
 
-## LIVRE VII : SÉCURITÉ CIVILE<a id=897></a>
+## LIVRE VII : SÉCURITÉ CIVILE<a id=900></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=898></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=901></a>
 
-#### Chapitre unique :  Missions de la sécurité civile<a id=899></a>
+#### Chapitre unique :  Missions de la sécurité civile<a id=902></a>
 
-##### Section 2 : Conseil départemental de sécurité civile<a id=900></a>
+##### Section 2 : Conseil départemental de sécurité civile<a id=903></a>
 
 ###### Article D711-10
 
@@ -87239,13 +87293,13 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-### TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE<a id=901></a>
+### TITRE II : ACTEURS DE LA SÉCURITÉ CIVILE<a id=904></a>
 
-#### Chapitre III : Sapeurs-pompiers<a id=902></a>
+#### Chapitre III : Sapeurs-pompiers<a id=905></a>
 
-##### Section unique :  Sapeurs-pompiers volontaires<a id=903></a>
+##### Section unique :  Sapeurs-pompiers volontaires<a id=906></a>
 
-##### Sous-section 1 : Dispositions générales<a id=904></a>
+##### Sous-section 1 : Dispositions générales<a id=907></a>
 
 ###### Article R723-1
 
@@ -87410,11 +87464,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1424-33 (M)
 
 
-##### Sous-section 2 : Engagement citoyen<a id=905></a>
+##### Sous-section 2 : Engagement citoyen<a id=908></a>
 
-##### Paragraphe 1 : Engagements des sapeurs-pompiers volontaires<a id=906></a>
+##### Paragraphe 1 : Engagements des sapeurs-pompiers volontaires<a id=909></a>
 
-##### Sous-paragraphe  1 : Premier engagement de sapeur-pompier volontaire<a id=907></a>
+##### Sous-paragraphe  1 : Premier engagement de sapeur-pompier volontaire<a id=910></a>
 
 ###### Article D723-8
 
@@ -87588,7 +87642,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-paragraphe  2 : Premier grade<a id=908></a>
+##### Sous-paragraphe  2 : Premier grade<a id=911></a>
 
 ###### Article R723-11
 
@@ -87647,7 +87701,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Paragraphe 2 : Gestion<a id=909></a>
+##### Paragraphe 2 : Gestion<a id=912></a>
 
 ###### Article R723-13
 
@@ -87690,9 +87744,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Paragraphe 3 : Déroulement du volontariat<a id=910></a>
+##### Paragraphe 3 : Déroulement du volontariat<a id=913></a>
 
-##### Sous-paragraphe  1 : Période probatoire<a id=911></a>
+##### Sous-paragraphe  1 : Période probatoire<a id=914></a>
 
 ###### Article R723-15
 
@@ -87729,7 +87783,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R723-90 (VD)
 
 
-##### Sous-paragraphe  2 : Formation<a id=912></a>
+##### Sous-paragraphe  2 : Formation<a id=915></a>
 
 ###### Article R723-16
 
@@ -87769,7 +87823,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-paragraphe  3 : Changements de grade<a id=913></a>
+##### Sous-paragraphe  3 : Changements de grade<a id=916></a>
 
 ###### Article R723-17
 
@@ -88219,7 +88273,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-6 (VD)
 
 
-##### Sous-paragraphe  4 : Discipline<a id=914></a>
+##### Sous-paragraphe  4 : Discipline<a id=917></a>
 
 ###### Article R723-35
 
@@ -88502,7 +88556,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-76 (VD)
 
 
-##### Sous-paragraphe  5 : Renouvellement de l'engagement<a id=915></a>
+##### Sous-paragraphe  5 : Renouvellement de l'engagement<a id=918></a>
 
 ###### Article R723-45
 
@@ -88529,7 +88583,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R723-47 (VD)
 
 
-##### Sous-paragraphe  6 : Suspension de l'engagement<a id=916></a>
+##### Sous-paragraphe  6 : Suspension de l'engagement<a id=919></a>
 
 ###### Article R723-46
 
@@ -88688,7 +88742,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-paragraphe  7 : Changement d'autorité de gestion<a id=917></a>
+##### Sous-paragraphe  7 : Changement d'autorité de gestion<a id=920></a>
 
 ###### Article R723-51
 
@@ -88722,7 +88776,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-7 (VD)
 
 
-##### Sous-paragraphe  8 : Cessation d'activité<a id=918></a>
+##### Sous-paragraphe  8 : Cessation d'activité<a id=921></a>
 
 ###### Article R723-52
 
@@ -88882,9 +88936,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-7 (VD)
 
 
-##### Paragraphe 4 : Distinctions<a id=919></a>
+##### Paragraphe 4 : Distinctions<a id=922></a>
 
-##### Sous-paragraphe  2 : Honorariat<a id=920></a>
+##### Sous-paragraphe  2 : Honorariat<a id=923></a>
 
 ###### Article R723-61
 
@@ -88986,9 +89040,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-61 (VD)
 
 
-##### Sous-section 3 : Instances consultatives<a id=921></a>
+##### Sous-section 3 : Instances consultatives<a id=924></a>
 
-##### Paragraphe 1 : Conseil national des sapeurs-pompiers volontaires<a id=922></a>
+##### Paragraphe 1 : Conseil national des sapeurs-pompiers volontaires<a id=925></a>
 
 ###### Article D723-64
 
@@ -89262,7 +89316,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Paragraphe 2 : Comité consultatif départemental des sapeurs-pompiers volontaires<a id=923></a>
+##### Paragraphe 2 : Comité consultatif départemental des sapeurs-pompiers volontaires<a id=926></a>
 
 ###### Article R723-73
 
@@ -89315,7 +89369,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R723-87 (VD)
 
 
-##### Paragraphe 3 : Comité de centre ou intercentres d'incendie et de secours<a id=924></a>
+##### Paragraphe 3 : Comité de centre ou intercentres d'incendie et de secours<a id=927></a>
 
 ###### Article R723-74
 
@@ -89353,7 +89407,7 @@ _Modifié par_:
   - Décret n°2017-1610 du 27 novembre 2017 - art. 1
 
 
-##### Paragraphe 4 : Comité consultatif communal ou intercommunal de sapeurs-pompiers volontaires<a id=925></a>
+##### Paragraphe 4 : Comité consultatif communal ou intercommunal de sapeurs-pompiers volontaires<a id=928></a>
 
 ###### Article R723-75
 
@@ -89402,7 +89456,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-78 (VD)
 
 
-##### Paragraphe 5 : Commission nationale de changement de grade des officiers de sapeurs-pompiers volontaires<a id=926></a>
+##### Paragraphe 5 : Commission nationale de changement de grade des officiers de sapeurs-pompiers volontaires<a id=929></a>
 
 ###### Article R723-76
 
@@ -89440,7 +89494,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R723-44 (VD)
 
 
-##### Paragraphe 6 : Conseil de discipline départemental<a id=927></a>
+##### Paragraphe 6 : Conseil de discipline départemental<a id=930></a>
 
 ###### Article R723-77
 
@@ -89479,7 +89533,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R723-76 (VD)
 
 
-##### Paragraphe 7 : Dispositions communes<a id=928></a>
+##### Paragraphe 7 : Dispositions communes<a id=931></a>
 
 ###### Article R723-78
 
@@ -89510,9 +89564,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R723-75 (VD)
 
 
-##### Sous-section 4 : Catégories particulières de sapeurs-pompiers volontaires<a id=929></a>
+##### Sous-section 4 : Catégories particulières de sapeurs-pompiers volontaires<a id=932></a>
 
-##### Paragraphe 1 : Membres du service de santé et de secours médical<a id=930></a>
+##### Paragraphe 1 : Membres du service de santé et de secours médical<a id=933></a>
 
 ###### Article R723-79
 
@@ -89755,7 +89809,7 @@ _Cite_:
   - Code de la santé publique - art. R4311-8 (V)
 
 
-##### Paragraphe 2 : Sapeurs-pompiers professionnels, personnels militaires et personnels de l'aviation civile<a id=931></a>
+##### Paragraphe 2 : Sapeurs-pompiers professionnels, personnels militaires et personnels de l'aviation civile<a id=934></a>
 
 ###### Article R723-86
 
@@ -89837,7 +89891,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-86 (VD)
 
 
-##### Paragraphe 3 : Jeunes sapeurs-pompiers et personnels issus des professions de la sécurité<a id=932></a>
+##### Paragraphe 3 : Jeunes sapeurs-pompiers et personnels issus des professions de la sécurité<a id=935></a>
 
 ###### Article R723-88
 
@@ -89900,7 +89954,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-6 (VD)
 
 
-##### Paragraphe 4 : Experts<a id=933></a>
+##### Paragraphe 4 : Experts<a id=936></a>
 
 ###### Article R723-90
 
@@ -89940,7 +89994,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R723-6 (VD)
 
 
-##### Paragraphe 5 : Engagements saisonniers<a id=934></a>
+##### Paragraphe 5 : Engagements saisonniers<a id=937></a>
 
 ###### Article R723-91
 
@@ -89980,11 +90034,11 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre V : Associations de sécurité civile<a id=935></a>
+#### Chapitre V : Associations de sécurité civile<a id=938></a>
 
-##### Section 1 : Agrément des associations<a id=936></a>
+##### Section 1 : Agrément des associations<a id=939></a>
 
-##### Sous-section 1 : Dispositions générales<a id=937></a>
+##### Sous-section 1 : Dispositions générales<a id=940></a>
 
 ###### Article R725-1
 
@@ -90158,7 +90212,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Procédure d'agrément<a id=938></a>
+##### Sous-section 2 : Procédure d'agrément<a id=941></a>
 
 ###### Article R725-5
 
@@ -90329,7 +90383,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 3 : Obligations de l'association agréée<a id=939></a>
+##### Sous-section 3 : Obligations de l'association agréée<a id=942></a>
 
 ###### Article R725-10
 
@@ -90391,7 +90445,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. L242-1
 
 
-##### Sous-section 4 : Dispositions particulières à Paris et aux départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne<a id=940></a>
+##### Sous-section 4 : Dispositions particulières à Paris et aux départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne<a id=943></a>
 
 ###### Article R725-12
 
@@ -90414,7 +90468,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Section 2 : Participation des associations agréées aux opérations de secours<a id=941></a>
+##### Section 2 : Participation des associations agréées aux opérations de secours<a id=944></a>
 
 ###### Article R725-13
 
@@ -90444,9 +90498,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R766-2 (VD)
 
 
-### TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION<a id=942></a>
+### TITRE III : PROTECTION GÉNÉRALE DE LA POPULATION<a id=945></a>
 
-#### Chapitre Ier : Prévention des risques<a id=943></a>
+#### Chapitre Ier : Prévention des risques<a id=946></a>
 
 ###### Article R731-1
 
@@ -90727,9 +90781,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-#### Chapitre II : Obligations en matière de sécurité civile<a id=944></a>
+#### Chapitre II : Obligations en matière de sécurité civile<a id=947></a>
 
-##### Section 1 : Maintien de la satisfaction des besoins prioritaires de la population<a id=945></a>
+##### Section 1 : Maintien de la satisfaction des besoins prioritaires de la population<a id=948></a>
 
 ###### Article R732-1
 
@@ -90986,7 +91040,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L732-1 (V)
 
 
-##### Section 2 : Capacité suffisante de communication radioélectrique des services de secours<a id=946></a>
+##### Section 2 : Capacité suffisante de communication radioélectrique des services de secours<a id=949></a>
 
 ###### Article R732-9
 
@@ -91059,7 +91113,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R732-9 (VD)
 
 
-##### Section 3 : Interopérabilité des réseaux<a id=947></a>
+##### Section 3 : Interopérabilité des réseaux<a id=950></a>
 
 ###### Article D732-11
 
@@ -91078,9 +91132,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Section 3 bis : Agence du numérique de la sécurité civile<a id=948></a>
+##### Section 3 bis : Agence du numérique de la sécurité civile<a id=951></a>
 
-##### Sous-section 1 : Dispositions générales<a id=949></a>
+##### Sous-section 1 : Dispositions générales<a id=952></a>
 
 ###### Article R732-11-1
 
@@ -91201,7 +91255,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R732-11-14 (VD)
 
 
-##### Sous-section 2 : Organisation administrative<a id=950></a>
+##### Sous-section 2 : Organisation administrative<a id=953></a>
 
 ###### Article R732-11-5
 
@@ -91546,7 +91600,7 @@ _Créé par_:
   - Décret n°2018-856 du 8 octobre 2018 - art. 1
 
 
-##### Sous-section 3 : Organisation financière<a id=951></a>
+##### Sous-section 3 : Organisation financière<a id=954></a>
 
 ###### Article R732-11-16
 
@@ -91625,7 +91679,7 @@ _Modifié par_:
   - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
-##### Sous-section 4 : Gestion du système d'information et de commandement unifié "NexSIS 18-112"<a id=952></a>
+##### Sous-section 4 : Gestion du système d'information et de commandement unifié "NexSIS 18-112"<a id=955></a>
 
 ###### Article D732-11-19
 
@@ -91682,7 +91736,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R732-11-2
 
 
-##### Section 3 ter : Système d'information et de commandement unifié "NexSIS 18-112"<a id=953></a>
+##### Section 3 ter : Système d'information et de commandement unifié "NexSIS 18-112"<a id=956></a>
 
 ###### Article D732-11-21
 
@@ -91753,9 +91807,9 @@ _Annulé par_:
   - Décision n°428691 du 14 octobre 2020, v. init.
 
 
-##### Section 4 : Alimentation en énergie des établissements de santé<a id=954></a>
+##### Section 4 : Alimentation en énergie des établissements de santé<a id=957></a>
 
-##### Sous-section 1 : Sécurité des établissements de santé en cas de défaillance du réseau d'énergie<a id=955></a>
+##### Sous-section 1 : Sécurité des établissements de santé en cas de défaillance du réseau d'énergie<a id=958></a>
 
 ###### Article R732-12
 
@@ -91839,7 +91893,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*123-51 (V)
 
 
-##### Sous-section 2 : Sécurité des personnes hébergées dans des établissements médico-sociaux en cas de défaillance du réseau d'énergie<a id=956></a>
+##### Sous-section 2 : Sécurité des personnes hébergées dans des établissements médico-sociaux en cas de défaillance du réseau d'énergie<a id=959></a>
 
 ###### Article R732-15
 
@@ -91953,9 +92007,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*123-51 (V)
 
 
-##### Section 5 : Code d'alerte national<a id=957></a>
+##### Section 5 : Code d'alerte national<a id=960></a>
 
-##### Sous-section 1 : Dispositions générales<a id=958></a>
+##### Sous-section 1 : Dispositions générales<a id=961></a>
 
 ###### Article R732-19
 
@@ -92058,7 +92112,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Alerte<a id=959></a>
+##### Sous-section 2 : Alerte<a id=962></a>
 
 ###### Article R732-22
 
@@ -92265,7 +92319,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R732-20 (VD)
 
 
-##### Sous-section 3 : Diffusion des consignes de sécurité à la population par les services de radiodiffusion sonore et de télévision<a id=960></a>
+##### Sous-section 3 : Diffusion des consignes de sécurité à la population par les services de radiodiffusion sonore et de télévision<a id=963></a>
 
 ###### Article R732-28
 
@@ -92356,7 +92410,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R732-28 (VD)
 
 
-##### Sous-section 4 : Fin de l'alerte<a id=961></a>
+##### Sous-section 4 : Fin de l'alerte<a id=964></a>
 
 ###### Article R732-30
 
@@ -92434,7 +92488,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R732-24 (VD)
 
 
-##### Sous-section 5 : Fonctionnement et maintenance des dispositifs d'alerte<a id=962></a>
+##### Sous-section 5 : Fonctionnement et maintenance des dispositifs d'alerte<a id=965></a>
 
 ###### Article R732-33
 
@@ -92487,9 +92541,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L741-6 (V)
 
 
-#### Chapitre III : Déminage<a id=963></a>
+#### Chapitre III : Déminage<a id=966></a>
 
-##### Section 1 : Compétences respectives des services placés sous l'autorité du ministre chargé de la sécurité civile et du ministre de la défense en matière de recherche, de neutralisation, d'enlèvement et de destruction des munitions et des explosifs<a id=964></a>
+##### Section 1 : Compétences respectives des services placés sous l'autorité du ministre chargé de la sécurité civile et du ministre de la défense en matière de recherche, de neutralisation, d'enlèvement et de destruction des munitions et des explosifs<a id=967></a>
 
 ###### Article R733-1
 
@@ -92583,9 +92637,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R733-1 (VD)
 
 
-##### Section 2 : Modalités de traitement de la pollution pyrotechnique des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur<a id=965></a>
+##### Section 2 : Modalités de traitement de la pollution pyrotechnique des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur<a id=968></a>
 
-##### Sous-section 1 : Dispositions générales<a id=966></a>
+##### Sous-section 1 : Dispositions générales<a id=969></a>
 
 ###### Article R733-3
 
@@ -92740,7 +92794,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Dispositions relatives aux opérations de dépollution pyrotechnique effectuées dans le cadre d'un changement d'utilisation ou de la délivrance d'un titre d'occupation<a id=967></a>
+##### Sous-section 2 : Dispositions relatives aux opérations de dépollution pyrotechnique effectuées dans le cadre d'un changement d'utilisation ou de la délivrance d'un titre d'occupation<a id=970></a>
 
 ###### Article R733-8
 
@@ -92766,7 +92820,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 3 : Dispositions relatives aux opérations de dépollution pyrotechnique dans le cadre des cessions des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur<a id=968></a>
+##### Sous-section 3 : Dispositions relatives aux opérations de dépollution pyrotechnique dans le cadre des cessions des biens immobiliers de l'Etat dont le ministère de la défense est l'utilisateur<a id=971></a>
 
 ###### Article R733-9
 
@@ -92889,7 +92943,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R733-10 (VD)
 
 
-##### Sous-section 4 : Attestations<a id=969></a>
+##### Sous-section 4 : Attestations<a id=972></a>
 
 ###### Article R733-13
 
@@ -92932,7 +92986,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R733-5 (V)
 
 
-##### Section 3 : Coopération interministérielle<a id=970></a>
+##### Section 3 : Coopération interministérielle<a id=973></a>
 
 ###### Article R733-14
 
@@ -92979,7 +93033,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Section 4 : Dispositions diverses<a id=971></a>
+##### Section 4 : Dispositions diverses<a id=974></a>
 
 ###### Article R733-16
 
@@ -93001,13 +93055,13 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-### TITRE IV : ORGANISATION DES SECOURS ET GESTION DES CRISES<a id=972></a>
+### TITRE IV : ORGANISATION DES SECOURS ET GESTION DES CRISES<a id=975></a>
 
-#### Chapitre Ier : Planification opérationnelle<a id=973></a>
+#### Chapitre Ier : Planification opérationnelle<a id=976></a>
 
-##### Section 1 : Plans Orsec<a id=974></a>
+##### Section 1 : Plans Orsec<a id=977></a>
 
-##### Sous-section 1 : Principes communs des plans Orsec<a id=975></a>
+##### Sous-section 1 : Principes communs des plans Orsec<a id=978></a>
 
 ###### Article R741-1
 
@@ -93198,7 +93252,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Sous-section 2 : Plan Orsec départemental<a id=976></a>
+##### Sous-section 2 : Plan Orsec départemental<a id=979></a>
 
 ###### Article R741-7
 
@@ -93357,7 +93411,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L742-7 (V)
 
 
-##### Sous-section 3 : Plan Orsec de zone<a id=977></a>
+##### Sous-section 3 : Plan Orsec de zone<a id=980></a>
 
 ###### Article R741-11
 
@@ -93492,7 +93546,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R122-17 (V)
 
 
-##### Sous-section 4 : Plan Orsec maritime<a id=978></a>
+##### Sous-section 4 : Plan Orsec maritime<a id=981></a>
 
 ###### Article R741-15
 
@@ -93588,9 +93642,9 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Section 2 : Plans particuliers d'intervention<a id=979></a>
+##### Section 2 : Plans particuliers d'intervention<a id=982></a>
 
-##### Sous-section 1 : Caractéristiques des installations et ouvrages dont les risques imposent un plan particulier d'intervention<a id=980></a>
+##### Sous-section 1 : Caractéristiques des installations et ouvrages dont les risques imposent un plan particulier d'intervention<a id=983></a>
 
 ###### Article R741-18
 
@@ -93757,7 +93811,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R741-24 (VD)
 
 
-##### Sous-section 2 : Contenu du plan particulier d'intervention<a id=981></a>
+##### Sous-section 2 : Contenu du plan particulier d'intervention<a id=984></a>
 
 ###### Article R741-21
 
@@ -93891,7 +93945,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R741-26 (VD)
 
 
-##### Sous-section 3 : Procédures de consultation, d'adoption et de publicité<a id=982></a>
+##### Sous-section 3 : Procédures de consultation, d'adoption et de publicité<a id=985></a>
 
 ###### Article R741-24
 
@@ -94205,7 +94259,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R741-18 (VD)
 
 
-##### Sous-section 4 : Plans particuliers d'intervention concernant certains aménagements hydrauliques<a id=983></a>
+##### Sous-section 4 : Plans particuliers d'intervention concernant certains aménagements hydrauliques<a id=986></a>
 
 ###### Article R741-33
 
@@ -94421,9 +94475,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R741-33 (VD)
 
 
-##### Section 3 : Planifications opérationnelles propres des acteurs concourant à la sécurité civile<a id=984></a>
+##### Section 3 : Planifications opérationnelles propres des acteurs concourant à la sécurité civile<a id=987></a>
 
-##### Sous-section 1 : Plan d'opération interne des installations classées pour la protection de l'environnement<a id=985></a>
+##### Sous-section 1 : Plan d'opération interne des installations classées pour la protection de l'environnement<a id=988></a>
 
 ###### Article R741-39
 
@@ -94473,7 +94527,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R768-2 (VD)
 
 
-##### Sous-section 2 : Plan de sécurité et d'intervention des canalisations de transport de gaz, d'hydrocarbures ou de produits chimiques<a id=986></a>
+##### Sous-section 2 : Plan de sécurité et d'intervention des canalisations de transport de gaz, d'hydrocarbures ou de produits chimiques<a id=989></a>
 
 ###### Article R741-41
 
@@ -94496,7 +94550,7 @@ _Cite_:
   - Code de l'environnement - art. R555-42 (V)
 
 
-##### Sous-section 3 : Plan d'intervention et de sécurité d'ouvrages et d'infrastructures de transport<a id=987></a>
+##### Sous-section 3 : Plan d'intervention et de sécurité d'ouvrages et d'infrastructures de transport<a id=990></a>
 
 ###### Article R741-42
 
@@ -94567,7 +94621,7 @@ _Modifié par_:
   - Décret n°2017-440 du 30 mars 2017 - art. 101
 
 
-##### Sous-section 4 : Plan interne de crise pour le maintien de la satisfaction des besoins prioritaires de la population<a id=988></a>
+##### Sous-section 4 : Plan interne de crise pour le maintien de la satisfaction des besoins prioritaires de la population<a id=991></a>
 
 ###### Article R741-45
 
@@ -94592,7 +94646,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R732-3 (VD)
 
 
-##### Sous-section 5 : Préparation du système de santé<a id=989></a>
+##### Sous-section 5 : Préparation du système de santé<a id=992></a>
 
 ###### Article R741-46
 
@@ -94618,7 +94672,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R767-2 (VD)
 
 
-##### Sous-section 6 : Plan d'organisation des établissements assurant l'hébergement des personnes âgées<a id=990></a>
+##### Sous-section 6 : Plan d'organisation des établissements assurant l'hébergement des personnes âgées<a id=993></a>
 
 ###### Article D741-47
 
@@ -94642,7 +94696,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Sous-section 7 : Plan d'alerte et d'urgence au profit des personnes âgées et des personnes handicapées<a id=991></a>
+##### Sous-section 7 : Plan d'alerte et d'urgence au profit des personnes âgées et des personnes handicapées<a id=994></a>
 
 ###### Article R741-48
 
@@ -94667,9 +94721,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L121-6-1 (V)
 
 
-#### Chapitre II : Opérations de secours<a id=992></a>
+#### Chapitre II : Opérations de secours<a id=995></a>
 
-##### Section 1 : Secours, recherche et sauvetage des personnes en détresse en mer<a id=993></a>
+##### Section 1 : Secours, recherche et sauvetage des personnes en détresse en mer<a id=996></a>
 
 ###### Article R*742-1
 
@@ -95190,7 +95244,7 @@ _Créé par_:
   - Décret n°2014-1253 du 27 octobre 2014 - art.
 
 
-##### Section 2 : Recherche et sauvetage des aéronefs en détresse en temps de paix<a id=994></a>
+##### Section 2 : Recherche et sauvetage des aéronefs en détresse en temps de paix<a id=997></a>
 
 ###### Article D742-16
 
@@ -95371,9 +95425,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. D742-19 (VD)
 
 
-### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=995></a>
+### TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=998></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=996></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=999></a>
 
 ###### Article D761-4
 
@@ -95517,7 +95571,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R742-8 (VD)
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=997></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=1000></a>
 
 ###### Article D762-4
 
@@ -95669,7 +95723,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R742-8 (VD)
 
 
-#### Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin<a id=998></a>
+#### Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin<a id=1001></a>
 
 ###### Article D763-6
 
@@ -95853,7 +95907,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R742-8 (VD)
 
 
-#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=999></a>
+#### Chapitre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=1002></a>
 
 ###### Article D764-6
 
@@ -96051,7 +96105,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. R742-8 (VD)
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=1000></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=1003></a>
 
 ###### Article D765-3
 
@@ -96564,7 +96618,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R765-2 (VD)
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=1001></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=1004></a>
 
 ###### Article D766-3
 
@@ -96881,7 +96935,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R766-2 (VD)
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=1002></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=1005></a>
 
 ###### Article D767-3
 
@@ -97248,7 +97302,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R767-2 (VD)
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=1003></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=1006></a>
 
 ###### Article D768-3
 
@@ -97563,9 +97617,9 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R768-2 (VD)
 
 
-## LIVRE VIII : DU RENSEIGNEMENT<a id=1004></a>
+## LIVRE VIII : DU RENSEIGNEMENT<a id=1007></a>
 
-### TITRE IER : DISPOSITIONS GÉNÉRALES<a id=1005></a>
+### TITRE IER : DISPOSITIONS GÉNÉRALES<a id=1008></a>
 
 ###### Article R811-1
 
@@ -97727,9 +97781,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R853-1 (V)
 
 
-### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=1006></a>
+### TITRE II : DE LA PROCÉDURE APPLICABLE AUX TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=1009></a>
 
-#### Chapitre Ier : De l'autorisation de mise en œuvre<a id=1007></a>
+#### Chapitre Ier : De l'autorisation de mise en œuvre<a id=1010></a>
 
 ###### Article R821-1
 
@@ -97743,7 +97797,7 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 1
 
 
-#### Chapitre III : Des organes compétents<a id=1008></a>
+#### Chapitre III : Des organes compétents<a id=1011></a>
 
 ###### Article D823-3
 
@@ -97834,7 +97888,7 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 1
 
 
-### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT<a id=1009></a>
+### TITRE IV : DES RECOURS RELATIFS À LA MISE EN ŒUVRE DES TECHNIQUES DE RENSEIGNEMENT SOUMISES À AUTORISATION ET DES FICHIERS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT<a id=1012></a>
 
 ###### Article R841-2
 
@@ -97907,11 +97961,11 @@ _Modifié par_:
   - Décret n°2019-1074 du 21 octobre 2019 - art. 9
 
 
-### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=1010></a>
+### TITRE V : DES TECHNIQUES DE RECUEIL DE RENSEIGNEMENT SOUMISES À AUTORISATION<a id=1013></a>
 
-#### Chapitre Ier : Des accès administratifs aux données de connexion<a id=1011></a>
+#### Chapitre Ier : Des accès administratifs aux données de connexion<a id=1014></a>
 
-##### Section 1 : Services autres que les services spécialisés de renseignement pouvant être autorisés à accéder aux données de connexion<a id=1012></a>
+##### Section 1 : Services autres que les services spécialisés de renseignement pouvant être autorisés à accéder aux données de connexion<a id=1015></a>
 
 ###### Article R851-1
 
@@ -98427,7 +98481,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L851-6
 
 
-##### Section 2 : Données de connexion susceptibles d'être recueillies<a id=1013></a>
+##### Section 2 : Données de connexion susceptibles d'être recueillies<a id=1016></a>
 
 ###### Article R851-5
 
@@ -98464,7 +98518,7 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 
-##### Section 3 : Conditions d'accès aux données de connexion<a id=1014></a>
+##### Section 3 : Conditions d'accès aux données de connexion<a id=1017></a>
 
 ###### Article R851-6
 
@@ -98581,7 +98635,7 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 2
 
 
-#### Chapitre II : Des interceptions de sécurité<a id=1015></a>
+#### Chapitre II : Des interceptions de sécurité<a id=1018></a>
 
 ###### Article R852-1
 
@@ -98836,7 +98890,7 @@ _Modifié par_:
   - Décret n°2019-1503 du 30 décembre 2019 - art. 8
 
 
-#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques<a id=1016></a>
+#### Chapitre III : De la sonorisation de certains lieux et véhicules et de la captation d'images et de données informatiques<a id=1019></a>
 
 ###### Article R853-1
 
@@ -99556,7 +99610,7 @@ _Cite_:
   - Code de la sécurité intérieure - art. L853-3
 
 
-### TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE<a id=1017></a>
+### TITRE V BIS : DU RENSEIGNEMENT DE SÉCURITÉ PÉNITENTIAIRE<a id=1020></a>
 
 ###### Article R855-1
 
@@ -99574,9 +99628,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. L855-1
 
 
-### TITRE VII : OBLIGATIONS DES OPÉRATEURS ET PRESTATAIRES DE SERVICES<a id=1018></a>
+### TITRE VII : OBLIGATIONS DES OPÉRATEURS ET PRESTATAIRES DE SERVICES<a id=1021></a>
 
-#### Chapitre Ier : Obligations en matière de cryptologie<a id=1019></a>
+#### Chapitre Ier : Obligations en matière de cryptologie<a id=1022></a>
 
 ###### Article R871-1
 
@@ -99696,7 +99750,7 @@ _Anciens textes_:
   - Code de la sécurité intérieure - art. R244-5 (T)
 
 
-#### Chapitre II : Obligations liées à la mise en place des techniques de renseignement<a id=1020></a>
+#### Chapitre II : Obligations liées à la mise en place des techniques de renseignement<a id=1023></a>
 
 ###### Article R872-1
 
@@ -99785,7 +99839,7 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 3
 
 
-#### Chapitre III : Compensations financières<a id=1021></a>
+#### Chapitre III : Compensations financières<a id=1024></a>
 
 ###### Article R873-1
 
@@ -99813,9 +99867,9 @@ _Créé par_:
   - Décret n°2016-67 du 29 janvier 2016 - art. 3
 
 
-### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1022></a>
+### TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1025></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=1023></a>
+#### Chapitre Ier : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=1026></a>
 
 ###### Article R891-1
 
@@ -99888,7 +99942,7 @@ _Créé par_:
   - Décret n°2019-1496 du 28 décembre 2019 - art. 5
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=1024></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=1027></a>
 
 ###### Article R892-1
 
@@ -99961,7 +100015,7 @@ _Créé par_:
   - Décret n°2019-1496 du 28 décembre 2019 - art. 6
 
 
-#### Chapitre V : Dispositions applicables en Polynésie française<a id=1025></a>
+#### Chapitre V : Dispositions applicables en Polynésie française<a id=1028></a>
 
 ###### Article R895-1
 
@@ -100134,7 +100188,7 @@ _Modifié par_:
   - Décret n°2019-1503 du 30 décembre 2019 - art. 10
 
 
-#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=1026></a>
+#### Chapitre VI : Dispositions applicables en Nouvelle-Calédonie<a id=1029></a>
 
 ###### Article R896-1
 
@@ -100367,7 +100421,7 @@ _Créé par_:
   - Décret n°2019-1496 du 28 décembre 2019 - art. 9
 
 
-#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=1027></a>
+#### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=1030></a>
 
 ###### Article R897-1
 
@@ -100534,7 +100588,7 @@ _Modifié par_:
   - Décret n°2019-1503 du 30 décembre 2019 - art. 10
 
 
-#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=1028></a>
+#### Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=1031></a>
 
 ###### Article R898-1
 
@@ -100695,7 +100749,7 @@ _Modifié par_:
   - Décret n°2019-1503 du 30 décembre 2019 - art. 10
 
 
-## Annexes<a id=1029></a>
+## Annexes<a id=1032></a>
 
 ###### Article Annexe 1
 
