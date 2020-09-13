@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-07-31
+Version Consolidée au 2020-09-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -30383,76 +30383,77 @@ _Modifié par_:
 
 ###### Article R123-11
 
-Le conseil d'orientation est composé, outre son président : 
+Le conseil d'orientation est composé, outre son président :
 
-1° D'élus nationaux ou locaux : 
+1° D'élus nationaux ou locaux :
 
-a) Deux députés et deux sénateurs ; 
+a) Deux députés et deux sénateurs ;
 
-b) Deux maires choisis par l'Association des maires de France ; 
+b) Deux maires choisis par l'Association des maires de France ;
 
 2° De personnalités issues des secteurs privés et associatifs intervenant dans les domaines de la sécurité, de la prévention
-et de la lutte contre la délinquance ainsi que de la mise en œuvre des réponses pénales : 
+et de la lutte contre la délinquance ainsi que de la mise en œuvre des réponses pénales :
 
-a) Un membre du barreau, désigné sur proposition du Conseil national des barreaux ; 
+a) Un membre du barreau, désigné sur proposition du Conseil national des barreaux ;
 
 b) Un représentant des entreprises de sécurité, désigné sur proposition du conseil d'administration du Conseil national des
-activités privées de sécurité ; 
+activités privées de sécurité ;
 
 c) Un représentant d'une association d'aide aux victimes, désigné sur proposition de l'Institut national d'aide aux victimes
-et de médiation ; 
+et de médiation ;
 
 d) Un représentant d'une association nationale de réinsertion des personnes placées sous main de justice, désigné sur
-proposition du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale ; 
+proposition du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale ;
 
-3° De représentants de l'enseignement supérieur et de la recherche : 
+3° De représentants de l'enseignement supérieur et de la recherche :
 
 a) Quatre personnalités extérieures à l'observatoire, dont au moins une personnalité étrangère, choisies en raison de leur
 compétence dans les domaines de la délinquance et des réponses pénales ou dans des disciplines connexes et désignées sur
-proposition du président de la commission permanente du Conseil national des universités ; 
+proposition du président de la commission permanente du Conseil national des universités ;
 
 b) Quatre personnalités extérieures à l'observatoire, dont au moins une personnalité étrangère, choisies en raison de leur
 compétence dans les domaines de la délinquance et des réponses pénales ou dans des disciplines connexes et désignées sur
-proposition du président du Centre national de la recherche scientifique ; 
+proposition du président du Centre national de la recherche scientifique ;
 
-4° De représentants d'autres observatoires : 
+4° De représentants d'autres observatoires :
 
-a) Le directeur de l'Observatoire français des drogues et des toxicomanies ou son représentant ; 
+a) Le directeur de l'Observatoire français des drogues et des toxicomanies ou son représentant ;
 
-b) Le président de l'Observatoire national de la politique de la ville ou son représentant ; 
+b) Le président de l'Observatoire national de la politique de la ville ou son représentant ;
 
-5° Du directeur général de l'Institut national de la statistique et des études économiques ou de son représentant ; 
+5° Du directeur général de l'Institut national de la statistique et des études économiques ou de son représentant ;
 
-6° De représentants des administrations : 
+6° De représentants des administrations :
 
-a) Le directeur général de la police nationale ou son représentant ; 
+a) Le directeur général de la police nationale ou son représentant ;
 
-b) Le directeur général de la gendarmerie nationale ou son représentant ; 
+b) Le directeur général de la gendarmerie nationale ou son représentant ;
 
-c) Le responsable du service statistique ministériel de la sécurité intérieure ou son représentant ; 
+c) Le responsable du service statistique ministériel de la sécurité intérieure ou son représentant ;
 
-d) Le directeur des affaires criminelles et des grâces ou son représentant ; 
+d) Le directeur des affaires criminelles et des grâces ou son représentant ;
 
-e) Le directeur de l'administration pénitentiaire ou son représentant ; 
+e) Le directeur de l'administration pénitentiaire ou son représentant ;
 
-f) Le sous-directeur de la statistique et des études du ministère de la justice ou son représentant ; 
+f) Le sous-directeur de la statistique et des études du ministère de la justice ou son représentant ;
 
-g) Un représentant de chacun des ministres suivants : 
+g) Un représentant de chacun des ministres suivants :
 
-- le ministre chargé des finances ; 
+- le ministre chargé des finances ;
 
-- le ministre chargé de l'éducation ; 
+- le ministre chargé de l'éducation ;
 
-- le ministre chargé des transports ; 
+- le ministre chargé des transports ;
 
-- le ministre chargé des droits des femmes ; 
+- le ministre chargé des droits des femmes ;
 
-- le ministre chargé de la ville. 
+- le ministre chargé de la ville.
 
-Le délégué interministériel à la sécurité routière, le délégué aux coopérations de sécurité placé auprès du ministre de
-l'intérieur, le secrétaire général du comité interministériel de prévention de la délinquance, le président du Conseil
-national de l'information statistique, le directeur de l'Institut national des hautes études de la sécurité et de la justice
-assistent avec voix consultative aux travaux du conseil d'orientation. Ils peuvent se faire représenter.
+Le délégué interministériel à la sécurité routière, le délégué ministériel aux partenariats, aux stratégies et aux
+innovations de sécurité placé auprès du ministre de l'intérieur, le secrétaire général du comité interministériel de
+prévention de la délinquance, le président du Conseil national de l'information statistique, le directeur de l'Institut
+national des hautes études de la sécurité et de la justice assistent avec voix consultative aux travaux du conseil
+d'orientation. Ils peuvent se faire représenter.
 
 **Liens relatifs à cet article**
 
@@ -30460,13 +30461,9 @@ _Anciens textes_:
 
   - Décret n°2009-1321 du 28 octobre 2009 - art. 11 (VT)
 
-_Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 _Modifié par_:
 
-  - Décret n°2015-1213 du 1er octobre 2015 - art. 1
+  - Décret n°2020-1126 du 11 septembre 2020 - art. 10 (V)
 
 
 ##### Sous-section 2 : Organisation administrative<a id=403></a>
@@ -40954,44 +40951,45 @@ _Créé par_:
 ###### Article R251-1
 
 La Commission nationale de la vidéoprotection créée par les articles L. 251-5 et L. 251-6 est composée de vingt membres ainsi
-désignés : 
+désignés :
 
 1° Cinq représentants des personnes publiques et privées autorisées à mettre en œuvre un système de vidéoprotection, nommés
-par arrêté du ministre de l'intérieur, dont : 
+par arrêté du ministre de l'intérieur, dont :
 
-a) Un représentant de l'Association des maires de France, sur proposition de son président ; 
+a) Un représentant de l'Association des maires de France, sur proposition de son président ;
 
-b) Un représentant de l'Association des maires des grandes villes de France, sur proposition de son président ; 
+b) Un représentant de l'Association des maires des grandes villes de France, sur proposition de son président ;
 
-c) Un représentant du groupement des autorités responsables de transport, sur proposition de son président ; 
+c) Un représentant du groupement des autorités responsables de transport, sur proposition de son président ;
 
-2° Six représentants du ministre de l'intérieur : 
+2° Six représentants du ministre de l'intérieur :
 
-a) Le chef de l'inspection générale de l'administration ou son représentant ; 
+a) Le chef de l'inspection générale de l'administration ou son représentant ;
 
-b) Le directeur général de la police nationale ou son représentant ; 
+b) Le directeur général de la police nationale ou son représentant ;
 
-c) Le directeur général de la gendarmerie nationale ou son représentant ; 
+c) Le directeur général de la gendarmerie nationale ou son représentant ;
 
-d) Le directeur des libertés publiques et des affaires juridiques ou son représentant ; 
+d) Le directeur des libertés publiques et des affaires juridiques ou son représentant ;
 
-e) Le directeur des services des systèmes d'information et de communication ou son représentant ; 
+e) Le directeur des services des systèmes d'information et de communication ou son représentant ;
 
-f) Le délégué aux coopérations de sécurité au ministère de l'intérieur ou son représentant ; 
+f) Le délégué ministériel aux partenariats, aux stratégies et aux innovations de sécurité au ministère de l'intérieur ou son
+représentant ;
 
-3° Un membre de la Commission nationale de l'informatique et des libertés, sur proposition de cette commission ; 
+3° Un membre de la Commission nationale de l'informatique et des libertés, sur proposition de cette commission ;
 
-4° Deux députés et deux sénateurs ; 
+4° Deux députés et deux sénateurs ;
 
-5° Quatre personnes désignées au titre des personnalités qualifiées : 
+5° Quatre personnes désignées au titre des personnalités qualifiées :
 
-a) Un magistrat du siège désigné par le premier président de la Cour de cassation ; 
+a) Un magistrat du siège désigné par le premier président de la Cour de cassation ;
 
 b) Un magistrat du parquet désigné par le premier président de la Cour de cassation, sur proposition du procureur général
-près la cour ; 
+près la cour ;
 
 c) Deux personnes nommées par le ministre de l'intérieur en raison de leurs compétences dans le domaine de la vidéoprotection
-ou des libertés individuelles. 
+ou des libertés individuelles.
 
 Le mandat des membres mentionnés au 1° et au 5° est de cinq ans, renouvelable une fois.
 
@@ -41001,17 +40999,9 @@ _Anciens textes_:
 
   - Décret n°2011-877 du 25 juillet 2011 - art. 1 (VT)
 
-_Codifié par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art.
-
 _Modifié par_:
 
-  - Décret n°2014-901 du 18 août 2014 - art. 31
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 18
+  - Décret n°2020-1126 du 11 septembre 2020 - art. 10 (V)
 
 _Cite_:
 
@@ -41019,7 +41009,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la sécurité intérieure - art. R251-2 (VT)
+  - Code de la sécurité intérieure - art. R251-2 (VD)
   - Code de la sécurité intérieure - art. R285-1 (M)
   - Code de la sécurité intérieure - art. R286-1 (M)
   - Code de la sécurité intérieure - art. R287-1 (M)
@@ -82283,50 +82273,51 @@ _Cité par_:
 
 ###### Article R632-2
 
-Le collège du Conseil national des activités privées de sécurité comprend : 
+Le collège du Conseil national des activités privées de sécurité comprend :
 
-1° Onze représentants de l'Etat : 
+1° Onze représentants de l'Etat :
 
-a) Le délégué aux coopérations de sécurité au ministère de l'intérieur ou son représentant  ; 
+a) Le délégué ministériel aux partenariats, aux stratégies et aux innovations de sécurité au ministère de l'intérieur ou son
+représentant ;
 
-b) Le secrétaire général du ministère  de l'intérieur ou son représentant ; 
+b) Le secrétaire général du ministère de l'intérieur ou son représentant ;
 
-c) Le directeur général de la police nationale ou son représentant ; 
+c) Le directeur général de la police nationale ou son représentant ;
 
-d) Le directeur général de la gendarmerie nationale ou son représentant ; 
+d) Le directeur général de la gendarmerie nationale ou son représentant ;
 
-e) Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur ou son représentant ; 
+e) Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur ou son représentant ;
 
-f) Le directeur général du travail au ministère chargé du travail ou son représentant ; 
+f) Le directeur général du travail au ministère chargé du travail ou son représentant ;
 
-g) Le directeur général des entreprises au ministère chargé des finances ou son représentant ; 
+g) Le directeur général des entreprises au ministère chargé des finances ou son représentant ;
 
-h) Le directeur général de l'aviation civile au ministère chargé des transports ou son représentant ; 
+h) Le directeur général de l'aviation civile au ministère chargé des transports ou son représentant ;
 
 i) Le directeur général des infrastructures, des transports et de la mer au ministère chargé des transports ou son
-représentant ; 
+représentant ;
 
-j) Le directeur de la protection des installations, moyens et activités de la défense  au ministère de la défense ou son
-représentant ; 
+j) Le directeur de la protection des installations, moyens et activités de la défense au ministère de la défense ou son
+représentant ;
 
-k) Le directeur de la sécurité sociale au ministère chargé de la sécurité sociale ou son représentant ; 
+k) Le directeur de la sécurité sociale au ministère chargé de la sécurité sociale ou son représentant ;
 
-2° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ; 
+2° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
 
-3° Un membre du parquet général près la Cour de cassation désigné par le procureur général près la Cour de cassation ; 
+3° Un membre du parquet général près la Cour de cassation désigné par le procureur général près la Cour de cassation ;
 
 4° Huit personnes issues des activités privées de sécurité mentionnées aux articles L. 611-1 et L. 621-1, nommées par le
-ministre de l'intérieur parmi celles proposées par les organisations professionnelles de sécurité privée dont : 
+ministre de l'intérieur parmi celles proposées par les organisations professionnelles de sécurité privée dont :
 
-a) Quatre au titre des activités de surveillance et de gardiennage ; 
+a) Quatre au titre des activités de surveillance et de gardiennage ;
 
-b) Une au titre des activités de télésurveillance et des opérateurs privés de vidéoprotection ; 
+b) Une au titre des activités de télésurveillance et des opérateurs privés de vidéoprotection ;
 
-c) Une au titre des activités de transport de fonds ; 
+c) Une au titre des activités de transport de fonds ;
 
-d) Une au titre des activités de sûreté aéroportuaire ; 
+d) Une au titre des activités de sûreté aéroportuaire ;
 
-e) Une au titre des activités des agences de recherches privées ; 
+e) Une au titre des activités des agences de recherches privées ;
 
 5° Quatre personnalités qualifiées nommées par le ministre de l'intérieur.
 
@@ -82336,13 +82327,9 @@ _Anciens textes_:
 
   - Décret n°2011-1919 du 22 décembre 2011 - art. 2 (VT)
 
-_Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 _Modifié par_:
 
-  - Décret n°2016-515 du 26 avril 2016 - art. 21
+  - Décret n°2020-1126 du 11 septembre 2020 - art. 10 (V)
 
 _Cite_:
 
@@ -82354,7 +82341,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R632-3 (VD)
   - Code de la sécurité intérieure - art. R632-7 (VD)
   - Code de la sécurité intérieure - art. R632-9 (V)
-  - Code de la sécurité intérieure - art. R633-2 (V)
+  - Code de la sécurité intérieure - art. R633-2 (VD)
   - Code de la sécurité intérieure - art. R645-4 (VD)
   - Code de la sécurité intérieure - art. R646-4 (VD)
   - Code de la sécurité intérieure - art. R647-4 (VD)
@@ -82679,21 +82666,22 @@ _Cite_:
 
 ###### Article R632-12
 
-La Commission nationale d'agrément et de contrôle se réunit sur convocation de son président, qui fixe l'ordre du jour. 
+La Commission nationale d'agrément et de contrôle se réunit sur convocation de son président, qui fixe l'ordre du jour.
 
 Elle ne peut valablement délibérer que si, pour la moitié au moins, ses membres sont présents ou représentés à la séance. Si
 le quorum n'est pas atteint, la commission est à nouveau convoquée sur le même ordre du jour dans un délai de huit jours.
-Elle délibère alors sans condition de quorum. 
+Elle délibère alors sans condition de quorum.
 
 Les décisions sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du
-président est prépondérante. 
+président est prépondérante.
 
 Les membres désignés au 2° de l'article R. 632-9 peuvent donner, par écrit, mandat à un autre membre de la Commission
 nationale désigné au 1° ou au 2° du même article de les représenter à une séance. Chaque membre ne peut recevoir qu'un seul
-mandat. 
+mandat.
 
-Le président du collège et le délégué aux coopérations de sécurité au ministère de l'intérieur assistent aux séances de la
-Commission nationale d'agrément et de contrôle, hors formation de recours, avec voix consultative. 
+Le président du collège et le délégué ministériel aux partenariats, aux stratégies et aux innovations de sécurité au
+ministère de l'intérieur assistent aux séances de la Commission nationale d'agrément et de contrôle, hors formation de
+recours, avec voix consultative.
 
 Le président de la Commission nationale peut appeler le directeur de l'agence centrale des organismes de sécurité sociale ou
 son représentant à participer aux séances avec voix consultative.
@@ -82704,17 +82692,13 @@ _Anciens textes_:
 
   - Décret n°2011-1919 du 22 décembre 2011 - art. 11 (VT)
 
-_Codifié par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-1253 du 27 octobre 2014 - art.
-
 _Cité par_:
 
   - Arrêté du 26 décembre 2018 - art. 3 (M)
+
+_Modifié par_:
+
+  - Décret n°2020-1126 du 11 septembre 2020 - art. 10 (V)
 
 _Cite_:
 
