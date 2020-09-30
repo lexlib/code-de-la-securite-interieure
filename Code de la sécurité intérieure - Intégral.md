@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-02-12
+Version Consolidée au 2020-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -2080,30 +2080,42 @@ _Codifié par_:
 
 ###### Article L132-9
 
-Les décisions mentionnées à l'article L. 132-8 et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945
-relative à l'enfance délinquante prévoient les modalités de prise en charge du mineur et sa remise immédiate à ses parents ou
-à son représentant légal. Le procureur de la République est avisé sans délai de cette remise. 
+Les décisions mentionnées à l'article L. 132-8
+     et au 7° de l'article L. 112-2 du code de la justice pénale des mineurs prévoient les modalités de prise en charge du
+mineur et sa remise immédiate à ses parents ou à son représentant légal. Le procureur de la République est avisé sans délai
+de cette remise. 
 
 Sans préjudice des dispositions de l'article L. 223-2 du code de l'action sociale et des familles, en cas d'urgence et
 lorsque le représentant légal du mineur n'a pu être contacté ou a refusé d'accueillir l'enfant à son domicile, celui-ci est
 remis au service de l'aide sociale à l'enfance qui le recueille provisoirement, par décision du représentant de l'Etat dans
 le département ou, à Paris, du préfet de police, qui en avise immédiatement le procureur de la République.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1 (V)
-  - Code de l'action sociale et des familles - art. L223-2 (V)
-  - Code de la sécurité intérieure - art. L132-8 (VD)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1
+  - Code de l'action sociale et des familles - art. L223-2
+  - Code de la sécurité intérieure - art. L132-8
 
 _Anciens textes_:
 
   - Loi n°2011-267 du 14 mars 2011 - art. 43 III (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Cité par_:
 
@@ -2633,24 +2645,28 @@ _Cite_:
 
 ###### Article L155-1
 
-Sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
-en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
-portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
-dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
+Sont applicables en Polynésie française, dans leur rédaction résultant
+de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs, les
+dispositions suivantes : 
 
-1° Le titre Ier ;
+1° Le titre Ier ; 
 
-2° Le titre II, à l'exception de l'article L. 122-3 ;
+2° Le titre II, à l'exception de l'article L. 122-3 ; 
 
-3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 et L. 132-16 ;
+3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 et L. 132-16 ; 
 
 4° Le titre IV.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
@@ -2660,7 +2676,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cite_:
 
@@ -2673,21 +2689,21 @@ _Cite_:
 
 ###### Article L155-2
 
-Pour l'application du présent livre en Polynésie française : 
+Pour l'application du présent livre en Polynésie française :
 
 1° Les références au représentant de l'Etat dans le département sont remplacées par la référence au haut-commissaire de la
-République en Polynésie française ; 
+République en Polynésie française ;
 
 2° Les références au représentant de l'Etat dans le département du siège d'une zone de défense et de sécurité sont remplacées
-par la référence au haut fonctionnaire de zone de défense et de sécurité ; 
+par la référence au haut fonctionnaire de zone de défense et de sécurité ;
 
-3° Les références au département sont remplacées par la référence à la Polynésie française ; 
+3° Les références au département sont remplacées par la référence à la Polynésie française ;
 
-4° L'article L. 112-2 est ainsi rédigé : 
+4° L'article L. 112-2 est ainsi rédigé :
 
 " Art. L. 112-2. ― Sur le territoire de la commune, le maire est responsable de l'organisation, de la préparation et de la
 mise en œuvre des moyens de secours dans le cadre des textes législatifs et réglementaires applicables en matière de sécurité
-civile. 
+civile.
 
 En application du 6° de l'article 14 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la
 Polynésie française, les autorités de l'Etat sont compétentes pour la préparation des mesures de sauvegarde, l'élaboration et
@@ -2701,16 +2717,16 @@ compétences qui leur sont dévolues, notamment en matière d'urbanisme, de prot
 territoire et de prévention des risques naturels.
 
 " Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code général des
-collectivités territoriales  applicables en Polynésie française, le haut-commissaire de la République en Polynésie française
+collectivités territoriales applicables en Polynésie française, le haut-commissaire de la République en Polynésie française
 coordonne les opérations de secours excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune.
-" ; 
+" ;
 
-5° A l'article L. 122-1 : 
+5° A l'article L. 122-1 :
 
 a) A la fin du deuxième alinéa, est insérée une phrase ainsi rédigée : " Il en informe le président de la Polynésie française
-en tant que de besoin. " ; 
+en tant que de besoin. " ;
 
-b) Le dernier alinéa est ainsi rédigé : 
+b) Le dernier alinéa est ainsi rédigé :
 
 " Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
 publique et des missions de sécurité intérieure, une convention conclue entre l'Etat et le gouvernement de la Polynésie
@@ -2721,33 +2737,43 @@ maritime et fluviale ainsi que des agents chargés de la police de l'eau et de c
 matière de sécurité sanitaire de la Polynésie française et selon lesquelles ces agents répondent aux demandes formulées par
 les officiers de police judiciaire concernant les renseignements et documents de nature financière, fiscale ou douanière.
 Dans ce même cadre, les officiers de police judiciaire communiquent aux agents des services précités tous les éléments
-susceptibles de comporter une implication de nature financière, fiscale ou douanière. " ; 
+susceptibles de comporter une implication de nature financière, fiscale ou douanière. " ;
 
 6° A l'article L. 131-1, les références aux chapitres II et III du titre Ier du livre II de la deuxième partie du code
 général des collectivités territoriales sont remplacées par la référence à la sous-section 1 de la section 3 du chapitre III
-du titre VII du livre V de la deuxième partie du même code ; 
+du titre VII du livre V de la deuxième partie du même code ;
 
-7° L'article L. 132-4 est ainsi rédigé : 
+7° L'article L. 132-4 est ainsi rédigé :
 
 " Art. L. 132-4 . ― Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des compétences du représentant de
 l'Etat, des compétences de la Polynésie française en matière sociale et des compétences des autres collectivités publiques et
 des établissements et organismes intéressés, le maire anime, sur le territoire de sa commune, la politique de prévention de
-la délinquance et en coordonne la mise en œuvre. 
+la délinquance et en coordonne la mise en œuvre.
 
 " Dans les communes de plus de 10 000 habitants, le maire ou son représentant est désigné dans les conditions prévues à
 l'article L. 2122-18 du code général des collectivités territoriales et préside le conseil local de sécurité et de prévention
-de la délinquance. " ; 
+de la délinquance. " ;
 
-8° A l'article L. 132-9 : 
+8°  A l'article L. 132-9 :
 
-a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante " sont supprimés ; 
+a) Au premier alinéa, les mots : “et au 7° de l'article L. 112-2 du code de la justice pénale des mineurs” sont supprimés ;
 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont
-remplacés par les mots : " des dispositions applicables localement " ; 
+remplacés par les mots : " des dispositions applicables localement " ;
 
 9° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de
 prévention de la délinquance, " sont supprimés.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
@@ -2770,32 +2796,36 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1268 du 14 octobre 2015 - art. 49
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 
 #### Chapitre VI : Dispositions applicables  en Nouvelle-Calédonie<a id=31></a>
 
 ###### Article L156-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise
-en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et
-portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses
-dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant
+de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs, les
+dispositions suivantes : 
 
-1° Le titre Ier ;
+1° Le titre Ier ; 
 
-2° Le titre II, à l'exception de l'article L. 122-3 ;
+2° Le titre II, à l'exception de l'article L. 122-3 ; 
 
 3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10, 
-L. 132-14 et L. 132-16 ;
+L. 132-14 et L. 132-16 ; 
 
 4° Le titre IV.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
@@ -2805,7 +2835,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cite_:
 
@@ -2820,55 +2850,55 @@ _Cite_:
 
 ###### Article L156-2
 
-Pour l'application du présent livre en Nouvelle-Calédonie : 
+Pour l'application du présent livre en Nouvelle-Calédonie :
 
 1° Les références au représentant de l'Etat dans le département sont remplacées par la référence au haut-commissaire de la
-République en Nouvelle-Calédonie ; 
+République en Nouvelle-Calédonie ;
 
 2° Les références au représentant de l'Etat dans le département du siège d'une zone de défense et de sécurité sont remplacées
-par la référence au haut fonctionnaire de zone de défense et de sécurité ; 
+par la référence au haut fonctionnaire de zone de défense et de sécurité ;
 
-3° Les références au département sont remplacées par la référence à la Nouvelle-Calédonie ; 
+3° Les références au département sont remplacées par la référence à la Nouvelle-Calédonie ;
 
-4° L'article L. 112-2 est ainsi rédigé : 
+4° L'article L. 112-2 est ainsi rédigé :
 
 " Art. L. 112-2. ― Sur le territoire de la commune, le maire est responsable de l'organisation, de la préparation et de la
 mise en œuvre des moyens de secours dans le cadre des textes législatifs et réglementaires applicables en matière de sécurité
-civile. 
+civile.
 
 " L'Etat est garant de la cohérence de la sécurité civile en Nouvelle-Calédonie. Il en définit la doctrine et coordonne tous
-les moyens. 
+les moyens.
 
 " Avec le concours de la Nouvelle-Calédonie et des provinces dans le cadre de leurs compétences ainsi que des communes, il
 évalue en permanence l'état de préparation aux risques et veille à la mise en œuvre des mesures d'information et d'alerte des
-populations. 
+populations.
 
 " La Nouvelle-Calédonie et les provinces concourent à la prévision des risques de sécurité civile dans le cadre des
 compétences qui leur sont dévolues, notamment en matière de protection de l'environnement, d'aménagement du territoire et
-d'urbanisme. 
+d'urbanisme.
 
 " Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes de
 la Nouvelle-Calédonie, le haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations de secours
-excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. " ; 
+excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. " ;
 
 5° Au premier alinéa de l'article L. 113-1, les mots : " ainsi que les agents de police municipale et les gardes champêtres,
 en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont
 remplacés par les mots : " en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
 fonctionnaires, ainsi que les agents de police municipale et les gardes champêtres, en vertu des dispositions applicables
-localement " ; 
+localement " ;
 
-6° A l'article L. 122-1 : 
+6° A l'article L. 122-1 :
 
 a) Au premier alinéa, les mots : " des dispositions du code général des collectivités territoriales relatives à la prévention
 de la délinquance " sont remplacés par les mots : " des dispositions du code des communes de la Nouvelle-Calédonie relatives
-à la prévention de la délinquance " 
+à la prévention de la délinquance "
 
 b) A la fin du deuxième alinéa, est insérée une phrase ainsi rédigée : " Il en informe le président du gouvernement de la
-Nouvelle-Calédonie en tant que de besoin. " ; 
+Nouvelle-Calédonie en tant que de besoin. " ;
 
-c) Au troisième alinéa, le mot : " départementaux " est remplacé par le mot : " locaux " ; 
+c) Au troisième alinéa, le mot : " départementaux " est remplacé par le mot : " locaux " ;
 
-d) Le dernier alinéa est ainsi rédigé : 
+d) Le dernier alinéa est ainsi rédigé :
 
 " Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
 publique et des missions de sécurité intérieure, une convention conclue entre l'Etat et le gouvernement de la Nouvelle-
@@ -2877,57 +2907,66 @@ sollicite, en tant que de besoin, le concours des agents des services fiscaux, d
 affaires économiques, du service de l'inspection du travail et des services chargés de la police de la chasse et de la pêche
 maritime et fluviale ainsi que des agents chargés de la police de l'eau et de ceux qui assurent des responsabilités en
 matière de sécurité sanitaire de la Nouvelle-Calédonie et selon lesquelles ces agents répondent aux demandes formulées par
-les officiers de police judiciaire concernant les renseignements et documents de nature financière, fiscale ou douanière.
-" ; 
+les officiers de police judiciaire concernant les renseignements et documents de nature financière, fiscale ou douanière. " ;
 
-7° L'article L. 131-1 est ainsi rédigé : 
+7° L'article L. 131-1 est ainsi rédigé :
 
 " Art. L. 131-1. ― Les pouvoirs de police du maire dans la commune sont définis aux articles L. 131-1 à L. 131-2-2 du code
-des communes de la Nouvelle-Calédonie. " 
+des communes de la Nouvelle-Calédonie. "
 
-8° L'article L. 131-6 est ainsi rédigé : 
+8° L'article L. 131-6 est ainsi rédigé :
 
 " Art. L. 131-6. ― L'exercice des pouvoirs de police dans les communes où le régime de la police d'Etat a été établi est régi
-par les articles L. 132-5 et L. 132-6 du code des communes de la Nouvelle-Calédonie. " 
+par les articles L. 132-5 et L. 132-6 du code des communes de la Nouvelle-Calédonie. "
 
 8° bis A l'article L. 132-1, les mots : " articles L. 742-2 à L. 742-7 ” sont remplacés par les mots : " articles L. 742-2,
-L. 742-3, L. 742-5 et L. 742-6 ” ; 
+L. 742-3, L. 742-5 et L. 742-6 ” ;
 
-9° L'article L. 132-4 est ainsi rédigé : 
+9° L'article L. 132-4 est ainsi rédigé :
 
 " Art. L. 132-4. ― Conformément aux dispositions de l'article L. 131-1-1 du code des communes de la Nouvelle-Calédonie, sous
 réserve des pouvoirs de l'autorité judiciaire et des compétences du représentant de l'Etat, des compétences d'action sociale
 confiées à la Nouvelle-Calédonie et des compétences des collectivités publiques et des établissements et organismes
 intéressés, le maire anime, sur le territoire de sa commune, la politique de prévention de la délinquance et en coordonne la
-mise en œuvre. 
+mise en œuvre.
 
 " Dans les communes de plus de 10 000 habitants, le maire ou son représentant désigné dans les conditions prévues à l'article
 L. 122-11 du code des communes de la Nouvelle-Calédonie préside un conseil local de sécurité et de prévention de la
-délinquance. " ; 
+délinquance. " ;
 
-10° A l'article L. 132-9 : 
+10° A l'article L. 132-9 :
 
-a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante " sont supprimés ; 
+a) Au premier alinéa, les mots : “et au 7° de l'article L. 112-2 du code de la justice pénale des mineurs” sont supprimés ;
 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont
-remplacés par les mots : " des dispositions applicables localement " ; 
+remplacés par les mots : " des dispositions applicables localement " ;
 
 11° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de
 prévention de la délinquance, " sont supprimés.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°83-634 du 13 juillet 1983 - art. 11 (V)
-  - Code des communes de la Nouvelle-Calédonie - art. L131-1 (V)
-  - Code de la sécurité intérieure - art. L113-1 (V)
-  - Code de la sécurité intérieure - art. L122-1 (V)
-  - Code de la sécurité intérieure - art. L132-1 (V)
-  - Code de la sécurité intérieure - art. L132-16 (VD)
-  - Code de la sécurité intérieure - art. L132-5 (V)
-  - Code de la sécurité intérieure - art. L132-9 (V)
+  - Loi n°83-634 du 13 juillet 1983 - art. 11
+  - Code des communes de la Nouvelle-Calédonie - art. L131-1
+  - Code de la sécurité intérieure - art. L113-1
+  - Code de la sécurité intérieure - art. L122-1
+  - Code de la sécurité intérieure - art. L132-1
+  - Code de la sécurité intérieure - art. L132-16
+  - Code de la sécurité intérieure - art. L132-5
+  - Code de la sécurité intérieure - art. L132-9 (VD)
 
 _Codifié par_:
 
@@ -2939,37 +2978,41 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-896 du 15 août 2014 - art. 55
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 
 #### Chapitre VII : Dispositions applicables à Wallis-et-Futuna<a id=32></a>
 
 ###### Article L157-1
 
-Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre
-2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données
-personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés et diverses dispositions concernant la protection des données à caractère personnel, les dispositions suivantes :
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant
+de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs, les
+dispositions suivantes : 
 
-1° Le titre Ier ;
+1° Le titre Ier ; 
 
-2° Le titre II, à l'exception de l'article L. 122-3 ;
+2° Le titre II, à l'exception de l'article L. 122-3 ; 
 
-3° Au titre III : les articles L. 132-8 et L. 132-9 ;
+3° Au titre III : les articles L. 132-8 et L. 132-9 ; 
 
 4° Le titre IV.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cite_:
 
@@ -2986,10 +3029,10 @@ _Codifié par_:
 Pour l'application du présent livre dans les îles Wallis et Futuna :
 
 1° Les références au représentant de l'Etat dans le département sont remplacées par la référence à l'administrateur supérieur
-des îles Wallis et Futuna ; 
+des îles Wallis et Futuna ;
 
 2° Les références au représentant de l'Etat dans le département du siège d'une zone de défense et de sécurité sont remplacées
-par la référence au haut fonctionnaire de zone de défense et de sécurité ; 
+par la référence au haut fonctionnaire de zone de défense et de sécurité ;
 
 3° Les références au département sont remplacées par la référence aux îles Wallis et Futuna ;
 
@@ -3001,24 +3044,34 @@ même objet ;
 " Il dirige l'action de la gendarmerie nationale et de la garde territoriale en matière d'ordre public et de police
 administrative. Dans le respect du statut militaire pour ce qui concerne la gendarmerie nationale, le responsable du
 commandement de la gendarmerie nationale et celui des services de la garde territoriale sont placés sous son autorité et lui
-rendent compte de l'exécution et des résultats de leurs missions en ces matières. 
+rendent compte de l'exécution et des résultats de leurs missions en ces matières.
 
 " Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
 publique et des missions de sécurité intérieure, il s'assure, en tant que de besoin, du concours des agents des services
 fiscaux, des services des douanes, des services des affaires économiques, du service de l'inspection du travail et des
 services chargés de la police de la chasse et de la pêche maritime et fluviale ainsi que des agents chargés de la police de
-l'eau et de ceux qui assurent des responsabilités en matière de sécurité sanitaire des îles Wallis et Futuna. 
+l'eau et de ceux qui assurent des responsabilités en matière de sécurité sanitaire des îles Wallis et Futuna.
 
 " L'administrateur supérieur des îles Wallis et Futuna est représenté dans les circonscriptions d'Alo et de Sigave par un
 délégué. " ;
 
-5° A l'article L. 132-9 : 
+5° A l'article L. 132-9 :
 
-a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante " sont supprimés ; 
+a) Au premier alinéa, les mots : “et au 7° de l'article L. 112-2 du code de la justice pénale des mineurs” sont supprimés ;
 
 b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont
 remplacés par les mots : " des dispositions applicables localement ".
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
@@ -3033,7 +3086,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-258 du 28 février 2017 - art. 40
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Codifié par_:
 
@@ -3044,37 +3097,40 @@ _Codifié par_:
 
 ###### Article L158-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de l'ordonnance n°
-2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la
-protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
-aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère personnel, les
-dispositions suivantes :
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant
+de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs, les
+dispositions suivantes : 
 
-1° Le titre Ier ;
+1° Le titre Ier ; 
 
-2° Le titre II, à l'exception de l'article L. 122-3 ;
+2° Le titre II, à l'exception de l'article L. 122-3 ; 
 
 3° Le titre IV.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Cite_:
 
   - Code de la sécurité intérieure - art. L122-3
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
 ###### Article L158-2
