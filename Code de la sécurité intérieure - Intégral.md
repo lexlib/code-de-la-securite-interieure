@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-10-14
+Version Consolidée au 2020-10-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -2650,7 +2650,9 @@ dispositions concernant la protection des données à caractère personnel, les 
 
 2° Le titre II, à l'exception de l'article L. 122-3 ;
 
-3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 et L. 132-16 ;
+3° Au titre III : les articles L. 131-1, L. 131-6 à L. 132-4, L. 132-6 à L. 132-10 et L. 132-16, l'article L. 132-3 est
+applicable dans sa rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale
+et à la proximité de l'action publique ;
 
 4° Le titre IV.
 
@@ -2668,7 +2670,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 18
 
 _Cite_:
 
@@ -2795,7 +2797,8 @@ dispositions concernant la protection des données à caractère personnel, les 
 2° Le titre II, à l'exception de l'article L. 122-3 ;
 
 3° Au titre III : les articles L. 131-1, L. 131-6, L. 132-1 à L. 132-4, L. 132-8 à L. 132-10, 
-L. 132-14 et L. 132-16 ;
+L. 132-14 et L. 132-16. L'article L. 132-3 est applicable dans sa rédaction résultant de la loi n° 2019-1461 du 27 décembre
+2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique ;
 
 4° Le titre IV.
 
@@ -2813,7 +2816,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 22
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 49
 
 _Cite_:
 
@@ -15428,29 +15431,33 @@ _Modifié par_:
 ###### Article L545-1
 
 Les articles L. 511-1, L. 511-4, L. 511-5, L. 512-1 à L. 513-1, L. 514-1, L. 515-1, L. 521-1, L. 522-1 à L. 522-4 sont
-applicables en Polynésie française, dans leur rédaction résultant de laloi n° 2017-1510 du 30 octobre 2017 renforçant la
-sécurité intérieure et la lutte contre le terrorisme, sous réserve des adaptations suivantes : 
+applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2019-1461 du 27 décembre 2019 relative à
+l'engagement dans la vie locale et à la proximité de l'action publique, sous réserve des adaptations suivantes :
 
 1° La référence au représentant de l'Etat dans le département est remplacée par la référence au haut-commissaire de la
-République en Polynésie française ; 
+République en Polynésie française ;
 
 2° Au deuxième alinéa de l'article L. 511-1 et au quatrième alinéa de l'article L. 521-1, les mots : " contraventions aux
-dispositions du code de la route "sont remplacés par les mots : " contraventions aux dispositions applicables localement en
-matière de circulation et de sécurité routières " ; 
+dispositions du code de la route " sont remplacés par les mots : " contraventions aux dispositions applicables localement en
+matière de circulation et de sécurité routières " ;
 
-3° A l'article L. 511-1, le quatrième alinéa est supprimé ; 
+3° A l'article L. 511-1, le quatrième alinéa est supprimé ;
 
 4° A l'article L. 511-4, la seconde phrase du premier alinéa est ainsi rédigée : " Les caractéristiques de la carte
 professionnelle, les caractéristiques ainsi que les catégories et les normes techniques des autres équipements sont fixées
-par arrêté du haut-commissaire de la République en Polynésie française. " ; 
+par arrêté du haut-commissaire de la République en Polynésie française. " ;
 
-5° Abrogé ; 
+5° Abrogé ;
 
 6° Au quatrième alinéa de l'article L. 521-1, après les mots : " aux épreuves de dépistage ", la fin de la seconde phrase est
 ainsi rédigée : " de l'imprégnation alcoolique, dans les conditions fixées par la réglementation applicable en Polynésie
-française "; 
+française " ;
 
-7° A l'article L. 522-2, le deuxième alinéa est supprimé.
+7° Pour l'application de l'article L. 522-2 :
+
+- le II et le VI sont supprimés ;
+
+- au V, les mots : “I à III” sont remplacés par les mots : “I et III”.
 
 **Liens relatifs à cet article**
 
@@ -15465,7 +15472,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 19 (V)
 
 
 ###### Article L545-2
@@ -23805,8 +23812,9 @@ suivantes :
 
 3° Au titre III : les articles L. 731-2 à L. 732-2 et L. 732-5 à L. 732-7, L. 733-1 à L. 733-3 ;
 
-4° Au titre IV : les articles L. 741-1, L. 741-2, L. 741-4 à L. 741-6, L. 742-1, L. 742-2, L. 742-5, L. 742-6, L. 742-8 à L.
-742-13 et L. 742-15 ;
+4° Au titre IV : les articles L. 741-1, L. 741-2, L. 741-4 à L. 741-6, L. 742-1, L. 742-2, dans sa rédaction issue de la loi
+n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique L. 742-5,
+L. 742-6, L. 742-8 à L. 742-13 et L. 742-15 ;
 
 5° Au titre V : les articles L. 751-1 à L. 752-1.
 
@@ -23814,7 +23822,7 @@ suivantes :
 
 _Modifié par_:
 
-  - Loi n°2020-840 du 3 juillet 2020 - art. 7
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 20
 
 _Cite_:
 
