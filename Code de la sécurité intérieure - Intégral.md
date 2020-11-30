@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-10-16
+Version Consolidée au 2020-12-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -52004,9 +52004,7 @@ _Cite_:
 
 ###### Article R313-33
 
-Les demandes d'autorisation établies sont conformes aux modèles fixés par l'arrêté prévu à l'article R. 311-6.
-
-A la demande sont joints les renseignements suivants :
+A la demande d'autorisation sont joints les renseignements suivants :
 
 1° Pour les entreprises individuelles : justification de la nationalité du demandeur ;
 
@@ -52056,14 +52054,18 @@ administrative de cet Etat et justifiant la capacité à exercer la profession d
 
 La pièce justificative d'identité fait foi de la nationalité du requérant.
 
-La carte nationale d'identité et, pour les étrangers, le passeport ou le titre de séjour font foi de la nationalité du
-requérant.
+**Nota:**
+
+Conformément au III de l'article 13 du décret n° 2020-486 du 28 avril 2020, les dispositions de l'article R. 313-33, dans sa
+rédaction résultant du présent décret, entrent en vigueur à une date fixée par arrêté du ministre de l'intérieur et au plus
+tard le 1er janvier 2021.
+
+Conformément à l'article 1er de l'arrêté du 28 avril 2020 portant application des articles R. 313-33 et R. 313-47 du code de
+la sécurité intérieure et de l'article 10 du décret n° 2020-486 du 28 avril 2020 relatif à la mise en œuvre du système
+d'information sur les armes et portant diverses dispositions relatives aux armes, les dispositions de l'article R. 313-33,
+dans sa rédaction résultant du décret n° 2020-486 du 28 avril 2020, sont applicables à compter du 1er décembre 2020.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-542 du 29 juin 2018 - art. 12
 
 _Cité par_:
 
@@ -52071,6 +52073,10 @@ _Cité par_:
   - Décret n°2020-486 du 28 avril 2020 - art. 13 (V)
   - Code de la sécurité intérieure - art. R312-85 (V)
   - Code de la sécurité intérieure - art. R313-29 (VD)
+
+_Modifié par_:
+
+  - Décret n°2020-486 du 28 avril 2020 - art. 4
 
 _Cite_:
 
