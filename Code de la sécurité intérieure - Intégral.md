@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2021-03-31
+Version Consolidée au 2021-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -74,9 +74,9 @@ Version Consolidée au 2021-03-31
         - [Chapitre Ier : Sécurité des transports en commun (art. L261-1)](#71)
         - [Chapitre II : Sécurité des transports aériens (art. L262-1)](#72)
         - [Chapitre III : Sécurité des transports maritimes (art. L263-1)](#73)
-      - [TITRE VII : GARDIENNAGE ET SURVEILLANCE  DES IMMEUBLES (art. L271-1 à L272-1)](#74)
+      - [TITRE VII : GARDIENNAGE ET SURVEILLANCE  DES IMMEUBLES (art. L271-1 à L272-4)](#74)
         - [Chapitre Ier : Dispositions générales (art. L271-1)](#75)
-        - [Chapitre II : Immeubles d'habitation (art. L272-1)](#76)
+        - [Chapitre II : Immeubles d'habitation (art. L272-1 à L272-4)](#76)
       - [TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L282-1 à L288-2)](#77)
         - [Chapitre II : Dispositions particulières à Mayotte (art. L282-1 à L282-2)](#78)
         - [Chapitre III : Dispositions particulières  à Saint-Barthélemy et Saint-Martin (art. L283-1 à L283-2)](#79)
@@ -6442,22 +6442,132 @@ _Codifié par_:
 
 ###### Article L272-1
 
-Les interventions de la police et de la gendarmerie dans les immeubles à usage d'habitation sont régies par le chapitre VI du
-titre II du livre Ier du code de la construction et de l'habitation.
+Les propriétaires ou exploitants d'immeubles à usage d'habitation ou leurs représentants peuvent accorder à la police et à la
+gendarmerie nationales ainsi, le cas échéant, qu'à la police municipale une autorisation permanente de pénétrer dans les
+parties communes de ces immeubles.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 7
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation. - art. L126-1 (T)
+
+_Codifié par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+
+
+###### Article L272-2
+
+La transmission aux services chargés du maintien de l'ordre des images réalisées en vue de la protection des parties communes
+des immeubles collectifs à usage d'habitation lors de circonstances faisant redouter la commission imminente d'une atteinte
+grave aux biens ou aux personnes est autorisée sur décision de la majorité des copropriétaires dans les conditions fixées à
+l'article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis et, dans les
+immeubles sociaux, du gestionnaire. Les images susceptibles d'être transmises ne doivent concerner ni l'entrée des
+habitations privées, ni la voie publique. 
+
+Cette transmission s'effectue en temps réel et est strictement limitée au temps nécessaire à l'intervention des services de
+la police ou de la gendarmerie nationales ou, le cas échéant, des agents de la police municipale. 
+
+Une convention préalablement conclue entre le gestionnaire de l'immeuble et le représentant de l'Etat dans le département
+précise les conditions et modalités de ce transfert. Cette convention prévoit l'information par affichage sur place de
+l'existence du système de prise d'images et de la possibilité de leur transmission aux forces de l'ordre. 
+
+Lorsque la convention a pour objet de permettre la transmission des images aux services de police municipale, elle est en
+outre signée par le maire. 
+
+Cette convention est transmise à la commission départementale de vidéoprotection mentionnée au chapitre III du titre II et du
+titre V du livre II du code de la sécurité intérieure qui apprécie la pertinence des garanties prévues et en demande, le cas
+échéant, le renforcement au représentant de l'Etat dans le département. 
+
+Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers
+structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis
+à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 7
 
 _Anciens textes_:
 
-  - Code de la construction et de l'habitation. - art. L126-1 (VT)
+  - Code de la construction et de l'habitation. - art. L126-1-1 (T)
 
-_Codifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
+###### Article L272-3
+
+Les propriétaires ou exploitants d'immeubles à usage d'habitation ou leurs représentants, qui satisfont à l'obligation
+mentionnée par l'article L. 271-1 peuvent également, en cas d'occupation des espaces communs du bâti par des personnes qui
+entravent l'accès et la libre circulation des locataires ou empêchent le bon fonctionnement des dispositifs de sécurité et de
+sûreté ou nuisent à la tranquillité des lieux, faire appel à la police ou à la gendarmerie nationales ou à la police
+municipale pour rétablir la jouissance paisible de ces lieux.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 7
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation. - art. L126-2 (M)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L271-1 (V)
+
+
+###### Article L272-4
+
+Le fait d'occuper en réunion les espaces communs ou les toits des immeubles collectifs d'habitation en empêchant délibérément
+l'accès ou la libre circulation des personnes ou le bon fonctionnement des dispositifs de sécurité et de sûreté est puni de
+deux mois d'emprisonnement et de 3 750 € d'amende.
+
+Lorsque cette infraction est accompagnée de voies de fait ou de menaces, de quelque nature que ce soit, elle est punie de six
+mois d'emprisonnement et de 7 500 euros d'amende.
+
+Les personnes coupables des infractions prévues aux deux premiers alinéas encourent également, à titre de peine
+complémentaire, une peine de travail d'intérêt général.
+
+Pour le délit prévu au premier alinéa du présent article, y compris en cas de récidive, l'action publique peut être éteinte,
+dans les conditions prévues aux articles 495-17 à 495-25 du code de procédure pénale, par le versement d'une amende
+forfaitaire d'un montant de 200 €. Le montant de l'amende forfaitaire minorée est de 150 € et le montant de l'amende
+forfaitaire majorée est de 450 €.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 7
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation. - art. L126-3 (VT)
 
 
 ### TITRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=77></a>
@@ -13376,35 +13486,33 @@ _Codifié par_:
 Sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale, les agents de police
 municipale exécutent, dans la limite de leurs attributions et sous son autorité, les tâches relevant de la compétence du
 maire que celui-ci leur confie en matière de prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité
-et de la salubrité publiques. 
+et de la salubrité publiques.
 
 Ils sont chargés d'assurer l'exécution des arrêtés de police du maire et de constater par procès-verbaux les contraventions
 auxdits arrêtés. Sans préjudice des compétences qui leur sont dévolues par des lois spéciales, ils constatent également par
 procès-verbaux les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat
 ainsi que les contraventions mentionnées au livre VI du code pénal dont la liste est fixée par décret en Conseil d'Etat, dès
 lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à l'exclusion de celles réprimant des atteintes à
-l'intégrité des personnes. 
+l'intégrité des personnes.
 
-Ils sont habilités à établir l'avis de paiement prévu à l'article L. 2333-87 du code général des collectivités
-territoriales. 
+Ils sont habilités à établir l'avis de paiement prévu à l'article L. 2333-87 du code général des collectivités territoriales.
 
-Ils peuvent également constater par rapport le délit prévu par l'article L. 126-3 du code de la construction et de
-l'habitation. 
+Ils peuvent également constater par rapport le délit prévu par l'article L. 272-4.
 
 Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues au 2° de l'article 21 du code de
-procédure pénale. 
+procédure pénale.
 
 Affectés sur décision du maire à la sécurité d'une manifestation sportive, récréative ou culturelle mentionnée à l'article L.
 613-3 du présent code ou à celle des périmètres de protection institués en application de l'article L. 226-1 ou à la
 surveillance de l'accès à un bâtiment communal, ils peuvent procéder à l'inspection visuelle des bagages et, avec le
 consentement de leur propriétaire, à leur fouille. Ils peuvent également procéder, avec le consentement exprès des personnes,
 à des palpations de sécurité. Dans ce cas, la palpation de sécurité doit être effectuée par une personne de même sexe que la
-personne qui en fait l'objet. 
+personne qui en fait l'objet.
 
 Affectés par le maire à des missions de maintien du bon ordre au sein des transports publics de voyageurs, les agents de
 police municipale peuvent constater par procès-verbaux les infractions mentionnées à l'article L. 2241-1 du code des
 transports sur le territoire de la commune ou des communes formant un ensemble d'un seul tenant dans les conditions définies
-à l'article L. 512-1-1 du présent code, sans pouvoir excéder le ressort du tribunal auprès duquel ils ont prêté serment. 
+à l'article L. 512-1-1 du présent code, sans pouvoir excéder le ressort du tribunal auprès duquel ils ont prêté serment.
 
 A cette fin, les communes contiguës desservies par un ou plusieurs réseaux de transports publics peuvent conclure entre elles
 une convention locale de sûreté des transports collectifs afin de permettre à leurs polices municipales d'exercer
@@ -13420,6 +13528,9 @@ des périmètres de protection institués en application de l’article L. 226-1
 511-1, dans sa rédaction issue de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre
 le terrorisme, sont conformes à la Constitution sous les réserves énoncées aux paragraphes 27, 33 et 34. Voir le Nota sous
 l’article L. 226-1.
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -13453,7 +13564,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 1
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 7
 
 _Cite_:
 
