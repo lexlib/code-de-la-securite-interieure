@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2020-12-31
+Version Consolidée au 2022-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -5415,85 +5415,10 @@ _Codifié par_:
   - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
 
 
-###### Article L251-5
-
-La Commission nationale de la vidéoprotection exerce une mission de conseil et d'évaluation de l'efficacité de la
-vidéoprotection. Elle émet des recommandations destinées au ministre de l'intérieur en ce qui concerne les caractéristiques
-techniques, le fonctionnement ou l'emploi des systèmes de vidéoprotection.
-
-Elle peut être saisie par le ministre de l'intérieur, un député, un sénateur ou une commission départementale de
-vidéoprotection de toute question relative à la vidéoprotection.
-
-Elle peut également se saisir d'office de toute difficulté tenant au fonctionnement d'un système de vidéoprotection ou de
-toute situation susceptible de constituer un manquement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°95-73 du 21 janvier 1995 - art. 10-2, al. 1 à 3 (VT)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2018-699 du 3 août 2018 - art. 84
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. R251-1 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
-###### Article L251-6
-
-La Commission nationale de la vidéoprotection est composée :
-
-1° De représentants des personnes publiques et privées autorisées à mettre en œuvre un système de vidéoprotection ;
-
-2° De représentants des administrations chargées de contrôler les systèmes mis en œuvre ;
-
-3° D'un membre de la Commission nationale de l'informatique et des libertés ;
-
-4° De deux députés et de deux sénateurs de manière à assurer une représentation pluraliste ;
-
-5° De personnalités qualifiées, dont au moins un magistrat du siège et un magistrat du parquet désignés par le premier
-président de la Cour de cassation.
-
-La qualité de membre de la commission est incompatible avec la détention d'un intérêt direct ou indirect dans une entreprise
-exerçant des activités dans le domaine de la vidéoprotection.
-
-La composition et les modalités de l'organisation et du fonctionnement de la commission sont définies par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°95-73 du 21 janvier 1995 - art. 10-2, al. 4 à 11 (VT)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2018-699 du 3 août 2018 - art. 84
-
-_Codifié par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 - art. Annexe
-
-
 ###### Article L251-7
 
-Le Gouvernement transmet chaque année à la Commission nationale de l'informatique et des libertés et à la Commission
-nationale de la vidéoprotection un rapport faisant état de l'activité des commissions départementales de vidéoprotection et
-des conditions d'application du présent titre.
+Le Gouvernement transmet chaque année à la Commission nationale de l'informatique et des libertés        un rapport faisant
+état de l'activité des commissions départementales de vidéoprotection et des conditions d'application du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -5501,9 +5426,9 @@ _Anciens textes_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 10 VI bis (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2018-699 du 3 août 2018 - art. 84
 
 _Codifié par_:
 
@@ -5643,11 +5568,10 @@ _Codifié par_:
 
 ###### Article L252-4
 
-Les systèmes de vidéoprotection sont autorisés pour une durée de cinq ans renouvelable.
+Les systèmes de vidéoprotection sont autorisés pour une durée de cinq ans renouvelable. 
 
 Les systèmes de vidéoprotection installés doivent être conformes à des normes techniques définies par arrêté du ministre de
-l'intérieur après avis de la Commission nationale de la vidéoprotection, à compter de l'expiration d'un délai de deux ans
-après la publication de l'acte définissant ces normes.
+l'intérieur          à compter de l'expiration d'un délai de deux ans après la publication de l'acte définissant ces normes. 
 
 Les autorisations mentionnées au présent titre et délivrées avant le 1er janvier 2000 expirent le 24 janvier 2012. Celles
 délivrées entre le 1er janvier 2000 et le 31 décembre 2002 expirent le 24 janvier 2013. Celles délivrées entre le 1er janvier
@@ -5659,9 +5583,9 @@ _Anciens textes_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 10 III, al. 4, 6 et 17 (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2018-699 du 3 août 2018 - art. 84
 
 _Cité par_:
 
@@ -6007,11 +5931,11 @@ _Cité par_:
 
 ###### Article L255-1
 
-Un décret en Conseil d'Etat, après avis de la Commission nationale de la vidéoprotection, fixe les modalités d'application du
-présent titre, et notamment les conditions dans lesquelles le public est informé de l'existence d'un dispositif de
-vidéoprotection ainsi que de l'identité de l'autorité ou de la personne responsable. Ce décret fixe également les conditions
-dans lesquelles les agents mentionnés à l'article L. 252-3 sont habilités à accéder aux enregistrements et les conditions
-dans lesquelles la commission départementale de vidéoprotection exerce son contrôle.
+Un décret en Conseil d'Etat           fixe les modalités d'application du présent titre, et notamment les conditions dans
+lesquelles le public est informé de l'existence d'un dispositif de vidéoprotection ainsi que de l'identité de l'autorité ou
+de la personne responsable. Ce décret fixe également les conditions dans lesquelles les agents mentionnés à l'article L.
+252-3 sont habilités à accéder aux enregistrements et les conditions dans lesquelles la commission départementale de
+vidéoprotection exerce son contrôle.
 
 **Liens relatifs à cet article**
 
@@ -6019,9 +5943,9 @@ _Anciens textes_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 10 VII (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
+  - Loi n°2018-699 du 3 août 2018 - art. 84
 
 _Cité par_:
 
@@ -6029,7 +5953,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité intérieure - art. L252-3 (VD)
+  - Code de la sécurité intérieure - art. L252-3
 
 _Codifié par_:
 
