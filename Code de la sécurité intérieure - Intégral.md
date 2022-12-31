@@ -1,5 +1,5 @@
 # Code de la sécurité intérieure  
-Version Consolidée au 2022-07-01
+Version Consolidée au 2023-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L898-1)](#1)
     - [LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION  DE LA SÉCURITÉ INTÉRIEURE (art. L111-1 à L158-2)](#2)
@@ -17720,27 +17720,24 @@ _Codifié par_:
 
 Seules peuvent être autorisées à exercer à titre professionnel l'activité mentionnée à l'article L. 621-1 : 
 
-1° Les personnes physiques ou morales immatriculées auprès de l'organisme mentionné par le deuxième alinéa de l'article 2 de
-la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle ; 
+1° Les personnes physiques ou morales ayant satisfait à l'obligation de déclarer la création de leur activité mentionnée au
+premier alinéa de l'article L. 123-33 du code de commerce ; 
 
-2° Les personnes physiques ou morales non immatriculées auprès de l'organisme mentionné par le deuxième alinéa de l'article 2
-de la loi n° 94-126 du 11 février 1994 précitée, qui sont établies dans un autre Etat membre de l'Union européenne ou un
-autre Etat partie à l'accord sur l'Espace économique européen et qui exercent cette activité.
+2° Les personnes physiques ou morales qui sont établies dans un autre Etat membre de l'Union européenne ou un autre Etat
+partie à l'accord sur l'Espace économique européen et qui exercent cette activité.
+
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°83-629 du 12 juillet 1983 - art. 20 al 2 à 4 (VT)
-
-_Cite_:
-
-  - Loi n°94-126 du 11 février 1994 - art. 2
-  - Code de la sécurité intérieure - art. L621-1 (VD)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
 
 _Cité par_:
 
@@ -17755,6 +17752,15 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R622-4 (V)
   - Code de la sécurité intérieure - art. R622-4-1 (V)
   - Code général des impôts, CGI. - art. 1609 quintricies (VT)
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
+
+_Cite_:
+
+  - Code de commerce - art. L123-33 (VD)
+  - Code de la sécurité intérieure - art. L621-1
 
 _Codifié par_:
 
@@ -18554,12 +18560,19 @@ _Codifié par_:
 Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende : 
 
 1° Le fait, sauf pour les personnes mentionnées au 2° de l'article L. 622-1 et sous réserve des dispositions de l'article 29
-du code de procédure pénale, d'exercer pour autrui, à titre professionnel, l'activité mentionnée à l'article L. 621-1, sans
-être immatriculé auprès de l'organisme mentionné au deuxième alinéa de l'article 2 de la loi n° 94-126 du 11 février 1994
-relative à l'initiative ou à l'entreprise individuelle ; 
+du code de procédure pénale, d'exercer pour autrui, à titre professionnel, l'activité mentionnée à l'article L. 621-1 du
+présent code, sans avoir satisfait à l'obligation de déclarer la création de son activité mentionnée au premier alinéa de
+l'article L. 123-33 du code de commerce ; 
 
-2° Le fait d'exercer l'activité mentionnée à l'article L. 621-1 et d'avoir en outre l'une des activités mentionnées à
-l'article L. 611-1.
+2° Le fait d'exercer l'activité mentionnée à l'article L. 621-1 du présent code et d'avoir en outre l'une des activités
+mentionnées à l'article L. 611-1.
+
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -18567,17 +18580,17 @@ _Anciens textes_:
 
   - Loi n°83-629 du 12 juillet 1983 - art. 31 I 1° et 2° (VT)
 
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
+
 _Cite_:
 
-  - Loi n°94-126 du 11 février 1994 - art. 2
+  - Code de commerce - art. L123-33 (VD)
   - Code de procédure pénale - art. 29
-  - Code de la sécurité intérieure - art. L611-1 (VD)
-  - Code de la sécurité intérieure - art. L621-1 (VD)
+  - Code de la sécurité intérieure - art. L611-1
+  - Code de la sécurité intérieure - art. L621-1
   - Code de la sécurité intérieure - art. L622-1 (VD)
-
-_Créé par_:
-
-  - Ordonnance n°2012-351 du 12 mars 2012 -  Annexe, v. init.
 
 _Cité par_:
 
